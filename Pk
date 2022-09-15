@@ -65,6 +65,8 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50248
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50246
 #EXTINF:-1,BAN: Probashi HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50245
+#EXTINF:-1,BAN: Time Television HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50233
 #EXTINF:-1,BAN: Somoy HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50237
 #EXTINF:-1,BAN: Colors  HD
@@ -81,28 +83,22 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50282
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50252
 #EXTINF:-1,BAN: Dhoom Music HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50265
-#EXTINF:-1,BAN: Ruposhi HD
+#EXTINF:-1,TALKIES
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50242
 #EXTINF:-1,BAN: Sangeet HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50241
-#EXTINF:-1,BAN: Time Television HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50233
-#EXTINF:-1,BAN: TV UK HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50232
 #EXTINF:-1,BAN: Zee Bangla Cinema IN
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50230
 #EXTINF:-1,BAN: Zee Cinema HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50231
 #EXTINF:-1,BAN: Zee HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50228
-#EXTINF:-1,PK: AWAZ ENTERTAINMENT
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51386
-#EXTINF:-1,PK:  ZEE Bangla HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/441
 #EXTINF:-1,IN: 9X MUSIC
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47215
 #EXTINF:-1,IN: & PICTURE HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47234
+#EXTINF:-1,BAN:& TV
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50232
 #EXTINF:-1,IN: & TV
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47223
 #EXTINF:-1,IN: AOne Music PUNJABI
@@ -303,10 +299,6 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/501
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50822
 #EXTINF:-1,PK: ARY DIGITAL
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/531
-#EXTINF:-1,PK: ARY QTV
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/528
-#EXTINF:-1,PK: ARY ZAIQA
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/527
 #EXTINF:-1,PK: ARY MUSIC
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/529
 #EXTINF:-1,PK: GEO KAHANI
