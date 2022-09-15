@@ -950,24 +950,6 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46728
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46727
 #EXTINF:-1,USA: Travel Channel HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46726
-#EXTINF:-1,USA: TRU TV HD *
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46725
-#EXTINF:-1,USA: TSN HD 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/458
-#EXTINF:-1,USA: TSN HD 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/459
-#EXTINF:-1,USA: TSN HD 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1527
-#EXTINF:-1,USA: TSN 4 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1526
-#EXTINF:-1,USA: TSN HD 5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1525
-#EXTINF:-1,USA: TV Land HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46724
-#EXTINF:-1,USA: TyC Sports HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51602
-#EXTINF:-1,USA: UFC FIGHT PASS
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50798
 #EXTINF:-1,USA: Universal HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46723
 #EXTINF:-1,USA: USA Network
@@ -1104,40 +1086,9 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3661
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3660
 #EXTINF:-1,SE: FOX
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3659
-#EXTINF:-1,SE: Kanal 11 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3658
-#EXTINF:-1,SE: Kanal 5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3657
-#EXTINF:-1,SE: Kanal 9 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3656
 #EXTINF:-1,SE: MTV
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3654
-#EXTINF:-1,SE: SVT 1 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3650
-#EXTINF:-1,SE: SVT 2 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3649
-#EXTINF:-1,SE: SVT 24
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3648
-#EXTINF:-1,SE: TCM
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3647
-#EXTINF:-1,SE: TV10
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3645
-#EXTINF:-1,SE: TV3 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3643
-#EXTINF:-1,SE: TV4 Fakta
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3642
-#EXTINF:-1,SE: TV4 GULD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3641
-#EXTINF:-1,SE: TV4 Film
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3640
-#EXTINF:-1,SE: TV4 Guld
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3639
-#EXTINF:-1,SE: TV4 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3638
-#EXTINF:-1,SE: TV6
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3637
-#EXTINF:-1,SE: TV8
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3636
+
 #EXTINF:-1,SE: Viasat Explore
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3633
 #EXTINF:-1,SE: Viasat Film Action
@@ -1164,20 +1115,7 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48187
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48192
 #EXTINF:-1,SE: Boomerang
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48202
-#EXTINF:-1,SE: C More First HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48175
-#EXTINF:-1,SE: C More First FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48173
-#EXTINF:-1,SE: C More Hits FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48171
-#EXTINF:-1,SE: C More Hockey FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48154
-#EXTINF:-1,SE: C More Series FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48169
-#EXTINF:-1,SE: C More Sport FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48157
-#EXTINF:-1,SE: C More Stars FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48167
+
 #EXTINF:-1,SE: Cartoon Network
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48201
 #EXTINF:-1,SE: Discovery World
