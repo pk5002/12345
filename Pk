@@ -35,8 +35,6 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50269
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50268
 #EXTINF:-1,BAN: DeshTV HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50266
-#EXTINF:-1,BAN: Dhoom Music HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50265
 #EXTINF:-1,BAN: Ekatoor TV HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50263
 #EXTINF:-1,BAN: ETV HD
@@ -67,10 +65,6 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50248
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50246
 #EXTINF:-1,BAN: Probashi HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50245
-#EXTINF:-1,BAN: Ruposhi HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50242
-#EXTINF:-1,BAN: Sangeet HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50241
 #EXTINF:-1,BAN: Somoy HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50237
 #EXTINF:-1,BAN: Colors  HD
@@ -81,12 +75,16 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50236
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50229
 #EXTINF:-1,BAN: Star Jhalsa Movies HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50235
-#EXTINF:-1,BAN: Tarang Muzik HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50234
 #EXTINF:-1,BAN: JALSA MOVIES
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50282
 #EXTINF:-1,BAN: INTERTAIN বাংলা
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50252
+#EXTINF:-1,BAN: Dhoom Music HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50265
+#EXTINF:-1,BAN: Ruposhi HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50242
+#EXTINF:-1,BAN: Sangeet HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50241
 #EXTINF:-1,BAN: Time Television HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50233
 #EXTINF:-1,BAN: TV UK HD
@@ -155,8 +153,6 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47238
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51428
 #EXTINF:-1,IN: SONY SAB ASIA
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1721
-#EXTINF:-1,IN: SONY SIX
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47239
 #EXTINF:-1,IN: SONY TV HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1718
 #EXTINF:-1,IN: SONY TV UK
@@ -347,6 +343,8 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51385
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51388
 #EXTINF:-1,PK: Kay 2
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51387
+#EXTINF:-1,IN: SONY SIX
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47239
 #EXTINF:-1,IN: STAR SPORTS 1
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/422
 #EXTINF:-1,IN: STAR SPORTS 2
