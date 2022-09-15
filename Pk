@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/jBdlQnA.png" group-title="Bangla", CHANNEL S HD
-https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hCgCPyw/Zee-Zest-removebg-preview-2.png" group-title="Bangla", NAN IPTV
@@ -10,8 +9,6 @@ https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-channel-24-bd-5649.jpg" group-title="Bangla", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Nexus TV
-http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangla", ATN Bangla
@@ -42,33 +39,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",SangeetBangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="Bangla", ATN MUSIC
 https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="Bangla", RTV MUSIC
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.webtvbd.com/wp-content/uploads/2021/01/Alpona-TV.jpg" group-title="Bangla", ALPONA TV
 https://tempskyview.jagobd.com:441/live-orgin/alponatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doyeltv.com/wp-content/uploads/2021/12/Doyel-TV-Logo-1-212x300.png" group-title="Bangla", DOYEL TV 
 https://tempskyview.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="ext" group-title="Hindi", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi", MASTI
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
-http://103.55.144.46/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zoom.jpg" group-title="Hindi", Zoom
-http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Hindi", ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi", SONY SAB
 http://208.86.19.13:81/702.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png" group-title="Hindi", Zoom
-http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="Hindi", B4U Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi", Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
