@@ -52,7 +52,22 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi", Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-
+#EXTINF:-1,BAN:ZEE ZEST
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-348
+#EXTINF:-1,BAN:ZEE TV
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-zeetvhd
+#EXTINF:-1,BAN:& TV
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-tvhd_0
+#EXTINF:-1,BAN: & XPLOR
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-209
+#EXTINF:-1,BAN: ZEE CINEMA HD
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-zeecinemahd
+#EXTINF:-1,BAN: zee cafe
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-zeecafehd
+#EXTINF:-1,BAN:&FLIX
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-channel_2105335046
+#EXTINF:-1,BAN:& PRIVE
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-priv%C3%A9hd
 #EXTINF:-1,BAN: Asian TV HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50288
 #EXTINF:-1,BAN: ATN HD
