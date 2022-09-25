@@ -52,6 +52,27 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi", Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1,মাছরাঙ্গা
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1,দেশবিদেশ
+https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1,নাগরিক
+https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1,বরেন্দটিভি
+https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:-1,ম্যাজিক টিভি
+https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1,দুরন্তটিভি
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1,মোহনাটিভি
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1, CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FX
+http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1,আকাশ বাংলা
+http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1,বাংলা
 http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1,বাংলা
