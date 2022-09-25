@@ -52,3 +52,19 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi", Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1,বাংলা
+http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:-1,বাংলা
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:-1,বাংলা
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1,বাংলা
+http://103.16.24.54:8080/channel3/index.m3u8
+#EXTINF:-1,বাংলা
+http://116.204.149.11:8000/play/a00a/index.m3u8
+#EXTINF:-1,বাংলা
+http://116.204.149.11:8000/play/a00l/index.m3u8
+#EXTINF:-1,বাংলা
+http://103.16.24.54:8080/channel7/index.m3u8
+#EXTINF:-1,বাংলা
+http://103.99.249.107:81/play/a01m
