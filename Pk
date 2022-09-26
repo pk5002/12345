@@ -58,7 +58,6 @@ http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1,নাগরিক
 https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
-
 #EXTINF:-1,বরেন্দটিভি
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1,ম্যাজিক টিভি
@@ -73,7 +72,7 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1,আকাশ বাংলা
 http://208.86.19.13:81/902.stream/index.m3u8
-#EXTINF:-1,বাংলা
+#EXTINF:-1,ZEE বাংলা
 http://103.99.249.107:81/play/a01m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
