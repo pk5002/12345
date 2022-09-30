@@ -120,6 +120,12 @@ http://51.210.199.52/hls/stream.m3u8
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1,ZEE বাংলা
 http://103.99.249.107:81/play/a01m
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPHShbww/TZceYby.png" group-title="South Indian", One TV
@@ -598,4 +604,918 @@ http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3kVHF01/qHOaNKG.jpg" group-title="South Indian", 7 Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="-=  United States  =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_United_States.png" group-title="United States",-=  United States  =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9673
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/A&E.png" group-title="United States",A&E FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8264
+#EXTINF:-1 tvg-id="ABC NY" tvg-name="ABC News HD US" tvg-logo="http://mikesandroid.info/UsaLogos/ABC%20NEWS.png" group-title="United States",ABC News HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16710
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries HD US" tvg-logo="https://amazingdiscoveries.org/blog/wp-content/uploads/2016/02/amazing-discoveries.jpg" group-title="United States",Amazing Discoveries HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24676
+#EXTINF:-1,Telegram: @SantaSantimov777
+https://runway-datasets.s3.amazonaws.com/datasets/3d13baf5-4cc0-4638-90ea-13bc0bf04f1a.MP4?checkedby:@SantaSantimov777
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://www.brandeps.com/logo-download/A/AMC-01.png" group-title="United States",AMC HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10056
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="American Heroes Channel HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="United States",American Heroes Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10972
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Channel HD US" tvg-logo="https://i.imgur.com/vV08W1S.png" group-title="United States",Atlanta Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23689
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America HD US" tvg-logo="https://laredocordcutters.com/logos/tiv2/bbchd.png" group-title="United States",BBC America HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15156
+#EXTINF:-1 tvg-id="beIN Sports (English)" tvg-name="beIN Sports Connect HD US" tvg-logo="http://www.apkindirx.com/wp-content/uploads/2017/10/unnamed-10.png" group-title="US Sports",beIN Sports Connect HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9693
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="beIN Sports Connect Ñ HD US" tvg-logo="https://lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu" group-title="US Sports",beIN Sports Connect Ñ HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23399
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET HD US" tvg-logo="http://mikesandroid.info/UsaLogos/BET.png" group-title="United States",BET HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8237
+#EXTINF:-1 tvg-id="bether.us" tvg-name="BET Her HD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/BET-her-logo-motivated-mom-tour-sponsor-300x135.png" group-title="United States",BET Her HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23407
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="BET Jams HD US" tvg-logo="" group-title="United States",BET Jams HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39309
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET Soul HD US" tvg-logo="" group-title="United States",BET Soul HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39308
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="Big Ten Network FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/BIG%2010%20NETWORK.png" group-title="US Sports",Big Ten Network FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11898
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg HD US" tvg-logo="http://mikesandroid.info/UsaLogos/BLOOMBERG.png" group-title="United States",Bloomberg HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10824
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/BOOMERANG.png" group-title="United States",Boomerang FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10926
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="United States",Bravo HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8261
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo West US" tvg-logo="" group-title="United States",Bravo West US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23691
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="BTN Sport HD US" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%201.png" group-title="US Sports",BTN Sport HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11906
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV One FHD US" tvg-logo="TV One" group-title="United States",TV One FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11905
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="C-SPAN 1 HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKo1MvMSHCgQoiD__TUDhW1SUrSQkJH_yN38h6TcC_y6V5ATMZ" group-title="United States",C-SPAN 1 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11629
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="C-SPAN 2 HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKo1MvMSHCgQoiD__TUDhW1SUrSQkJH_yN38h6TcC_y6V5ATMZ" group-title="United States",C-SPAN 2 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11630
+#EXTINF:-1 tvg-id="cspan3.us" tvg-name="C-SPAN 3 HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKo1MvMSHCgQoiD__TUDhW1SUrSQkJH_yN38h6TcC_y6V5ATMZ" group-title="United States",C-SPAN 3 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11631
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/CARTOON%20NETWORK.png" group-title="United States",Cartoon Network FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10878
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="One America News HD US" tvg-logo="https://i.pinimg.com/favicons/ac5759c5a9d2e27698ba66d719ae2dda291e1f6cb602a63dd1a6afee.ico?9697d5db327462445a3ae1cf4269975a" group-title="United States",One America News HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17319
+#EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="CBS Sports (CBSSN) HD US" tvg-logo="http://mikesandroid.info/UsaLogos/CBS%20SPORTS.png" group-title="US Sports",CBS Sports (CBSSN) HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8245
+#EXTINF:-1 tvg-id="CSPAN" tvg-name="CBSN HD US" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.cbsn.png.pagespeed.ic.PQW7UIZcid.png" group-title="United States",CBSN HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8258
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="Cinemax 5Starmax HD US" tvg-logo="http://185.191.126.134/US/cinemax-5-starmax-us.png" group-title="United States",Cinemax 5Starmax HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11904
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="Cinemax ActionMax HD US" tvg-logo="http://185.191.126.134/US/cinemax-actionmax-us.png" group-title="United States",Cinemax ActionMax HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11916
+#EXTINF:-1 tvg-id="cinemaxpasific.us" tvg-name="Cinemax East HD US" tvg-logo="http://192.40.57.135/US/cinemax-us.png" group-title="United States",Cinemax East HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11903
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Moremax HD US" tvg-logo="http://185.191.126.134/US/cinemax-moremax-us.png" group-title="United States",Cinemax Moremax HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11902
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="" group-title="United States",CMT HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16852
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://www.connecterra.io/wp-content/uploads/2017/04/CNBC-Logo.png" group-title="United States",CNBC HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8263
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN HD US" tvg-logo="https://findicons.com/files/icons/2796/metro_uinvert_dock/128/cnn.png" group-title="United States",CNN HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8248
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://mikesandroid.info/UsaLogos/Comedy%20Central.png" group-title="United States",Comedy Central HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17304
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel FHD US" tvg-logo="https://csa.dishnetwork.com/images/logos/cookhd.png" group-title="United States",Cooking Channel FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11639
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="Crime & Investigation Network FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/200px-Crime_and_Investigation_logo.png" group-title="United States",Crime & Investigation Network FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19396
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/DESTINATION%20AMERICA.png" group-title="United States",Destination America FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9690
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel HD US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/551_300.png" group-title="United States",Discovery Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19390
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Discovery Science FHD US" tvg-logo="https://laredocordcutters.com/logos/Tiv1/discoveryscience.png" group-title="United States",Discovery Science FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15175
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="Discovery Life HD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discovery_life.png" group-title="United States",Discovery Life HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11912
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="Discovery Family HD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png" group-title="United States",Discovery Family HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11910
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel FHD US" tvg-logo="https://laredocordcutters.com/logos/Tiv1/disneychannel.png" group-title="United States",Disney Channel FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16709
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Junior HD US" tvg-logo="https://laredocordcutters.com/logos/Tiv1/disney_junior_us.png" group-title="United States",Disney Junior HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16770
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/DISNEY%20XD.png" group-title="United States",Disney XD FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10925
+#EXTINF:-1 tvg-id="" tvg-name="District Knowledge Network US" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="United States",District Knowledge Network US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19387
+#EXTINF:-1 tvg-id="" tvg-name="District of Columbia Network US" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="United States",District of Columbia Network US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19388
+#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="DIY NETWORK FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/200px-DIY_Network_logo.svg.png" group-title="United States",DIY NETWORK FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17444
+#EXTINF:-1 tvg-id="" tvg-name="DW US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="United States",DW US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24677
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! HD US" tvg-logo="https://www.sky.co.nz/documents/24003/39746/MK_E_LogoSmall_250x180/a3f00109-1910-4c4a-a47b-6630906e5fc3?t=1441150536887" group-title="United States",E! HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8257
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment Tonight FHD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Entertainment_Tonight_Logo.png/revision/latest?cb=20121026233030" group-title="United States",Entertainment Tonight FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19393
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="Eleven Sports Network HD US" tvg-logo="https://www.firstonetv.live/images/logos/be/ELEVEN_SPORTS_1.png" group-title="US Sports",Eleven Sports Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23217
+#EXTINF:-1 tvg-id="" tvg-name="ET Live FHD US" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/10/NCS-ET-Live-Streaming-Service-Studio-0022.jpg" group-title="United States",ET Live FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24680
+#EXTINF:-1 tvg-id="ESPN News HD" tvg-name="ESPN News HD US" tvg-logo="https://vignette.wikia.nocookie.net/espn/images/0/0b/2000px-ESPNEWS_logo.svg.png/revision/latest?cb=20150304212612" group-title="US Sports",ESPN News HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11583
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN+ HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="US Sports",ESPN+ HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/32482
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD US" tvg-logo="http://mikesandroid.info/UsaLogos/ESPN.png" group-title="US Sports",ESPN HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9660
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="US Sports",ESPN 2 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10881
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD US" tvg-logo="http://mikesandroid.info/UsaLogos/ESPN.png" group-title="US Sports",ESPN 3 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10880
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One HD US" tvg-logo="http://www.fashionone.com/images/2013/corporate/download/06/6.jpg" group-title="United States",Fashion One HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24678
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network HD US" tvg-logo="http://mikesandroid.info/UsaLogos/Food%20Network%20.png" group-title="United States",Food Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11901
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business HD US" tvg-logo="https://i.imgur.com/EvfdMSA.jpg" group-title="United States",Fox Business HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8239
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="Fox Deportes HD US" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-354x200.jpg" group-title="US Sports",Fox Deportes HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/20365
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News HD US" tvg-logo="http://iptvw0rld.ml/logos/fox_news_channel.png" group-title="United States",Fox News HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8247
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="Fox Soccer Plus HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/FSPlus_New2011.jpg" group-title="US Sports",Fox Soccer Plus HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9661
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png" group-title="US Sports",Fox Sports 1 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8254
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 HD US" tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png" group-title="US Sports",Fox Sports 2 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8255
+#EXTINF:-1 tvg-id="Freeform HD (East)" tvg-name="Freeform HD US" tvg-logo="" group-title="United States",Freeform HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9685
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="Fuse HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Fuse_logo15.png/200px-Fuse_logo15.png" group-title="United States",Fuse HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23659
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX FHD US" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/fxlogo1.png" group-title="United States",FX FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17306
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="http://mikesandroid.info/UsaLogos/FXX.png" group-title="United States",FXX HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17308
+#EXTINF:-1 tvg-id="GSN (East)" tvg-name="GSN (Game Show Network) HD US" tvg-logo="http://mikesandroid.info/UsaLogos/GSN.png" group-title="United States",GSN (Game Show Network) HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17314
+#EXTINF:-1 tvg-id="Hallmark Channel (East)" tvg-name="Hallmark Channel HD US" tvg-logo="http://mikesandroid.info/UsaLogos/hallmark-movies.jpg" group-title="United States",Hallmark Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9691
+#EXTINF:-1 tvg-id="Hallmark Movies and Mysteries HD" tvg-name="Hallmark Movies And Mysteries HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="United States",Hallmark Movies And Mysteries HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15180
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest?cb=20100322085852" group-title="United States",HBO 2 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8262
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="HBO 2 West FHD US" tvg-logo="" group-title="United States",HBO 2 West FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24683
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/HBO%20COMEDY.png" group-title="United States",HBO Comedy FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8252
+#EXTINF:-1 tvg-id="" tvg-name="HBO East FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/HBO.png" group-title="United States",HBO East FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8250
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO Family HD US" tvg-logo="http://mikesandroid.info/UsaLogos/HBO%20FAMILY.png" group-title="United States",HBO Family HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8249
+#EXTINF:-1 tvg-id="HBO Signature HD (East)" tvg-name="HBO Signature East HD US" tvg-logo="http://mikesandroid.info/UsaLogos/HBO%20SIGNATURE.png" group-title="United States",HBO Signature East HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11294
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/HBO%20ZONE.png" group-title="United States",HBO Zone FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8251
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="United States",HGTV FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15181
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="History FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="United States",History FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16767
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HLN_2014_logo.svg/2000px-HLN_2014_logo.svg.png" group-title="United States",HLN US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16679
+#EXTINF:-1 tvg-id="" tvg-name="ID Fashion FHD US" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC7peHI9ASHbd-EyL-23FJ8xdrCFadJIfw4Zg=s900-mo-c-c0xffffffff-rj-k-no" group-title="United States",ID Fashion FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15014
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC HD US" tvg-logo="http://mikesandroid.info/UsaLogos/IFC.png" group-title="United States",IFC HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9686
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="IndiePlex HD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" group-title="United States",IndiePlex HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24684
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="Investigation Discovery FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/INVESTIGATION%20DESCOVERY.png" group-title="United States",Investigation Discovery FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8242
+#EXTINF:-1 tvg-id="" tvg-name="Key TV HD US" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="United States",Key TV HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19394
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime HD US" tvg-logo="https://www.underconsideration.com/brandnew/archives/lifetime_2017_logo_before_after.png" group-title="United States",Lifetime HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23829
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movie Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="United States",Lifetime Movie Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23830
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="Yes Network FHD US" tvg-logo="http://web.yesnetwork.com/images/common/Yes_reskin_blue@2x.png" group-title="United States",Yes Network FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9688
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://s3.amazonaws.com/images.charitybuzz.com/images/94120/detail.jpg?1384632222" group-title="US Sports",MLB Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15009
+#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="MSG 2 HD US" tvg-logo="" group-title="United States",MSG 2 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10971
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MovieMax HD US" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="United States",MovieMax HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24685
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex FHD US" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="United States",MoviePlex FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24686
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="MSG HD US" tvg-logo="https://www.logolynx.com/images/logolynx/6e/6e25340e901b16db99fe7684e32f80ac.png" group-title="US Sports",MSG HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15177
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC HD US" tvg-logo="http://mikesandroid.info/UsaLogos/MSNBC.png" group-title="United States",MSNBC HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11341
+#EXTINF:-1 tvg-id="MTV HD (East)" tvg-name="MTV HD US" tvg-logo="https://www.designboom.com/cms/images/-Z68/mtv2.jpg" group-title="United States",MTV HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9670
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV Rocks US" tvg-logo="" group-title="United States",MTV Rocks US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11908
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live HD US" tvg-logo="http://mikesandroid.info/UsaLogos/MTV.png" group-title="United States",MTV Live HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9671
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="NASA TV HD US" tvg-logo="https://lh4.ggpht.com/pLeFHi-NlpN-zhcP4hBGA8XCLSow8-LLMEORNT7icBWzbBbY9T_fmJQ_9Y2fb9vqBdU=w300" group-title="United States",NASA TV HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11067
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="US Sports",NBA TV FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8246
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC (East) FHD US" tvg-logo="http://iptvw0rld.ml/logos/nbc_us_east.png" group-title="United States",NBC (East) FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8260
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="NESN+ HD US" tvg-logo="" group-title="US Sports",NESN+ HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10975
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NOW HD US" tvg-logo="http://mikesandroid.info/UsaLogos/NFL%20NETWORK.png" group-title="US Sports",NFL NOW HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8235
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network HD US" tvg-logo="https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg" group-title="US Sports",NFL Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/26457
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL Red Zone HD (Only Available On Sunday) US" tvg-logo="http://mikesandroid.info/UsaLogos/NFL%20RedZonepng.png" group-title="US Sports",NFL Red Zone HD (Only Available On Sunday) US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11955
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL Network HD US" tvg-logo="http://mikesandroid.info/UsaLogos/NHL%20LOGO.png" group-title="US Sports",NHL Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8236
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon HD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/Nickelodeon_logo_from_2005.png/revision/latest?cb=20160501213114" group-title="United States",Nickelodeon HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27892
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick JR HD US" tvg-logo="http://mikesandroid.info/UsaLogos/NICK%20JR.png" group-title="United States",Nick JR HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10927
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN HD US" tvg-logo="http://mikesandroid.info/UsaLogos/OWN.png" group-title="United States",OWN HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8241
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen HD US" tvg-logo="http://mikesandroid.info/UsaLogos/OXYGEN.png" group-title="United States",Oxygen HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10928
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="PAC-12 Arizona FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/pac-12-arizona-logo.png" group-title="US Sports",PAC-12 Arizona FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10969
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="PAC-12 Bay Area FHD US" tvg-logo="http://okteve.com/wp-content/uploads/media/32c6b1c10c9a1239d14d048dabc443b5-196x126.jpeg" group-title="US Sports",PAC-12 Bay Area FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10968
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="PAC-12 Los Angeles FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/pac-12-losangeles-logo.png" group-title="US Sports",PAC-12 Los Angeles FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10967
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="PAC-12 Oregon FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/1483508768pac-12-oregon-logo.png.png" group-title="US Sports",PAC-12 Oregon FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10966
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="PAC-12 Washington FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/pac-12-washington-logo.png" group-title="US Sports",PAC-12 Washington FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10965
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="Paramount Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/493px-Paramount_Channel_logo.svg.png" group-title="United States",Paramount Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17305
+#EXTINF:-1 tvg-id="pbswgbh.us" tvg-name="PBS HD US" tvg-logo="" group-title="United States",PBS HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23219
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS Kids HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="United States",PBS Kids HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17416
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="Red Bull TV FHD US" tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d" group-title="United States",Red Bull TV FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12129
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="Reelz HD US" tvg-logo="https://www.reelz.com/wp-content/uploads/2016/06/Reelz_logo_blue.png" group-title="United States",Reelz HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24796
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="Revolt HD US" tvg-logo="https://beverlyboy.com/wp-content/uploads/2018/01/revolt_tv_logo.png" group-title="United States",Revolt HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15174
+#EXTINF:-1 tvg-id="" tvg-name="RT America FHD US" tvg-logo="https://pbs.twimg.com/profile_images/1167911174/logo_RTamerica_white_400x400.jpg" group-title="United States",RT America FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10716
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC Network HD US" tvg-logo="http://mikesandroid.info/UsaLogos/SEC-Network-logo.jpg" group-title="United States",SEC Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15178
+#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-name="SNY Sports Net New York FHD US" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/614WV2aSzeL._SL210_QL95_BG0,0,0,0_FMpng_.png" group-title="US Sports",SNY Sports Net New York FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11915
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHO x BET HD US" tvg-logo="http://mikesandroid.info/UsaLogos/SHOWTIME.png" group-title="United States",SHO x BET HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9694
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="Showtime 2 HD US" tvg-logo="http://mikesandroid.info/UsaLogos/SHOWTIME.png" group-title="United States",Showtime 2 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10877
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="Showtime Extreme FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Showtime_Extreme_2011.svg/2000px-Showtime_Extreme_2011.svg.png" group-title="United States",Showtime Extreme FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11638
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="Showtime Showcase HD US" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png" group-title="United States",Showtime Showcase HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11582
+#EXTINF:-1 tvg-id="showtimebeyond.us" tvg-name="Showtime Beyond HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/2000px-Showtime_Beyond.svg.png" group-title="United States",Showtime Beyond HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25081
+#EXTINF:-1 tvg-id="sony.us" tvg-name="Sony Movie Channel HD US" tvg-logo="" group-title="United States",Sony Movie Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24688
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema FHD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/41/Starz_Cinema_2016.svg/revision/latest?cb=20160403221123" group-title="United States",Starz Cinema FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8238
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="Starz Encore Family FHD US" tvg-logo="" group-title="United States",Starz Encore Family FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24689
+#EXTINF:-1 tvg-id="STARZ Comedy HD (East)" tvg-name="Starz Comedy FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/STARZ%20COMEDY.png" group-title="United States",Starz Comedy FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9667
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="Starz Black FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Starz_In_Black_2016.svg/2000px-Starz_In_Black_2016.svg.png" group-title="United States",Starz Black FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24687
+#EXTINF:-1 tvg-id="Starz Edge (East)" tvg-name="Starz Edge FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/STARZ%20EDGE.png" group-title="United States",Starz Edge FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9668
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="Starz Encore West FHD US" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWMAAACOCAMAAADTsZk7AAAAhFBMVEX///8AAAD8/PwMDAy9vb0nJydLS0vl5eWWlpbh4eGenp5CQkL4+Pjq6ury8vLOzs6Ojo4xMTHY2NhmZmbIyMgWFhampqZra2uPj4+srKwcHBxdXV2Dg4PMzMxPT0/b29u1tbVzc3M4ODiFhYVxcXFXV1ciIiItLS02NjZ8fHw/Pz8RERGcQZTTAAAMzUlEQVR4nO2daWPiug6GE6CsIWwphdKytZQu////XWICiSXbkkyYO3Pq99M5E+KYB8WWZcmNoqCgoKCgoKCgoKCgoL9Pw1Fr28qVTZP/d1/+i0q34/Uxvqi5P4y3HfMnG/6yPTyxXpE9/PYWfL8BrbQ/iE162qbos1PjJ3nqWp5/yLg9/Xa2/3M8vHezoauB5Ibux/Ga20+o3ruj1VULfPoWxn1zBzb8vrc5j3kYT60N3MbY+fPZNXQRzvXR1wbnOzB+iuMRs7csxid9Li0zyk2MLf2ntOS0vah0uH7GvZj/EnIZn8aNubGBWxh/CtkWmjGbX17vqJ/xU37J/nZr4jOO48nG0MAtjJl9BA/cs9v/7t2LcUddatfPOI4NpnwD4zcfxOlE8ojunRg/na/xRmQZ4/irRsbPXo6b2WGzap3eg3GvuDa4B2MM2Z8x27+said9yuoejJ9E30HKOB7XxXjmgzgTPya7A+PN9SJrRBYzjoF/780Yr8YYepY+ZRLdgXHFseEYspwxgOPL2OwJEpqLH9O6A+NN5SrHkD0Yv9fB+NsHcfRgaGnw1V8u5/1342RYeOD1Mtb8c4YhezCONTfZk7HJ1SaFR+PPZbkaT0dvyK8rBrZN88Ek8OFn02ce0Qu30W5iuBaA8WO1edvgp81WibH3miY/qAkv1zjawWaQjY30j+wv/26M+UHzaBk/hnqx0u+iDRkw7mqPSafbp9ggLZJDhy87qIEPL9e48YGgYKVj4gOV9hjNYW3AXfSohxhDJYZ5RjhfHVADvG8D1QOtWCK7yZUy8R77MQZmzLiNZHyyDDSbHFiduWiLED+J7r+qBZqx7i0Ni191627PizGePo/ULQzGUQNBlrzqhknRyzWOoq7eyrvjo+p3nRDteTFGZkzfx2EcDWGrkoDZF+rTkr7JqLHejG0T6NzlNWnGXoxNXuCeuIfFOHrx+cVtnfLeX3oTMD59ukm158PYGLsmbuQxHoFGBZPeJ+qRZeuYFmBM+X/kPpYHY/NihjBkHuMUNAoDQ3b1UYcW7HuhAGPPXZRSHowNozF9J49xdNQ/hsPIFmHX+IF7K9YCNPXq35SSnLFtTe42ZCZjsEhlM8au8Q1g4Dvx4OmfXCRnbDFj4lYmY7DC4i6FsWvscrgooXDFp/fQriRmDJd4pZxuot94zJzz4G1x3LzF9PDAE3dvSDSSM7aasdtP5DGGKyym74aDHa6u0DJtly78bVnKGK7lq3p23MdjvAYt8vZjX1FPZItwJOimnzWYe2KWMnbmdTgWVizG0IztkQJNOKJ+2/hpD7VPxpnHICRk7DJjZ9SCwxg1ztvE6MLbqJUZLVf6yuCtJeQsZEykJ22tNzIYIyvmLUHwz04GqEjhruhqO5IfsWSM4Uu0BzsPE+v0SzIeYReXFxKCYzg/z9EhQ2eAml/sx8gYw0f3YLDLOiIDxuN0WKozXX49Gr4GFTNUwq7xjvvdHcLeoEHPXV7KrYgxDNmsUDTyaDNknz1TTmwSw/ippVwDflWLdj26KRlj+FpOcdTWxsWDMStPDbvGfvtLSNSQfNGOtmUJY2zGOKz+YbnXg/GWQQLv0q8Yd7HEtGTGYlTC2GDG2JAtT5Qz5oTYGzhtwLMqwaCU2+c14csJGEOn4ryYQgOi+WY5Y44TOkZ3eVYlmMWqVcjldoAEjKFTUaTg8EZkMWOOZ4TjUyxXhK8E/4geveUzhuPTZWMdjsg/xruljFkzF27UqyrBpXR+NPQOy+Vf8Bkj3/hyYQcuGA1ZyJiV04yzXtgxfYkyYw4TkMsJYjO2mTEOtxpdCxHjPcfrxJkC8fOdKpnT1q5J9dnx87IZW80Y7TEaDVnC+I0XEMexk5pcY6OmfbxotwEB4jKGTkV1Lwe6Fqb3hs94xgxM4kVCba6xRY1R17FDYa+J4DKGZqyBgIZs8JH5jJnvO+x4XKdr7HjsqGureLI6m0zG0Iz1bD1kyJgTnzEzERD+rp5VCT4a9nHCTOwIrzAZO0bjXPAL45WAYDxm+V/YNfarSvDUyDA4W4cqHmNoxnDsgYbcRCMyYLyfrQrNYEI1r+APv7BeVQn+ekX9tmbN8BhDM0YjH2nIbet1vOPJcA/wKveFvqleNVAc3zYfsBhDM550x7oWaHSEhuzYB0Fz9SPpu+GoMX1P7WrAXT+b98ZiTO+8IEFDdjDGKSNkOiB2obwKdh2aMpwUGFi19YHDmB1JrQq4Fq79POwiEC4ydo09qxLsGjwz1po1MvYwY2TILsYJqvlyI0vwwrZu1zh3W+jIH5h4b2DsZcZxUzdk5740nsGc36++qgSrZqxWgQN3A2NinW6TbsjuvX/kibkSbfFvzjveQaAi3ESF8UDY0+Y90ozlxwwU0taWbsYYm8OG8CKLFaaT6PKmuAOA0LuxzSI0Y+GBJKU074DIYcEhWqsvhqsS/Ap2HarAc6V1gfi1NemAZIyXCGxVn0kwxrFgm/9WV8GuS9VihYnVK0zBVG09/oBk7G3GOkgqFwvWYFhdhfu7xrCa8mAOoKBzs6zZeRTjG8xYe9/JfDd0s9l/q61g1yE0Gn1v8TAwQmkHVl+IYnyDGWvvO8kYrytMfcYFu36nXrnUwEc0xPFsW53+kgyvGWzZOyRjb6firPLnp3NjUfTTFKzc4a/WHtCaSNYotoNuPg4v3Xmrtey/HUy7e/bZkWDskwpY0cLWkKFDOHkd+2/eZ8lIEutNB90wZM+5cTOGo/GuRQgOUtcHM3K8d7DXTTQKis4OrErAGM++LDny0d2M4RKPzI+C08XVkDnnV5D9xlUJXAkYp17hGUsKmpKTMVx+0SXIKFxzGQg59SAYoT6MGurmuBIV4fhYsqus1ckYjsaMND9oyJc1GKuuCW3f6FtkfgamJCt0ysRH6DlTGV2M4WjMKYGxGbJf7Zi2vmBnURqkGPPLkVLq/G4g92rexRj6xqw+QkMu9tl4NZDIjamca8Aq0bDpxHjUbn/zY6AZeqccIozPwRiaMS/0gnJLhiZ6FsZ4R79MmuBk9lnViTYPWbaZCXIwcOzJJuqXczD2MmObITPr/lH4/VpcftOi/sR41Vt1P9MfQRg04c19e3KstzOGSzz2mSiwDExRYjLGA8IlTi6ehjR1omM0m62itiiAlMyNCUFVWU7P12Rn7OFUnAXnphdDa9aFJ17InncXuAntFnWi9XC1PUSP0iTwkTMr9mHOiZZYGXubMTa5/NfhMm6gpZwqO3HXadPqRK1DFmUvHpkuSfZiXl0/7pgvRRI3qyoZr/ULP4I67CVoM/9ibe3fHAGUTL/59NkM90aq3K+Yf763ffPsO9lipoWLB+9LwRthM/YaQ4a3NaVOVK2jN8n0tnOBGmlnmp006qR/PikpKCgoKCgoKCgoKCgoKCgoKCgo6L+kJElCmNGmpNvXVebZpJVLLcdRuOn2afD48/PcflrCrMwObL32Y4b+BaHahHIrC2RcfS6Mea3DXfVDbXcq5J87duFvEmJcptLhrLYvnMWOtuW1CiRUJvV7GVd3fMsNvg68FKOU+uSSTzpZH/aXVINKmkNgnCtn/DhMS5WmmjNuqkvD3mu32M/WdoCLv082Ow/WyXSRb4RXT+TNGU8axtZ/kRRj8zdXjMtL0zPlag2nKm2aVOaxxlxvTDGut8P/oCjGVXdCHQtQKe5VaS7gYJmO5jkExrkkjM+Qt5f/U+la7grpwDiXiLEqA7me1qNcCnedUmCcS8ZY5X4Xo4H6o7lEYlhgnEvGWGXQFd7dCPhpJgXGuRRjc6jBxDgvHShqdvP0Zuoot8A4l2Lc61xUpW1inKfbFmUL+QkpVGqgYpxeW6+z4/+QwFq6uo4zMVYD8vk/c3eZOhAdrPP+xDmcf6EA46p3a2KskqHPxr6P4V9cUMmUJ5WNBMa5hHZcYZyvo/Uil0vwolyWBMa5csY/1yiv9jd5TIzzUyuKv86XE9UrrC6nhpSHgOaMP67B4+6vjFaI/YrcmSiWdrsYHqm6NjIOfoXQPz6UzsSynP4KTV9Ho1ZgjCRjrEIU2/N/qzJJdOpRGhgjyRj3qzNX7ligI6iGgTGSiPFQ8xpUaBOWzwY7xhIx/tRc6PPfwQLnLmaBMZKAcUdVRVaWz+cTGLTdp3nwK7Ao3+2Kv3Mu4tWiQOfC9a/r71BsRwXGutQaZFs57Gl7Jab2pdWlZf/l++z67vU5sPgLN+/bTa837V/KhHXGD1m19d+4DMHna16X04ZTg3bQ4tERDIcjZKzrN8beJIwHhgMLW/pZgovGQ2AMhY31mvCml/i3F+Zctca8LMbfddQZkYfrRXy64m9k3OhBJaZLzqzM3nK2Pw7eMnXn6cNlYClBrYfszqCgoKCgoKCgoKCgoN+i/wG9Eaw8SnDpUgAAAABJRU5ErkJggg==" group-title="United States",Starz Encore West FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24690
+#EXTINF:-1 tvg-id="" tvg-name="Starz East HD US" tvg-logo="http://mikesandroid.info/UsaLogos/STARZ.png" group-title="United States",Starz East HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9666
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="Starz Encore HD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="United States",Starz Encore HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11900
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Westerns FHD US" tvg-logo="" group-title="United States",Starz Encore Westerns FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25365
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="Starz Kids & Family FHD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="United States",Starz Kids & Family FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11151
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="Starz West FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/STARZ.png" group-title="United States",Starz West FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11899
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="Sundance TV FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/SUNDANCE.png" group-title="United States",Sundance TV FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15179
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY HD US" tvg-logo="https://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="United States",SYFY HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9659
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="http://mikesandroid.info/UsaLogos/TBS.png" group-title="United States",TBS HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10879
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM US" tvg-logo="data:image/png;base64,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" group-title="United States",TCM US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17445
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel HD US" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="United States",Tennis Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8244
+#EXTINF:-1 tvg-id="blazetv.us" tvg-name="Blaze TV US" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/08/Blaze.jpg?resize=1200%2C675" group-title="United States",Blaze TV US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15005
+#EXTINF:-1 tvg-id="The Golf Channel HD" tvg-name="Golf Channel HD US" tvg-logo="http://static.ontvtonight.com/static/2/Open/Canada_1282/Source/67352/nbchdchannel_400x400.png" group-title="US Sports",Golf Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9692
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="The Sportsman Channel HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Sportsman_Channel_logo.png" group-title="US Sports",The Sportsman Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/19384
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="The Weather Channel FHD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg/revision/latest/scale-to-width-down/200?cb=20171128103430" group-title="United States",The Weather Channel FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11907
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC HD US" tvg-logo="http://cdn.mypanel.tv/picon/ca/TLC.ca.png" group-title="United States",TLC HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8243
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT FHD US" tvg-logo="http://mikesandroid.info/UsaLogos/TNT.png" group-title="United States",TNT FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11580
+#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel Channel HD US" tvg-logo="http://mikesandroid.info/UsaLogos/TRAVEL%20CHANNEL.png" group-title="United States",Travel Channel HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10964
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TRT World FHD US" tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" group-title="United States",TRT World FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11068
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="Tru TV US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="United States",Tru TV US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16678
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="TV Land HD US" tvg-logo="http://mikesandroid.info/UsaLogos/tv%20land.png" group-title="United States",TV Land HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17310
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="United States",National Geographic HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/24795
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD US" tvg-logo="http://192.40.57.135/Events/logo_UFC__840941.png" group-title="United States",UFC Fight Pass FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/13259
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/1200px-Universal_Kids.svg.png" group-title="United States",Universal Kids HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23661
+#EXTINF:-1 tvg-id="USA Network HD (East)" tvg-name="USA Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/USA_Network_logo_1980.svg/1200px-USA_Network_logo_1980.svg.png" group-title="United States",USA Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8259
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Motor Trend HD US" tvg-logo="http://mikesandroid.info/UsaLogos/VELOCITY.png" group-title="United States",Motor Trend HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10974
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 Classic US" tvg-logo="http://mikesandroid.info/UsaLogos/VH1.png" group-title="United States",VH1 Classic US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16682
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="United States",VH1 HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11632
+#EXTINF:-1 tvg-id="VICELAND" tvg-name="Viceland HD US" tvg-logo="http://mikesandroid.info/UsaLogos/Viceland.png" group-title="United States",Viceland HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9665
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="National Geographic Wild HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="United States",National Geographic Wild HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/25364
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="We TV HD US" tvg-logo="https://i0.wp.com/www-deadline-com.vimg.net/wp-content/uploads/2014/06/wetv__140602182019.png" group-title="United States",We TV HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11909
+#EXTINF:-1 tvg-id="wgnamerica.us" tvg-name="WGN America HD US" tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/11/wgn-america-logo-2014.jpg?crop=374px%2C367px%2C2568px%2C1721px&resize=446%2C299" group-title="United States",WGN America HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17318
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow Cricket HD US" tvg-logo="" group-title="United States",Willow Cricket HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/40967
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network HD US" tvg-logo="http://mikesandroid.info/UsaLogos/WWE.png" group-title="United States",WWE Network HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9663
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Hudson Valley & Westchester FHD US" tvg-logo="data:image/png;base64,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" group-title="United States",News 12 Hudson Valley & Westchester FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17587
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Long Island FHD US" tvg-logo="https://2o16qp9prbv3jfk0qb3yon1a-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/news12-logo-li_n12.png" group-title="United States",News 12 Long Island FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17589
+#EXTINF:-1 tvg-id="" tvg-name="News 12 New Jersey HD US" tvg-logo="data:image/jpeg;base64,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" group-title="United States",News 12 New Jersey HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17588
+#EXTINF:-1 tvg-id="" tvg-name="News 12 The Bronx FHD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/News_12_The_Bronx_logo.jpg/revision/latest?cb=20120801213457" group-title="United States",News 12 The Bronx FHD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17417
+#EXTINF:-1 tvg-id="" tvg-name="-= Czech & Slovakia =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_Czech_Republic.png" group-title="Czech & Slovakia",-= Czech & Slovakia =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17199
+#EXTINF:-1 tvg-id="animalplanet.cz" tvg-name="Animal Planet HD CZ" tvg-logo="" group-title="Czech & Slovakia",Animal Planet HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36831
+#EXTINF:-1 tvg-id="arenasport1.cz" tvg-name="Arena Sport 1 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Arena Sport 1 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106580
+#EXTINF:-1 tvg-id="arenasport1.sk" tvg-name="Arena Sport 1 SK" tvg-logo="" group-title="Czech & Slovakia",Arena Sport 1 SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31838
+#EXTINF:-1 tvg-id="axn.cz" tvg-name="AXN CZ" tvg-logo="" group-title="Czech & Slovakia",AXN CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17275
+#EXTINF:-1 tvg-id="barrandovkrimi" tvg-name="Barrandov Krimi FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Barrandov Krimi FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106581
+#EXTINF:-1 tvg-id="boomerang.cz" tvg-name="Boomerang CZ" tvg-logo="http://iptvw0rld.ga/boomerang.png" group-title="Czech & Slovakia",Boomerang CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17274
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth FHD CZ [Multi-Sub]" tvg-logo="" group-title="Czech & Slovakia",BBC Earth FHD CZ [Multi-Sub]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/141741
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Domo HD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Domo HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106579
+#EXTINF:-1 tvg-id="cbsreality.cz" tvg-name="CBS Reality CZ" tvg-logo="" group-title="Czech & Slovakia",CBS Reality CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106582
+#EXTINF:-1 tvg-id="cinemax.cz" tvg-name="Cinemax HD CZ" tvg-logo="" group-title="Czech & Slovakia",Cinemax HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106583
+#EXTINF:-1 tvg-id="csfilm.cz" tvg-name="CS Film CZ" tvg-logo="" group-title="Czech & Slovakia",CS Film CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106584
+#EXTINF:-1 tvg-id="csmystery.cz" tvg-name="CS Mystery CZ" tvg-logo="" group-title="Czech & Slovakia",CS Mystery CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106585
+#EXTINF:-1 tvg-id="ct1.cz" tvg-name="CT 1 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",CT 1 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31835
+#EXTINF:-1 tvg-id="ct2.cz" tvg-name="CT 2 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",CT 2 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31834
+#EXTINF:-1 tvg-id="ctdctart.cz" tvg-name="CT 24 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",CT 24 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31833
+#EXTINF:-1 tvg-id="ct3.cz" tvg-name="CT 3 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",CT 3 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106586
+#EXTINF:-1 tvg-id="ctdctart.cz" tvg-name="CT :D/art HD CZ" tvg-logo="" group-title="Czech & Slovakia",CT :D/art HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106587
+#EXTINF:-1 tvg-id="ct24.cz" tvg-name="CT4 Sport CZ" tvg-logo="" group-title="Czech & Slovakia",CT4 Sport CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31832
+#EXTINF:-1 tvg-id="" tvg-name="Dajto CZ" tvg-logo="" group-title="Czech & Slovakia",Dajto CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41056
+#EXTINF:-1 tvg-id="discoverychannel.cz" tvg-name="Discovery Channel CZ" tvg-logo="" group-title="Czech & Slovakia",Discovery Channel CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36837
+#EXTINF:-1 tvg-id="disneychannel.cz" tvg-name="Disney Channel CZ" tvg-logo="" group-title="Czech & Slovakia",Disney Channel CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17271
+#EXTINF:-1 tvg-id="" tvg-name="DocuBox CZ" tvg-logo="" group-title="Czech & Slovakia",DocuBox CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106588
+#EXTINF:-1 tvg-id="doma.sk" tvg-name="Doma HD CZ" tvg-logo="" group-title="Czech & Slovakia",Doma HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106589
+#EXTINF:-1 tvg-id="" tvg-name="DUCK TV CZ" tvg-logo="" group-title="Czech & Slovakia",DUCK TV CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17270
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="Duck TV SK" tvg-logo="" group-title="Czech & Slovakia",Duck TV SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31844
+#EXTINF:-1 tvg-id="" tvg-name="Dvojka CZ" tvg-logo="" group-title="Czech & Slovakia",Dvojka CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106590
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment CZ" tvg-logo="" group-title="Czech & Slovakia",E! Entertainment CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106591
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment CZ" tvg-logo="http://iptvw0rld.ga/e.png" group-title="Czech & Slovakia",E! Entertainment CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17269
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama HD CZ" tvg-logo="" group-title="Czech & Slovakia",Epic Drama HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41059
+#EXTINF:-1 tvg-id="eurosport1.cz" tvg-name="Eurosport 1 HD CZ" tvg-logo="" group-title="Czech & Slovakia",Eurosport 1 HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106592
+#EXTINF:-1 tvg-id="eurosport2.cz" tvg-name="Eurosport 2 HD CZ" tvg-logo="" group-title="Czech & Slovakia",Eurosport 2 HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106593
+#EXTINF:-1 tvg-id="" tvg-name="Film CZ" tvg-logo="" group-title="Czech & Slovakia",Film CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106594
+#EXTINF:-1 tvg-id="filmeurope.cz" tvg-name="Film Europe FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Film Europe FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106595
+#EXTINF:-1 tvg-id="filmplus.cz" tvg-name="Film Plus FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Film Plus FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106597
+#EXTINF:-1 tvg-id="filmboxplus.cz" tvg-name="Filmbox Plus CZ" tvg-logo="" group-title="Czech & Slovakia",Filmbox Plus CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17267
+#EXTINF:-1 tvg-id="filmboxpremium.cz" tvg-name="Filmbox Premium CZ" tvg-logo="" group-title="Czech & Slovakia",Filmbox Premium CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17264
+#EXTINF:-1 tvg-id="fineliving.cz" tvg-name="Fine Living CZ" tvg-logo="" group-title="Czech & Slovakia",Fine Living CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106598
+#EXTINF:-1 tvg-id="fishinghunting.cz" tvg-name="Fishing And Hunting CZ" tvg-logo="" group-title="Czech & Slovakia",Fishing And Hunting CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106599
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel CZ" tvg-logo="" group-title="Czech & Slovakia",Golf Channel CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17262
+#EXTINF:-1 tvg-id="hbo.cz" tvg-name="HBO FHD CZ" tvg-logo="" group-title="Czech & Slovakia",HBO FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17260
+#EXTINF:-1 tvg-id="hbo2.cz" tvg-name="HBO 2 HD CZ" tvg-logo="" group-title="Czech & Slovakia",HBO 2 HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17261
+#EXTINF:-1 tvg-id="hbo3.cz" tvg-name="HBO 3 CZ" tvg-logo="" group-title="Czech & Slovakia",HBO 3 CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17259
+#EXTINF:-1 tvg-id="hobbytv.cz" tvg-name="Hobby TV CZ" tvg-logo="" group-title="Czech & Slovakia",Hobby TV CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106600
+#EXTINF:-1 tvg-id="" tvg-name="iConcerts HD CZ" tvg-logo="" group-title="Czech & Slovakia",iConcerts HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/54644
+#EXTINF:-1 tvg-id="jimjam.cz" tvg-name="JimJam CZ" tvg-logo="" group-title="Czech & Slovakia",JimJam CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47105
+#EXTINF:-1 tvg-id="jojcinema.cz" tvg-name="Joj Cinema HD CZ" tvg-logo="" group-title="Czech & Slovakia",Joj Cinema HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31840
+#EXTINF:-1 tvg-id="jojfamily.cz" tvg-name="JOJ Family FHD CZ" tvg-logo="" group-title="Czech & Slovakia",JOJ Family FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17276
+#EXTINF:-1 tvg-id="" tvg-name="Joj Plus CZ" tvg-logo="" group-title="Czech & Slovakia",Joj Plus CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41057
+#EXTINF:-1 tvg-id="kinobarrandov.cz" tvg-name="Kino Barrandov HD CZ" tvg-logo="" group-title="Czech & Slovakia",Kino Barrandov HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106601
+#EXTINF:-1 tvg-id="" tvg-name="Markiza International CZ" tvg-logo="" group-title="Czech & Slovakia",Markiza International CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17256
+#EXTINF:-1 tvg-id="markízainternational.sk" tvg-name="Markiza International SK" tvg-logo="" group-title="Czech & Slovakia",Markiza International SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31845
+#EXTINF:-1 tvg-id="minimax.cz" tvg-name="Minimax CZ" tvg-logo="" group-title="Czech & Slovakia",Minimax CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17255
+#EXTINF:-1 tvg-id="mnamtv.cz" tvg-name="Mnam TV CZ" tvg-logo="" group-title="Czech & Slovakia",Mnam TV CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17254
+#EXTINF:-1 tvg-id="mtveuropecz.cz" tvg-name="MTV Europe CZ" tvg-logo="http://iptvw0rld.ga/mtv.png" group-title="Czech & Slovakia",MTV Europe CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17278
+#EXTINF:-1 tvg-id="natgeo.cz" tvg-name="National Geographic HD CZ" tvg-logo="" group-title="Czech & Slovakia",National Geographic HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17253
+#EXTINF:-1 tvg-id="natgeowild.cz" tvg-name="National Geographic Wild HD CZ" tvg-logo="" group-title="Czech & Slovakia",National Geographic Wild HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17252
+#EXTINF:-1 tvg-id="" tvg-name="Nautical HD CZ" tvg-logo="" group-title="Czech & Slovakia",Nautical HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17251
+#EXTINF:-1 tvg-id="nickjrastra.cz" tvg-name="Nick Jr CZ" tvg-logo="" group-title="Czech & Slovakia",Nick Jr CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47107
+#EXTINF:-1 tvg-id="nickelodeon.cz" tvg-name="Nickelodeon CZ" tvg-logo="" group-title="Czech & Slovakia",Nickelodeon CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47106
+#EXTINF:-1 tvg-id="novaaction.cz" tvg-name="Nova Action FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Nova Action FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31831
+#EXTINF:-1 tvg-id="novacinema.cz" tvg-name="Nova Cinema HD CZ" tvg-logo="" group-title="Czech & Slovakia",Nova Cinema HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31830
+#EXTINF:-1 tvg-id="nova.cz" tvg-name="Nova FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Nova FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31828
+#EXTINF:-1 tvg-id="novagold.cz" tvg-name="Nova Gold HD CZ" tvg-logo="" group-title="Czech & Slovakia",Nova Gold HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31829
+#EXTINF:-1 tvg-id="novainternational.cz" tvg-name="Nova International CZ" tvg-logo="" group-title="Czech & Slovakia",Nova International CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31827
+#EXTINF:-1 tvg-id="novasport.cz" tvg-name="Nova Sport 1 HD CZ" tvg-logo="" group-title="Czech & Slovakia",Nova Sport 1 HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14999
+#EXTINF:-1 tvg-id="novasport2.cz" tvg-name="Nova Sport 2 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Nova Sport 2 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17249
+#EXTINF:-1 tvg-id="primacomedycentral.cz" tvg-name="Prima Comedy CZ" tvg-logo="" group-title="Czech & Slovakia",Prima Comedy CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41055
+#EXTINF:-1 tvg-id="primacool.cz" tvg-name="Prima Cool HD CZ" tvg-logo="" group-title="Czech & Slovakia",Prima Cool HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41054
+#EXTINF:-1 tvg-id="prima.cz" tvg-name="Prima HD CZ" tvg-logo="" group-title="Czech & Slovakia",Prima HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41053
+#EXTINF:-1 tvg-id="primalove.cz" tvg-name="Prima Love CZ" tvg-logo="" group-title="Czech & Slovakia",Prima Love CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41052
+#EXTINF:-1 tvg-id="primamax.cz" tvg-name="Prima Max HD CZ" tvg-logo="" group-title="Czech & Slovakia",Prima Max HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41051
+#EXTINF:-1 tvg-id="" tvg-name="Prima Plus HD CZ" tvg-logo="" group-title="Czech & Slovakia",Prima Plus HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41050
+#EXTINF:-1 tvg-id="primazoom.cz" tvg-name="Prima Zoom HD CZ" tvg-logo="" group-title="Czech & Slovakia",Prima Zoom HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/41049
+#EXTINF:-1 tvg-id="rebel.cz" tvg-name="Rebel CZ" tvg-logo="" group-title="Czech & Slovakia",Rebel CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17248
+#EXTINF:-1 tvg-id="relax.cz" tvg-name="Relax CZ" tvg-logo="" group-title="Czech & Slovakia",Relax CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106602
+#EXTINF:-1 tvg-id="retromusic.cz" tvg-name="Retro Music TV CZ" tvg-logo="" group-title="Czech & Slovakia",Retro Music TV CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17277
+#EXTINF:-1 tvg-id="" tvg-name="Rik HD CZ" tvg-logo="" group-title="Czech & Slovakia",Rik HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17241
+#EXTINF:-1 tvg-id="senzi.sk" tvg-name="Senzi SK" tvg-logo="" group-title="Czech & Slovakia",Senzi SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31837
+#EXTINF:-1 tvg-id="" tvg-name="Skylink 7 CZ" tvg-logo="" group-title="Czech & Slovakia",Skylink 7 CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106603
+#EXTINF:-1 tvg-id="slagrtv.cz" tvg-name="Slagr Premium HD CZ" tvg-logo="" group-title="Czech & Slovakia",Slagr Premium HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106604
+#EXTINF:-1 tvg-id="spektrum.cz" tvg-name="Spektrum FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Spektrum FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17245
+#EXTINF:-1 tvg-id="sport1.cz" tvg-name="Sport 1 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Sport 1 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17244
+#EXTINF:-1 tvg-id="sport2.cz" tvg-name="Sport 2 HD CZ" tvg-logo="" group-title="Czech & Slovakia",Sport 2 HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106578
+#EXTINF:-1 tvg-id="sport5.cz" tvg-name="Sport 5 CZ" tvg-logo="" group-title="Czech & Slovakia",Sport 5 CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17243
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 1 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 1 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348087
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 2 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348088
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 3 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348089
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 4 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348090
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 5 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 5 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348091
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 6 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 6 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348092
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 7 FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Canal+ Sport 7 FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348093
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Brava FHD CZ" tvg-logo="" group-title="Czech & Slovakia",Stingray Brava FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17273
+#EXTINF:-1 tvg-id="" tvg-name="Telka CZ" tvg-logo="" group-title="Czech & Slovakia",Telka CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106605
+#EXTINF:-1 tvg-id="travelchannel.cz" tvg-name="Travel Channel FHD CZ [Multi-Audio]" tvg-logo="" group-title="Czech & Slovakia",Travel Channel FHD CZ [Multi-Audio]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/35720
+#EXTINF:-1 tvg-id="doma.sk" tvg-name="TV Doma FHD SK" tvg-logo="" group-title="Czech & Slovakia",TV Doma FHD SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31843
+#EXTINF:-1 tvg-id="joj.sk" tvg-name="TV JOJ SK" tvg-logo="" group-title="Czech & Slovakia",TV JOJ SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31841
+#EXTINF:-1 tvg-id="markiza.sk" tvg-name="TV Markiza FHD SK" tvg-logo="" group-title="Czech & Slovakia",TV Markiza FHD SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31842
+#EXTINF:-1 tvg-id="noe.cz" tvg-name="TV Noe HD CZ" tvg-logo="" group-title="Czech & Slovakia",TV Noe HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106606
+#EXTINF:-1 tvg-id="paprika.cz" tvg-name="TV Paprika CZ" tvg-logo="" group-title="Czech & Slovakia",TV Paprika CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106607
+#EXTINF:-1 tvg-id="" tvg-name="TV8 HD CZ" tvg-logo="" group-title="Czech & Slovakia",TV8 HD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106608
+#EXTINF:-1 tvg-id="" tvg-name="Up Network CZ" tvg-logo="http://iptvw0rld.ga/nickelodeonn.png" group-title="Czech & Slovakia",Up Network CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17250
+#EXTINF:-1 tvg-id="" tvg-name="WAU FHD CZ" tvg-logo="" group-title="Czech & Slovakia",WAU FHD CZ
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17240
+#EXTINF:-1 tvg-id="wau.sk" tvg-name="WAU FHD SK" tvg-logo="" group-title="Czech & Slovakia",WAU FHD SK
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31846
+#EXTINF:-1 tvg-id="" tvg-name="-= Afghanistan =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_Afghanistan.png" group-title="Afghanistan",-= Afghanistan =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11198
+#EXTINF:-1 tvg-id="" tvg-name="1TV Afghanistan AFG" tvg-logo="" group-title="Afghanistan",1TV Afghanistan AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11197
+#EXTINF:-1 tvg-id="" tvg-name="Afghan Javan AFG" tvg-logo="" group-title="Afghanistan",Afghan Javan AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29344
+#EXTINF:-1 tvg-id="" tvg-name="Afghan Time TV AFG" tvg-logo="" group-title="Afghanistan",Afghan Time TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11196
+#EXTINF:-1 tvg-id="" tvg-name="AMC TV HD AFG" tvg-logo="" group-title="Afghanistan",AMC TV HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11193
+#EXTINF:-1 tvg-id="" tvg-name="Arezo TV HD AFG" tvg-logo="" group-title="Afghanistan",Arezo TV HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28636
+#EXTINF:-1 tvg-id="" tvg-name="Arezu TV AFG" tvg-logo="" group-title="Afghanistan",Arezu TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29343
+#EXTINF:-1 tvg-id="" tvg-name="Aria Music AFG" tvg-logo="" group-title="Afghanistan",Aria Music AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29342
+#EXTINF:-1 tvg-id="" tvg-name="Ariana News AFG" tvg-logo="" group-title="Afghanistan",Ariana News AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11195
+#EXTINF:-1 tvg-id="" tvg-name="Ariana TV AFG" tvg-logo="" group-title="Afghanistan",Ariana TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11194
+#EXTINF:-1 tvg-id="" tvg-name="Ariana USA AFG" tvg-logo="" group-title="Afghanistan",Ariana USA AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29341
+#EXTINF:-1 tvg-id="" tvg-name="ATN News AFG" tvg-logo="" group-title="Afghanistan",ATN News AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28635
+#EXTINF:-1 tvg-id="" tvg-name="ATN INT HD AFG" tvg-logo="" group-title="Afghanistan",ATN INT HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29349
+#EXTINF:-1 tvg-id="" tvg-name="Bahar TV HD AFG" tvg-logo="" group-title="Afghanistan",Bahar TV HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29339
+#EXTINF:-1 tvg-id="" tvg-name="Batur AFG" tvg-logo="" group-title="Afghanistan",Batur AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29338
+#EXTINF:-1 tvg-id="" tvg-name="Hazara World TV AFG" tvg-logo="" group-title="Afghanistan",Hazara World TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29337
+#EXTINF:-1 tvg-id="" tvg-name="Hewad TV AFG" tvg-logo="" group-title="Afghanistan",Hewad TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29336
+#EXTINF:-1 tvg-id="" tvg-name="Iman TV AFG" tvg-logo="" group-title="Afghanistan",Iman TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29335
+#EXTINF:-1 tvg-id="" tvg-name="Zarin TV AFG" tvg-logo="" group-title="Afghanistan",Zarin TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29346
+#EXTINF:-1 tvg-id="" tvg-name="Kayhan TV HD AFG" tvg-logo="" group-title="Afghanistan",Kayhan TV HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11191
+#EXTINF:-1 tvg-id="" tvg-name="Khurshid TV AFG" tvg-logo="" group-title="Afghanistan",Khurshid TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11192
+#EXTINF:-1 tvg-id="" tvg-name="Payam E Afghanistan AFG" tvg-logo="" group-title="Afghanistan",Payam E Afghanistan AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29334
+#EXTINF:-1 tvg-id="" tvg-name="Lemar HD AFG" tvg-logo="" group-title="Afghanistan",Lemar HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28637
+#EXTINF:-1 tvg-id="" tvg-name="Maiwand TV AFG" tvg-logo="" group-title="Afghanistan",Maiwand TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11190
+#EXTINF:-1 tvg-id="" tvg-name="Naween TV HD AFG" tvg-logo="" group-title="Afghanistan",Naween TV HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29332
+#EXTINF:-1 tvg-id="" tvg-name="Noor TV AFG" tvg-logo="" group-title="Afghanistan",Noor TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29331
+#EXTINF:-1 tvg-id="" tvg-name="Pashto TV AFG" tvg-logo="" group-title="Afghanistan",Pashto TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/29350
+#EXTINF:-1 tvg-id="" tvg-name="Payame Afghan AFG" tvg-logo="" group-title="Afghanistan",Payame Afghan AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11189
+#EXTINF:-1 tvg-id="" tvg-name="Shamshad AFG" tvg-logo="" group-title="Afghanistan",Shamshad AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28629
+#EXTINF:-1 tvg-id="" tvg-name="Tamadon Afghan AFG" tvg-logo="" group-title="Afghanistan",Tamadon Afghan AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11187
+#EXTINF:-1 tvg-id="" tvg-name="Tolo HD AFG" tvg-logo="" group-title="Afghanistan",Tolo HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11186
+#EXTINF:-1 tvg-id="" tvg-name="Tolo News HD AFG" tvg-logo="" group-title="Afghanistan",Tolo News HD AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28638
+#EXTINF:-1 tvg-id="" tvg-name="Tuti TV AFG" tvg-logo="" group-title="Afghanistan",Tuti TV AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11185
+#EXTINF:-1 tvg-id="" tvg-name="Watan Tv AFG" tvg-logo="" group-title="Afghanistan",Watan Tv AFG
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28631
+#EXTINF:-1 tvg-id="" tvg-name="-= Romania =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_Romania.png" group-title="Romania",-= Romania =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16715
+#EXTINF:-1 tvg-id="musicchannel.ro" tvg-name="1 Music Channel RO" tvg-logo="" group-title="Romania",1 Music Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36209
+#EXTINF:-1 tvg-id="agrotv.ro" tvg-name="Agro TV RO" tvg-logo="" group-title="Romania",Agro TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36204
+#EXTINF:-1 tvg-id="alfaomega.ro" tvg-name="Alfa & Omega RO" tvg-logo="" group-title="Romania",Alfa & Omega RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36203
+#EXTINF:-1 tvg-id="amc.ro" tvg-name="AMC RO" tvg-logo="" group-title="Romania",AMC RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23297
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 RO" tvg-logo="" group-title="Romania",Antena 1 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37350
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 FHD RO" tvg-logo="" group-title="Romania",Antena 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16720
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 HD RO" tvg-logo="" group-title="Romania",Antena 3 HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36201
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 FHD RO" tvg-logo="" group-title="Romania",Antena 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16719
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars RO" tvg-logo="" group-title="Romania",Antena Stars RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16721
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars FHD RO" tvg-logo="" group-title="Romania",Antena Stars FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23296
+#EXTINF:-1 tvg-id="arcadia.ro" tvg-name="Arcadia World FHD RO" tvg-logo="" group-title="Romania",Arcadia World FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110655
+#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport RO" tvg-logo="" group-title="Romania",Auto Motor Sport RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36164
+#EXTINF:-1 tvg-id="axnblack.ro" tvg-name="AXN Black RO" tvg-logo="" group-title="Romania",AXN Black RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36198
+#EXTINF:-1 tvg-id="axn.ro" tvg-name="AXN FHD RO" tvg-logo="https://stvron.com/canale/512/axn.png" group-title="Romania",AXN FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36197
+#EXTINF:-1 tvg-id="axn.ro" tvg-name="AXN HD RO" tvg-logo="" group-title="Romania",AXN HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23294
+#EXTINF:-1 tvg-id="axnspin.ro" tvg-name="AXN Spin RO" tvg-logo="" group-title="Romania",AXN Spin RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36195
+#EXTINF:-1 tvg-id="axnwhite.ro" tvg-name="AXN White RO" tvg-logo="" group-title="Romania",AXN White RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23293
+#EXTINF:-1 tvg-id="b1.ro" tvg-name="B1 TV RO" tvg-logo="" group-title="Romania",B1 TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23292
+#EXTINF:-1 tvg-id="bbcarth.ro" tvg-name="BBC Earth FHD RO" tvg-logo="" group-title="Romania",BBC Earth FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36194
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="Bollywood TV RO" tvg-logo="" group-title="Romania",Bollywood TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36192
+#EXTINF:-1 tvg-id="boomerang.ro" tvg-name="Boomerang RO" tvg-logo="" group-title="Romania",Boomerang RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36190
+#EXTINF:-1 tvg-id="" tvg-name="Bucovina TV RO" tvg-logo="" group-title="Romania",Bucovina TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36189
+#EXTINF:-1 tvg-id="bucuresti.ro" tvg-name="Bucuresti TV RO" tvg-logo="" group-title="Romania",Bucuresti TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36188
+#EXTINF:-1 tvg-id="" tvg-name="Canal 33 RO" tvg-logo="" group-title="Romania",Canal 33 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110654
+#EXTINF:-1 tvg-id="cartoonnetwork.ro" tvg-name="Cartoon Network RO" tvg-logo="" group-title="Romania",Cartoon Network RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23290
+#EXTINF:-1 tvg-id="cinemaraton.ro" tvg-name="Cinemaraton RO" tvg-logo="" group-title="Romania",Cinemaraton RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36181
+#EXTINF:-1 tvg-id="cinemax2.ro" tvg-name="Cinemax 2 FHD RO" tvg-logo="" group-title="Romania",Cinemax 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36185
+#EXTINF:-1 tvg-id="cinemax.ro" tvg-name="Cinemax FHD RO" tvg-logo="" group-title="Romania",Cinemax FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36183
+#EXTINF:-1 tvg-id="cinethronix.ro" tvg-name="Cinethronix RO" tvg-logo="" group-title="Romania",Cinethronix RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36182
+#EXTINF:-1 tvg-id="comedycentralextra.ro" tvg-name="Comedy Central RO" tvg-logo="" group-title="Romania",Comedy Central RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36180
+#EXTINF:-1 tvg-id="" tvg-name="Credo TV HD RO" tvg-logo="" group-title="Romania",Credo TV HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110657
+#EXTINF:-1 tvg-id="crimeinvestigation.ro" tvg-name="Crime Investigation RO" tvg-logo="" group-title="Romania",Crime Investigation RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36178
+#EXTINF:-1 tvg-id="davincilearning.ro" tvg-name="DaVinci Learning RO" tvg-logo="" group-title="Romania",DaVinci Learning RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36174
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 FHD RO" tvg-logo="" group-title="Romania",Digi 24 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36171
+#EXTINF:-1 tvg-id="digi4k.ro" tvg-name="Digi 4K UHD RO [Only For 4K Devices]" tvg-logo="" group-title="Romania",Digi 4K UHD RO [Only For 4K Devices]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/90814
+#EXTINF:-1 tvg-id="digianimalworld.ro" tvg-name="Digi Animal World FHD RO" tvg-logo="" group-title="Romania",Digi Animal World FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36170
+#EXTINF:-1 tvg-id="digilife.ro" tvg-name="Digi Life FHD RO" tvg-logo="" group-title="Romania",Digi Life FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36169
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 FHD RO [Multi-Audio]" tvg-logo="" group-title="Romania",Digi Sport 1 FHD RO [Multi-Audio]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16731
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 FHD RO" tvg-logo="" group-title="Romania",Digi Sport 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36167
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 RO" tvg-logo="" group-title="Romania",Digi Sport 3 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/397549
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 RO" tvg-logo="" group-title="Romania",Digi Sport 4 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36165
+#EXTINF:-1 tvg-id="digiworld.ro" tvg-name="Digi World FHD RO" tvg-logo="" group-title="Romania",Digi World FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16732
+#EXTINF:-1 tvg-id="discoverychannel.ro" tvg-name="Discovery RO" tvg-logo="" group-title="Romania",Discovery RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36162
+#EXTINF:-1 tvg-id="discoveryscience.ro" tvg-name="Discovery Science FHD RO" tvg-logo="" group-title="Romania",Discovery Science FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36161
+#EXTINF:-1 tvg-id="discoverychannel.ro" tvg-name="Discovery Showcase FHD RO" tvg-logo="" group-title="Romania",Discovery Showcase FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16758
+#EXTINF:-1 tvg-id="disneychannel.ro" tvg-name="Disney Channel RO" tvg-logo="" group-title="Romania",Disney Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36159
+#EXTINF:-1 tvg-id="disneyjunior.ro" tvg-name="Disney Junior RO" tvg-logo="http://iptvw0rld.ga/disneyjr.png" group-title="Romania",Disney Junior RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16733
+#EXTINF:-1 tvg-id="divauniversal.ro" tvg-name="Diva Universal RO" tvg-logo="" group-title="Romania",Diva Universal RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31208
+#EXTINF:-1 tvg-id="dtx.ro" tvg-name="DTX RO" tvg-logo="" group-title="Romania",DTX RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36157
+#EXTINF:-1 tvg-id="eentertainment.ro" tvg-name="E! Entertainment FHD RO" tvg-logo="" group-title="Romania",E! Entertainment FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36155
+#EXTINF:-1 tvg-id="etno.ro" tvg-name="Etno RO" tvg-logo="" group-title="Romania",Etno RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36150
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="Eurosport 1 FHD RO" tvg-logo="" group-title="Romania",Eurosport 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36148
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="Eurosport 1 RO" tvg-logo="" group-title="Romania",Eurosport 1 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36147
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="Eurosport 2 FHD RO" tvg-logo="" group-title="Romania",Eurosport 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36146
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="Eurosport 2 RO" tvg-logo="" group-title="Romania",Eurosport 2 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36145
+#EXTINF:-1 tvg-id="extremesports.ro" tvg-name="Extreme Sports Channel RO" tvg-logo="" group-title="Romania",Extreme Sports Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/103508
+#EXTINF:-1 tvg-id="fightbox.ro" tvg-name="FightBox RO" tvg-logo="" group-title="Romania",FightBox RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36141
+#EXTINF:-1 tvg-id="filmcafe.ro" tvg-name="Film Cafe RO" tvg-logo="" group-title="Romania",Film Cafe RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16762
+#EXTINF:-1 tvg-id="filmnow.ro" tvg-name="Film Now HD RO" tvg-logo="" group-title="Romania",Film Now HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/397547
+#EXTINF:-1 tvg-id="filmboxextra.ro" tvg-name="FilmBox Extra FHD RO" tvg-logo="" group-title="Romania",FilmBox Extra FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36138
+#EXTINF:-1 tvg-id="filmboxfamily.ro" tvg-name="FilmBox Family RO" tvg-logo="" group-title="Romania",FilmBox Family RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36137
+#EXTINF:-1 tvg-id="filmboxplus.ro" tvg-name="FilmBox Plus RO" tvg-logo="" group-title="Romania",FilmBox Plus RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36136
+#EXTINF:-1 tvg-id="filmboxpremium.ro" tvg-name="Filmbox Premium RO" tvg-logo="" group-title="Romania",Filmbox Premium RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36135
+#EXTINF:-1 tvg-id="filmbox.ro" tvg-name="Filmbox RO" tvg-logo="" group-title="Romania",Filmbox RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36134
+#EXTINF:-1 tvg-id="filmboxstars.ro" tvg-name="FilmBox Stars RO" tvg-logo="" group-title="Romania",FilmBox Stars RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/397548
+#EXTINF:-1 tvg-id="fishinghunting.ro" tvg-name="Fishing & Hunting RO [Multi-Audio]" tvg-logo="" group-title="Romania",Fishing & Hunting RO [Multi-Audio]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30740
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="Happy Channel FHD RO" tvg-logo="" group-title="Romania",Happy Channel FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36132
+#EXTINF:-1 tvg-id="hbo2.ro" tvg-name="HBO 2 FHD RO" tvg-logo="" group-title="Romania",HBO 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36131
+#EXTINF:-1 tvg-id="hbo3.ro" tvg-name="HBO 3 FHD RO" tvg-logo="" group-title="Romania",HBO 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36130
+#EXTINF:-1 tvg-id="hbo.ro" tvg-name="HBO FHD RO" tvg-logo="" group-title="Romania",HBO FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36129
+#EXTINF:-1 tvg-id="historychannel.ro" tvg-name="History Channel RO" tvg-logo="" group-title="Romania",History Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36128
+#EXTINF:-1 tvg-id="historychannel.ro" tvg-name="History FHD RO [Multi-Sub]" tvg-logo="" group-title="Romania",History FHD RO [Multi-Sub]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16745
+#EXTINF:-1 tvg-id="htmusic.ro" tvg-name="Hit Music RO" tvg-logo="" group-title="Romania",Hit Music RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36127
+#EXTINF:-1 tvg-id="" tvg-name="Hora TV RO" tvg-logo="" group-title="Romania",Hora TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36126
+#EXTINF:-1 tvg-id="inedittv.ro" tvg-name="Inedit TV RO" tvg-logo="" group-title="Romania",Inedit TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36122
+#EXTINF:-1 tvg-id="discoveryid.ro" tvg-name="Investigation Discovery RO" tvg-logo="" group-title="Romania",Investigation Discovery RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36119
+#EXTINF:-1 tvg-id="jimjam.ro" tvg-name="JimJam RO" tvg-logo="" group-title="Romania",JimJam RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36118
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D RO" tvg-logo="" group-title="Romania",Kanal D RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36117
+#EXTINF:-1 tvg-id="kisstv.ro" tvg-name="Kiss TV HD RO" tvg-logo="" group-title="Romania",Kiss TV HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36115
+#EXTINF:-1 tvg-id="kisstv.ro" tvg-name="Kiss TV RO" tvg-logo="" group-title="Romania",Kiss TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31209
+#EXTINF:-1 tvg-id="looksport2.ro" tvg-name="Look Sport 2 FHD RO" tvg-logo="" group-title="Romania",Look Sport 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/90951
+#EXTINF:-1 tvg-id="looksport3.ro" tvg-name="Look Sport 3 FHD RO" tvg-logo="" group-title="Romania",Look Sport 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/90952
+#EXTINF:-1 tvg-id="looktv.ro" tvg-name="Look Sport FHD RO" tvg-logo="" group-title="Romania",Look Sport FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16747
+#EXTINF:-1 tvg-id="lookplus.ro" tvg-name="Look Sport+ FHD RO" tvg-logo="" group-title="Romania",Look Sport+ FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/103507
+#EXTINF:-1 tvg-id="" tvg-name="MDI TV RO" tvg-logo="" group-title="Romania",MDI TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36113
+#EXTINF:-1 tvg-id="minimax.ro" tvg-name="Minimax RO" tvg-logo="" group-title="Romania",Minimax RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36110
+#EXTINF:-1 tvg-id="moozdance.ro" tvg-name="MOOZ Dance RO" tvg-logo="" group-title="Romania",MOOZ Dance RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36112
+#EXTINF:-1 tvg-id="mooz.ro" tvg-name="Mooz HD RO" tvg-logo="" group-title="Romania",Mooz HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36107
+#EXTINF:-1 tvg-id="nasultv.ro" tvg-name="Nasul TV RO" tvg-logo="" group-title="Romania",Nasul TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36104
+#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="Nat Geo Wild HD RO [Multi-Sub]" tvg-logo="http://chanlogos.xmltv.se/wildhd.natgeo.de.png" group-title="Romania",Nat Geo Wild HD RO [Multi-Sub]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30511
+#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="NatGeo Wild RO" tvg-logo="" group-title="Romania",NatGeo Wild RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36102
+#EXTINF:-1 tvg-id="nationaltv.ro" tvg-name="National 24 Plus HD RO" tvg-logo="" group-title="Romania",National 24 Plus HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23289
+#EXTINF:-1 tvg-id="natgeo.ro" tvg-name="National Geographic FHD RO" tvg-logo="" group-title="Romania",National Geographic FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36103
+#EXTINF:-1 tvg-id="nationaltv.ro" tvg-name="National TV RO" tvg-logo="" group-title="Romania",National TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36101
+#EXTINF:-1 tvg-id="nickelodeon.ro" tvg-name="Nickelodeon RO" tvg-logo="" group-title="Romania",Nickelodeon RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36097
+#EXTINF:-1 tvg-id="nicktoons.ro" tvg-name="Nicktoons RO" tvg-logo="" group-title="Romania",Nicktoons RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36096
+#EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="Orange Sport 1 FHD RO" tvg-logo="" group-title="Romania",Orange Sport 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36070
+#EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="Orange Sport 2 RO" tvg-logo="" group-title="Romania",Orange Sport 2 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28016
+#EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="Orange Sport 3 FHD RO" tvg-logo="" group-title="Romania",Orange Sport 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36068
+#EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="Orange Sport 3 RO" tvg-logo="" group-title="Romania",Orange Sport 3 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28015
+#EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="Orange Sport 4 HD RO" tvg-logo="" group-title="Romania",Orange Sport 4 HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36067
+#EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="Orange Sport 4 RO" tvg-logo="" group-title="Romania",Orange Sport 4 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28014
+#EXTINF:-1 tvg-id="telekomsport5.ro" tvg-name="Orange Sport 5 RO [Live During Events Only]" tvg-logo="" group-title="Romania",Orange Sport 5 RO [Live During Events Only]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28013
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima RO" tvg-logo="" group-title="Romania",Prima RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36091
+#EXTINF:-1 tvg-id="pro2.ro" tvg-name="Pro 2 FHD RO" tvg-logo="" group-title="Romania",Pro 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30101
+#EXTINF:-1 tvg-id="prox.ro" tvg-name="PRO Arena RO" tvg-logo="" group-title="Romania",PRO Arena RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36087
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema RO" tvg-logo="" group-title="Romania",Pro Cinema RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36090
+#EXTINF:-1 tvg-id="progold.ro" tvg-name="Pro Gold RO" tvg-logo="" group-title="Romania",Pro Gold RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36089
+#EXTINF:-1 tvg-id="protvinternational.ro" tvg-name="Pro TV International RO" tvg-logo="" group-title="Romania",Pro TV International RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/59425
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="ProTV FHD RO" tvg-logo="" group-title="Romania",ProTV FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36085
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="ProTV RO" tvg-logo="https://stvron.com/canale/512/pro-tv.png" group-title="Romania",ProTV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51177
+#EXTINF:-1 tvg-id="realitateatv.ro" tvg-name="Realitatea Plus RO" tvg-logo="" group-title="Romania",Realitatea Plus RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36081
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea TV FHD RO" tvg-logo="" group-title="Romania",Realitatea TV FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110652
+#EXTINF:-1 tvg-id="romaniatv.ro" tvg-name="Romania TV RO" tvg-logo="" group-title="Romania",Romania TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36078
+#EXTINF:-1 tvg-id="" tvg-name="Sangeorz TV RO" tvg-logo="" group-title="Romania",Sangeorz TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110658
+#EXTINF:-1 tvg-id="sperantatv.ro" tvg-name="Speranta Tv RO" tvg-logo="" group-title="Romania",Speranta Tv RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36076
+#EXTINF:-1 tvg-id="taraftv.ro" tvg-name="Taraf TV RO" tvg-logo="" group-title="Romania",Taraf TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/34534
+#EXTINF:-1 tvg-id="tlc.ro" tvg-name="TLC RO" tvg-logo="" group-title="Romania",TLC RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23291
+#EXTINF:-1 tvg-id="" tvg-name="TNT RO" tvg-logo="" group-title="Romania",TNT RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/397546
+#EXTINF:-1 tvg-id="travelchannel.ro" tvg-name="Travel Channel RO" tvg-logo="" group-title="Romania",Travel Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36063
+#EXTINF:-1 tvg-id="travelmix.ro" tvg-name="Travel Mix RO" tvg-logo="" group-title="Romania",Travel Mix RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36075
+#EXTINF:-1 tvg-id="trinitas.ro" tvg-name="Trinitas RO" tvg-logo="" group-title="Romania",Trinitas RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110656
+#EXTINF:-1 tvg-id="tvpaprika.ro" tvg-name="TV Paprika RO" tvg-logo="" group-title="Romania",TV Paprika RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36061
+#EXTINF:-1 tvg-id="tv1000.ro" tvg-name="TV1000 RO" tvg-logo="" group-title="Romania",TV1000 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36060
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 FHD RO" tvg-logo="" group-title="Romania",TVR 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36057
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2 RO" tvg-logo="" group-title="Romania",TVR 2 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36056
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3 RO" tvg-logo="" group-title="Romania",TVR 3 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36055
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="TVR International RO" tvg-logo="" group-title="Romania",TVR International RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46055
+#EXTINF:-1 tvg-id="utv.ro" tvg-name="U TV RO" tvg-logo="" group-title="Romania",U TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16764
+#EXTINF:-1 tvg-id="vh1.ro" tvg-name="VH1 Classic HD RO" tvg-logo="" group-title="Romania",VH1 Classic HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36050
+#EXTINF:-1 tvg-id="viasatexplorer.ro" tvg-name="Viasat Explore RO" tvg-logo="" group-title="Romania",Viasat Explore RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36049
+#EXTINF:-1 tvg-id="viasatnature.ro" tvg-name="Viasat History RO" tvg-logo="" group-title="Romania",Viasat History RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36048
+#EXTINF:-1 tvg-id="tnt.ro" tvg-name="Warner TV RO" tvg-logo="" group-title="Romania",Warner TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36065
+#EXTINF:-1 tvg-id="zutv.ro" tvg-name="ZU TV FHD RO" tvg-logo="" group-title="Romania",ZU TV FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36045
+#EXTINF:-1 tvg-id="" tvg-name="-= Hindi =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_India.png" group-title="India",-= Hindi =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9483
+#EXTINF:-1 tvg-id="" tvg-name="8XM HD IN" tvg-logo="" group-title="India",8XM HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136645
+#EXTINF:-1 tvg-id="" tvg-name="AL Jazeera HD IN" tvg-logo="" group-title="India",AL Jazeera HD IN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136626
+
+
+
+
+
+
+
 
