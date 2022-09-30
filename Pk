@@ -1,50 +1,50 @@
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/843.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/847.m3u8
-#EXTINF:-1 x
+#EXTINF:-1 ,x
 http://watchindia.net:8880/live/vvv/vvv/844.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/855.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/882.m3u8
-#EXTINF:-1 x
+#EXTINF:-1 ,x
 http://watchindia.net:8880/live/vvv/vvv/845.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/928.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/971.m3u8
 #EXTINF:-1 x
 http://watchindia.net:8880/live/vvv/vvv/930.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/929.m3u8
 #EXTINF:-1 x
 http://watchindia.net:8880/live/vvv/vvv/931.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/973.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/2290.m3u8
 #EXTINF:-1 x
 http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/1004.m3u8
-#EXTINF:-1
+#EXTINF:-1,x
 http://watchindia.net:8880/live/vvv/vvv/1003.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/988.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/279.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
 #EXTINF:-1 xc
 http://watchindia.net:8880/live/vvv/vvv/2322.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/299.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/298.m3u8
-#EXTINF:-1 x
+#EXTINF:-1, x
 http://watchindia.net:8880/live/vvv/vvv/285.m3u8
-#EXTINF:-1 x
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hCgCPyw/Zee-Zest-removebg-preview-2.png" group-title="Bangla", NAN IPTV
