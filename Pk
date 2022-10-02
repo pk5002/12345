@@ -224,8 +224,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1,মোহনাটিভি
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1, CINEMAX
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1,আকাশ বাংলা
@@ -3197,56 +3195,4 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51196
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46608
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD BR" tvg-logo="" group-title="Brazil",Telecine Touch HD BR
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46607
-
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/843.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/847.m3u8
-#EXTINF:-1 ,x
-http://watchindia.net:8880/live/vvv/vvv/844.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/855.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/882.m3u8
-#EXTINF:-1 ,x
-http://watchindia.net:8880/live/vvv/vvv/845.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/928.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/971.m3u8
-#EXTINF:-1 x
-http://watchindia.net:8880/live/vvv/vvv/930.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/929.m3u8
-#EXTINF:-1 x
-http://watchindia.net:8880/live/vvv/vvv/931.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/973.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/2290.m3u8
-#EXTINF:-1 x
-http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/1004.m3u8
-#EXTINF:-1,x
-http://watchindia.net:8880/live/vvv/vvv/1003.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/988.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/279.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
-#EXTINF:-1 xc
-http://watchindia.net:8880/live/vvv/vvv/2322.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/299.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/298.m3u8
-#EXTINF:-1, x
-http://watchindia.net:8880/live/vvv/vvv/285.m3u8
-
-
-
-
-
 
