@@ -1,5 +1,4 @@
 
-
 #EXTINF:-1,SUN BANGLA
 http://50.7.237.4:8080/SUNBANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="0-9-402" tvg-name="ABP Ananda" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-402/list/abpananda1170c77c5041dab94531aae8870da9d700f6.png" group-title="ZEE 5 (SPECIAL)",ABP Ananda
@@ -22,7 +21,6 @@ http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddgirnar
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddindia
 #EXTINF:-1 tvg-id="0-9-ddkisan" tvg-name="DD Kisan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddkisan/list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.png" group-title="ZEE 5 (SPECIAL)",DD Kisan
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddkisan
-
 #EXTINF:-1 tvg-id="0-9-378" tvg-name="TV9 Bangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-378/list/tv9bangla11701498fb25d3fd4b4db18c5d4e05e83cc9ce.png" group-title="ZEE 5 (SPECIAL)",TV9 Bangla
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-378
 #EXTINF:-1 tvg-id="0-9-251" tvg-name="TV9 Bharatvarsh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-251/list/tv9bharatvarshb1170cfcedff1425c46df828ed7b37cdbaf0d.png" group-title="ZEE 5 (SPECIAL)",TV9 Bharatvarsh
