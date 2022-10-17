@@ -1,9 +1,9 @@
 
 
-
+#EXTINF:-1,SUN BANGLA
+http://50.7.237.4:8080/SUNBANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="0-9-402" tvg-name="ABP Ananda" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-402/list/abpananda1170c77c5041dab94531aae8870da9d700f6.png" group-title="ZEE 5 (SPECIAL)",ABP Ananda
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-402
-
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/list/1170x658withlog2022520414.png" group-title="ZEE 5 (SPECIAL)",Big Magic
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-bigmagic_1786965389
 #EXTINF:-1 tvg-id="0-9-165" tvg-name="Boogle Bollywood" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-165/list/booglebollywood1170b04fcd6e812f421d9622ce085065c141.png" group-title="ZEE 5 (SPECIAL)",Boogle Bollywood
