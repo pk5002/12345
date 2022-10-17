@@ -1,3 +1,33 @@
+#EXTINF:-1,STAR PRAVAH HD
+http://50.7.237.4:8080/STARPARVAHHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,COLORS TAMIL HD
+http://50.7.237.4:8080/COLORSTAMILHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,AND TV HD
+http://50.7.237.4:8080/ANDTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,AND PICTURE HD
+http://50.7.237.4:8080/ANDPICTURESHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ETVHD
+http://50.7.237.4:8080/ETVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,RAJMUSIX
+http://50.7.237.4:8080/RAJMUSIX/tracks-v1a1/index.m3u8
+#EXTINF:-1,COLORSTAMILHD
+http://50.7.237.4:8080/COLORSTAMILHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ANDTVHD
+http://50.7.237.4:8080/ANDTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,SONYSIXHD
+http://50.7.237.4:8080/SONYSIXHD/tracks-v1a1/index.m3u8
+F:-1,RAJMUSIX
+http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,RAJMUSIX
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6692/index.m3u8
+#EXTINF:-1,RAJMUSIX
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6694/index.m3u8
+#EXTINF:-1,RAJMUSIX
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6696/index.m3u8
+#EXTINF:-1,RAJMUSIX
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6698/index.m3u8
+#EXTINF:-1,RAJMUSIX
+http://103.151.43.102:8800/play/a04w/index.m3u8
 
 #EXTINF:-1,SUN BANGLA
 http://50.7.237.4:8080/SUNBANGLA/tracks-v1a1/index.m3u8
