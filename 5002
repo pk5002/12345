@@ -1,3 +1,122 @@
+
+
+
+#EXTINF:-1 tvg-id="0-9-402" tvg-name="ABP Ananda" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-402/list/abpananda1170c77c5041dab94531aae8870da9d700f6.png" group-title="ZEE 5 (SPECIAL)",ABP Ananda
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-402
+
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/list/1170x658withlog2022520414.png" group-title="ZEE 5 (SPECIAL)",Big Magic
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-id="0-9-165" tvg-name="Boogle Bollywood" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-165/list/booglebollywood1170b04fcd6e812f421d9622ce085065c141.png" group-title="ZEE 5 (SPECIAL)",Boogle Bollywood
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-165
+#EXTINF:-1 tvg-id="0-9-ddbangla" tvg-name="DD Bangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbangla/list/1170x658withlog1242891543.png" group-title="ZEE 5 (SPECIAL)",DD Bangla
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddbangla
+#EXTINF:-1 tvg-id="0-9-ddbharati" tvg-name="DD Bharati" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbharati/list/1170x658withlog_1749264623.png" group-title="ZEE 5 (SPECIAL)",DD Bharati
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddbharati
+#EXTINF:-1 tvg-id="0-9-ddbihar" tvg-name="DD Bihar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbihar/list/1170x658withlog_1865440648.png" group-title="ZEE 5 (SPECIAL)",DD Bihar
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddbihar
+#EXTINF:-1 tvg-id="0-9-ddchandana" tvg-name="DD Chandana" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddchandana/list/1170x658withlogo_222569298.png" group-title="ZEE 5 (SPECIAL)",DD Chandana
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddchandana
+#EXTINF:-1 tvg-id="0-9-ddgirnar" tvg-name="DD Girnar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddgirnar/list/1170x658withlog_1445842484.png" group-title="ZEE 5 (SPECIAL)",DD Girnar
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddgirnar
+#EXTINF:-1 tvg-id="0-9-ddindia" tvg-name="DD India" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddindia/list/ddindiab1170e005f1e37e0245c1a6ba011da7bbd98e.png" group-title="ZEE 5 (SPECIAL)",DD India
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddindia
+#EXTINF:-1 tvg-id="0-9-ddkisan" tvg-name="DD Kisan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddkisan/list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.png" group-title="ZEE 5 (SPECIAL)",DD Kisan
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddkisan
+
+#EXTINF:-1 tvg-id="0-9-378" tvg-name="TV9 Bangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-378/list/tv9bangla11701498fb25d3fd4b4db18c5d4e05e83cc9ce.png" group-title="ZEE 5 (SPECIAL)",TV9 Bangla
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-378
+#EXTINF:-1 tvg-id="0-9-251" tvg-name="TV9 Bharatvarsh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-251/list/tv9bharatvarshb1170cfcedff1425c46df828ed7b37cdbaf0d.png" group-title="ZEE 5 (SPECIAL)",TV9 Bharatvarsh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-251
+#EXTINF:-1 tvg-id="0-9-260" tvg-name="TV9 Gujarati" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-260/list/tv9gujarati1170e4e9126e1eb746e6853966345db1d375.png" group-title="ZEE 5 (SPECIAL)",TV9 Gujarati
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-260
+#EXTINF:-1 tvg-id="0-9-259" tvg-name="TV9 Kannada" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-259/list/tv9kannada1170a4eae60d238048e5ba07bc51b44305d3.png" group-title="ZEE 5 (SPECIAL)",TV9 Kannada
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-259
+#EXTINF:-1 tvg-id="0-9-257" tvg-name="TV9 Marathi" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-257/list/tv9marathi11707047d08082244d888383f016618dd8d1.png" group-title="ZEE 5 (SPECIAL)",TV9 Marathi
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-257
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-258/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="ZEE 5 (SPECIAL)",TV9 Telugu
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-258
+#EXTINF:-1 tvg-id="0-9-wion" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-wion/list/wion1170f27d4cfea0034f28b51f3bcc4c93ef3c.png" group-title="ZEE 5 (SPECIAL)",WION
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-wion
+#EXTINF:-1 tvg-id="0-9-426" tvg-name="xp342sjh_ITL20" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-426/list/" group-title="ZEE 5 (SPECIAL)",xp342sjh_ITL20
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-426
+#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-name="Zee 24 Kalak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zee24kalak/list/zee24kalak117084349197e3404489902c872aa2d44800.png" group-title="ZEE 5 (SPECIAL)",Zee 24 Kalak
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zee24kalak
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zee24taas/list/zee24taas117037416fdbe6564d2cb49d84c80c2b21d1.png" group-title="ZEE 5 (SPECIAL)",Zee 24 Taas
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zee24taas
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeaction/list/1170x658withlog_1953200347.png" group-title="ZEE 5 (SPECIAL)",Zee Action
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeaction
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeanmol/list/1170x658withlog1844143347.png" group-title="ZEE 5 (SPECIAL)",Zee Anmol
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeanmol
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeanmolcinema/list/1170x658withlog1721007595.png" group-title="ZEE 5 (SPECIAL)",Zee Anmol Cinema
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebanglacinema/list/1170x658withlog1238879598.png" group-title="ZEE 5 (SPECIAL)",Zee Bangla Cinema
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebanglacinema
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebangla/list/1170x658310781121.png" group-title="ZEE 5 (SPECIAL)",Zee Bangla HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebangla
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/list/zeebiharjharkhandb11701c02b03e336d4ef792d4b32a343223d6.png" group-title="ZEE 5 (SPECIAL)",Zee Bihar Jharkhand
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebiharjharkhand
+#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-216/list/1170x658withlogo20909261.png" group-title="ZEE 5 (SPECIAL)",Zee Biskope
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-216
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeclassic/list/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="ZEE 5 (SPECIAL)",Zee Bollywood
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeclassic
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebusiness/list/zeebusiness1170af2e0e4454a1440f87d39a255727708c.png" group-title="ZEE 5 (SPECIAL)",Zee Business
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebusiness
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Café HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/list/1170x658withlogo325698699.png" group-title="ZEE 5 (SPECIAL)",Zee Café HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecafehd
+#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-394/list/1170x658717187404.png" group-title="ZEE 5 (SPECIAL)",Zee Chitramandir
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-394
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinema/list/1170x658withlogo807278654.png" group-title="ZEE 5 (SPECIAL)",Zee Cinema
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinema
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemahd/list/1170x658withlogo167952257.png" group-title="ZEE 5 (SPECIAL)",Zee Cinema HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="ZEE 5 (SPECIAL)",Zee Cinemalu HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-176/list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="ZEE 5 (SPECIAL)",Zee Classic
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-176
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeekalinganews/list/zeedelhiharyana1170x658e8b7b3111f204117a0bcf3f8a1327e7b.png" group-title="ZEE 5 (SPECIAL)",Zee Delhi NCR Haryana
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeekalinganews
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Ganga" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigganga/list/1170x6581735687172.png" group-title="ZEE 5 (SPECIAL)",Zee Ganga
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-bigganga
+
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeemarathi/list/1170x658withlogo551054149.png" group-title="ZEE 5 (SPECIAL)",Zee Marathi HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeemarathi
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeenews/list/zeenews1170ef9d2835a60641f1be62323e9d345e60.png" group-title="ZEE 5 (SPECIAL)",Zee News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeenews
+
+#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-sarthaktv/list/1170x658withlog1150431941.png" group-title="ZEE 5 (SPECIAL)",Zee Sarthak
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-sarthaktv
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetalkies/list/1170x658483062857.png" group-title="ZEE 5 (SPECIAL)",Zee Talkies HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetalkies
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetamil/list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="ZEE 5 (SPECIAL)",Zee Tamil HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetamil
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="ZEE 5 (SPECIAL)",Zee Telugu HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
+#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-224/list/1170x658withlogo_334138193.png" group-title="ZEE 5 (SPECIAL)",Zee Thirai
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-224
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetv/list/1170x658withlogo_200095097.png" group-title="ZEE 5 (SPECIAL)",Zee TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetv
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetvhd/list/1170x658withlog1554775145.png" group-title="ZEE 5 (SPECIAL)",Zee TV HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetvhd
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeyuva/list/1170x658withlogo_361849131.png" group-title="ZEE 5 (SPECIAL)",Zee Yuva
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeyuva
+#EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-348/list/1170x658withlog2096037619.png" group-title="ZEE 5 (SPECIAL)",Zee Zest HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-348
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zing/list/1170x658withlogo895666865.png" group-title="ZEE 5 (SPECIAL)",Zing
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zing
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_2105335046/list/1170x658379547401.png" group-title="ZEE 5 (SPECIAL)",&flix HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-pictures/list/1170x658withlog_1269578414.png" group-title="ZEE 5 (SPECIAL)",&Pictures
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-pictures
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-tvpictureshd/list/1170x658withlog1476130363.png" group-title="ZEE 5 (SPECIAL)",&Pictures HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="&Prive HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-privéhd/list/1170x658withlogo375086496.png" group-title="ZEE 5 (SPECIAL)",&Prive HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-privéhd
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-tvhd_0/list/1170x658withlogo378606665.png" group-title="ZEE 5 (SPECIAL)",&TV HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-tvhd_0
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-209/list/1170x658withlogo358457080.png" group-title="ZEE 5 (SPECIAL)",&xplorHD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-209
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-name="24 Ghanta" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-24ghantatv/list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png" group-title="ZEE 5 (SPECIAL)",24 Ghanta
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-24ghantatv
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 https://tv.googledrivelinks.com/live.php?c=Colors_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony HD
