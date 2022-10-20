@@ -1,8 +1,15 @@
 #EXTINF:-1,STAR SPORT1 HD
 https://tvs1.aynaott.com/StartSports1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR SPORT2 HD
-https://tvs1.aynaott.com/StartSports2hd/tracks-v1a1/mono.m3u8
-
+https://tvs1.aynaott.com/StartSports2hd/tracks-v1a1/mono.m3u8https://thenayeemparvez@tvs1.aynaott.com/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY SIX HD
+https://thenayeemparvez@tvs1.aynaott.com/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TEN3 HD
+https://thenayeemparvez@tvs1.aynaott.com/Ten3HD/index.m3u8
+#EXTINF:-1,TEN2 HD
+https://thenayeemparvez@tvs1.aynaott.com/Ten2HD/index.m3u8
+#EXTINF:-1,TEN1 HD
+https://thenayeemparvez@tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, FASHION TV
