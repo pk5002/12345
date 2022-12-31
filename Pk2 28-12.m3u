@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",01. Sananda TV India
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3Mi4XAi" group-title="Bangla",02.Matri Bhumi HD
+http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+
 #EXTINF:1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="TV",Top Channel
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/1
 #EXTINF:1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="TV",Klan HD
@@ -729,3 +735,189 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/597
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/598
 #EXTINF:1 tvg-id="" tvg-name="GR: Era Sport" tvg-logo="" group-title="TV",GR: Era Sport
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/599
+#EXTM3U
+#EXTINF:-1,ORANGE SPORT 4 HD
+http://51.75.64.67:8000/play/a03h
+#EXTINF:-1,ORANGE SPORT 3 HD
+http://51.75.64.67:8000/play/a03g
+#EXTINF:-1,PRIMA SPORT 1 HD
+http://51.75.64.67:8000/play/a033
+#EXTINF:-1,PRIMA SPORT 5 HD
+http://51.75.64.67:8000/play/a03j
+#EXTINF:-1,SPORT EXTRA HD
+http://51.75.64.67:8000/play/a024
+#EXTINF:-1,A7
+http://51.75.64.67:8000/play/a049
+#EXTINF:-1,A7 HD
+http://51.75.64.67:8000/play/a048
+#EXTINF:-1,ACASA GOLD
+http://51.75.64.67:8000/play/a04c
+#EXTINF:-1,ACASA GOLD HD
+http://51.75.64.67:8000/play/a01r
+#EXTINF:-1,ACCENT TV OLTENIA
+http://51.75.64.67:8000/play/a030
+#EXTINF:-1,ALBA CAROLINA HD
+http://51.75.64.67:8000/play/a01h
+#EXTINF:-1,AMC HD
+http://51.75.64.67:8000/play/a03t
+#EXTINF:-1,ANIMAL PLANET HD
+http://51.75.64.67:8000/play/a01i
+#EXTINF:-1,ATOMIC ACADEMY HD
+http://51.75.64.67:8000/play/a04d
+#EXTINF:-1,ATOMIC TV
+http://51.75.64.67:8000/play/a02z
+#EXTINF:-1,ATOMIC TV HD
+http://51.75.64.67:8000/play/a02y
+#EXTINF:-1,Acasa HD
+http://51.75.64.67:8000/play/a01b
+#EXTINF:-1,Antena 1 HD
+http://51.75.64.67:8000/play/a01d
+#EXTINF:-1,Antena 3 HD
+http://51.75.64.67:8000/play/a01e
+#EXTINF:-1,Antena Stars HD
+http://51.75.64.67:8000/play/a01f
+#EXTINF:-1,B1 TV HD
+http://51.75.64.67:8000/play/a039
+#EXTINF:-1,BABY TV
+http://51.75.64.67:8000/play/a03x
+#EXTINF:-1,BALADA TV
+http://51.75.64.67:8000/play/a05e
+#EXTINF:-1,BALKAN TV P
+http://51.75.64.67:8000/play/a05g
+#EXTINF:-1,BANAT TV
+http://51.75.64.67:8000/play/a03i
+#EXTINF:-1,BBC FIRST HD
+http://51.75.64.67:8000/play/a03p
+#EXTINF:-1,BOLLYWOOD CLASSIC
+http://51.75.64.67:8000/play/a01k
+#EXTINF:-1,BOLLYWOOD FILM
+http://51.75.64.67:8000/play/a01l
+#EXTINF:-1,BOLLYWOOD HD
+http://51.75.64.67:8000/play/a01j
+#EXTINF:-1,BOOMERANG HD
+http://51.75.64.67:8000/play/a01m
+#EXTINF:-1,BUCURESTI TV HD
+http://51.75.64.67:8000/play/a02e
+#EXTINF:-1,CANAL 33 HD
+http://51.75.64.67:8000/play/a01n
+#EXTINF:-1,CARTOON NETWORK HD
+http://51.75.64.67:8000/play/a01o
+#EXTINF:-1,CINEMARATON HD
+http://51.75.64.67:8000/play/a04u
+#EXTINF:-1,CINETUBE HD
+http://51.75.64.67:8000/play/a01p
+#EXTINF:-1,DORCEL TV HD
+http://51.75.64.67:8000/play/a043
+#EXTINF:-1,DORCEL XXX HD
+http://51.75.64.67:8000/play/a044
+#EXTINF:-1,DTX HD
+http://51.75.64.67:8000/play/a01q
+#EXTINF:-1,DiscoMix HD
+http://51.75.64.67:8000/play/a019
+#EXTINF:-1,Discovery HD
+http://51.75.64.67:8000/play/a01g
+#EXTINF:-1,EURONEWS HD
+http://51.75.64.67:8000/play/a01s
+#EXTINF:-1,EVENIMET TV
+http://51.75.64.67:8000/play/a02k
+#EXTINF:-1,EXPORIS TV HD
+http://51.75.64.67:8000/play/a02u
+#EXTINF:-1,FILMCAFE HD
+http://51.75.64.67:8000/play/a032
+#EXTINF:-1,FISHING HD
+http://51.75.64.67:8000/play/a01t
+#EXTINF:-1,GIURGIU TV
+http://51.75.64.67:8000/play/a02j
+#EXTINF:-1,GTV OLTENIA
+http://51.75.64.67:8000/play/a02i
+#EXTINF:-1,HGTV HD
+http://51.75.64.67:8000/play/a01u
+#EXTINF:-1,HISTORY 2 HD
+http://51.75.64.67:8000/play/a042
+#EXTINF:-1,HISTORY HD
+http://51.75.64.67:8000/play/a04n
+#EXTINF:-1,ID DISCOVERY HD
+http://51.75.64.67:8000/play/a01v
+#EXTINF:-1,IDA TV HD
+http://51.75.64.67:8000/play/a02b
+#EXTINF:-1,INFO HUNEDOARA
+http://51.75.64.67:8000/play/a03c
+#EXTINF:-1,KISS TV HD
+http://51.75.64.67:8000/play/a01w
+#EXTINF:-1,Kanal D HD
+http://51.75.64.67:8000/play/a01a
+#EXTINF:-1,LINK PRESS HD
+http://51.75.64.67:8000/play/a01x
+#EXTINF:-1,LOVE NATURE HD
+http://51.75.64.67:8000/play/a05h
+#EXTINF:-1,MAGIC TV HD
+http://51.75.64.67:8000/play/a01y
+#EXTINF:-1,MEDIASUD
+http://51.75.64.67:8000/play/a02h
+#EXTINF:-1,MEDIKA TV
+http://51.75.64.67:8000/play/a020
+#EXTINF:-1,METROPOLA TV HD
+http://51.75.64.67:8000/play/a022
+#EXTINF:-1,MOLDOVA TV HD
+http://51.75.64.67:8000/play/a02t
+#EXTINF:-1,NCN
+http://51.75.64.67:8000/play/a02r
+#EXTINF:-1,NCN CLUJ
+http://51.75.64.67:8000/play/a02s
+#EXTINF:-1,OLTENIA 3 TV
+http://51.75.64.67:8000/play/a02f
+#EXTINF:-1,OLTENIA TV
+http://51.75.64.67:8000/play/a02g
+#EXTINF:-1,PAPIRKA HD
+http://51.75.64.67:8000/play/a031
+#EXTINF:-1,PARTYMIX HD
+http://51.75.64.67:8000/play/a03d
+#EXTINF:-1,PRIMA TV HD
+http://51.75.64.67:8000/play/a02a
+#EXTINF:-1,Prima News HD
+http://51.75.64.67:8000/play/a04e
+#EXTINF:-1,Pro Arena HD
+http://51.75.64.67:8000/play/a01c
+#EXTINF:-1,ProCinema HD
+http://51.75.64.67:8000/play/a02o
+#EXTINF:-1,ROCK TV HD
+http://51.75.64.67:8000/play/a01z
+#EXTINF:-1,SCIENCE HD
+http://51.75.64.67:8000/play/a023
+#EXTINF:-1,SWEET TV
+http://51.75.64.67:8000/play/a02l
+#EXTINF:-1,TELE 2 DROBETA
+http://51.75.64.67:8000/play/a02x
+#EXTINF:-1,TELE EUROPA NOVA
+http://51.75.64.67:8000/play/a03f
+#EXTINF:-1,TELE U CRAIOVA
+http://51.75.64.67:8000/play/a02c
+#EXTINF:-1,TEZAUR TV
+http://51.75.64.67:8000/play/a038
+#EXTINF:-1,TLC HD
+http://51.75.64.67:8000/play/a025
+#EXTINF:-1,TRALALA HD
+http://51.75.64.67:8000/play/a026
+#EXTINF:-1,TV AS
+http://51.75.64.67:8000/play/a03m
+#EXTINF:-1,TVR CULTURAL HD
+http://51.75.64.67:8000/play/a04l
+#EXTINF:-1,TVR INFO HD
+http://51.75.64.67:8000/play/a02v
+#EXTINF:-1,UTV HD
+http://51.75.64.67:8000/play/a02w
+#EXTINF:-1,VASLUI TV HD
+http://51.75.64.67:8000/play/a027
+#EXTINF:-1,VIXEN
+http://51.75.64.67:8000/play/a045
+#EXTINF:-1,VP
+http://51.75.64.67:8000/play/a03e
+#EXTINF:-1,VTV
+http://51.75.64.67:8000/play/a03n
+#EXTINF:-1,WARNER TV HD
+http://51.75.64.67:8000/play/a029
+#EXTINF:-1,ZOOM TV HD
+http://51.75.64.67:8000/play/a028
+#EXTINF:-1,balcan music
+http://51.75.64.67:8000/play/a05f
+
