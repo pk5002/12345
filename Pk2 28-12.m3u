@@ -740,7 +740,7 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/599
 
 
 #EXTM3U
-#EXTINF:-1,ORANGE SPORT 4 HD
+#EXTINF:-1,group-title="BRA",ORANGE SPORT 4 HD
 http://51.75.64.67:8000/play/a03h
 #EXTINF:-1,ORANGE SPORT 3 HD
 http://51.75.64.67:8000/play/a03g
