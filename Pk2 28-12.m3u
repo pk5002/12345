@@ -1,10 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",ASAIN TV
+http://103.106.243.124:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",01. Sananda TV India
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Mi4XAi" group-title="Bangla",02.Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://bit.ly/3Mi4XAi" group-title="Bangla",GAZI TV
+http://103.106.243.124:4000/play/a003/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="TV",Top Channel
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/1
 #EXTINF:1 tvg-id="" tvg-name="Klan HD" tvg-logo="" group-title="TV",Klan HD
