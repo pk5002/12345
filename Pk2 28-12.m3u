@@ -742,5 +742,18 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/599
 
 
 #EXTM3U
-#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",GR: Era Sport
+#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",SUN TV HD
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/6692/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",MTV Music 
+http://51.210.227.128/hls/stream.m3u8
+#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",Navahang
+http://51.210.227.130/hls/stream.m3u8
+#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",Afghanistan tv
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",Afghanistan TV 
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:1 tvg-id="" tvg-name="IN:SUN TV" tvg-logo="" group-title="INDIAN TV",Ava series 
+http://51.210.199.4/hls/stream.m3u8
+
+
