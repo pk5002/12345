@@ -53,6 +53,8 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/3647
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/69357
 #EXTINF:-1 tvg-id="" tvg-name="BD: Somoy News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9ea9ce147b648b97f06d1251da84fa39.png" group-title="Bangladesh",BD: Somoy News TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/69359
+
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: & pictures" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="India",IN: & pictures
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/16958
 #EXTINF:-1 tvg-id="" tvg-name="IN: & prive" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="India",IN: & prive
@@ -61,16 +63,6 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49557
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/16964
 #EXTINF:-1 tvg-id="" tvg-name="IN: & Xplor" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/18036e4bd3ddc3c3db52b1130ef78451.png" group-title="India",IN: & Xplor
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/196116
-#EXTINF:-1 tvg-id="" tvg-name="IN: 3 Tamil TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: 3 Tamil TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/60420
-#EXTINF:-1 tvg-id="" tvg-name="IN: 10 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/eb026dd8374e2a579d699da2891c4768.jpg" group-title="India",IN: 10 TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/296485
-#EXTINF:-1 tvg-id="" tvg-name="IN: 1st India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fe8e68daffc9236e9caeb9952056500.png" group-title="India",IN: 1st India
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/159102
-#EXTINF:-1 tvg-id="" tvg-name="IN: 24 News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a796e8239c5525bd309682d1806fbc18.png" group-title="India",IN: 24 News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/82567
-#EXTINF:-1 tvg-id="" tvg-name="IN: 5AAB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/d2aa64b7bec26f242538122d41a43fea.png" group-title="India",IN: 5AAB TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/286195
 #EXTINF:-1 tvg-id="" tvg-name="IN: 9X Jalwa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a7478c536efb581d336c1a404206cb2.png" group-title="India",IN: 9X Jalwa
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/45465
 #EXTINF:-1 tvg-id="" tvg-name="IN: 9X Jhakaas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/936f84ee0b67a5725ab0f7690f31daa6.png" group-title="India",IN: 9X Jhakaas
@@ -79,20 +71,8 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/165802
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/45455
 #EXTINF:-1 tvg-id="" tvg-name="IN: 9XM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7ae64593b56437b694019f85fe0d2a57.png" group-title="India",IN: 9XM
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/45471
-#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef24d3b47d22022b7c73816653c39167.png" group-title="India",IN: Aaj Tak
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/12977
 #EXTINF:-1 tvg-id="" tvg-name="IN: Aapka Colors" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d0e4ea08f083d15b315d6e2db1993d4.png" group-title="India",IN: Aapka Colors
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/196121
-#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bf347badee24d6e24ca3290e293b545e.png" group-title="India",IN: Aastha Kannada
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/269761
-#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13355aca97c24ac469d51750cfcd38a6.png" group-title="India",IN: Aastha TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/145647
-#EXTINF:-1 tvg-id="" tvg-name="IN: Aathavan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/409205c88eaddeeead01d24e96e5b185.jpg" group-title="India",IN: Aathavan TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/267432
-#EXTINF:-1 tvg-id="" tvg-name="IN: ABN Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/da6d5442b0795230b2f7cda8e6b5f573.jpeg" group-title="India",IN: ABN Telugu
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/163257
-#EXTINF:-1 tvg-id="" tvg-name="IN: ABP" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9f57eb6f8ec12254045254ccaa736c2a.png" group-title="India",IN: ABP
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/192817
 #EXTINF:-1 tvg-id="" tvg-name="IN: ABP Ananda" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5846a634547868acfdbd12164f7616c0.png" group-title="India",IN: ABP Ananda
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/159103
 #EXTINF:-1 tvg-id="" tvg-name="IN: ABP Majha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5b0bd0d3d3be316a7fb99518d1b37ec7.png" group-title="India",IN: ABP Majha
@@ -849,24 +829,18 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/173160
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1347
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zoom" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/568f50fca8c93f5f54d6ba044d570687.png" group-title="India",IN: Zoom
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/192069
-#EXTINF:-1 tvg-id="" tvg-name="PK: 24 News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1900c2f122d5fc716682ee1ad82c1693.png" group-title="Pakistan",PK: 24 News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1403
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PK: 8XM" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e6f3b2e8848c942ed7b6922458ac526c.png" group-title="Pakistan",PK: 8XM
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/82577
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="PK: 92 News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c7642ee5f1bff74f7ef7cf11a91804f.png" group-title="Pakistan",PK: 92 News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1402
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3c57344eddf28ec459a5e1d149cb99b.png" group-title="Pakistan",PK: A Plus
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49504
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/52a572983d1046c0702e90fe0a0105f3.png" group-title="Pakistan",PK: A Sports
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/295025
 #EXTINF:-1 tvg-id="" tvg-name="PK: Aaj Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d68e68fd0a2a0b6d5cc45aabaafb82e8.png" group-title="Pakistan",PK: Aaj Entertainment
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/19748
-#EXTINF:-1 tvg-id="" tvg-name="PK: Aaj News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da6a7f07d5c8042d61ff68cd563b9f36.png" group-title="Pakistan",PK: Aaj News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1401
-#EXTINF:-1 tvg-id="" tvg-name="PK: Abb Takk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4fa10504b42565dbbfb8481083dcd28.png" group-title="Pakistan",PK: Abb Takk
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1400
-#EXTINF:-1 tvg-id="" tvg-name="PK: Akaal Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4bbbc11d359dd0a12e10914c771f750.png" group-title="Pakistan",PK: Akaal Channel
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/193653
 #EXTINF:-1 tvg-id="" tvg-name="PK: Apna Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/027e76ca6234b18595b44ac6f8148018.png" group-title="Pakistan",PK: Apna Channel
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/76824
 #EXTINF:-1 tvg-id="" tvg-name="PK: ARY Digital Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3de89ef4cb6a6fb7015caf149332b74.png" group-title="Pakistan",PK: ARY Digital Asia
@@ -897,22 +871,12 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49501
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/192079
 #EXTINF:-1 tvg-id="" tvg-name="PK: City 42" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3a7289c6f6ebac9ae0aec0729c389cc1.png" group-title="Pakistan",PK: City 42
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1394
-#EXTINF:-1 tvg-id="" tvg-name="PK: Dawn News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/081445505aa8642b1044c593f3bb20d4.png" group-title="Pakistan",PK: Dawn News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/5056
 #EXTINF:-1 tvg-id="" tvg-name="PK: Discovery Pakistan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f388fd93174ae5447797fae986257ce8.png" group-title="Pakistan",PK: Discovery Pakistan
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/267107
-#EXTINF:-1 tvg-id="" tvg-name="PK: Dunya News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d78b39134a3a3170841217e8d9739a84.png" group-title="Pakistan",PK: Dunya News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1393
-#EXTINF:-1 tvg-id="" tvg-name="PK: EAwaz TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e0363f26627dcf072ccd8d3e3ae98288.png" group-title="Pakistan",PK: EAwaz TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/286205
-#EXTINF:-1 tvg-id="" tvg-name="PK: Eman Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4d9a408d6275e94085c8562dc43b7df6.png" group-title="Pakistan",PK: Eman Channel
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/197123
 #EXTINF:-1 tvg-id="" tvg-name="PK: Eternal Life TV Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c21e25f9a7ab1aa0db25f42125138d83.png" group-title="Pakistan",PK: Eternal Life TV Network
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/275976
 #EXTINF:-1 tvg-id="" tvg-name="PK: Express Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/abac504cbfc0e17c0b493bfd48d04a1b.png" group-title="Pakistan",PK: Express Entertainment
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/147052
-#EXTINF:-1 tvg-id="" tvg-name="PK: Express News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/267670c59ccc39f360ec48cde522a0a2.png" group-title="Pakistan",PK: Express News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/5105
 #EXTINF:-1 tvg-id="" tvg-name="PK: Fazal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/e6dbf497f81b33704dbccd305c8e8a11.png" group-title="Pakistan",PK: Fazal TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49600
 #EXTINF:-1 tvg-id="" tvg-name="PK: Film World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06ce557a91f7aa944b1667fed2745400.png" group-title="Pakistan",PK: Film World
@@ -921,28 +885,18 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/82238
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/197124
 #EXTINF:-1 tvg-id="" tvg-name="PK: Geo Kahani" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/152dd0f42f2b7c900d098c9b5b9a589d.png" group-title="Pakistan",PK: Geo Kahani
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1392
-#EXTINF:-1 tvg-id="" tvg-name="PK: Geo News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e69254cea700b9ee98efab05bc3bb670.png" group-title="Pakistan",PK: Geo News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1391
 #EXTINF:-1 tvg-id="" tvg-name="PK: Geo Super" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b41a0df64a223975c4d05df7570dff22.png" group-title="Pakistan",PK: Geo Super
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/16626
 #EXTINF:-1 tvg-id="" tvg-name="PK: Geo Tez" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/943384b23e82a5628bbf922a854dda45.png" group-title="Pakistan",PK: Geo Tez
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/5106
 #EXTINF:-1 tvg-id="" tvg-name="PK: Geo TV Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2eb9d058ec2fe617306e030eec31e7b6.png" group-title="Pakistan",PK: Geo TV Network
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1389
-#EXTINF:-1 tvg-id="" tvg-name="PK: Hidayat TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/88184b24596284808548889fc086b565.png" group-title="Pakistan",PK: Hidayat TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/193651
 #EXTINF:-1 tvg-id="" tvg-name="PK: Hum Masala" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/abf9cdaf9dec07ecf39c3780d645b6e8.png" group-title="Pakistan",PK: Hum Masala
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/19746
-#EXTINF:-1 tvg-id="" tvg-name="PK: Hum News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ef0b7dccf80d94601a5423f93341401.png" group-title="Pakistan",PK: Hum News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49493
 #EXTINF:-1 tvg-id="" tvg-name="PK: Hum Sitaray" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b754565deea2de3133cfeda06d7f738.png" group-title="Pakistan",PK: Hum Sitaray
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1386
 #EXTINF:-1 tvg-id="" tvg-name="PK: Hum TV Europe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c26ef665590bc22d57b1ed292ddaa9bc.png" group-title="Pakistan",PK: Hum TV Europe
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1387
-#EXTINF:-1 tvg-id="" tvg-name="PK: Isaac TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Pakistan",PK: Isaac TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/275949
-#EXTINF:-1 tvg-id="" tvg-name="PK: Islam Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/22a2a62be45385b75ed786aaf0fa4a9c.png" group-title="Pakistan",PK: Islam Channel
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/198251
 #EXTINF:-1 tvg-id="" tvg-name="PK: Jalwa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1229689e2ff37b69f35f5b6fd452be96.png" group-title="Pakistan",PK: Jalwa
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/226395
 #EXTINF:-1 tvg-id="" tvg-name="PK: Joo Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c48c78e008b5632b0801e343c9812568.png" group-title="Pakistan",PK: Joo Music
@@ -951,18 +905,8 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/168909
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1384
 #EXTINF:-1 tvg-id="" tvg-name="PK: Khyber Middle East TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f131b4a3d29f24bd7ce12918c0dc63e.png" group-title="Pakistan",PK: Khyber Middle East TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/16991
-#EXTINF:-1 tvg-id="" tvg-name="PK: Khyber News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d61a8921ece4131ed2838d967ddb48.png" group-title="Pakistan",PK: Khyber News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49533
 #EXTINF:-1 tvg-id="" tvg-name="PK: King TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6ff71e38151f79370cb27436fc7a765.png" group-title="Pakistan",PK: King TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/267425
-#EXTINF:-1 tvg-id="" tvg-name="PK: Kohenoor News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83d59bd61ac13dd76fa5ece6cba45c33.png" group-title="Pakistan",PK: Kohenoor News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/76827
-#EXTINF:-1 tvg-id="" tvg-name="PK: KTN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3dded37a3c42771b9a478b8b8f907fa9.png" group-title="Pakistan",PK: KTN
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/166013
-#EXTINF:-1 tvg-id="" tvg-name="PK: KTN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ff7dd498f7920b5609b7328555de6e3.png" group-title="Pakistan",PK: KTN News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/157332
-#EXTINF:-1 tvg-id="" tvg-name="PK: Lahore News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa8f277bdb8a79dfb19c9b37e3a8be16.png" group-title="Pakistan",PK: Lahore News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/18916
 #EXTINF:-1 tvg-id="" tvg-name="PK: Lahore Rang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/33ad8aee434b330807c268c07ebc44ed.png" group-title="Pakistan",PK: Lahore Rang
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/267564
 #EXTINF:-1 tvg-id="" tvg-name="PK: Madani Channel Urdu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6db9cf22e5ab25c3152687514176e06b.png" group-title="Pakistan",PK: Madani Channel Urdu
@@ -973,10 +917,7 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/196573
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/284256
 #EXTINF:-1 tvg-id="" tvg-name="PK: My TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bc610c0483521b26dba4d0097a0adbf7.png" group-title="Pakistan",PK: My TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/196243
-#EXTINF:-1 tvg-id="" tvg-name="PK: Neo News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/39649e991b7e45eb26a8999f6a253de5.png" group-title="Pakistan",PK: Neo News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1383
-#EXTINF:-1 tvg-id="" tvg-name="PK: News One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a16bdae5a686141050ff7a4f72a99fc.png" group-title="Pakistan",PK: News One
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/16994
+#EXTIN
 #EXTINF:-1 tvg-id="" tvg-name="PK: Noor TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/c912617c556bb83436a2df1f37aad706.png" group-title="Pakistan",PK: Noor TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/76821
 #EXTINF:-1 tvg-id="omni1.ca" tvg-name="PK: OMNI 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/32cbdc3103bea85a4efa6d5a2c6d5b6a.png" group-title="Pakistan",PK: OMNI 1
@@ -1039,6 +980,10 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1376
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1375
 #EXTINF:-1 tvg-id="" tvg-name="PK: Zindagi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d6f695aa012209dc56cdae6ad0b3b496.png" group-title="Pakistan",PK: Zindagi TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1374
+
+
+
+
 #EXTM3U
 #EXTINF:-1,DE: RTL
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/962
