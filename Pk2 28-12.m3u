@@ -579,14 +579,6 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/51876
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/296495
 #EXTINF:-1 tvg-id="" tvg-name="IN: Rtv Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2577568c9de695bd6d55ff309c4ed03b.jpeg" group-title="India ➾ Music",IN: Rtv Music
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/296559
-#EXTINF:-1 tvg-id="" tvg-name="IN: Saam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6895beae9bbbe188057a9df157b68e7a.png" group-title="India",IN: Saam TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/166387
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sada TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/72d0a45e2f9ee9badf718b1642c807bd.png" group-title="India",IN: Sada TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49625
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sadhna Plus News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d0f409b84422ab1ee589ae7188ebc911.png" group-title="India",IN: Sadhna Plus News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/166394
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sakshi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0a26d5546345d43f6af0b8534a2fbf9f.jpeg" group-title="India",IN: Sakshi TV
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/193164
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sana Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/779b5a1a0a97fc5e507c859f48087aa7.png" group-title="India",IN: Sana Plus
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/287021
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sana TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/262c79930db9e81a5ac51eaa404aedc3.png" group-title="India",IN: Sana TV
@@ -881,8 +873,6 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/76824
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49510
 #EXTINF:-1 tvg-id="" tvg-name="PK: ARY Musik" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/199eb1d537577369008c996b4977eb9e.png" group-title="Pakistan",PK: ARY Musik
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1398
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d94f24f75bcd4e821e06763ef40df4b.png" group-title="Pakistan",PK: ARY News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1397
 #EXTINF:-1 tvg-id="" tvg-name="PK: ARY QTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2c6cb81b334f8db7553a31898c2f805.png" group-title="Pakistan",PK: ARY QTV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/5058
 #EXTINF:-1 tvg-id="" tvg-name="PK: ARY Zindagi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/749a6cd42037ca49f25e52a19674ff91.png" group-title="Pakistan",PK: ARY Zindagi
@@ -894,9 +884,7 @@ http://iptvmedia.live:8080/96e1e190/c3374ca6b7/287724
 #EXTINF:-1 tvg-id="" tvg-name="PK: Awaz TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd7e3330a7e022950b717efaea8fbf06.png" group-title="Pakistan",PK: Awaz TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/197634
 #EXTINF:-1 tvg-id="" tvg-name="PK: Bol Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1cdd1ad29c66675280c522ca787f8948.png" group-title="Pakistan",PK: Bol Entertainment
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/49517
-#EXTINF:-1 tvg-id="" tvg-name="PK: Bol News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4a9d052c18f2876988619f0dab347d3b.png" group-title="Pakistan",PK: Bol News
-http://iptvmedia.live:8080/96e1e190/c3374ca6b7/1395
+http://iptvmedia.live:8080/96e1e190/c3374ca6b7/4
 #EXTINF:-1 tvg-id="" tvg-name="PK: Can Bangla TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9c58fac338c9764fe637770fa5a6d5b6.jfif" group-title="Pakistan",PK: Can Bangla TV
 http://iptvmedia.live:8080/96e1e190/c3374ca6b7/286198
 #EXTINF:-1 tvg-id="" tvg-name="PK: Canada One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/fb5b1927e68b964f57b65dc00077f418.jpeg" group-title="Pakistan",PK: Canada One
