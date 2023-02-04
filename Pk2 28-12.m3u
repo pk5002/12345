@@ -1,27 +1,34 @@
 
-#EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",01. Sananda TV India
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Mi4XAi" group-title="Bangla",02.Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-#EXTM3U
+#EXTINF:-1 , Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+#EXTINF:-1 ,Rasi Malayalam
+rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam
+#EXTINF:-1 ,Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 ,Rasi Telugu
+rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
+#EXTINF:-1 ,Rasi Hindi
+rtmp://singamcloud.in:1935/rasinetwork/rasihindi
+#EXTINF:-1 ,Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1,Rasi Lifestyle
+rtmp://singamcloud.in:1935/rasinetwork/cookings
 
 
 #EXTM3U
-
-
-★Bangla TV
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png"group-title="Bangla TV", DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png"group-title="Bangla TV", চ্যানেল 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
