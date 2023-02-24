@@ -3,7 +3,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",01. Sananda TV India
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Mi4XAi" group-title="Bangla",02.Matri Bhumi HD
-http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+https://discovery.channelplay.repl.co/api/Discovery_channel.html
 
 
 
