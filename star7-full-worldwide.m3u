@@ -11701,10 +11701,6 @@ http://212.224.84.217:2200/N-EX/AF_Asfiyahi_Tv_senegal-af/index.m3u8?token=pingu
 http://212.224.84.217:2200/N-EX/AF_Al_Mouridiyyah_TV_SENEGAL-af/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47874" tvg-name="Hindi Animal Planet World HD" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="Hindi", Hindi Animal Planet World HD
 http://212.224.84.217:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="51385" tvg-name="Hindi One News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mh-1-prime-in.png" group-title="Hindi", Hindi One News
-http://212.224.84.217:2200/R-EX/HINDI_MH_ONE_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48102" tvg-name="Hindi Colors HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png" group-title="Hindi", Hindi Colors HD
-http://212.224.84.217:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48104" tvg-name="Hindi Star Bharat HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/StarBharatOfficialLogo.png" group-title="Hindi", Hindi Star Bharat HD
 http://212.224.84.217:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48105" tvg-name="Star Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" group-title="Hindi", Star Sports 1 HD
@@ -11737,8 +11733,6 @@ http://212.224.84.217:2200/R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=pinguimtv
 http://212.224.84.217:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48135" tvg-name="Hindi Pictures HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/andpicturess.png" group-title="Hindi", Hindi Pictures HD
 http://212.224.84.217:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48139" tvg-name="Hindi AAJ TAK HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Aaj_tak_logo.png" group-title="Hindi", Hindi AAJ TAK HD
-http://212.224.84.217:2200/R-EX/HINDI_AAJ_TAK_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48140" tvg-name="Hindi MTV + HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/800px-MTV_Logo_2010.png" group-title="Hindi", Hindi MTV + HD
 http://212.224.84.217:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48141" tvg-name="Hindi Cineplex HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/cneplex.png" group-title="Hindi", Hindi Cineplex HD
@@ -11771,38 +11765,18 @@ http://212.224.84.217:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=pinguimtv
 http://212.224.84.217:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48180" tvg-name="Hindi B4U Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/music4u.png" group-title="Hindi", Hindi B4U Music
 http://212.224.84.217:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48182" tvg-name="Hindi ABP News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ABPNEWS1.png" group-title="Hindi", Hindi ABP News
-http://212.224.84.217:2200/R-EX/HINDI_ABP_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48184" tvg-name="Hindi Zing" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDZNG.png" group-title="Hindi", Hindi Zing
 http://212.224.84.217:2200/R-EX/HINDI_ZING-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48185" tvg-name="Hindi India TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDNEWS.png" group-title="Hindi", Hindi India TV
-http://212.224.84.217:2200/R-EX/HINDI_INDIA_TV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48187" tvg-name="Hindi Dangal" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/DANGAL.png" group-title="Hindi", Hindi Dangal
 http://212.224.84.217:2200/R-EX/HINDI_DANGAL-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48189" tvg-name="Hindi Zee News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeenewss.png" group-title="Hindi", Hindi Zee News
-http://212.224.84.217:2200/R-EX/HINDI_ZEE_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48190" tvg-name="Hindi NDTV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ndtv2.png" group-title="Hindi", Hindi NDTV
-http://212.224.84.217:2200/R-EX/HINDI_NDTV_INDIA-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51218" tvg-name="Star Sports Hindi 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png" group-title="Hindi", Star Sports Hindi 1 HD
 http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51165" tvg-name="Hindi Sony HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sonyhd.png" group-title="Hindi", Hindi Sony HD
-http://212.224.84.217:2200/R-EX/SONY_HD_-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48253" tvg-name="Hindi NDTV 24x7" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDTVPROF27.png" group-title="Hindi", Hindi NDTV 24x7
-http://212.224.84.217:2200/R-EX/HINDI_NDTV_24x7-in/index.m3u8?token=pinguimtv
+http://212.224.84.217:2200/R-EX/SONY_HD_-in/index.m3u8?token=pinguimtvv
 #EXTINF: -1 tvg-id="48255" tvg-name="Hindi Sony Max 2" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMAXX2.png" group-title="Hindi", Hindi Sony Max 2
 http://212.224.84.217:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48258" tvg-name="Hindi News 24" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDNEWS25.png" group-title="Hindi", Hindi News 24
-http://212.224.84.217:2200/R-EX/HINDI_E_NEWS_24-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48276" tvg-name="Hindi Zee Action" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee_action_hover.png" group-title="Hindi", Hindi Zee Action
 http://212.224.84.217:2200/R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48282" tvg-name="Hindi Republic News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/republcbharat.png" group-title="Hindi", Hindi Republic News
-http://212.224.84.217:2200/R-EX/HINDI_REPUBLIC_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48283" tvg-name="Hindi Zee Anmol Cinema" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeeanmoll.png" group-title="Hindi", Hindi Zee Anmol Cinema
-http://212.224.84.217:2200/R-EX/HINDI_ZEE_ANMOL_CINEMA-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48287" tvg-name="Hindi Zee News UP" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeenewss.png" group-title="Hindi", Hindi Zee News UP
-http://212.224.84.217:2200/R-EX/HINDI_ZEE_NEWS_UP-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48290" tvg-name="Hindi News 18 India" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/News18_Rajasthan.png" group-title="Hindi", Hindi News 18 India
-http://212.224.84.217:2200/R-EX/HINDI_NEWS_18_INDIA-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48303" tvg-name="Hindi Zee ETC Bollywood" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETCBOLL.png" group-title="Hindi", Hindi Zee ETC Bollywood
 http://212.224.84.217:2200/R-EX/HINDI_ZEE_ETC_BOLLYWOOD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48260" tvg-name="Jalwa" tvg-logo="http://files.rednetcontent.com/chlogo2/pakistani/jalwa_tv_pk.png" group-title="Hindi", Jalwa
@@ -11823,8 +11797,6 @@ http://212.224.84.217:2200/R-EX/PUNJABI_JUS_-in/index.m3u8?token=pinguimtv
 http://212.224.84.217:2200/R-EX/PUNJABI_PTC_CHAKDE-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48089" tvg-name="Punjabi PTC " tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ptcpunjab.png" group-title="Punjabi", Punjabi PTC
 http://212.224.84.217:2200/R-EX/PUNJABI_PTC_PUNJABI_-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48090" tvg-name="Punjabi PTC News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ptcnews.png" group-title="Punjabi", Punjabi PTC News
-http://212.224.84.217:2200/R-EX/PUNJABI_PTC_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51387" tvg-name="PBN Punjabi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/pbn-music.png" group-title="Punjabi", PBN Punjabi
 http://212.224.84.217:2200/R-EX/PBN_PUNJABI-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51135" tvg-name="Alpha ETC Punjabi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/alpha_etc_punjabi_us.png" group-title="Punjabi", Alpha ETC Punjabi
@@ -11838,23 +11810,6 @@ http://212.224.84.217:2200/R-EX/PTC_SIMRAN-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51179" tvg-name="Public Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/public-movies-in.png" group-title="Punjabi", Public Movies
 http://212.224.84.217:2200/R-EX/PUBLIC_MOVIES-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51169" tvg-name="PTC Punjabi Gold" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ptc-punjabi-gold-in.png" group-title="Punjabi", PTC Punjabi Gold
-http://212.224.84.217:2200/R-EX/PTC_PUNJABI_GOLD-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="54886" tvg-name="Fateh TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/fateh-tv.png" group-title="Punjabi", Fateh TV
-http://212.224.84.217:2200/R-EX/Fateh_Tv-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="54887" tvg-name="ABP Sanjha" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/abp-sanjha-in.png" group-title="Punjabi", ABP Sanjha
-http://212.224.84.217:2200/R-EX/ABP_SANJHA-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="54889" tvg-name="Living India News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/living_india_news_in.png" group-title="Punjabi", Living India News
-http://212.224.84.217:2200/R-EX/Living_India_News-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="54890" tvg-name="MH1 Prime" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mh-1-prime-in.png" group-title="Punjabi", MH1 Prime
-http://212.224.84.217:2200/R-EX/MH_1_Prime-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="54891" tvg-name="Tehelka TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tehelka-tv-in.png" group-title="Punjabi", Tehelka TV
-http://212.224.84.217:2200/R-EX/Tehelka_Tv-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="54892" tvg-name="India News Punjab" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/india_news_in.png" group-title="Punjabi", India News Punjab
-http://212.224.84.217:2200/R-EX/india_news_punjab-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48225" tvg-name="Urdu CVR News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/URDUCVRNEWS.png" group-title="Urdu", Urdu CVR News
-http://212.224.84.217:2200/R-EX/URDU_CVR_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48234" tvg-name="Urdu Channel Win" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/URDUCHANNEL.png" group-title="Urdu", Urdu Channel Win
-http://212.224.84.217:2200/R-EX/URDU_CHANNEL_WIN-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48005" tvg-name="Sports Star Tamil" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png" group-title="Tamil", Sports Star Tamil
 http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48006" tvg-name="Tamil Star Viyaj HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARVJAYHD.png" group-title="Tamil", Tamil Star Viyaj HD
@@ -11893,32 +11848,12 @@ http://212.224.84.217:2200/R-EX/TAMIL_SUN_NEWS_TAMIL_-in/index.m3u8?token=pingui
 http://212.224.84.217:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48032" tvg-name="Tamil Zee SD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETAMIL.png" group-title="Tamil", Tamil Zee SD
 http://212.224.84.217:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48037" tvg-name="Tamil Sathiyam TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SATMIYAMMMM.png" group-title="Tamil", Tamil Sathiyam TV
-http://212.224.84.217:2200/R-EX/TAMIL_SATHIYAM_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48038" tvg-name="Tamil Makkal TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAKKALTV.png" group-title="Tamil", Tamil Makkal TV
-http://212.224.84.217:2200/R-EX/TAMIL_MAKKAL_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48039" tvg-name="Tamil Raj Digital +" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJJJJ.png" group-title="Tamil", Tamil Raj Digital +
-http://212.224.84.217:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48040" tvg-name="Tamil Polimer TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/polimer.png" group-title="Tamil", Tamil Polimer TV
-http://212.224.84.217:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48041" tvg-name="Tamil Raj TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJTV.png" group-title="Tamil", Tamil Raj TV
 http://212.224.84.217:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48044" tvg-name="Tamil Raj Musix" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJMUSX1.png" group-title="Tamil", Tamil Raj Musix
 http://212.224.84.217:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48052" tvg-name="Tamil J Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tamu0131ljmovie.png" group-title="Tamil", Tamil J Movies
 http://212.224.84.217:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48056" tvg-name="Tamil Captain TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/03-captain-tv-logo66-300.png" group-title="Tamil", Tamil Captain TV
-http://212.224.84.217:2200/R-EX/TAMIL_CAPTAIN_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48060" tvg-name="Tamil Imayam TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MAYAMTV.png" group-title="Tamil", Tamil Imayam TV
-http://212.224.84.217:2200/R-EX/TAMIL_IMAYAM_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48061" tvg-name="Tamil Madha TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/madhaaatv.png" group-title="Tamil", Tamil Madha TV
-http://212.224.84.217:2200/R-EX/TAMIL_MADHA_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48063" tvg-name="Tamil Moon TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILMOON.png" group-title="Tamil", Tamil Moon TV
-http://212.224.84.217:2200/R-EX/TAMIL_MOON_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48064" tvg-name="Tamil Tamilan TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILANNNNTV.png" group-title="Tamil", Tamil Tamilan TV
-http://212.224.84.217:2200/R-EX/TAMIL_TAMILAN_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="48069" tvg-name="Tamil Jaya Max" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TAMILJAYA.png" group-title="Tamil", Tamil Jaya Max
-http://212.224.84.217:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51261" tvg-name="Tamil Colors FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-tamil-in-uk.png" group-title="Tamil", Tamil Colors FHD
 http://212.224.84.217:2200/R-EX/FHD_TAMIL_COLORS_-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47974" tvg-name="Telugu Star Maa Movies HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARMAAA.png" group-title="Telugu", Telugu Star Maa Movies HD
@@ -11943,24 +11878,16 @@ http://212.224.84.217:2200/R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=pinguimtv
 http://212.224.84.217:2200/R-EX/TELUGU_GEMINI_MUSIC-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47990" tvg-name="Telugu Gemini Life" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/gemini-life.png" group-title="Telugu", Telugu Gemini Life
 http://212.224.84.217:2200/R-EX/TELUGU_GEMINI_LIFE-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47991" tvg-name="Telugu V6 News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/V6_News_logo.png" group-title="Telugu", Telugu V6 News
-http://212.224.84.217:2200/R-EX/TELUGU_V6_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47992" tvg-name="Telugu Star Maa Gold" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Maa_Gold_2019_logo.png" group-title="Telugu", Telugu Star Maa Gold
 http://212.224.84.217:2200/R-EX/TELUGU_STAR_MAA_GOLD_-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47993" tvg-name="Telugu TV5 News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tvnews5.png" group-title="Telugu", Telugu TV5 News
-http://212.224.84.217:2200/R-EX/TELUGU_TV5_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47998" tvg-name="Telugu Zee HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Zee_Telugu_logo.png" group-title="Telugu", Telugu Zee HD
 http://212.224.84.217:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51041" tvg-name="ATN News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/atn_news_bd.png" group-title="Telugu", ATN News
 http://212.224.84.217:2200/R-EX/ATN_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47999" tvg-name="Telugu Raj News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/rajnewstelugu.png" group-title="Telugu", Telugu Raj News
-http://212.224.84.217:2200/R-EX/TELUGU_RAJ_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48001" tvg-name="Telugu Raj Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/RAJMUSIC.png" group-title="Telugu", Telugu Raj Music
 http://212.224.84.217:2200/R-EX/TELUGU_RAJ_MUSIC_TELUGU-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48004" tvg-name="Telugu Zee Cinemalu" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEECINEMA.png" group-title="Telugu", Telugu Zee Cinemalu
 http://212.224.84.217:2200/R-EX/TELUGU_ZEE_CINEMALU-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="51048" tvg-name="NTV News HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ntv-news-np.png" group-title="Telugu", NTV News HD
-http://212.224.84.217:2200/R-EX/NTV_NEWS_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51253" tvg-name="Zee Telugu FHD " tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-telugu-in.png" group-title="Telugu", Zee Telugu FHD
 http://212.224.84.217:2200/R-EX/FHD_ZEE_TELUGU_-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47902" tvg-name="Bengali Star Jalsha HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Staralsha.png" group-title="Bengali", Bengali Star Jalsha HD
@@ -12009,8 +11936,6 @@ http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_HD-in/index.m3u8?token=pinguimtv
 http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_COMEDY_-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47844" tvg-name="Kannada Udaya Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Udaya-Movies-Channel-logo.png" group-title="Kannada", Kannada Udaya Movies
 http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_MOVIES-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47845" tvg-name="Kannada Star Suvarna News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Suvarna_News_2016.png" group-title="Kannada", Kannada Star Suvarna News
-http://212.224.84.217:2200/R-EX/KANNADA_STAR_SUVARNA_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47846" tvg-name="Kannada BTV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadabtv1.png" group-title="Kannada", Kannada BTV
 http://212.224.84.217:2200/R-EX/KANNADA_BTV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47848" tvg-name="Kannada Udaya Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayamusc.png" group-title="Kannada", Kannada Udaya Music
@@ -12019,16 +11944,12 @@ http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_MUSIC-in/index.m3u8?token=pinguimt
 http://212.224.84.217:2200/R-EX/KANNADA_RAJ_MUSIC_KANNADA-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47851" tvg-name="Kannada Zee HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png" group-title="Kannada", Kannada Zee HD
 http://212.224.84.217:2200/R-EX/KANNADA_ZEE_KANNADA_HD-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47852" tvg-name="Kannada Raj News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/rajkannadanews.png" group-title="Kannada", Kannada Raj News
-http://212.224.84.217:2200/R-EX/KANNADA_RAJ_NEWS_KANNADA-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47853" tvg-name="Kannada Suvarna News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Suvarna_News_2016.png" group-title="Kannada", Kannada Suvarna News
 http://212.224.84.217:2200/R-EX/KANNADA_SUVARNA_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47856" tvg-name="Kannada Public TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Public-TV-kannada1.png" group-title="Kannada", Kannada Public TV
 http://212.224.84.217:2200/R-EX/KANNADA_PUBLIC_TV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51259" tvg-name="Kannada Colors FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-kannada-in.png" group-title="Kannada", Kannada Colors FHD
 http://212.224.84.217:2200/R-EX/FHD_KANNADA_COLORS_-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="51215" tvg-name="TV5 Kannada" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tvnews5.png" group-title="Kannada", TV5 Kannada
-http://212.224.84.217:2200/R-EX/TV5_KANNADA-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51040" tvg-name="Bangla RTV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/rtvlive.png" group-title="Bangla", Bangla RTV
 http://212.224.84.217:2200/R-EX/BANGLA_RTV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="51039" tvg-name="Bangla Times" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/banglatime.png" group-title="Bangla", Bangla Times
@@ -12057,31 +11978,12 @@ http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=pinguimtv
 http://212.224.84.217:2200/R-EX/MALAYALAM_AMRITHA_TV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47951" tvg-name="Malayalam Surya Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MALAYALAMSURYAAA.png" group-title="Malayalam", Malayalam Surya Music
 http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47952" tvg-name="Malayalam Manorama News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MANORAMANEWSS.png" group-title="Malayalam", Malayalam Manorama News
-http://212.224.84.217:2200/R-EX/MALAYALAM_MANORAMA_NEWS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47953" tvg-name="Malayalam Asianet Movie" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Logo-Of-Asianet-Movies.png" group-title="Malayalam", Malayalam Asianet Movie
 http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47954" tvg-name="Malayalam Asianet +" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Asianet-Plus-cover-Logo-999x562.png" group-title="Malayalam", Malayalam Asianet +
 http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47956" tvg-name="Malayalam Kairali People TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Kairali_logo_180_400x400.png" group-title="Malayalam", Malayalam Kairali People TV
-http://212.224.84.217:2200/R-EX/MALAYALAM_KAIRALI_PEOPLE_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47958" tvg-name="Malayalam Jaihind TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Jaihind-channel-logo-1200x1200.png" group-title="Malayalam", Malayalam Jaihind TV
-http://212.224.84.217:2200/R-EX/MALAYALAM_JAIHIND_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47962" tvg-name="Malayalam Raj News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/rajnewssmalayalam.png" group-title="Malayalam", Malayalam Raj News
-http://212.224.84.217:2200/R-EX/MALAYALAM_RAJ_NEWS_MALAYALAM-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47964" tvg-name="Malayalam Asianet News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/asianet_news2-1-1200x900.png" group-title="Malayalam", Malayalam Asianet News
-http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47965" tvg-name="Malayalam Flowers TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/FLowerssss.png" group-title="Malayalam", Malayalam Flowers TV
-http://212.224.84.217:2200/R-EX/MALAYALAM_FLOWER_TV-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47968" tvg-name="Malayalam WE TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Kairali-We-Tv-Logo.png" group-title="Malayalam", Malayalam WE TV
-http://212.224.84.217:2200/R-EX/MALAYALAM_WE_TV-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47969" tvg-name="Malayalam Zee Keralam HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEE5keralam.png" group-title="Malayalam", Malayalam Zee Keralam HD
 http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47970" tvg-name="Malayalam Kairali Arabia" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Kairali_Arabia_roku.png" group-title="Malayalam", Malayalam Kairali Arabia
-http://212.224.84.217:2200/R-EX/MALAYALAM_KAIRALI_ARABIA-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47971" tvg-name="Malayalam Kairali News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/KARALINEWSS.png" group-title="Malayalam", Malayalam Kairali News
-http://212.224.84.217:2200/R-EX/MALAYALAM_KAIRALI_NEWS-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="49948" tvg-name="Malayalam Media One" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/media-one-in.png" group-title="Malayalam", Malayalam Media One
-http://212.224.84.217:2200/R-EX/MALAYALAM_MEDIA_ONE-in/index.m3u8?token=pinguimtv
-#EXTINF: -1 tvg-id="47898" tvg-name="Odia Zee Kalinga" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEKALINGAAA.png" group-title="Odia", Odia Zee Kalinga
-http://212.224.84.217:2200/R-EX/ODIA_ZEE_KALINGA-in/index.m3u8?token=pinguimtv
+
+
+
