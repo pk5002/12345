@@ -1,7 +1,4 @@
-#EXTINF:-1 t sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",01. Sananda TV India
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+
 #EXTINF: -1 tvg-id="47874" tvg-name="Hindi Animal Planet World HD" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="Hindi", Hindi Animal Planet World HD
 http://212.224.84.217:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="48104" tvg-name="Hindi Star Bharat HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/StarBharatOfficialLogo.png" group-title="Hindi", Hindi Star Bharat HD
@@ -287,12 +284,12 @@ http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=ping
 http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=pinguimtv
 #EXTINF: -1 tvg-id="47969" tvg-name="Malayalam Zee Keralam HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEE5keralam.png" group-title="Malayalam", Malayalam Zee Keralam HD
 http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=pinguimtv
-
+#EXTINF:-1 t sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/39o0HAr" group-title="Bangla",01. Sananda TV India
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
 -------------------------------------------------------------------------------------
-
-
-THE END
 
 
 
