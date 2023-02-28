@@ -766,21 +766,9 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
 
-+++++++++++(IPTV PLAYLISTS)-------
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="ONLINE--KUCHINI TV",NEWS LIVE (IN)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/193089
-#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYfhpkre.png"  group-title="ONLINE--KUCHINI TV",PRATIDIN TIME (IN)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198224
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",B4U AFLAM (AE)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3782
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",AASHTA (UK)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/145647
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",INDIA PLUS (US)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290683
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",MTV INDIA (MY)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/193647
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",COLORS RISHTEY (UK)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/71074
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",SONY SAB (UK)
@@ -871,8 +859,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/193068
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16091
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",&XPLOR HD (IN)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196116
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",DD NEWS (IN)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/21668
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",DANGAL (IN)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82589
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--KUCHINI TV",E24 (IN)
