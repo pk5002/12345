@@ -251,24 +251,18 @@ https://zee5.yashrajmod.online/api.php?c=0-9-ddbharati
 +++++++(ENGLISH BROADCASTER)------
 
 
-#EXTINF:-1  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GwmEMW18.png"  group-title="ONLINE--ENGLISH TV",INDIA TODAY (IN)
-https://5.254.16.186:443/IndiaToday/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="ONLINE--ENGLISH TV",AVA SERIES (IR)
 http://51.210.199.4/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHR7L1x/ONE-GOLF.jpg"   group-title="ONLINE--ENGLISH TV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/640px-NewsX_Logo.png"  group-title="ONLINE--ENGLISH TV",NEWS X (IN)
 http://163.172.70.244:8080/NewsX/video.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.hornbilltv.com/IMAGES/logo.png"  group-title="ONLINE--ENGLISH TV",HORNBILL TV (IN)
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
-
 #EXTINF:-1  tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png"  group-title="ONLINE--ENGLISH TV",CNN (US)
 http://193.77.203.201/CNN/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png"  group-title="ONLINE--ENGLISH TV",AXN (TW)
 http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png"   group-title="ONLINE--ENGLISH TV",ANIMAL PLANET (TW)
@@ -556,19 +550,17 @@ https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",WOOW CINEMA (IN)
 https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",IBC 24 (IN)
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV", Sangeet bangla
 https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",HINDI KHABAR (IN)
 https://livetv-channels.b-cdn.net/8001/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",I LOVE  (IN)
 https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PEACE OF MIND (IN)
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",Doom bangla
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",GOODNEWS (IN)
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",Ruposhi Bangla
 https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",JINVANI (IN)
-https://livetv-channels.b-cdn.net/8073/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PRIME NEWS (IN)
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",Angle Tv
 https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",ZEE CAFE HD (IN)
 https://zee5.yashrajmod.online/api.php?c=0-9-zeecafehd
