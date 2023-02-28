@@ -562,8 +562,7 @@ https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",Angle Tv
 https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8
-#EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",ZEE CAFE HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeecafehd
+
 
 
 
