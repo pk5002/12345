@@ -532,14 +532,35 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",&FLIX HD (IN)
 https://zee5.yashrajmod.online/playzee.php?c=0-9-channel_2105335046
-#EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",WION (IN)
-https://zee5.yashrajmod.online/playzee.php?c=0-9-wion
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",SHEMAROO TV (IN)
+https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",GOLDMINES (IN)
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",MOVIEPLUS (IN)
+https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",CINEMA TV (IN)
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",B4U KADAK (IN)
+https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",WOOW CINEMA (IN)
+https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",IBC 24 (IN)
+https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",HINDI KHABAR (IN)
+https://livetv-channels.b-cdn.net/8001/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",I LOVE  (IN)
+https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PEACE OF MIND (IN)
+https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",GOODNEWS (IN)
+https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",JINVANI (IN)
+https://livetv-channels.b-cdn.net/8073/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PRIME NEWS (IN)
+https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",ZEE CAFE HD (IN)
 https://zee5.yashrajmod.online/api.php?c=0-9-zeecafehd
-#EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",DD INDIA (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-ddindia
-#EXTINF:-1  tvg-logo=" " group-title="ONLINE--ENGLISH TV",NEWS X (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-273
+
 
 
 
@@ -620,24 +641,7 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
 
-+++++++(ASSAMESE BROADCASTER)-----
 
-
-#EXTINF:-1 tvg-id="NEWS 18 ASSAM" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T7NfBFRl.png"  group-title="ONLINE--ASSAMESE TV",NEWS 18 ASSAM (IN)
-https://nw18live.cdn.jio.com/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/index.m3u8?__hdnea__=st=1657076907~exp=1657163307~acl=/*~hmac=64ba3ef5b79471ab8b098590bbcae5e00dc672e2f93c2ff372ce834fbffdd7f9
-
-#EXTINF:-1 tvg-id="DY365" tvg-logo="https://dy365.in/images/logo.png" group-title="ONLINE--ASSAMESE TV",DY 365 (IN)
-http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="JONAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png" group-title="ONLINE--ASSAMESE TV",JONAK (IN)
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/News_Live.png"  group-title="ONLINE--ASSAMESE TV",NEWS LIVE (IN)
-https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
-#EXTINF:-1 tvg-id="PRATIDIN TIME" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYfhpkre.png"  group-title="ONLINE--ASSAMESE TV",PRATIDIN TIME (IN) 
-https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8
-
-#EXTINF:-1  tvg-logo=" "  group-title="ONLINE--ASSAMESE TV",NE NEWS (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-280
 
 
 ++++++++(ADULT BROADCASTER)-------
@@ -699,35 +703,9 @@ http://longstream-04.ajaah.com/PlayBoxTV/News24/playlist.m3u8
 http://longstream-02.ajaah.com/PlayBoxTV/DDSports/playlist.m3u8
 
 
-+++++++++++(D BORDCAST)-----------
 
 
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",SHEMAROO TV (IN)
-https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",GOLDMINES (IN)
-https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",MOVIEPLUS (IN)
-https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",CINEMA TV (IN)
-https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",B4U KADAK (IN)
-https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",WOOW CINEMA (IN)
-https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",IBC 24 (IN)
-https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",HINDI KHABAR (IN)
-https://livetv-channels.b-cdn.net/8001/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",I LOVE  (IN)
-https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PEACE OF MIND (IN)
-https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",GOODNEWS (IN)
-https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",JINVANI (IN)
-https://livetv-channels.b-cdn.net/8073/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PRIME NEWS (IN)
-https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8
+
 
 
 +++++++++(JIO BROADCAST)----------
