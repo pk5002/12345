@@ -656,30 +656,6 @@ https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
 
 
-++++++++(ADULT BROADCASTER)-------
-
-
-#EXTINF:-1 tvg-id="AST TV 1" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="ONLINE--ADULT TV",AST TV 1 (CY)
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="ONLINE--ADULT TV",AST TV 2 (CY)
-http://www.ast.tv/stream/2/cellular.m3u8
-
-#EXTINF:-1 tvg-id="GAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/GAY.tv.PNG"  group-title="ONLINE--ADULT TV",GAY TV (UK)
-http://play.iptvxxx.net/gay.m3u8
-#EXTINF:-1 tvg-id="GANGBANG" tvg-logo="https://static10.tgstat.ru/channels/_0/68/6889ca04ab0d5a2a51b993cca194e7a1.jpg"  group-title="ONLINE--ADULT TV",GANGBANG (UK)
-http://play.iptvxxx.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="LIVE CAMS" tvg-logo="https://ccbill.com/wp-content/uploads/2020/03/live-cams.png"  group-title="ONLINE--ADULT TV",LIVE CAMS (UK)
-http://play.iptvxxx.net/livecams.m3u8
-
-#EXTINF:-1 tvg-id="PASSION X HARDCORE" tvg-logo="https://www.lyngsat.com/logo/tv/pp/passion_xxx_nl.png"  group-title="ONLINE--ADULT TV",PASSION X HARDCORE (NL)
-http://95.87.227.29:8080/PASSIONXXX/index.m3u8
-
-#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"  group-title="ONLINE--ADULT TV",HUSTLER HD (EU)
-http://193.33.240.8:80/hustler_hd/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png"  group-title="ONLINE--ADULT TV",PRIVATE HD (UK)
-http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
-
 
 +++++(PLAYBOXTV BROADBAND)--------
 
@@ -718,21 +694,6 @@ http://longstream-02.ajaah.com/PlayBoxTV/DDSports/playlist.m3u8
 
 
 
-
-
-+++++++++(JIO BROADCAST)----------
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/News_18_India.png/220px-News_18_India.png"  group-title="ONLINE--JIO TV",NEWS 18 INDIA (IN)
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/News18_Urdu_logo.png"  group-title="ONLINE--JIO TV",NEWS 18 URDU (IN)
-https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/2009-09-CNBC-Awaaz-Bhaskar-Group.jpg"  group-title="ONLINE--JIO TV",CNBC AWAAZ (IN)
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNN NEWS 18" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png"  group-title="ONLINE--JIO TV",CNN NEWS 18 (IN)
-https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNBC TV18" tvg-logo="http://businessnewsthisweek.com/wp-content/uploads/2021/02/CNBC-TV18.jpg"  group-title="ONLINE--JIO TV",CNBC TV18 (IN)
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 
 
 ++++++(VARUN IPTV BROADCAST)------
@@ -951,8 +912,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9255
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49557
 #EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",BBC LIFESTYLE (UK)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85436
-
-
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--XTV",NAT GEO WILD HD (IN)
 http://xtv.ooo:8080/6282527/4172427/206286
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--XTV",DISCOVERY HD (IN)
@@ -1042,3 +1001,19 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296956
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/75
 #EXTINF:-1 tvg-logo=" "  group-title="XXX",EROTIC (UK)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/37153
+#EXTINF:-1 tvg-id="AST TV 1" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="XXX",,AST TV 1 (CY)
+http://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="XXX",,AST TV 2 (CY)
+http://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1 tvg-id="GAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/GAY.tv.PNG"  group-title="XXX",,GAY TV (UK)
+http://play.iptvxxx.net/gay.m3u8
+#EXTINF:-1 tvg-id="GANGBANG" tvg-logo="https://static10.tgstat.ru/channels/_0/68/6889ca04ab0d5a2a51b993cca194e7a1.jpg"  group-title="XXX",,GANGBANG (UK)
+http://play.iptvxxx.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="LIVE CAMS" tvg-logo="https://ccbill.com/wp-content/uploads/2020/03/live-cams.png"  group-title="XXX",,LIVE CAMS (UK)
+http://play.iptvxxx.net/livecams.m3u8
+#EXTINF:-1 tvg-id="PASSION X HARDCORE" tvg-logo="https://www.lyngsat.com/logo/tv/pp/passion_xxx_nl.png"  group-title="XXX",,PASSION X HARDCORE (NL)
+http://95.87.227.29:8080/PASSIONXXX/index.m3u8
+#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"  group-title="XXX",,HUSTLER HD (EU)
+http://193.33.240.8:80/hustler_hd/video.m3u8
+#EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png"  group-title="XXX",,PRIVATE HD (UK)
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
