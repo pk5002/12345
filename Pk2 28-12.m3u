@@ -42,7 +42,8 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://210.210.155.37/dr9445/h/h05/index.m3u8
 #EXTINF:-1 ,MOTORVISION
 http://210.210.155.37/uq2663/h/h09/index.m3u8
-
+#EXTINF:-1 ,TRACE URBAN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 
 
 
