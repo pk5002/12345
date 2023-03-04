@@ -9,6 +9,8 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 ,ANIMAL PLANET
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",MOVIES NOW HD (IN)
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/169118
 #EXTINF:-1 ,Q MARATHI
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathixiaomi-ono/playlist.m3u8
 #EXTINF:-1 ,Q YOU INDIA
@@ -670,8 +672,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12982
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171955
 #EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",BBC EARTH (MY)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171979
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",MOVIES NOW HD (IN)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/169118
+
 #EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",CARTOON NETWORK (US)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82584
 #EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",WB TV (MY)
@@ -696,46 +697,3 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9255
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49557
 #EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",BBC LIFESTYLE (UK)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85436
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--XTV",NAT GEO WILD HD (IN)
-http://xtv.ooo:8080/6282527/4172427/206286
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--XTV",DISCOVERY HD (IN)
-http://xtv.ooo:8080/6282527/4172427/206287
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--XTV",ANIMAL PLANET (IN)
-http://xtv.ooo:8080/6282527/4172427/206282
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png"  group-title="ONLINE--XTV",POGO (IN)
-http://xtv.ooo:8080/6282527/4172427/150483
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png"  group-title="ONLINE--XTV",HUNGAMA (IN)
-http://xtv.ooo:8080/6282527/4172427/150480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png"  group-title="ONLINE--XTV",NICK (IN)
-http://xtv.ooo:8080/6282527/4172427/150482
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"   group-title="ONLINE--XTV",SONIC (IN)
-http://xtv.ooo:8080/6282527/4172427/34011
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_441/ic_logo_zee_cinema.png"  group-title="ONLINE--XTV",ZEE CINEMA (UK)
-http://xtv.ooo:8080/6282527/4172427/112970
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--XTV",GOLDMINES BOLLYWOOD (IN)
-http://xtv.ooo:8080/6282527/4172427/112973
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--XTV",MINI PLEX HD (IN)
-http://xtv.ooo:8080/6282527/4172427/66194
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Utv_Action.png"   group-title="ONLINE--XTV",UTV ACTION (IN)
-http://xtv.ooo:8080/6282527/4172427/206276
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--XTV",STAR GOLD HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221258
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--XTV",STAR BHARAT HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221255
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--XTV",STAR PLUS HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221252
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--XTV",ZEE CINEMA HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221261
-#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png "   group-title="ONLINE--XTV",ZEE TV HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221250
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--XTV",COLORS HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221254
-#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png"   group-title="ONLINE--XTV",&TV HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221253
-#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png"   group-title="ONLINE--XTV",&PICTURES HD (IN)
-http://xtv.ooo:8080/6282527/4172427/221260
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHU1sier.jpg"   group-title="ONLINE--XTV",UTV MOVIES (IN)
-http://xtv.ooo:8080/6282527/4172427/66185
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHU1sier.jpg"   group-title="ONLINE--XTV",AAPKA COLORS (IN)
-http://xtv.ooo:8080/6282527/4172427/206314
-
