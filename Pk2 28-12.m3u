@@ -9,7 +9,7 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 ,ANIMAL PLANET
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo=" "   group-title="ONLINE--KUCHINI TV",MOVIES NOW HD (IN)
+#EXTINF:-1 tvg-logo="group-title="ONLINE--KUCHINI TV",MOVIES NOW HD (IN)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/169118
 #EXTINF:-1 ,Q MARATHI
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathixiaomi-ono/playlist.m3u8
