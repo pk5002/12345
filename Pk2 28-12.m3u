@@ -1,4 +1,19 @@
-
+#EXTINF:-1 ,SONY SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 ,& TV HD
+http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:-1 ,STAR BHARAT
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 ,&PICTURESHD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,Colors Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 ,I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa SD 01
