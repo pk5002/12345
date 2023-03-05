@@ -1,8 +1,7 @@
 
-#EXTINF:-1 pataka
+#EXTINF:-1,pataka
 https://playchannel.ml?//live.hungama.com/linear/pop-pataka/playlist.m3u8
-
-#EXTINF:-1JAYA HD
+#EXTINF:-1,JAYA HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 ,SONY SAB HD
 http://208.86.19.13:81/7022.stream/index.m3u8
