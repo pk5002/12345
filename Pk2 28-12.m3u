@@ -84,12 +84,36 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1,NAZRANA
-https://playchannel.ml?//dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1,NAZRANA
-https://playchannel.ml?//live.hungama.com/linear/nazrana/playlist.m3u8
-#EXTINF:-1,pataka
-https://playchannel.ml?//live.hungama.com/linear/pop-pataka/playlist.m3u8
+
+#EXTINF:-1 ,ABZY MOVIE
+https://livetv-channels.b-cdn.net/8026/chunklist0.m3u8
+#EXTINF:-1 ,ABZY COOL
+https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
+#EXTINF:-1 ,ABZY D
+https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
+#EXTINF:-1 ,OSCAR MOVUE
+https://livetv-channels.b-cdn.net/8038/chunklist0.m3u8
+#EXTINF:-1 ,DOOM TV
+https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+#EXTINF:-1 ,MAHA MOVIE
+https://livetv-channels.b-cdn.net/8083/chunklist0.m3u8
+#EXTINF:-1 ,TV
+https://livetv-channels.b-cdn.net/8089/chunklist0.m3u8
+#EXTINF:-1 ,TV
+https://livetv-channels.b-cdn.net/8009/chunklist0.m3u8
+#EXTINF:-1 ,TV
+https://livetv-channels.b-cdn.net/8025/chunklist0.m3u8
+#EXTINF:-1 ,TV
+https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
+#EXTINF:-1 ,ASIANET
+http://46.4.77.66:80/asianet/playlist.m3u8
+#EXTINF:-1 ,ASIANET PLUS
+http://50.7.69.66/asianetplus/index.m3u8
+
+
+
+
+
 #EXTINF:-1,JAYA HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 ,SONY SAB HD
