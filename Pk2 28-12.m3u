@@ -459,7 +459,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" TV
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="ENGLISH" TV
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" TV
