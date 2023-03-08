@@ -403,9 +403,9 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, group-title="ENGLISH",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1, group-title="ENGLISH",RT
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
-
-
 
 ++++++++(HINDI BROADCASTER)-------
 
