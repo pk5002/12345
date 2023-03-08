@@ -131,10 +131,10 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIE",Colors Cineplex HD
 http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 ,I IPTV [BD]
+#EXTINF:-1 group-title="Bangla ",I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 
-#EXTINF:-1 ,MOVIES NOW HD 
+#EXTINF:-1 group-title="ENGLISH ",MOVIES NOW HD 
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/169118
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT ",Q MARATHI
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathixiaomi-ono/playlist.m3u8
@@ -216,7 +216,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-sam
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="ANIMAL",discovery hd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,baby first
+#EXTINF:-1 group-title="CATOON ",baby first
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-babyfirst-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 #EXTINF:-1 group-title="ENGLISH ",CRACKLE
 http://crackle-xumo.amagi.tv/playlist.m3u8
@@ -282,7 +282,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=58784&ads.show_id=1809&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Zoom&ads.episodetitle=Zoom&ads.keywords=zoom%20tv%2Ctimes%20now&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 group-title="ENGLISH MOVIE",Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 ,IBTV USA
+#EXTINF:-1 group-title="Bangla",IBTV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIE",HITS
@@ -323,9 +323,9 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE",MY FAMILY CHANNEL
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 ,FIGHT SPORTS
+#EXTINF:-1 group-title="Sport ",FIGHT SPORTS
 http://210.210.155.37/dr9445/h/h05/index.m3u8
-#EXTINF:-1 ,MOTORVISION
+#EXTINF:-1 group-title="Sport ",MOTORVISION
 http://210.210.155.37/uq2663/h/h09/index.m3u8
 
 
@@ -333,7 +333,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIE",BHOJPURI CINEMA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStvfRnxLuru5pyvzODfL6rLrrwgG2veD4t2jQqKruwfPjuw5OCvriBdnJALzZvfv4vMjetMLnwgXktvzcq01TCfbrAKPrvJbsnfPRBevKsg8XuvvRnvuWrJrLA3G1zdjWwMjetMLvm2W0vezoqMvhnhDIrtb3v2Tsmfj6md0&auth=46dd19fa92df434884d68dc4fa89715b7e308b4a3874480005218c44e6f16d31
-#EXTINF:-1,EUROSPORT
+#EXTINF:-1group-title="Sport ",EUROSPORT
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhrxLIrtb3v2Tsmfj6md0&auth=2a85062464bf63e398f9a052ed8a47d65d5ca6965597db42e58a29b7b2e7e2ec
 #EXTINF:-1group-title="ANIMAL",FOOD NETWORK
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
@@ -365,11 +365,11 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuvwHxuvu1Au1vtK5tmvO2wJnAtMvyAdjvmfjQt1zcq1rysK1sv00XvKCWEMruut0&auth=f174f4df51129547366e33f76c9adb5c7dbc2d406a48fd42d19c059563a9f3b4
 #EXTINF:-1group-title="MUSIC ",SUN MUSIC HD
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftMTumvPZttnAu2jyttfoBNaZyMTOre0ZrLzLveK1vKC5s1PuvNrxBLzxuxPoEvnftKPnvK5czuHWtwjetNvwrvi0yMXcnvDuBffrAZf5vevwAK5wuNrnm1uW&auth=d49fabeec3b9cd520e136d5187204e16741f5b21d355d8afedb1af83483e4f91
-#EXTINF:-1,SONY AATH
+#EXTINF:-1group-title="KALKATA BANGLA ",SONY AATH
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgvyzeXwwg95t1zAnK1SAe1Irtf1vMTkEK9wtKjKELznzvHOCfzRrM5xrNbZtw5zEwvUyZfnr3D5vdfsm2rywNfJBwHfy0Hwt1nerJvuBKP4zuzWte1TnhHLA3aZvfvov1fUzg1xA1jUzgXSC1ruqMfssfjiufe9pq&auth=f0fa1b112a5ad3b5bb2cacd7f5586d914df45ac4e64d2c295e82af3c21ffa99e
-#EXTINF:-1,ENTRTEN BANGLA
+#EXTINF:-1group-title="KALKATA BANGLA ",ENTRTEN BANGLA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStvfRnxLuru5pyvzODfL6rLrrwgG2veD4t2jQqKruwfPjuw5OCvriBdnJALzZvfv4vMjetMLnwgXktvzcq01TCeLrAZffvtnSm1zgzhrnmJvozwTRnvuWrJrLA3G1zdjWwMjetMLvm2W0vezoqMvhnhDIrtb3v2Tsmfj6md0&auth=1ee738c5c499ee521c836cbad044dadeb1f0644d088f0f4063a4f91cf2cd057d
-#EXTINF:-1,&PICTURE HD
+#EXTINF:-1group-title="HINDI MOVIE ",&PICTURE HD
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rREvfyyZrwwg95wMXsq2qYwKTLBwmWvLvrEu9wBejnBLPAutfRmvmZCdrLvLPfzuC1twvRntjvmfjUt1zAq2fhnvbssgrWvM5gm05vDdrnv0PrzvroEu1vtK5KBha0tuvOBgjfmhDxA1iWuNK5qLOZsLzLBMrSt1vnEMnuBhrKsgT6yMXWAfyYowTsELz0zurwtvjxAgHpvZeWzvroDvDTrtfIBLjWtLCXne5vAdvnBgm1yKzSuuSWrM5nvwG1v2PcwgjwCernwgXozvrwDgrfDfHIm1jev20XmfPwzhrAsgXAzvHstfyZA3LHvMr0v25gwgvTzhbxrZvlyvzODfnTvxPIAZf1veCXA1f6uNrtBvv5yLDKEvniBgfurwX1v2TZEMvvmxvuvZLRyvzODMqYmvG&auth=cf78a61b8b98b116ca44226b7a9f20826156fcb4084881bb1c1f8af7043d0aaf
 #EXTINF:-1group-title="HINDI ENTERTAINMENT ",ISHARAA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStveYze1tA0L5tLrkqLL6vMfIrtfzvtbkt1jgqNnuvfznuKDnnvvftxLtrwG1zuDWswjesxHtru16y2T4rfnuvLvIve4XtKe9pq&auth=254e4dd6c558f5f1a0a26a214a810a7d807d435cb03f00cdc025fedd69f747ea
