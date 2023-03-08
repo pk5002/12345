@@ -85,27 +85,27 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 ,ABZY MOVIE
+#EXTINF:-1 group-title="HINDI MOVIE",ABZY MOVIE
 https://livetv-channels.b-cdn.net/8026/chunklist0.m3u8
-#EXTINF:-1 ,ABZY COOL
+#EXTINF:-1 group-title="HINDI MOVIE",ABZY COOL
 https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
-#EXTINF:-1 ,ABZY D
+#EXTINF:-1 group-title="HINDI MOVIE",ABZY D
 https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
-#EXTINF:-1 ,OSCAR MOVUE
+#EXTINF:-1 group-title="HINDI MOVIE",OSCAR MOVUE
 https://livetv-channels.b-cdn.net/8038/chunklist0.m3u8
 #EXTINF:-1 ,DOOM TV
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
-#EXTINF:-1 ,MONNORANJAN MOVIE
+#EXTINF:-1 group-title="HINDI MOVIE",MONNORANJAN MOVIE
 https://livetv-channels.b-cdn.net/8083/chunklist0.m3u8
-#EXTINF:-1 ,MAHA MOVIE
+#EXTINF:-1 group-title="HINDI MOVIE",MAHA MOVIE
 https://livetv-channels.b-cdn.net/8089/chunklist0.m3u8
 #EXTINF:-1 ,TV
 https://livetv-channels.b-cdn.net/8009/chunklist0.m3u8
 #EXTINF:-1 ,TV
 https://livetv-channels.b-cdn.net/8025/chunklist0.m3u8
-#EXTINF:-1 ,ASIANET
+#EXTINF:-1 group-title="HINDI MOVIE",ASIANET
 http://46.4.77.66:80/asianet/playlist.m3u8
-#EXTINF:-1 ,ASIANET PLUS
+#EXTINF:-1 group-title="HINDI MOVIE",ASIANET PLUS
 http://50.7.69.66/asianetplus/index.m3u8
 #EXTINF:-1 ,TV
 https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
@@ -125,11 +125,11 @@ http://208.86.19.13:81/7211.stream/index.m3u8
 http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 ,ZEE ACTION
+#EXTINF:-1 group-title="HINDI MOVE",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX 2
+#EXTINF:-1 group-title="HINDI MOVIE",SONY MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 ,Colors Cineplex HD
+#EXTINF:-1 group-title="HINDI MOVIE",Colors Cineplex HD
 http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 ,I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
@@ -224,11 +224,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-sa
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 ,baby first
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-babyfirst-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-#EXTINF:-1 ,CRACKLE
+#EXTINF:-1 group-title="ENGLISH ",CRACKLE
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Dove
+#EXTINF:-1 group-title=ENGLISH ",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 ,KANAL7
+#EXTINF:-1 group-title="ENGILISH ",KANAL7
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 
