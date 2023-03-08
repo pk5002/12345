@@ -429,14 +429,13 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddretro/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MpyTyBMh.png",DD RETRO
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwHXvevsB2fSwNnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=83ed9acb7756fb47885048a4f3159736755856f01a5b005fdcbbc9fd60107d4a
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV_sVziX6PB6fVfGo_2YIUJW7wALUir8pR-Nwoj1P2ubQHYqjzjCycv9dlIBBMtWDrMwBbUvB20pnL9K5rAluZiRcw3lMLmKGwyzeEa_UHRUrI6v_KmjtIiN4L7jheD9BMRQs2g2rJ7Ajkxi6VvElg4OzWngk_Uh3xB9_ZJZiGToOPC3CO04r0WzwMhw/s600/1670638718536%20(2).jpg"DD BHARAT
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddbharti/default/index.m3u8
+#EXTINF:-1 group-title="Bangla",ASIAN TV
 http://103.109.56.116/live/skyfeed1017/index.m3u8 
-#EXTINF:-1,  tvg-logo="https://i.pinimg.com/originals/c3/19/50/c3195066fbc7067d81c11dfb60fbac45.jpg" tvg-name="212.SONY_TEN_2" group-title="Bangla,SONY_TEN_2 
+#EXTINF:-1, group-title="Bangla,AKKATOR TV
 http://103.109.56.116/live/skyfeed1018/index.m3u8
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/c3/19/50/c3195066fbc7067d81c11dfb60fbac45.jpg" tvg-name="213.SONY_TEN_3" group-title="Bangla",SONY_TEN_3 
+#EXTINF:-1, group-title="Sport",T Sport
 http://103.109.56.116/live/skyfeed1019/index.m3u8 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/c3/19/50/c3195066fbc7067d81c11dfb60fbac45.jpg" tvg-name="214.SONY_SIX" group-title="Bangla",.SONY_SIX 
+#EXTINF:-1,group-title="Bangla",.SONY_SIX 
 http://103.109.56.116/live/skyfeed1025/index.m3u8 
 
 
