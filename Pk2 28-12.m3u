@@ -144,7 +144,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvxiaomi-ono/
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqxiaomi-ono/playlist.m3u8
 #EXTINF:-1 ,turboin
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,LoveNature4K2
+#EXTINF:-1 group-title="ANIMAL",LoveNature4K2
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 ,luxefr
 https://amg00712-alchimie-luxefr-samsungfr-wjg07.amagi.tv/playlist/amg00712-alchimie-luxefr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -206,21 +206,21 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 ,ROTANA MUSIC
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
+#EXTINF:-1 group-title="ANIMAL",ANIMAL PLANET
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 group-title="ANIMAL",ANIMAL PLANET HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,ANIMAL PLANET
+#EXTINF:-1 group-title="ANIMAL",ANIMAL PLANET
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,discovery hd
+#EXTINF:-1 group-title="ANIMAL",discovery hd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,discovery
+#EXTINF:-1 group-title="ANIMAL",discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,discovery kids
+#EXTINF:-1 group-title="ANIMAL",discovery kids
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-#EXTINF:-1 ,discovery science
+#EXTINF:-1 group-title="ANIMAL",discovery science
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 ,discovery hd
+#EXTINF:-1 group-title="ANIMAL",discovery hd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 ,baby first
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-babyfirst-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
@@ -238,37 +238,37 @@ https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-topfree-3-de.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SOFY TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvspa-xiaomi/playlist.m3u8
-#EXTINF:-1 ,WILD EARTH
+#EXTINF:-1 group-title="ANIMAL",WILD EARTH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
 #EXTINF:-1 ,TREE
 https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title=" FASHION",FASHION TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 ,INSIGHT TV
+#EXTINF:-1 group-title="ANIMAL",INSIGHT TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
-#EXTINF:-1 ,INSIGHT TV
+#EXTINF:-1 group-title="ANIMAL",INSIGHT TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
-#EXTINF:-1 ,INTROBULE
+#EXTINF:-1 group-title="ANIMAL",INTROBULE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8
-#EXTINF:-1 ,INTRIPATCH
+#EXTINF:-1 group-title="ANIMAL",INTRIPATCH
 https://baktilp-intipacha-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,INWILD
+#EXTINF:-1 group-title="ANIMAL",INWILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8
-#EXTINF:-1 ,INWONDER
+#EXTINF:-1 group-title="ANIMAL",INWONDER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
 #EXTINF:-1 ,MY TIME UL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVIE",BOLLYWOOD CLISSIC
 https://isgmedia-bollywoodclassic-1-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,4K TRAVEL
+#EXTINF:-1 group-title="ANIMAL",4K TRAVEL
 https://4k-travel-local-now.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8
-#EXTINF:-1 ,TRAVEL
+#EXTINF:-1 group-title="ANIMAL",TRAVEL
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
 #EXTINF:-1 ,MOVIE SPHERE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:-1 ,MYZEN
+#EXTINF:-1 group-title="ANIMAL",MYZEN
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-samsungau/playlist.m3u8
-#EXTINF:-1 ,LOVE NATURE
+#EXTINF:-1 group-title="ANIMAL",LOVE NATURE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 ,SHORTS
 https://amg00784-shortsinternati-shortstvfastuk-rakuten-fo7jn.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastuk-rakuten/CDN/master.m3u8
@@ -280,7 +280,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=PG&ads.language=en&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 ,DESHI CHANNEL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23014&ads.content_duration=18000&ads.episode_id=76356&ads.show_id=2954&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Desi%20TV&ads.episodetitle=Desi%20TV&ads.keywords=desi&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 ,FOOD FOOD
+#EXTINF:-1 group-title="ANIMAL",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23052&ads.content_duration=18000&ads.episode_id=80273&ads.show_id=3139&ads.showCategories=IAB8&ads.episodeCategories=IAB8&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=FOODFOOD&ads.episodetitle=FOODFOOD&ads.keywords=FOODFOOD%2CSanjeev%2CKapoor%2CChef%20Sanjeev%20Kapoor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 ,ZOOM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23052&ads.content_duration=18000&ads.episode_id=80273&ads.show_id=3139&ads.showCategories=IAB8&ads.episodeCategories=IAB8&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=FOODFOOD&ads.episodetitle=FOODFOOD&ads.keywords=FOODFOOD%2CSanjeev%2CKapoor%2CChef%20Sanjeev%20Kapoor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
@@ -301,7 +301,7 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 ,KIX
 http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 ,TRAVEL XP
+#EXTINF:-1 group-title="ANIMAL",TRAVEL XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
@@ -341,7 +341,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStvfRnxLuru5pyvzODfL6rLrrwgG2veD4t2jQqKruwfPjuw5OCvriBdnJALzZvfv4vMjetMLnwgXktvzcq01TCfbrAKPrvJbsnfPRBevKsg8XuvvRnvuWrJrLA3G1zdjWwMjetMLvm2W0vezoqMvhnhDIrtb3v2Tsmfj6md0&auth=46dd19fa92df434884d68dc4fa89715b7e308b4a3874480005218c44e6f16d31
 #EXTINF:-1,EUROSPORT
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhrxLIrtb3v2Tsmfj6md0&auth=2a85062464bf63e398f9a052ed8a47d65d5ca6965597db42e58a29b7b2e7e2ec
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1group-title="ANIMAL",FOOD NETWORK
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
 #EXTINF:-1,THE Q
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rSs2vTyZbwsgW0wwXWnMrhvLvrmMHXvM5WAK5uqKrnm2XAyKuXBvziBdnsrKjZvg5jEwjesLLvruPozgTOrfnuBeLrBMrevJiXmgvuuNvxvezzuLHJnu1vrJnovxrczdjwvvjhzeLuru40uKvOrvOYnvbrBgT4vMTktK9gwKrAmwHjuLHKwvvftxPJvLzdzeC0EgiYrtLqut09&auth=332fb0af7ef01576c968df2a6574dc9f0a12d7d03a5bece62a939860c53ada4e
@@ -351,13 +351,13 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=yvDKsu1fuM9zBhb2u1rOv2vTuKrnwhbVwMXAnLrvtxHrveL4vfvgwK5vCenAEMT4zw1KnLDvsxLovejZvfrwtvjhttvtvu5UvtfsrwfiBfDKBwrTv1HSm05vnxnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=e239be0f2a7ceb8ad3840cb4e35d0d0e9e43cc684e5478e61eda1f2089eb5144
 #EXTINF:-1,ZEE TV
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rREvfyyZrwwg95wMXsq2qYwKTLBwmWvLvrEu9wBejnBLPAutfRmvmZCdrLvLPfzuC1twvRntjvmfjUt1zAq2fhnvbssgrWvM5KtMrREdrnweOZzurcsvPxEe5nrNbfzevJDLfxzhLwwhaZwLrSre0ZrtvIwfi1tti1yvLwzhzArwmXyLHNmvrfvM9zvgX0zeHREMjSCgHovZuWyvrwDgvevKLLvePyt1D4wLvdDejAEKzjzvzVD1yYmwfrEKy1vfHRmwjyuKXwmJKWutfWDgrhvLHIv1i1v1HSmfmXzdvnBwXyyLzWEfyZCg5HvMH1u21SwwjvCgXnmJvoyMT4DfPfttbIvxbStw0XBMnRAdvxA3HkyMXWte0ZBe5IAZf2wKDSwwiZzhrwDZ09&auth=f6b9dffba6a54c3135fb034f948c48fd90127a4eacb375379a94049498b1e1bf
-#EXTINF:-1,TLC
+#EXTINF:-1group-title="ANIMAL",TLC
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1group-title="ANIMAL",DISCOVERY SCIENCE
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
-#EXTINF:-1,DISCOVERY HD
+#EXTINF:-1group-title="ANIMAL",DISCOVERY HD
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1group-title="ANIMAL",ANIMAL PLANET
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
 #EXTINF:-1, MTV BEATS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rREvfyyZrwwg95wMXsq2qYwKTLBwmWvLvrEu9wBejnBLPAutfRmvmZCdrLvLPfzuC1twvRntjvmfjUt1zAq2fhnvbssgrWvM5smMnUzdrnr3bnzvHOEvDUz3Dtr1zZvfrcyvjiuKHmmezUy2XwnMqYvtvrEK54t1CXmgvutNvxBuzyyJjsse5xmtrovxHgyuDfnwjyuJvnmJvHwvrwDwrhAZfIwgCXu0HREvz6BhnxvKfYuvDJEfniBgfnrMr0v2TnEgvvmtvovZeWuZfKDMrftMfIwfjSvJiXA2vwBdvKrxryzvrkCfyYmwfJvMq2wJjSwwjRChbxrZflwLroDvrxnu1Iv1jetKCXs1PusNrAm0PjzvzWtvnxnwftEK41vfC1tMiYuNbxrZKZyLzJpq&auth=a45a6ae8b6df0bb9ea8e1dd687549e56698169c6b08659b906beaa3b6570c24f
