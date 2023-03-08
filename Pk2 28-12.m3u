@@ -242,7 +242,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvspa-xia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
 #EXTINF:-1 ,TREE
 https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FASHION TV
+#EXTINF:-1 group-title=" FASHION",FASHION TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:-1 ,INSIGHT TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
@@ -258,7 +258,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
 #EXTINF:-1 ,MY TIME UL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
-#EXTINF:-1 ,BOLLYWOOD CLISSIC
+#EXTINF:-1 group-title="HINDI MOVIE",BOLLYWOOD CLISSIC
 https://isgmedia-bollywoodclassic-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,4K TRAVEL
 https://4k-travel-local-now.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8
@@ -274,9 +274,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-sams
 https://amg00784-shortsinternati-shortstvfastuk-rakuten-fo7jn.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastuk-rakuten/CDN/master.m3u8
 #EXTINF:-1 ,DISTRO TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/pBhp0zxKFF/%2B0000/c.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22982&ads.content_duration=18000&ads.episode_id=64138&ads.show_id=2195&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Arr%C3%A9&ads.episodetitle=Arr%C3%A9&ads.keywords=ARRE%2CIndian&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 ,BOLLYWOOD HD
+#EXTINF:-1 group-title="HINDI MOVIE",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 ,BOLLYWOOD CLASSIC HD
+#EXTINF:-1 group-title="HINDI MOVIE",BOLLYWOOD CLASSIC HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=PG&ads.language=en&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 ,DESHI CHANNEL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23014&ads.content_duration=18000&ads.episode_id=76356&ads.show_id=2954&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Desi%20TV&ads.episodetitle=Desi%20TV&ads.keywords=desi&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
@@ -337,7 +337,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 
 
 
-#EXTINF:-1,BHOJPURI CINEMA
+#EXTINF:-1 group-title="HINDI MOVIE",BHOJPURI CINEMA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStvfRnxLuru5pyvzODfL6rLrrwgG2veD4t2jQqKruwfPjuw5OCvriBdnJALzZvfv4vMjetMLnwgXktvzcq01TCfbrAKPrvJbsnfPRBevKsg8XuvvRnvuWrJrLA3G1zdjWwMjetMLvm2W0vezoqMvhnhDIrtb3v2Tsmfj6md0&auth=46dd19fa92df434884d68dc4fa89715b7e308b4a3874480005218c44e6f16d31
 #EXTINF:-1,EUROSPORT
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhrxLIrtb3v2Tsmfj6md0&auth=2a85062464bf63e398f9a052ed8a47d65d5ca6965597db42e58a29b7b2e7e2ec
