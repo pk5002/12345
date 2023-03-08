@@ -93,7 +93,7 @@ https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIE",OSCAR MOVUE
 https://livetv-channels.b-cdn.net/8038/chunklist0.m3u8
-#EXTINF:-1 ,DOOM TV
+#EXTINF:-1 group-title="MUSIC ",DOOM TV
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIE",MONNORANJAN MOVIE
 https://livetv-channels.b-cdn.net/8083/chunklist0.m3u8
@@ -166,7 +166,7 @@ https://dcaugt012swzs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWvWtftAvT2wzatc8pSn_unmEUZlIw1hrK5qTLR0vMUcMqHVwTTTRtAovTQaVCIdEMmyaxpOX74uwhCzNBNh62ITt56ytFi0SE8OYefDHRJfd2XlVZwJajVGjhLycpTxsC7lFyYQ3PtfiI3WEh9Z0RcTME4WJigUiR8chrKe5Coae2f11pbeLC4IRP/w320-h320/9x-jalwa-tv-channel-frequency-channel-number-logo.jpg"  group-title="ONLINE--HINDI TV",9XM JALWA (IN)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJalwa/default/index.m3u8
-#EXTINF:-1 ,9x jhakaas
+#EXTINF:-1 group-title="MUSIC ",9x jhakaas
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -176,9 +176,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:-1,9x jalwa
+#EXTINF:-1group-title="MUSIC ",9x jalwa
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmLzru0vkB1jfAhnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=18d1328be099fe023cd5cd51b7a44bde4b0f0ada2614ae59439074d2a8431cc3
-#EXTINF:-1,SHOW BOX
+#EXTINF:-1group-title="MUSIC ",SHOW BOX
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStveYze1tA0L5tLrkqLL6vMfIrtfzvtbkt1jgqNnuvfznuKDnnvDRrM5pve41vfrRmgjesxHtru16y2T4rfnuvLvIve4XtKe9pq&auth=f7b9422f0cabf72e90a7773f5e2ce9ed1828c9f1e7349423331e98202cfa83a8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",MUSIC INDIA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBhvssgH1vuHREvrgvJzAmhHjyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=b5e441824106a6f98352f320453fbb176b0402d379e5b9771930a0ed6d90f06f
@@ -186,25 +186,25 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmLv3vM5WBMrRmtvLsfPuuKDnnvvfsK5JA3HgwxPwvwjutJfoqt09&auth=434878f996c036a6d35568356834e25b4348001b1e8eb8424fc48dac75c32a03
-#EXTINF:-1 ,BALLE BALLE
+#EXTINF:-1 group-title="MUSIC ",BALLE BALLE
 https://isgmedia-balleballe-1-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1,TASHAN
+#EXTINF:-1group-title="MUSIC ",TASHAN
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmMH5u0vnEvnfAentvgXmzw5KnLnfuJnxrejZtwT4vMvTzdjor3HotuzWrwrfyZK&auth=0b5a9b8576beba2d765c70b845705f5a0a7cfd595fe1ea836061dccc30e8bb3f
-#EXTINF:-1 ,TASHAN
+#EXTINF:-1 group-title="MUSIC ",TASHAN
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPPD&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/dilse.jpg"  group-title="ONLINE--HINDI TV",DIL SE (IN)
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.joomusic.info/assets/images/logo.png"  group-title="ONLINE--HINDI TV",JOO MUSIC (IN)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1,JOO MUSIC
+#EXTINF:-1group-title="MUSIC ",JOO MUSIC
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rSvffyAdzusgT5y2XwC1rwAffsrteXv1C1A1jgCevHr3bnzvHJD1zyA3LpvLjZtwXcv1fQsxHnvu15vevWC00ZsxLIre5PvtnSnfrgtKjLrZr3yKuWD1DRuJbsEJa9&auth=46f28b46e96d7a5f7b9d97f529a538bb04b9d92f9b129f616493bac3a2418bed
-#EXTINF:-1 ,TRACE URBAN
+#EXTINF:-1 group-title="MUSIC ",TRACE URBAN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 ,TRACE BRAZUCA
+#EXTINF:-1 group-title="MUSIC ",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 ,TRACE LATIN
+#EXTINF:-1 group-title="MUSIC ",TRACE LATIN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-#EXTINF:-1 ,ROTANA MUSIC
+#EXTINF:-1 group-title="MUSIC ",ROTANA MUSIC
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL",ANIMAL PLANET
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -282,9 +282,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23014&ads.content_duration=18000&ads.episode_id=76356&ads.show_id=2954&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Desi%20TV&ads.episodetitle=Desi%20TV&ads.keywords=desi&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 group-title="ANIMAL",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23052&ads.content_duration=18000&ads.episode_id=80273&ads.show_id=3139&ads.showCategories=IAB8&ads.episodeCategories=IAB8&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=FOODFOOD&ads.episodetitle=FOODFOOD&ads.keywords=FOODFOOD%2CSanjeev%2CKapoor%2CChef%20Sanjeev%20Kapoor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 ,ZOOM
+#EXTINF:-1 group-title="MUSIC ",ZOOM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23052&ads.content_duration=18000&ads.episode_id=80273&ads.show_id=3139&ads.showCategories=IAB8&ads.episodeCategories=IAB8&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=FOODFOOD&ads.episodetitle=FOODFOOD&ads.keywords=FOODFOOD%2CSanjeev%2CKapoor%2CChef%20Sanjeev%20Kapoor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 ,ZOOM
+#EXTINF:-1 group-title="MUSIC ",ZOOM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=58784&ads.show_id=1809&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Zoom&ads.episodetitle=Zoom&ads.keywords=zoom%20tv%2Ctimes%20now&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 ,Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
@@ -345,7 +345,7 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
 #EXTINF:-1group-title="HINDI ENTERTAINMENT ",THE Q
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rSs2vTyZbwsgW0wwXWnMrhvLvrmMHXvM5WAK5uqKrnm2XAyKuXBvziBdnsrKjZvg5jEwjesLLvruPozgTOrfnuBeLrBMrevJiXmgvuuNvxvezzuLHJnu1vrJnovxrczdjwvvjhzeLuru40uKvOrvOYnvbrBgT4vMTktK9gwKrAmwHjuLHKwvvftxPJvLzdzeC0EgiYrtLqut09&auth=332fb0af7ef01576c968df2a6574dc9f0a12d7d03a5bece62a939860c53ada4e
-#EXTINF:-1,TARANG MUSIC
+#EXTINF:-1group-title="MUSIC ",TARANG MUSIC
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdfLwgHXu0vktLjguKvLrZvrzvzRnvmZCdnLA2HfzdfND2jesK1wwhbUzgPsC1ruqMfssfjiufe9pq&auth=11d69f1bdb443449f1900b0291ad872d7bf68c7b93ca75722d1cc0b14cbcc0aa
 #EXTINF:-1group-title="HINDI ENTERTAINMENT ",TARANG
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=yvDKsu1fuM9zBhb2u1rOv2vTuKrnwhbVwMXAnLrvtxHrveL4vfvgwK5vCenAEMT4zw1KnLDvsxLovejZvfrwtvjhttvtvu5UvtfsrwfiBfDKBwrTv1HSm05vnxnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=e239be0f2a7ceb8ad3840cb4e35d0d0e9e43cc684e5478e61eda1f2089eb5144
@@ -359,9 +359,9 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
 #EXTINF:-1group-title="ANIMAL",ANIMAL PLANET
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
-#EXTINF:-1, MTV BEATS
+#EXTINF:-1group-title="MUSIC ", MTV BEATS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rREvfyyZrwwg95wMXsq2qYwKTLBwmWvLvrEu9wBejnBLPAutfRmvmZCdrLvLPfzuC1twvRntjvmfjUt1zAq2fhnvbssgrWvM5smMnUzdrnr3bnzvHOEvDUz3Dtr1zZvfrcyvjiuKHmmezUy2XwnMqYvtvrEK54t1CXmgvutNvxBuzyyJjsse5xmtrovxHgyuDfnwjyuJvnmJvHwvrwDwrhAZfIwgCXu0HREvz6BhnxvKfYuvDJEfniBgfnrMr0v2TnEgvvmtvovZeWuZfKDMrftMfIwfjSvJiXA2vwBdvKrxryzvrkCfyYmwfJvMq2wJjSwwjRChbxrZflwLroDvrxnu1Iv1jetKCXs1PusNrAm0PjzvzWtvnxnwftEK41vfC1tMiYuNbxrZKZyLzJpq&auth=a45a6ae8b6df0bb9ea8e1dd687549e56698169c6b08659b906beaa3b6570c24f
-#EXTINF:-1, SANGEET  BANGLA
+#EXTINF:-1group-title="MUSIC ", SANGEET  BANGLA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuv1PwzwPkwvnhD3LJA3G2vfDzEffTAhHwA0yZtLv0nMvfzfzrBLj1tvC5Afbumd0&auth=4d67722628718a521735bf8c2deceac8c2176fbfbfa1d0e9e3ff4168274e8ac4
 #EXTINF:-1, t sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
@@ -369,7 +369,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1,SANGEET MARATHI
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuvwHxuvu1Au1vtK5tmvO2wJnAtMvyAdjvmfjQt1zcq1rysK1sv00XvKCWEMruut0&auth=f174f4df51129547366e33f76c9adb5c7dbc2d406a48fd42d19c059563a9f3b4
-#EXTINF:-1,SUN MUSIC HD
+#EXTINF:-1group-title="MUSIC ",SUN MUSIC HD
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftMTumvPZttnAu2jyttfoBNaZyMTOre0ZrLzLveK1vKC5s1PuvNrxBLzxuxPoEvnftKPnvK5czuHWtwjetNvwrvi0yMXcnvDuBffrAZf5vevwAK5wuNrnm1uW&auth=d49fabeec3b9cd520e136d5187204e16741f5b21d355d8afedb1af83483e4f91
 #EXTINF:-1,SONY AATH
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgvyzeXwwg95t1zAnK1SAe1Irtf1vMTkEK9wtKjKELznzvHOCfzRrM5xrNbZtw5zEwvUyZfnr3D5vdfsm2rywNfJBwHfy0Hwt1nerJvuBKP4zuzWte1TnhHLA3aZvfvov1fUzg1xA1jUzgXSC1ruqMfssfjiufe9pq&auth=f0fa1b112a5ad3b5bb2cacd7f5586d914df45ac4e64d2c295e82af3c21ffa99e
