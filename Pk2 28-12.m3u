@@ -431,7 +431,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddretro/default/index.m3u8
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwHXvevsB2fSwNnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=83ed9acb7756fb47885048a4f3159736755856f01a5b005fdcbbc9fd60107d4a
 #EXTINF:-1 group-title="Bangla",ASIAN TV
 http://103.109.56.116/live/skyfeed1017/index.m3u8 
-#EXTINF:-1, group-title="Bangla,AKKATOR TV
+#EXTINF:-1,group-title="Bangla",AKKATOR TV
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1, group-title="Sport",T Sport
 http://103.109.56.116/live/skyfeed1019/index.m3u8 
