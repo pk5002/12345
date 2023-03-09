@@ -469,9 +469,13 @@ https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1group-title="MUSIC", K VISION
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-
-
+#EXTINF:-1 group-title="MUSIC", TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="MUSIC",VH+1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1group-title="ENGLISH MOVIE",ATD (1080p)
 http://46.99.146.236/0.m3u8
 #EXTINF:-1group-title="ENGLISH MOVIE",13Max Televisión (1080p) [Spanish] [general]
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",VIVA
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
