@@ -463,8 +463,12 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1,group-title="ENGLISH",MBC
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-
-
+#EXTINF:-1group-title="FASHION",FASHION
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1group-title="MUSIC",CANTINA TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1group-title="MUSIC", K VISION
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 
 
 #EXTINF:-1group-title="ENGLISH MOVIE",ATD (1080p)
