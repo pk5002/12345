@@ -403,10 +403,11 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, group-title="ENGLISH",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1, group-title="ENGLISH",RT
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1, group-title="ENGLISH",RT
 https://hls.rt.com/hls/rtdru.m3u8
-
+#EXTINF:-1, group-title="ENGLISH",RT
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 ++++++++(HINDI BROADCASTER)-------
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHqD0xGAW0GdtWv-cE4gsqPkooyI1BG8g8Vze3EslKW-MU9SAy69tsT2u4QjmL9qwvWptZtm-bIT8xHZDWPMChyau-rJxNmolcz1bQ7ljyWr8B4p5N7tqvjgMt2Gir9EPo8mMgK9ViZ7tQ5mQkJCFast0Yy912Wk_cpbIJB4D7gdZYPRzPdqI9WE5nJA/s400/Picsart_22-12-10_06-35-16-700.jpg",SONY KAL (US)
