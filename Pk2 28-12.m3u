@@ -500,3 +500,2056 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1  group-title="ANIMAL",DISCOVERY
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/135.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/138.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС Love
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/183.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Домашний HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/227.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ3 HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/136.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Пятница! HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/181.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Суббота! HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/269.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ю
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/230.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Культура
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/229.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",2х2
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/187.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Время
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/237.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Перец International
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/121.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",World Fashion Channel HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/119.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",КВН ТВ
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/222.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Сарафан
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/81.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Вопросы и ответы
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/76.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ4 HD
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/106.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ(+2)
+#EXTGRP:Общие
+http://myott.top/stream/CUJ4ZVUK9V/97.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Интер HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/174.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Интер+ HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/345.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ICTV HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/158.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ICTV 2 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/368.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Новый канал HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/157.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",СТБ HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/156.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/172.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 International
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/105.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 Україна HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/219.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",2+2 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/173.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К1 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/270.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К2 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/324.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ТЕТ HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/338.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ОЦЕ HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/329.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",НТН HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/326.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Кус-кус HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/195.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",36.6 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/331.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",FILMUADRAMA HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/273.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Ukraine 1 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/98.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Ukraine 2 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/99.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Культура HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/435.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Київ HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/439.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Крим HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/436.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Перший HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/437.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",NLO TV 2 HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/115.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/327.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Квартал ТВ
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/321.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Дом HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/383.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Bolt HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/73.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ПлюсПлюс HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/339.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Бiгудi
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/340.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Уніан HD
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/341.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/20.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/293.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 12 (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/294.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/295.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/377.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",KAN23 (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/378.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",YES Movies Action HD (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/380.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",HOT Zone HD (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/379.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",HOT HBO HD (Израиль)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/381.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/27.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",31 Канал (Казахстан)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/388.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Qazaqstan (Казахстан)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/71.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Астана ТВ (Казахстан)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/28.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",КТК (Казахстан)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/26.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",НТК (Казахстан)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/389.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia 1 TV (Армения)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/38.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia TV HD (Армения)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/175.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Shant HD (Армения)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/37.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ATV HD (Армения)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/36.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Kentron HD (Армения)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/39.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 HD (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/32.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 Life HD (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/373.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 3+ (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/417.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 6 HD (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/418.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7 HD (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/371.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 24 (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/372.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV1 (Латвия)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/34.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LNK HD (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/30.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",BTV HD (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/35.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LRT HD (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/31.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LRT Plius HD (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/353.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 1 (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/374.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 HD (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/29.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Balticum (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/376.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 6 (Литва)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/375.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Молдова 1
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/336.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Prime1 (Молдова)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/335.m3u8
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Jurnal TV (Молдова)
+#EXTGRP:Национальные
+http://myott.top/stream/CUJ4ZVUK9V/277.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/177.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Science HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/146.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DTX HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/145.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/205.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/113.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",H2 HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/65.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",TLC HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/168.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Animal Planet HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/114.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Первый Космический HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/212.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Глазами Туриста HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/304.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живи Активно HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/132.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука 2.0 HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/125.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Поехали
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/316.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",В мире животных HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/241.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Бобер
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/197.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мама
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/79.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Доктор HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/80.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Da Vinci
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/238.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Explore HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/239.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Nature/History HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/240.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat History HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/101.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",История
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/228.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Quiz TV HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/397.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Соль ТВ HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/398.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Чемодан ТВ HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/399.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",365 дней ТВ
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/70.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя планета HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/124.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",RTG HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/164.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Приключения HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/198.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel channel HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/231.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/206.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охота и рыбалка
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/155.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/194.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/264.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Рыбалка HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/286.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Охота HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/274.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Рыбалка HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/275.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дача HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/370.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Усадьба
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/211.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая природа HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/225.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая планета
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/83.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Кухня ТВ
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/179.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Еда Премиум HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/216.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Food Network HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/298.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто24 HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/78.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто Плюс HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/186.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя стихия HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/141.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HDL HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/161.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Insight TV HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/361.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мега HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/325.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Фауна
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/401.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Терра
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/402.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/403.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Автомобильный HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/404.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",6 Соток HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/405.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Закон HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/406.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Масон HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/346.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Трофей HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/357.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Тайны Галактики HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/271.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Нано ТВ HD
+#EXTGRP:Познавательные
+http://myott.top/stream/CUJ4ZVUK9V/419.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопремьера HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/160.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинокомедия HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/265.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносемья HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/170.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносвидание HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/171.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинохит HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/126.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киномикс HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/133.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше новое кино HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/128.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Родное кино
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/242.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Индийское кино
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/104.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мужское кино HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/107.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киноужас HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/278.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 East HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/110.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Action HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/100.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Кино HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/123.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Premiere HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/202.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Megahit HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/200.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Comedy HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/201.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Serial HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/311.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедийное HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/74.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Premium HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/151.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia 1 HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/117.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Hit HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/162.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Роман HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/266.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Иллюзион
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/122.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Бестселлер
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/208.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Детектив
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/204.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедия
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/68.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Comedy
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/167.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",black HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/263.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",red HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/69.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",sci-fi HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/180.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/217.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Душевное HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/213.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",КиноТВ HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/221.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопоказ HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/64.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cinema HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/62.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НСТ
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/207.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Еврокино HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/385.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ТВ XXI
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/152.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Plan B HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/196.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Остросюжетное HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/214.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/236.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/108.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Hollywood HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/268.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НТВ Сериал
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/301.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Телекафе
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/314.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",24Техно
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/209.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше мужское HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/362.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Блокбастер HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/364.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Cinema HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/310.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Family HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/226.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Kino 1 HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/395.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Шокирующее HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/75.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Хит HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/363.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Enter-фильм HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/322.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/369.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мир сериала HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/159.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Премиальное HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/421.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Ретро
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/191.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",FAN HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/420.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дорама HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/412.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/349.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Top HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/350.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Action HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/351.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Thriller HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/352.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Marvel HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/354.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Ужасы HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/355.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Comedy HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/356.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan РуКино HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/358.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Сваты HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/359.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Rating HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/422.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Cinema HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/423.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Premiere HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/424.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Comedy HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/426.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Family HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/427.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh VHS HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/428.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Fantastic HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/429.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Series HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/430.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Horror HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/431.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Adventure HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/432.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Romantic HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/433.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Thriller HD
+#EXTGRP:Кино
+http://myott.top/stream/CUJ4ZVUK9V/434.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1 HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/176.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/192.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Боец HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/112.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 1
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/391.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 2
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/392.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 3 HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/393.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 4
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/394.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Dynamo Kyiv TV HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/396.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",KHL ТВ
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/166.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",KHL Prime HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/178.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/333.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",TV 3 Sport HD LT
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/416.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Бокс ТВ
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/154.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/148.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport Plus HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/332.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Экстрим HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/285.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/300.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UDAR HD
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/279.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",E TV
+#EXTGRP:Спорт
+http://myott.top/stream/CUJ4ZVUK9V/328.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/127.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/220.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Солнце
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/118.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/111.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/232.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт и музыка
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/82.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/150.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Капитан Фантастика HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/144.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/120.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/93.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/60.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Gulli Girl
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/305.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Ani
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/306.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Пиксель HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/323.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Fresh Kids HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/425.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Short HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/347.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Big HD
+#EXTGRP:Детские
+http://myott.top/stream/CUJ4ZVUK9V/348.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Stingray iConcerts HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/267.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Stingray CMusic HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/312.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/218.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/330.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE DELUXE HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/92.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE CLASSIC
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/272.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/318.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE ХИТ
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/320.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Music Box
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/319.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Europa Plus TV HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/184.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Inrating HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/147.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV Hits
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/302.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV Live HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/215.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 00s
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/165.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 90s
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/88.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 80s
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/87.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Музыка Первого
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/153.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Муз-ТВ
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/86.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Жара HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/386.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",RU.TV
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/109.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Mezzo Live HD
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/276.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Шансон ТВ
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/95.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Ля-минор ТВ
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/303.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",ТНТ MUSIC
+#EXTGRP:Музыкальные
+http://myott.top/stream/CUJ4ZVUK9V/317.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время HD
+#EXTGRP:Новостные
+http://myott.top/stream/CUJ4ZVUK9V/384.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
+#EXTGRP:Новостные
+http://myott.top/stream/CUJ4ZVUK9V/189.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC News HD UK
+#EXTGRP:Новостные
+http://myott.top/stream/CUJ4ZVUK9V/85.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",UA: Новини HD
+#EXTGRP:Новостные
+http://myott.top/stream/CUJ4ZVUK9V/438.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Рада HD
+#EXTGRP:Новостные
+http://myott.top/stream/CUJ4ZVUK9V/382.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",UA TV HD
+#EXTGRP:Новостные
+http://myott.top/stream/CUJ4ZVUK9V/63.m3u8
+
+
+
+
+
+#EXTM3U x-tvg-url="http://epg.azsat.org"
+
+#EXTINF:-1 tvg-id="62310be14e89cf215070e7e9e03ddee4" tvg-name="A&E" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/ae-channel.png",A&E
+http://loop01-2.canais.is:80/watch/trial/trial/1.ts
+
+#EXTINF:-1 tvg-id="62310be14e89cf215070e7e9e03ddee4" tvg-name="A&E FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/ae-channel.png",A&E FHD
+http://loop01-2.canais.is:80/watch/trial/trial/588.ts
+
+#EXTINF:-1 tvg-id="62310be14e89cf215070e7e9e03ddee4" tvg-name="A&E HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/ae-channel.png",A&E HD
+http://loop01-2.canais.is:80/watch/trial/trial/2.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="Al Jazeera Arabic HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/aljazeera-channel.png",Al Jazeera Arabic HD
+http://loop01-2.canais.is:80/watch/trial/trial/553.ts
+
+#EXTINF:-1 tvg-id="de24597a0d4f7000d9ae5188a638d5de" tvg-name="Al Jazeera English HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/aljazeera-channel.png",Al Jazeera English HD
+http://loop01-2.canais.is:80/watch/trial/trial/189.ts
+
+#EXTINF:-1 tvg-id="9def94b735a6abf1eac881122ab25453" tvg-name="AMC" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/amc-channel.png",AMC
+http://loop01-2.canais.is:80/watch/trial/trial/4.ts
+
+#EXTINF:-1 tvg-id="9def94b735a6abf1eac881122ab25453" tvg-name="AMC FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/amc-channel.png",AMC FHD
+http://loop01-2.canais.is:80/watch/trial/trial/5.ts
+
+#EXTINF:-1 tvg-id="9def94b735a6abf1eac881122ab25453" tvg-name="AMC HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/amc-channel.png",AMC HD
+http://loop01-2.canais.is:80/watch/trial/trial/589.ts
+
+#EXTINF:-1 tvg-id="f70efe81e859a5a1ef45cef66199f41d" tvg-name="Animal Planet" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/animalplanet-channel.png",Animal Planet
+http://loop01-2.canais.is:80/watch/trial/trial/568.ts
+
+#EXTINF:-1 tvg-id="f70efe81e859a5a1ef45cef66199f41d" tvg-name="Animal Planet FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/animalplanet-channel.png",Animal Planet FHD
+http://loop01-2.canais.is:80/watch/trial/trial/618.ts
+
+#EXTINF:-1 tvg-id="f70efe81e859a5a1ef45cef66199f41d" tvg-name="Animal Planet HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/animalplanet-channel.png",Animal Planet HD
+http://loop01-2.canais.is:80/watch/trial/trial/9.ts
+
+#EXTINF:-1 tvg-id="22a0bd3faaf47f4eb5af3d9e90bb5295" tvg-name="Arte 1 HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/arte1-channel.png",Arte 1 HD
+http://loop01-2.canais.is:80/watch/trial/trial/309.ts
+
+#EXTINF:-1 tvg-id="cf28c1523ef7a291d477862b3e4ffb63" tvg-name="AXN" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/axn-channel.png",AXN
+http://loop01-2.canais.is:80/watch/trial/trial/6.ts
+
+#EXTINF:-1 tvg-id="cf28c1523ef7a291d477862b3e4ffb63" tvg-name="AXN FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/axn-channel.png",AXN FHD
+http://loop01-2.canais.is:80/watch/trial/trial/674.ts
+
+#EXTINF:-1 tvg-id="cf28c1523ef7a291d477862b3e4ffb63" tvg-name="AXN HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/axn-channel.png",AXN HD
+http://loop01-2.canais.is:80/watch/trial/trial/7.ts
+
+#EXTINF:-1 tvg-id="740f69063f6637dcdb6a59c49025eddb" tvg-name="Band" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/band-channel.png",Band
+http://loop01-2.canais.is:80/watch/trial/trial/76.ts
+
+#EXTINF:-1 tvg-id="14758fa1a5399b451fcdc9ca18631f47" tvg-name="Band News" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/bandnews-channel.png",Band News
+http://loop01-2.canais.is:80/watch/trial/trial/350.ts
+
+#EXTINF:-1 tvg-id="14758fa1a5399b451fcdc9ca18631f47" tvg-name="Band News HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/bandnews-channel.png",Band News HD
+http://loop01-2.canais.is:80/watch/trial/trial/619.ts
+
+#EXTINF:-1 tvg-id="740f69063f6637dcdb6a59c49025eddb" tvg-name="Band RS HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/band-channel.png",Band RS HD
+http://loop01-2.canais.is:80/watch/trial/trial/43.ts
+
+#EXTINF:-1 tvg-id="740f69063f6637dcdb6a59c49025eddb" tvg-name="Band SP FHD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/band-channel.png",Band SP FHD
+http://loop01-2.canais.is:80/watch/trial/trial/842.ts
+
+#EXTINF:-1 tvg-id="740f69063f6637dcdb6a59c49025eddb" tvg-name="Band SP HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/band-channel.png",Band SP HD
+http://loop01-2.canais.is:80/watch/trial/trial/841.ts
+
+#EXTINF:-1 tvg-id="417327f7d37419f5b543e34a1fca0a2d" tvg-name="Band Sports" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/band-sports.png",Band Sports
+http://loop01-2.canais.is:80/watch/trial/trial/349.ts
+
+#EXTINF:-1 tvg-id="417327f7d37419f5b543e34a1fca0a2d" tvg-name="Band Sports FHD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/band-sports.png",Band Sports FHD
+http://loop01-2.canais.is:80/watch/trial/trial/810.ts
+
+#EXTINF:-1 tvg-id="417327f7d37419f5b543e34a1fca0a2d" tvg-name="Band Sports HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/band-sports.png",Band Sports HD
+http://loop01-2.canais.is:80/watch/trial/trial/620.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB 1 HD" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB 1 HD
+http://loop01-2.canais.is:80/watch/trial/trial/861.ts
+
+#EXTINF:-1 tvg-id="89277560e87319faceaa859418fa0d9b" tvg-name="BBB 2 HD" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/860.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 1" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 1
+http://loop01-2.canais.is:80/watch/trial/trial/1151.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 2" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 2
+http://loop01-2.canais.is:80/watch/trial/trial/1152.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 3" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 3
+http://loop01-2.canais.is:80/watch/trial/trial/1153.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 4" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 4
+http://loop01-2.canais.is:80/watch/trial/trial/1154.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 5" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 5
+http://loop01-2.canais.is:80/watch/trial/trial/1155.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 6" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 6
+http://loop01-2.canais.is:80/watch/trial/trial/1156.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 7" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 7
+http://loop01-2.canais.is:80/watch/trial/trial/1157.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 8" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 8
+http://loop01-2.canais.is:80/watch/trial/trial/1158.ts
+
+#EXTINF:-1 tvg-id="894be93d9521ce5e1edd48fe1ae2d653" tvg-name="BBB HD - Camera 9" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB HD - Camera 9
+http://loop01-2.canais.is:80/watch/trial/trial/1159.ts
+
+#EXTINF:-1 tvg-id="33f95bb475fceebd2d637f69f6bfafd9" tvg-name="BBB Moisaco HD" group-title="BBB 2023" tvg-logo="http://canais.is/imgs/BBB-canal.png",BBB Moisaco HD
+http://loop01-2.canais.is:80/watch/trial/trial/1160.ts
+
+#EXTINF:-1 tvg-id="775ae5254bdb14c5a44484a151eed0bf" tvg-name="BIS" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/bis-channel.png",BIS
+http://loop01-2.canais.is:80/watch/trial/trial/386.ts
+
+#EXTINF:-1 tvg-id="775ae5254bdb14c5a44484a151eed0bf" tvg-name="BIS FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/bis-channel.png",BIS FHD
+http://loop01-2.canais.is:80/watch/trial/trial/211.ts
+
+#EXTINF:-1 tvg-id="775ae5254bdb14c5a44484a151eed0bf" tvg-name="BIS HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/bis-channel.png",BIS HD
+http://loop01-2.canais.is:80/watch/trial/trial/621.ts
+
+#EXTINF:-1 tvg-id="33c92e94e0f5e9c69986f2e9f24b15e8" tvg-name="Campeonato Paraibano HD 01" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/campeonatoparaibano-channel.png",Campeonato Paraibano HD 01
+http://loop01-2.canais.is:80/watch/trial/trial/1749.ts
+
+#EXTINF:-1 tvg-id="0cb80578d7d6cb34113b9b2b1059857b" tvg-name="Campeonato Paraibano HD 02" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/campeonatoparaibano-channel.png",Campeonato Paraibano HD 02
+http://loop01-2.canais.is:80/watch/trial/trial/1750.ts
+
+#EXTINF:-1 tvg-id="50de160ab930308b11705961162dda1f" tvg-name="Campeonato Paulistano HD 01" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/paulistaoplay-channel.png",Campeonato Paulistano HD 01
+http://loop01-2.canais.is:80/watch/trial/trial/1747.ts
+
+#EXTINF:-1 tvg-id="7e2e378e0b70eb8c6d0aeb146ea4ee5c" tvg-name="Campeonato Paulistano HD 02" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/paulistaoplay-channel.png",Campeonato Paulistano HD 02
+http://loop01-2.canais.is:80/watch/trial/trial/1748.ts
+
+#EXTINF:-1 tvg-id="781f8af6858fdd730d0757af63b1574f" tvg-name="Campeonato Paulistano HD 03" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/paulistaoplay-channel.png",Campeonato Paulistano HD 03
+http://loop01-2.canais.is:80/watch/trial/trial/1751.ts
+
+#EXTINF:-1 tvg-id="21a7c32704920f2f25b154ad0593161f" tvg-name="Canal Brasil HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/canalbrasil-channel.png",Canal Brasil HD
+http://loop01-2.canais.is:80/watch/trial/trial/602.ts
+
+#EXTINF:-1 tvg-id="925bab5ebb4e7b5c470b8e5e8046bfd3" tvg-name="Canal Sony" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/sony-channel.png",Canal Sony
+http://loop01-2.canais.is:80/watch/trial/trial/103.ts
+
+#EXTINF:-1 tvg-id="925bab5ebb4e7b5c470b8e5e8046bfd3" tvg-name="Canal Sony HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/sony-channel.png",Canal Sony HD
+http://loop01-2.canais.is:80/watch/trial/trial/645.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="Canale 7 Itália" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/canale7-channel.png",Canale 7 Itália
+http://loop01-2.canais.is:80/watch/trial/trial/625.ts
+
+#EXTINF:-1 tvg-id="d488cca0d8790bd2fb309a731c92631f" tvg-name="Cartoon" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/cartoon-v1.png",Cartoon
+http://loop01-2.canais.is:80/watch/trial/trial/78.ts
+
+#EXTINF:-1 tvg-id="d488cca0d8790bd2fb309a731c92631f" tvg-name="Cartoon HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/cartoon-v1.png",Cartoon HD
+http://loop01-2.canais.is:80/watch/trial/trial/34.ts
+
+#EXTINF:-1 tvg-id="d48c1be1494ff88632b397bdba1c091d" tvg-name="Cartoonito" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/cartoonito-channel.png",Cartoonito
+http://loop01-2.canais.is:80/watch/trial/trial/77.ts
+
+#EXTINF:-1 tvg-id="d48c1be1494ff88632b397bdba1c091d" tvg-name="Cartoonito FHD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/cartoonito-channel.png",Cartoonito FHD
+http://loop01-2.canais.is:80/watch/trial/trial/804.ts
+
+#EXTINF:-1 tvg-id="d48c1be1494ff88632b397bdba1c091d" tvg-name="Cartoonito HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/cartoonito-channel.png",Cartoonito HD
+http://loop01-2.canais.is:80/watch/trial/trial/54.ts
+
+#EXTINF:-1 tvg-id="e5de0f78128cc7d83b887c2e5dd91b86" tvg-name="Cine Ação " group-title="CINE IPTV" tvg-logo="http://canais.is/imgs/cineacao-channel.png?a",Cine Ação 
+http://loop01-2.canais.is:80/watch/trial/trial/867.ts
+
+#EXTINF:-1 tvg-id="f802252dbd58acd1df26b70928db1f6e" tvg-name="Cine Aventura" group-title="CINE IPTV" tvg-logo="http://canais.is/imgs/cineaventura-channel.png?a",Cine Aventura
+http://loop01-2.canais.is:80/watch/trial/trial/869.ts
+
+#EXTINF:-1 tvg-id="d2bf197b2eb9a76a4dc19d39d40fc54f" tvg-name="Cine Comédia" group-title="CINE IPTV" tvg-logo="http://canais.is/imgs/cinecomedia-channel.png?a",Cine Comédia
+http://loop01-2.canais.is:80/watch/trial/trial/871.ts
+
+#EXTINF:-1 tvg-id="1508df3a4371890a165ad9d0d8c4b50f" tvg-name="Cine Drama" group-title="CINE IPTV" tvg-logo="http://canais.is/imgs/cinedrama-channel.png?a",Cine Drama
+http://loop01-2.canais.is:80/watch/trial/trial/870.ts
+
+#EXTINF:-1 tvg-id="c3cbac9ec0b96f75ab5fbdfd1c953f6e" tvg-name="Cine Lançamentos" group-title="CINE IPTV" tvg-logo="http://canais.is/imgs/cinecinema-channel.png?a",Cine Lançamentos
+http://loop01-2.canais.is:80/watch/trial/trial/872.ts
+
+#EXTINF:-1 tvg-id="292195b736f2f0fb002c6a8c88836c3d" tvg-name="Cine Policiais" group-title="CINE IPTV" tvg-logo="http://canais.is/imgs/cinepolicial-channel.png?a",Cine Policiais
+http://loop01-2.canais.is:80/watch/trial/trial/868.ts
+
+#EXTINF:-1 tvg-id="6e350ab0cb355c5051e3972731367de7" tvg-name="Cinecanal" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/cinecanal-channel.png",Cinecanal
+http://loop01-2.canais.is:80/watch/trial/trial/333.ts
+
+#EXTINF:-1 tvg-id="6e350ab0cb355c5051e3972731367de7" tvg-name="Cinecanal FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/cinecanal-channel.png",Cinecanal FHD
+http://loop01-2.canais.is:80/watch/trial/trial/185.ts
+
+#EXTINF:-1 tvg-id="6e350ab0cb355c5051e3972731367de7" tvg-name="Cinecanal HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/cinecanal-channel.png",Cinecanal HD
+http://loop01-2.canais.is:80/watch/trial/trial/634.ts
+
+#EXTINF:-1 tvg-id="04fd27149ea47548018664212a6854bd" tvg-name="Cinemax" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/cinemax-channel.png",Cinemax
+http://loop01-2.canais.is:80/watch/trial/trial/721.ts
+
+#EXTINF:-1 tvg-id="04fd27149ea47548018664212a6854bd" tvg-name="Cinemax FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/cinemax-channel.png",Cinemax FHD
+http://loop01-2.canais.is:80/watch/trial/trial/623.ts
+
+#EXTINF:-1 tvg-id="04fd27149ea47548018664212a6854bd" tvg-name="Cinemax HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/cinemax-channel.png",Cinemax HD
+http://loop01-2.canais.is:80/watch/trial/trial/254.ts
+
+#EXTINF:-1 tvg-id="e3539634873c67039ec56259408b75f7" tvg-name="CNN Brasil" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/cnn-v2.png",CNN Brasil
+http://loop01-2.canais.is:80/watch/trial/trial/670.ts
+
+#EXTINF:-1 tvg-id="e3539634873c67039ec56259408b75f7" tvg-name="CNN Brasil FHD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/cnn-v2.png",CNN Brasil FHD
+http://loop01-2.canais.is:80/watch/trial/trial/600.ts
+
+#EXTINF:-1 tvg-id="e3539634873c67039ec56259408b75f7" tvg-name="CNN Brasil HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/cnn-v2.png",CNN Brasil HD
+http://loop01-2.canais.is:80/watch/trial/trial/569.ts
+
+#EXTINF:-1 tvg-id="719aabeb471c45a0591ddaa49cc8c3e4" tvg-name="CNN International" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/cnninternacional-channel.png",CNN International
+http://loop01-2.canais.is:80/watch/trial/trial/748.ts
+
+#EXTINF:-1 tvg-id="ca2a0d97a545764dbd8e20e76bf62fd7" tvg-name="Combate" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/combate.png",Combate
+http://loop01-2.canais.is:80/watch/trial/trial/79.ts
+
+#EXTINF:-1 tvg-id="ca2a0d97a545764dbd8e20e76bf62fd7" tvg-name="Combate FHD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/combate.png",Combate FHD
+http://loop01-2.canais.is:80/watch/trial/trial/361.ts
+
+#EXTINF:-1 tvg-id="ca2a0d97a545764dbd8e20e76bf62fd7" tvg-name="Combate HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/combate.png",Combate HD
+http://loop01-2.canais.is:80/watch/trial/trial/24.ts
+
+#EXTINF:-1 tvg-id="e94e14331b0832558792c483a9b957dd" tvg-name="Comedy Central" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/comedycentral-channel.png",Comedy Central
+http://loop01-2.canais.is:80/watch/trial/trial/80.ts
+
+#EXTINF:-1 tvg-id="e94e14331b0832558792c483a9b957dd" tvg-name="Comedy Central FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/comedycentral-channel.png",Comedy Central FHD
+http://loop01-2.canais.is:80/watch/trial/trial/626.ts
+
+#EXTINF:-1 tvg-id="e94e14331b0832558792c483a9b957dd" tvg-name="Comedy Central HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/comedycentral-channel.png",Comedy Central HD
+http://loop01-2.canais.is:80/watch/trial/trial/177.ts
+
+#EXTINF:-1 tvg-id="HBO Max HD 01" tvg-name="HBO Max HD 01" group-title="ESPORTES" tvg-logo="https://cdn.ome.lt/mk8c9R0BWGmfjJ4Byh8BHQliWBs=/1200x630/smart/extras/conteudos/hbomaxbilheteria.png",HBO Max HD 01
+http://loop01-2.canais.is:80/watch/trial/trial/1757.ts
+
+#EXTINF:-1 tvg-id="020f3bac261c0bc42df2bd9c684f2340" tvg-name="Curta! HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/curta-channel.png",Curta! HD
+http://loop01-2.canais.is:80/watch/trial/trial/753.ts
+
+#EXTINF:-1 tvg-id="24259c759c6d5df577965e785d710912" tvg-name="Discovery Channel" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discovery-channel.png",Discovery Channel
+http://loop01-2.canais.is:80/watch/trial/trial/81.ts
+
+#EXTINF:-1 tvg-id="24259c759c6d5df577965e785d710912" tvg-name="Discovery Channel FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discovery-channel.png",Discovery Channel FHD
+http://loop01-2.canais.is:80/watch/trial/trial/646.ts
+
+#EXTINF:-1 tvg-id="24259c759c6d5df577965e785d710912" tvg-name="Discovery Channel HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discovery-channel.png",Discovery Channel HD
+http://loop01-2.canais.is:80/watch/trial/trial/35.ts
+
+#EXTINF:-1 tvg-id="c685fdfa853649a9aec371318c2a6701" tvg-name="Discovery H&H" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/discoveryhomeandhealth-channel.png",Discovery H&H
+http://loop01-2.canais.is:80/watch/trial/trial/168.ts
+
+#EXTINF:-1 tvg-id="c685fdfa853649a9aec371318c2a6701" tvg-name="Discovery H&H FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/discoveryhomeandhealth-channel.png",Discovery H&H FHD
+http://loop01-2.canais.is:80/watch/trial/trial/627.ts
+
+#EXTINF:-1 tvg-id="c685fdfa853649a9aec371318c2a6701" tvg-name="Discovery H&H HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/discoveryhomeandhealth-channel.png",Discovery H&H HD
+http://loop01-2.canais.is:80/watch/trial/trial/25.ts
+
+#EXTINF:-1 tvg-id="36bb723f5109134389758dde47669419" tvg-name="Discovery Kids" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/discoverykids-channel.png",Discovery Kids
+http://loop01-2.canais.is:80/watch/trial/trial/82.ts
+
+#EXTINF:-1 tvg-id="36bb723f5109134389758dde47669419" tvg-name="Discovery Kids HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/discoverykids-channel.png",Discovery Kids HD
+http://loop01-2.canais.is:80/watch/trial/trial/628.ts
+
+#EXTINF:-1 tvg-id="d0f9a43bc7a1d8b054baa4e52e4588df" tvg-name="Discovery Science FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryscience-channel.png",Discovery Science FHD
+http://loop01-2.canais.is:80/watch/trial/trial/647.ts
+
+#EXTINF:-1 tvg-id="d0f9a43bc7a1d8b054baa4e52e4588df" tvg-name="Discovery Science HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryscience-channel.png",Discovery Science HD
+http://loop01-2.canais.is:80/watch/trial/trial/214.ts
+
+#EXTINF:-1 tvg-id="288651b7413d9e053d8f982b97914b08" tvg-name="Discovery Theather" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoverytheater-channel.png",Discovery Theather
+http://loop01-2.canais.is:80/watch/trial/trial/169.ts
+
+#EXTINF:-1 tvg-id="288651b7413d9e053d8f982b97914b08" tvg-name="Discovery Theather FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoverytheater-channel.png",Discovery Theather FHD
+http://loop01-2.canais.is:80/watch/trial/trial/648.ts
+
+#EXTINF:-1 tvg-id="288651b7413d9e053d8f982b97914b08" tvg-name="Discovery Theather HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoverytheater-channel.png",Discovery Theather HD
+http://loop01-2.canais.is:80/watch/trial/trial/52.ts
+
+#EXTINF:-1 tvg-id="739c3e5d4be0a2a3a543c97881d6c782" tvg-name="Discovery Turbo" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryturbo-channel.png",Discovery Turbo
+http://loop01-2.canais.is:80/watch/trial/trial/115.ts
+
+#EXTINF:-1 tvg-id="739c3e5d4be0a2a3a543c97881d6c782" tvg-name="Discovery Turbo FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryturbo-channel.png",Discovery Turbo FHD
+http://loop01-2.canais.is:80/watch/trial/trial/653.ts
+
+#EXTINF:-1 tvg-id="739c3e5d4be0a2a3a543c97881d6c782" tvg-name="Discovery Turbo HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryturbo-channel.png",Discovery Turbo HD
+http://loop01-2.canais.is:80/watch/trial/trial/26.ts
+
+#EXTINF:-1 tvg-id="093feaf8396a714baec738adab719428" tvg-name="Discovery World FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryworld-channel.png",Discovery World FHD
+http://loop01-2.canais.is:80/watch/trial/trial/629.ts
+
+#EXTINF:-1 tvg-id="093feaf8396a714baec738adab719428" tvg-name="Discovery World HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/discoveryworld-channel.png",Discovery World HD
+http://loop01-2.canais.is:80/watch/trial/trial/174.ts
+
+#EXTINF:-1 tvg-id="0b69ff32c88335251c11c6b7067dc68a" tvg-name="E!" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/e-channel.png",E!
+http://loop01-2.canais.is:80/watch/trial/trial/331.ts
+
+#EXTINF:-1 tvg-id="0b69ff32c88335251c11c6b7067dc68a" tvg-name="E! FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/e-channel.png",E! FHD
+http://loop01-2.canais.is:80/watch/trial/trial/806.ts
+
+#EXTINF:-1 tvg-id="0b69ff32c88335251c11c6b7067dc68a" tvg-name="E! HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/e-channel.png",E! HD
+http://loop01-2.canais.is:80/watch/trial/trial/184.ts
+
+#EXTINF:-1 tvg-id="6864eb578cc3f6317f85ff52f4bc8772" tvg-name="ESPN" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn-channel.png",ESPN
+http://loop01-2.canais.is:80/watch/trial/trial/332.ts
+
+#EXTINF:-1 tvg-id="eb9a5c34d48d77e5ae82dccb499d3b0d" tvg-name="ESPN 2" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn2.png",ESPN 2
+http://loop01-2.canais.is:80/watch/trial/trial/380.ts
+
+#EXTINF:-1 tvg-id="eb9a5c34d48d77e5ae82dccb499d3b0d" tvg-name="ESPN 2 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn2.png",ESPN 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/631.ts
+
+#EXTINF:-1 tvg-id="98fdd4c4d5b8441717183324e75fbf01" tvg-name="ESPN 3" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn3.png",ESPN 3
+http://loop01-2.canais.is:80/watch/trial/trial/379.ts
+
+#EXTINF:-1 tvg-id="98fdd4c4d5b8441717183324e75fbf01" tvg-name="ESPN 3 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn3.png",ESPN 3 HD
+http://loop01-2.canais.is:80/watch/trial/trial/840.ts
+
+#EXTINF:-1 tvg-id="ca02d381ba58fe8d80da06e71abcee84" tvg-name="ESPN 4" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn4.png",ESPN 4
+http://loop01-2.canais.is:80/watch/trial/trial/55.ts
+
+#EXTINF:-1 tvg-id="ca02d381ba58fe8d80da06e71abcee84" tvg-name="ESPN 4 FHD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn4.png",ESPN 4 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/698.ts
+
+#EXTINF:-1 tvg-id="ca02d381ba58fe8d80da06e71abcee84" tvg-name="ESPN 4 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn4.png",ESPN 4 HD
+http://loop01-2.canais.is:80/watch/trial/trial/37.ts
+
+#EXTINF:-1 tvg-id="ca02d381ba58fe8d80da06e71abcee84" tvg-name="ESPN 4 HD Alt" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn4.png",ESPN 4 HD Alt
+http://loop01-2.canais.is:80/watch/trial/trial/839.ts
+
+#EXTINF:-1 tvg-id="00c1e2cea5a55a89800a2a0d1fe88ed3" tvg-name="ESPN Extra HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn-extra.png",ESPN Extra HD
+http://loop01-2.canais.is:80/watch/trial/trial/56.ts
+
+#EXTINF:-1 tvg-id="6864eb578cc3f6317f85ff52f4bc8772" tvg-name="ESPN HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/espn-channel.png",ESPN HD
+http://loop01-2.canais.is:80/watch/trial/trial/165.ts
+
+#EXTINF:-1 tvg-id="da000065b99b299c06b9a37dfeaed281" tvg-name="Fish TV" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/fishtv-channel.png",Fish TV
+http://loop01-2.canais.is:80/watch/trial/trial/217.ts
+
+#EXTINF:-1 tvg-id="da000065b99b299c06b9a37dfeaed281" tvg-name="Fish TV HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/fishtv-channel.png",Fish TV HD
+http://loop01-2.canais.is:80/watch/trial/trial/633.ts
+
+#EXTINF:-1 tvg-id="986ec95d2da3d31796aa8766c8a7deda" tvg-name="Food Network" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/foodnetwork.png",Food Network
+http://loop01-2.canais.is:80/watch/trial/trial/84.ts
+
+#EXTINF:-1 tvg-id="986ec95d2da3d31796aa8766c8a7deda" tvg-name="Food Network FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/foodnetwork.png",Food Network FHD
+http://loop01-2.canais.is:80/watch/trial/trial/632.ts
+
+#EXTINF:-1 tvg-id="986ec95d2da3d31796aa8766c8a7deda" tvg-name="Food Network HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/foodnetwork.png",Food Network HD
+http://loop01-2.canais.is:80/watch/trial/trial/57.ts
+
+#EXTINF:-1 tvg-id="c83465efce80d12811d5dc09da37318a" tvg-name="Fox Sports 2" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/fox-sports2.png",Fox Sports 2
+http://loop01-2.canais.is:80/watch/trial/trial/120.ts
+
+#EXTINF:-1 tvg-id="c83465efce80d12811d5dc09da37318a" tvg-name="Fox Sports 2 FHD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/fox-sports2.png",Fox Sports 2 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/811.ts
+
+#EXTINF:-1 tvg-id="c83465efce80d12811d5dc09da37318a" tvg-name="Fox Sports 2 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/fox-sports2.png",Fox Sports 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/36.ts
+
+#EXTINF:-1 tvg-id="b2b65d59b64b0255fb4b637435534709" tvg-name="Futura HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/futura-channel.png",Futura HD
+http://loop01-2.canais.is:80/watch/trial/trial/209.ts
+
+#EXTINF:-1 tvg-id="d0656b1f10178fcb74b8fad71d578e78" tvg-name="FX" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/fx-channel.png",FX
+http://loop01-2.canais.is:80/watch/trial/trial/87.ts
+
+#EXTINF:-1 tvg-id="d0656b1f10178fcb74b8fad71d578e78" tvg-name="FX FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/fx-channel.png",FX FHD
+http://loop01-2.canais.is:80/watch/trial/trial/12.ts
+
+#EXTINF:-1 tvg-id="d0656b1f10178fcb74b8fad71d578e78" tvg-name="FX HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/fx-channel.png",FX HD
+http://loop01-2.canais.is:80/watch/trial/trial/637.ts
+
+#EXTINF:-1 tvg-id="4026898eee118b0294f2a9c0743a2520" tvg-name="Globo Amazônica" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/amazonica-channel.png",Globo Amazônica
+http://loop01-2.canais.is:80/watch/trial/trial/260.ts
+
+#EXTINF:-1 tvg-id="4026898eee118b0294f2a9c0743a2520" tvg-name="Globo Amazônica HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/amazonica-channel.png",Globo Amazônica HD
+http://loop01-2.canais.is:80/watch/trial/trial/261.ts
+
+#EXTINF:-1 tvg-id="4026898eee118b0294f2a9c0743a2520" tvg-name="Globo Amazônica Macapá HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/amazonica-channel.png",Globo Amazônica Macapá HD
+http://loop01-2.canais.is:80/watch/trial/trial/845.ts
+
+#EXTINF:-1 tvg-id="de8690852580dbb79a0f9681201756e6" tvg-name="Globo Bahia" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/bahia-channel.png",Globo Bahia
+http://loop01-2.canais.is:80/watch/trial/trial/239.ts
+
+#EXTINF:-1 tvg-id="de8690852580dbb79a0f9681201756e6" tvg-name="Globo Bahia HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/bahia-channel.png",Globo Bahia HD
+http://loop01-2.canais.is:80/watch/trial/trial/579.ts
+
+#EXTINF:-1 tvg-id="4026898eee118b0294f2a9c0743a2520" tvg-name="Globo Boa Vista Roraima HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/roraima-channel.png",Globo Boa Vista Roraima HD
+http://loop01-2.canais.is:80/watch/trial/trial/838.ts
+
+#EXTINF:-1 tvg-id="1ba8ad25f759b770cb3917b173bc9aec" tvg-name="Globo Brasília" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/brasilia-channel.png",Globo Brasília
+http://loop01-2.canais.is:80/watch/trial/trial/374.ts
+
+#EXTINF:-1 tvg-id="1ba8ad25f759b770cb3917b173bc9aec" tvg-name="Globo Brasília FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/brasilia-channel.png",Globo Brasília FHD
+http://loop01-2.canais.is:80/watch/trial/trial/722.ts
+
+#EXTINF:-1 tvg-id="1ba8ad25f759b770cb3917b173bc9aec" tvg-name="Globo Brasília HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/brasilia-channel.png",Globo Brasília HD
+http://loop01-2.canais.is:80/watch/trial/trial/88.ts
+
+#EXTINF:-1 tvg-id="29106b5d6708d75eab8b1056732e2e8a" tvg-name="Globo EPTV Campinas" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/eptvcampinas-channel.png",Globo EPTV Campinas
+http://loop01-2.canais.is:80/watch/trial/trial/554.ts
+
+#EXTINF:-1 tvg-id="29106b5d6708d75eab8b1056732e2e8a" tvg-name="Globo EPTV Campinas FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/eptvcampinas-channel.png",Globo EPTV Campinas FHD
+http://loop01-2.canais.is:80/watch/trial/trial/1163.ts
+
+#EXTINF:-1 tvg-id="29106b5d6708d75eab8b1056732e2e8a" tvg-name="Globo EPTV Campinas HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/eptvcampinas-channel.png",Globo EPTV Campinas HD
+http://loop01-2.canais.is:80/watch/trial/trial/552.ts
+
+#EXTINF:-1 tvg-id="29106b5d6708d75eab8b1056732e2e8a" tvg-name="Globo EPTV Campinas HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/eptvcampinas-channel.png",Globo EPTV Campinas HD
+http://loop01-2.canais.is:80/watch/trial/trial/689.ts
+
+#EXTINF:-1 tvg-id="0c9e8503e54796792d2aea45229151d2" tvg-name="Globo EPTV Ribeirão Preto" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/ribeiraopreto-channel.png",Globo EPTV Ribeirão Preto
+http://loop01-2.canais.is:80/watch/trial/trial/555.ts
+
+#EXTINF:-1 tvg-id="c0df693bbc8a64408a72fc13419f16a3" tvg-name="Globo EPTV São Carlos" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/saocarlos-channel.png",Globo EPTV São Carlos
+http://loop01-2.canais.is:80/watch/trial/trial/556.ts
+
+#EXTINF:-1 tvg-id="4026898eee118b0294f2a9c0743a2520" tvg-name="Globo Gazeta Alagoas FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/alagoas-channel.png",Globo Gazeta Alagoas FHD
+http://loop01-2.canais.is:80/watch/trial/trial/688.ts
+
+#EXTINF:-1 tvg-id="935346cdab9a5822a32fb9eebb168a39" tvg-name="Globo Goiânia TV Anhanguera HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/anhanguera-channel.png",Globo Goiânia TV Anhanguera HD
+http://loop01-2.canais.is:80/watch/trial/trial/89.ts
+
+#EXTINF:-1 tvg-id="63497abfdb5e6b09d873bc529506a283" tvg-name="Globo Integração TV Uberlândia HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvuberlandia-channel.png",Globo Integração TV Uberlândia HD
+http://loop01-2.canais.is:80/watch/trial/trial/837.ts
+
+#EXTINF:-1 tvg-id="4026898eee118b0294f2a9c0743a2520" tvg-name="Globo Inter TV Cabugi HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/cabugi-channel.png",Globo Inter TV Cabugi HD
+http://loop01-2.canais.is:80/watch/trial/trial/241.ts
+
+#EXTINF:-1 tvg-id="63497abfdb5e6b09d873bc529506a283" tvg-name="Globo Minas" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/minas-channel.png",Globo Minas
+http://loop01-2.canais.is:80/watch/trial/trial/90.ts
+
+#EXTINF:-1 tvg-id="63497abfdb5e6b09d873bc529506a283" tvg-name="Globo Minas FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/minas-channel.png",Globo Minas FHD
+http://loop01-2.canais.is:80/watch/trial/trial/713.ts
+
+#EXTINF:-1 tvg-id="63497abfdb5e6b09d873bc529506a283" tvg-name="Globo Minas HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/minas-channel.png",Globo Minas HD
+http://loop01-2.canais.is:80/watch/trial/trial/599.ts
+
+#EXTINF:-1 tvg-id="5cd4e5ef9cc9d1b5dc25b2c1fa53a393" tvg-name="Globo Nacional FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/nacional-channel.png",Globo Nacional FHD
+http://loop01-2.canais.is:80/watch/trial/trial/822.ts
+
+#EXTINF:-1 tvg-id="8c7b1b1c06a8f525fe5ab36eb8d2ca30" tvg-name="Globo News" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/globonews-channel.png",Globo News
+http://loop01-2.canais.is:80/watch/trial/trial/93.ts
+
+#EXTINF:-1 tvg-id="8c7b1b1c06a8f525fe5ab36eb8d2ca30" tvg-name="Globo News FHD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/globonews-channel.png",Globo News FHD
+http://loop01-2.canais.is:80/watch/trial/trial/593.ts
+
+#EXTINF:-1 tvg-id="8c7b1b1c06a8f525fe5ab36eb8d2ca30" tvg-name="Globo News HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/globonews-channel.png",Globo News HD
+http://loop01-2.canais.is:80/watch/trial/trial/13.ts
+
+#EXTINF:-1 tvg-id="5d1c660d39bb2e5d87e1d36be23756c8" tvg-name="Globo Nordeste FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/nordeste-channel.png",Globo Nordeste FHD
+http://loop01-2.canais.is:80/watch/trial/trial/714.ts
+
+#EXTINF:-1 tvg-id="5d1c660d39bb2e5d87e1d36be23756c8" tvg-name="Globo Nordeste HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/nordeste-channel.png",Globo Nordeste HD
+http://loop01-2.canais.is:80/watch/trial/trial/240.ts
+
+#EXTINF:-1 tvg-id="b5212841e30543f48f5309da657b36f3" tvg-name="Globo NSC TV FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/nsctv-channel.png",Globo NSC TV FHD
+http://loop01-2.canais.is:80/watch/trial/trial/1164.ts
+
+#EXTINF:-1 tvg-id="b5212841e30543f48f5309da657b36f3" tvg-name="Globo NSC TV HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/nsctv-channel.png",Globo NSC TV HD
+http://loop01-2.canais.is:80/watch/trial/trial/304.ts
+
+#EXTINF:-1 tvg-id="b5212841e30543f48f5309da657b36f3" tvg-name="Globo RBS TV Caxias do Sul HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rbstvcaxiasdosul-channel.png",Globo RBS TV Caxias do Sul HD
+http://loop01-2.canais.is:80/watch/trial/trial/833.ts
+
+#EXTINF:-1 tvg-id="b5212841e30543f48f5309da657b36f3" tvg-name="Globo RBS TV Porto Alegre FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rbstv-channel.png",Globo RBS TV Porto Alegre FHD
+http://loop01-2.canais.is:80/watch/trial/trial/170.ts
+
+#EXTINF:-1 tvg-id="b5212841e30543f48f5309da657b36f3" tvg-name="Globo RBS TV Porto Alegre HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rbstv-channel.png",Globo RBS TV Porto Alegre HD
+http://loop01-2.canais.is:80/watch/trial/trial/561.ts
+
+#EXTINF:-1 tvg-id="9f3c98f5c94104115dcc0f5fada57862" tvg-name="Globo Recife HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/recife-channel.png",Globo Recife HD
+http://loop01-2.canais.is:80/watch/trial/trial/835.ts
+
+#EXTINF:-1 tvg-id="f89a9f83daaa6b90c6140bd300aca2c9" tvg-name="Globo RJ" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rj-channel.png",Globo RJ
+http://loop01-2.canais.is:80/watch/trial/trial/91.ts
+
+#EXTINF:-1 tvg-id="f89a9f83daaa6b90c6140bd300aca2c9" tvg-name="Globo RJ FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rj-channel.png",Globo RJ FHD
+http://loop01-2.canais.is:80/watch/trial/trial/590.ts
+
+#EXTINF:-1 tvg-id="f89a9f83daaa6b90c6140bd300aca2c9" tvg-name="Globo RJ HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rj-channel.png",Globo RJ HD
+http://loop01-2.canais.is:80/watch/trial/trial/354.ts
+
+#EXTINF:-1 tvg-id="f89a9f83daaa6b90c6140bd300aca2c9" tvg-name="Globo RJ Interior HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rjinterior-channel.png",Globo RJ Interior HD
+http://loop01-2.canais.is:80/watch/trial/trial/825.ts
+
+#EXTINF:-1 tvg-id="3ecc38ee627d1de74440390aee2963a8" tvg-name="Globo RPC Curitiba" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rpccuritiba-channel.png",Globo RPC Curitiba
+http://loop01-2.canais.is:80/watch/trial/trial/310.ts
+
+#EXTINF:-1 tvg-id="3ecc38ee627d1de74440390aee2963a8" tvg-name="Globo RPC Curitiba HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/rpccuritiba-channel.png",Globo RPC Curitiba HD
+http://loop01-2.canais.is:80/watch/trial/trial/686.ts
+
+#EXTINF:-1 tvg-id="5cd4e5ef9cc9d1b5dc25b2c1fa53a393" tvg-name="Globo SP" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/globosp-channel.png",Globo SP
+http://loop01-2.canais.is:80/watch/trial/trial/92.ts
+
+#EXTINF:-1 tvg-id="5cd4e5ef9cc9d1b5dc25b2c1fa53a393" tvg-name="Globo SP FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/globosp-channel.png",Globo SP FHD
+http://loop01-2.canais.is:80/watch/trial/trial/712.ts
+
+#EXTINF:-1 tvg-id="5cd4e5ef9cc9d1b5dc25b2c1fa53a393" tvg-name="Globo SP HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/globosp-channel.png",Globo SP HD
+http://loop01-2.canais.is:80/watch/trial/trial/60.ts
+
+#EXTINF:-1 tvg-id="5d1c660d39bb2e5d87e1d36be23756c8" tvg-name="Globo TV Asa Branca HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvasabranca-channel.png",Globo TV Asa Branca HD
+http://loop01-2.canais.is:80/watch/trial/trial/826.ts
+
+#EXTINF:-1 tvg-id="5d1c660d39bb2e5d87e1d36be23756c8" tvg-name="Globo TV Cabo Branco HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvcabobranco-channel.png",Globo TV Cabo Branco HD
+http://loop01-2.canais.is:80/watch/trial/trial/828.ts
+
+#EXTINF:-1 tvg-id="5d1c660d39bb2e5d87e1d36be23756c8" tvg-name="Globo TV Clube Piauí HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvclubepiaui-channel.png",Globo TV Clube Piauí HD
+http://loop01-2.canais.is:80/watch/trial/trial/849.ts
+
+#EXTINF:-1 tvg-id="cf359e245654dfc67a669488fccefe3d" tvg-name="Globo TV Cuiabá" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvcuiaba-channel.png",Globo TV Cuiabá
+http://loop01-2.canais.is:80/watch/trial/trial/351.ts
+
+#EXTINF:-1 tvg-id="935346cdab9a5822a32fb9eebb168a39" tvg-name="Globo TV Cuiabá HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvcuiaba-channel.png",Globo TV Cuiabá HD
+http://loop01-2.canais.is:80/watch/trial/trial/836.ts
+
+#EXTINF:-1 tvg-id="0c9e8503e54796792d2aea45229151d2" tvg-name="Globo TV Fronteira Paulista HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvfronteirapaulista-channel.png",Globo TV Fronteira Paulista HD
+http://loop01-2.canais.is:80/watch/trial/trial/831.ts
+
+#EXTINF:-1 tvg-id="b8f8f17925c6281e2c7006fa6716a909" tvg-name="Globo TV Gazeta ES HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/gazetaes-channel.png",Globo TV Gazeta ES HD
+http://loop01-2.canais.is:80/watch/trial/trial/834.ts
+
+#EXTINF:-1 tvg-id="cf359e245654dfc67a669488fccefe3d" tvg-name="Globo TV Morena" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvmorena-channel.png",Globo TV Morena
+http://loop01-2.canais.is:80/watch/trial/trial/703.ts
+
+#EXTINF:-1 tvg-id="cf359e245654dfc67a669488fccefe3d" tvg-name="Globo TV Morena FHD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvmorena-channel.png",Globo TV Morena FHD
+http://loop01-2.canais.is:80/watch/trial/trial/699.ts
+
+#EXTINF:-1 tvg-id="cf359e245654dfc67a669488fccefe3d" tvg-name="Globo TV Morena HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvmorena-channel.png",Globo TV Morena HD
+http://loop01-2.canais.is:80/watch/trial/trial/373.ts
+
+#EXTINF:-1 tvg-id="a769fee0f0b049111e65e1bcc5515746" tvg-name="Globo TV Tem Bauru HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/bauru-channel.png",Globo TV Tem Bauru HD
+http://loop01-2.canais.is:80/watch/trial/trial/243.ts
+
+#EXTINF:-1 tvg-id="c0df693bbc8a64408a72fc13419f16a3" tvg-name="Globo TV Tem Itapetininga HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvtemitapetininga-channel.png",Globo TV Tem Itapetininga HD
+http://loop01-2.canais.is:80/watch/trial/trial/830.ts
+
+#EXTINF:-1 tvg-id="701d21b0ab82ae558663f4e6e569441f" tvg-name="Globo TV Tem SJRP" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvtemsjrp-channel.png",Globo TV Tem SJRP
+http://loop01-2.canais.is:80/watch/trial/trial/372.ts
+
+#EXTINF:-1 tvg-id="ae2b22345993f4a2e906269515bf9bd2" tvg-name="Globo TV Tem Sorocaba HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvtemsorocaba-channel.png",Globo TV Tem Sorocaba HD
+http://loop01-2.canais.is:80/watch/trial/trial/242.ts
+
+#EXTINF:-1 tvg-id="ae2b22345993f4a2e906269515bf9bd2" tvg-name="Globo TV Tem Taubaté HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvtemtaubate-channel.png",Globo TV Tem Taubaté HD
+http://loop01-2.canais.is:80/watch/trial/trial/829.ts
+
+#EXTINF:-1 tvg-id="5bb9d2465a78019497f91980012b46df" tvg-name="Globo TV Tribuna" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvtribuna-channel.png",Globo TV Tribuna
+http://loop01-2.canais.is:80/watch/trial/trial/371.ts
+
+#EXTINF:-1 tvg-id="5bb9d2465a78019497f91980012b46df" tvg-name="Globo TV Tribuna HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvtribuna-channel.png",Globo TV Tribuna HD
+http://loop01-2.canais.is:80/watch/trial/trial/236.ts
+
+#EXTINF:-1 tvg-id="ae2b22345993f4a2e906269515bf9bd2" tvg-name="Globo TV Vanguarda SJC" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/tvvanguardasjc-channel.png",Globo TV Vanguarda SJC
+http://loop01-2.canais.is:80/watch/trial/trial/567.ts
+
+#EXTINF:-1 tvg-id="9f3c98f5c94104115dcc0f5fada57862" tvg-name="Globo Verdes Mares Fortaleza" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/verdesmaresfortaleza-channel.png",Globo Verdes Mares Fortaleza
+http://loop01-2.canais.is:80/watch/trial/trial/238.ts
+
+#EXTINF:-1 tvg-id="9f3c98f5c94104115dcc0f5fada57862" tvg-name="Globo Verdes Mares Fortaleza HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/verdesmaresfortaleza-channel.png",Globo Verdes Mares Fortaleza HD
+http://loop01-2.canais.is:80/watch/trial/trial/832.ts
+
+#EXTINF:-1 tvg-id="9f3c98f5c94104115dcc0f5fada57862" tvg-name="Globo Verdes Mares Fortaleza HD" group-title="GLOBOS" tvg-logo="http://canais.is/imgs/verdesmaresfortaleza-channel.png",Globo Verdes Mares Fortaleza HD
+http://loop01-2.canais.is:80/watch/trial/trial/580.ts
+
+#EXTINF:-1 tvg-id="c740d1e134d8e587ec1338b8f9bec979" tvg-name="Gloob" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/gloob-channel.png",Gloob
+http://loop01-2.canais.is:80/watch/trial/trial/334.ts
+
+#EXTINF:-1 tvg-id="c740d1e134d8e587ec1338b8f9bec979" tvg-name="Gloob FHD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/gloob-channel.png",Gloob FHD
+http://loop01-2.canais.is:80/watch/trial/trial/805.ts
+
+#EXTINF:-1 tvg-id="c740d1e134d8e587ec1338b8f9bec979" tvg-name="Gloob HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/gloob-channel.png",Gloob HD
+http://loop01-2.canais.is:80/watch/trial/trial/208.ts
+
+#EXTINF:-1 tvg-id="30698cf53e693236f6198800a46d46c3" tvg-name="Gloobinho FHD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/gloob-channel.png",Gloobinho FHD
+http://loop01-2.canais.is:80/watch/trial/trial/1165.ts
+
+#EXTINF:-1 tvg-id="30698cf53e693236f6198800a46d46c3" tvg-name="Gloobinho HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/gloob-channel.png",Gloobinho HD
+http://loop01-2.canais.is:80/watch/trial/trial/859.ts
+
+#EXTINF:-1 tvg-id="18f76365906cfa0c4017e0f1a0964a81" tvg-name="GNT" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/gnt-channel.png",GNT
+http://loop01-2.canais.is:80/watch/trial/trial/94.ts
+
+#EXTINF:-1 tvg-id="18f76365906cfa0c4017e0f1a0964a81" tvg-name="GNT FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/gnt-channel.png",GNT FHD
+http://loop01-2.canais.is:80/watch/trial/trial/638.ts
+
+#EXTINF:-1 tvg-id="18f76365906cfa0c4017e0f1a0964a81" tvg-name="GNT HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/gnt-channel.png",GNT HD
+http://loop01-2.canais.is:80/watch/trial/trial/14.ts
+
+#EXTINF:-1 tvg-id="6c53d913af63c3d24ba8f43fd6442ca5" tvg-name="HBO" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbo-channel.png",HBO
+http://loop01-2.canais.is:80/watch/trial/trial/121.ts
+
+#EXTINF:-1 tvg-id="5be50aa7c316c85a405a3c9b18ed2e45" tvg-name="HBO 2" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbo2-channel.png",HBO 2
+http://loop01-2.canais.is:80/watch/trial/trial/122.ts
+
+#EXTINF:-1 tvg-id="5be50aa7c316c85a405a3c9b18ed2e45" tvg-name="HBO 2 FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbo2-channel.png",HBO 2 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/40.ts
+
+#EXTINF:-1 tvg-id="5be50aa7c316c85a405a3c9b18ed2e45" tvg-name="HBO 2 HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbo2-channel.png",HBO 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/667.ts
+
+#EXTINF:-1 tvg-id="6362164fb72ba925e7be163db3ebc7a6" tvg-name="HBO Family" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbofamily-channel.png",HBO Family
+http://loop01-2.canais.is:80/watch/trial/trial/262.ts
+
+#EXTINF:-1 tvg-id="6362164fb72ba925e7be163db3ebc7a6" tvg-name="HBO Family FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbofamily-channel.png",HBO Family FHD
+http://loop01-2.canais.is:80/watch/trial/trial/639.ts
+
+#EXTINF:-1 tvg-id="6362164fb72ba925e7be163db3ebc7a6" tvg-name="HBO Family HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbofamily-channel.png",HBO Family HD
+http://loop01-2.canais.is:80/watch/trial/trial/175.ts
+
+#EXTINF:-1 tvg-id="6c53d913af63c3d24ba8f43fd6442ca5" tvg-name="HBO FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbo-channel.png",HBO FHD
+http://loop01-2.canais.is:80/watch/trial/trial/656.ts
+
+#EXTINF:-1 tvg-id="6c53d913af63c3d24ba8f43fd6442ca5" tvg-name="HBO HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbo-channel.png",HBO HD
+http://loop01-2.canais.is:80/watch/trial/trial/39.ts
+
+#EXTINF:-1 tvg-id="67d5149cfdd089bbf25659d843887dd2" tvg-name="HBO Mundi" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbomundi-channel.png",HBO Mundi
+http://loop01-2.canais.is:80/watch/trial/trial/337.ts
+
+#EXTINF:-1 tvg-id="67d5149cfdd089bbf25659d843887dd2" tvg-name="HBO Mundi FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbomundi-channel.png",HBO Mundi FHD
+http://loop01-2.canais.is:80/watch/trial/trial/657.ts
+
+#EXTINF:-1 tvg-id="67d5149cfdd089bbf25659d843887dd2" tvg-name="HBO Mundi HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbomundi-channel.png",HBO Mundi HD
+http://loop01-2.canais.is:80/watch/trial/trial/256.ts
+
+#EXTINF:-1 tvg-id="9c507760cd21fbec0b5deda6a64f9aaf" tvg-name="HBO Pop" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbopop-channel.png",HBO Pop
+http://loop01-2.canais.is:80/watch/trial/trial/339.ts
+
+#EXTINF:-1 tvg-id="9c507760cd21fbec0b5deda6a64f9aaf" tvg-name="HBO Pop HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbopop-channel.png",HBO Pop HD
+http://loop01-2.canais.is:80/watch/trial/trial/180.ts
+
+#EXTINF:-1 tvg-id="2042ddae6a2118b80ee748c565ab4ba5" tvg-name="HBO Signature" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbosignature-channel.png",HBO Signature
+http://loop01-2.canais.is:80/watch/trial/trial/1166.ts
+
+#EXTINF:-1 tvg-id="2042ddae6a2118b80ee748c565ab4ba5" tvg-name="HBO Signature FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbosignature-channel.png",HBO Signature FHD
+http://loop01-2.canais.is:80/watch/trial/trial/512.ts
+
+#EXTINF:-1 tvg-id="2042ddae6a2118b80ee748c565ab4ba5" tvg-name="HBO Signature HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hbosignature-channel.png",HBO Signature HD
+http://loop01-2.canais.is:80/watch/trial/trial/179.ts
+
+#EXTINF:-1 tvg-id="7106cbfc895bd146dc052f4a2db0dbda" tvg-name="HBO Xtreme" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hboxtreme-channel.png",HBO Xtreme
+http://loop01-2.canais.is:80/watch/trial/trial/338.ts
+
+#EXTINF:-1 tvg-id="7106cbfc895bd146dc052f4a2db0dbda" tvg-name="HBO Xtreme FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hboxtreme-channel.png",HBO Xtreme FHD
+http://loop01-2.canais.is:80/watch/trial/trial/695.ts
+
+#EXTINF:-1 tvg-id="7106cbfc895bd146dc052f4a2db0dbda" tvg-name="HBO Xtreme HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hboxtreme-channel.png",HBO Xtreme HD
+http://loop01-2.canais.is:80/watch/trial/trial/255.ts
+
+#EXTINF:-1 tvg-id="e018c6ec43131d23f12a6235e0d43345" tvg-name="HBO+" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hboplus-channel.png",HBO+
+http://loop01-2.canais.is:80/watch/trial/trial/669.ts
+
+#EXTINF:-1 tvg-id="e018c6ec43131d23f12a6235e0d43345" tvg-name="HBO+ FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hboplus-channel.png",HBO+ FHD
+http://loop01-2.canais.is:80/watch/trial/trial/694.ts
+
+#EXTINF:-1 tvg-id="e018c6ec43131d23f12a6235e0d43345" tvg-name="HBO+ HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/hboplus-channel.png",HBO+ HD
+http://loop01-2.canais.is:80/watch/trial/trial/178.ts
+
+#EXTINF:-1 tvg-id="7e964c06076c55489ef531203135467b" tvg-name="HGTV HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/hgtv-channel.png",HGTV HD
+http://loop01-2.canais.is:80/watch/trial/trial/219.ts
+
+#EXTINF:-1 tvg-id="e603d5102a1a34fe6b682a136699a274" tvg-name="History" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/history-channel.png",History
+http://loop01-2.canais.is:80/watch/trial/trial/95.ts
+
+#EXTINF:-1 tvg-id="b8768c1831334bb718e6b565e8d34f0d" tvg-name="History 2" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/history2-channel.png",History 2
+http://loop01-2.canais.is:80/watch/trial/trial/335.ts
+
+#EXTINF:-1 tvg-id="b8768c1831334bb718e6b565e8d34f0d" tvg-name="History 2 HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/history2-channel.png",History 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/218.ts
+
+#EXTINF:-1 tvg-id="e603d5102a1a34fe6b682a136699a274" tvg-name="History FHD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/history-channel.png",History FHD
+http://loop01-2.canais.is:80/watch/trial/trial/812.ts
+
+#EXTINF:-1 tvg-id="e603d5102a1a34fe6b682a136699a274" tvg-name="History HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/history-channel.png",History HD
+http://loop01-2.canais.is:80/watch/trial/trial/61.ts
+
+#EXTINF:-1 tvg-id="a04dc0610b2d1a3fa25f979a9b4fb82c" tvg-name="ID - Investigação Discovery" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/ID-discovery-channel.png",ID - Investigação Discovery
+http://loop01-2.canais.is:80/watch/trial/trial/114.ts
+
+#EXTINF:-1 tvg-id="a04dc0610b2d1a3fa25f979a9b4fb82c" tvg-name="ID - Investigação Discovery HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/ID-discovery-channel.png",ID - Investigação Discovery HD
+http://loop01-2.canais.is:80/watch/trial/trial/113.ts
+
+#EXTINF:-1 tvg-id="c738114dad816c73de5e17c7d2161ebe" tvg-name="Jovem Pan News HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/jovempannews-channel.png",Jovem Pan News HD
+http://loop01-2.canais.is:80/watch/trial/trial/814.ts
+
+#EXTINF:-1 tvg-id="9aba287ae65f368310d6de9685646f6f" tvg-name="Lifetime" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/lifetime-channel.png",Lifetime
+http://loop01-2.canais.is:80/watch/trial/trial/336.ts
+
+#EXTINF:-1 tvg-id="9aba287ae65f368310d6de9685646f6f" tvg-name="Lifetime HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/lifetime-channel.png",Lifetime HD
+http://loop01-2.canais.is:80/watch/trial/trial/279.ts
+
+#EXTINF:-1 tvg-id="51f4d3f707dca6c5e854d40e7a2c6643" tvg-name="Megapix" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/megapix-channel.png",Megapix
+http://loop01-2.canais.is:80/watch/trial/trial/96.ts
+
+#EXTINF:-1 tvg-id="51f4d3f707dca6c5e854d40e7a2c6643" tvg-name="Megapix FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/megapix-channel.png",Megapix FHD
+http://loop01-2.canais.is:80/watch/trial/trial/15.ts
+
+#EXTINF:-1 tvg-id="51f4d3f707dca6c5e854d40e7a2c6643" tvg-name="Megapix HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/megapix-channel.png",Megapix HD
+http://loop01-2.canais.is:80/watch/trial/trial/658.ts
+
+#EXTINF:-1 tvg-id="8b67cc16a6c84abde0cb5ff9cadf3b4f" tvg-name="Modo Viagem" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/modoviagem-channel.png",Modo Viagem
+http://loop01-2.canais.is:80/watch/trial/trial/680.ts
+
+#EXTINF:-1 tvg-id="8b67cc16a6c84abde0cb5ff9cadf3b4f" tvg-name="Modo Viagem FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/modoviagem-channel.png",Modo Viagem FHD
+http://loop01-2.canais.is:80/watch/trial/trial/847.ts
+
+#EXTINF:-1 tvg-id="8b67cc16a6c84abde0cb5ff9cadf3b4f" tvg-name="Modo Viagem HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/modoviagem-channel.png",Modo Viagem HD
+http://loop01-2.canais.is:80/watch/trial/trial/195.ts
+
+#EXTINF:-1 tvg-id="0aec6d8d3aa17013ccbba8c78ee972ad" tvg-name="MTV" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/mtv-channel.png",MTV
+http://loop01-2.canais.is:80/watch/trial/trial/643.ts
+
+#EXTINF:-1 tvg-id="465066676c92767c90311faa589bb6f0" tvg-name="MTV 00s HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/mtv00-channel.png",MTV 00s HD
+http://loop01-2.canais.is:80/watch/trial/trial/70.ts
+
+#EXTINF:-1 tvg-id="465066676c92767c90311faa589bb6f0" tvg-name="MTV HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/mtv-channel.png",MTV HD
+http://loop01-2.canais.is:80/watch/trial/trial/62.ts
+
+#EXTINF:-1 tvg-id="1b48650ba7b6583d32b7d9cd9824f087" tvg-name="Multishow" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/multishow-channel.png",Multishow
+http://loop01-2.canais.is:80/watch/trial/trial/340.ts
+
+#EXTINF:-1 tvg-id="1b48650ba7b6583d32b7d9cd9824f087" tvg-name="Multishow HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/multishow-channel.png",Multishow HD
+http://loop01-2.canais.is:80/watch/trial/trial/41.ts
+
+#EXTINF:-1 tvg-id="a24d845a8ea3fc85e7814e2152fd14ed" tvg-name="National Geographic" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/nationalgeographic-channel.png",National Geographic
+http://loop01-2.canais.is:80/watch/trial/trial/341.ts
+
+#EXTINF:-1 tvg-id="a24d845a8ea3fc85e7814e2152fd14ed" tvg-name="National Geographic HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/nationalgeographic-channel.png",National Geographic HD
+http://loop01-2.canais.is:80/watch/trial/trial/813.ts
+
+#EXTINF:-1 tvg-id="a24d845a8ea3fc85e7814e2152fd14ed" tvg-name="National Geographic HD" group-title="DOCUMENTARIOS" tvg-logo="http://canais.is/imgs/nationalgeographic-channel.png",National Geographic HD
+http://loop01-2.canais.is:80/watch/trial/trial/64.ts
+
+#EXTINF:-1 tvg-id="c31cc776d78b3ade62769030714f4da6" tvg-name="NHK Japan" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/nhkjapan-channel.png",NHK Japan
+http://loop01-2.canais.is:80/watch/trial/trial/191.ts
+
+#EXTINF:-1 tvg-id="ffe480fe45d092940c8377cbcc0139ac" tvg-name="Nick Jr." group-title="INFANTIS" tvg-logo="http://canais.is/imgs/nickjunior-channel.png",Nick Jr.
+http://loop01-2.canais.is:80/watch/trial/trial/676.ts
+
+#EXTINF:-1 tvg-id="ffe480fe45d092940c8377cbcc0139ac" tvg-name="Nick Jr. HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/nickjunior-channel.png",Nick Jr. HD
+http://loop01-2.canais.is:80/watch/trial/trial/181.ts
+
+#EXTINF:-1 tvg-id="3284624f2d3f6eb12565c67aa773a94f" tvg-name="Nickelodeon" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/nickelodeon-channel.png",Nickelodeon
+http://loop01-2.canais.is:80/watch/trial/trial/98.ts
+
+#EXTINF:-1 tvg-id="3284624f2d3f6eb12565c67aa773a94f" tvg-name="Nickelodeon HD" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/nickelodeon-channel.png",Nickelodeon HD
+http://loop01-2.canais.is:80/watch/trial/trial/215.ts
+
+#EXTINF:-1 tvg-id="fa4a22e8dbede4a5e6d852fdafc55ebe" tvg-name="Nosso Futebol 1" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 1
+http://loop01-2.canais.is:80/watch/trial/trial/1143.ts
+
+#EXTINF:-1 tvg-id="fa4a22e8dbede4a5e6d852fdafc55ebe" tvg-name="Nosso Futebol 1 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 1 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1147.ts
+
+#EXTINF:-1 tvg-id="8774da54ba4e446a4f9b47124f9c04d2" tvg-name="Nosso Futebol 2" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 2
+http://loop01-2.canais.is:80/watch/trial/trial/1144.ts
+
+#EXTINF:-1 tvg-id="8774da54ba4e446a4f9b47124f9c04d2" tvg-name="Nosso Futebol 2 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1148.ts
+
+#EXTINF:-1 tvg-id="a00eb6ab41c05c5a412e1ca7b98500b7" tvg-name="Nosso Futebol 3" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 3
+http://loop01-2.canais.is:80/watch/trial/trial/1145.ts
+
+#EXTINF:-1 tvg-id="a00eb6ab41c05c5a412e1ca7b98500b7" tvg-name="Nosso Futebol 3 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 3 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1149.ts
+
+#EXTINF:-1 tvg-id="5c7224b1a3b191adc3fabd926983e60e" tvg-name="Nosso Futebol 4" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 4
+http://loop01-2.canais.is:80/watch/trial/trial/1146.ts
+
+#EXTINF:-1 tvg-id="5c7224b1a3b191adc3fabd926983e60e" tvg-name="Nosso Futebol 4 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/nosso-futebol.png",Nosso Futebol 4 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1150.ts
+
+#EXTINF:-1 tvg-id="93b00ee4eadb8b9902ec61cb7171aef6" tvg-name="OFF" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/off-canal.png",OFF
+http://loop01-2.canais.is:80/watch/trial/trial/342.ts
+
+#EXTINF:-1 tvg-id="93b00ee4eadb8b9902ec61cb7171aef6" tvg-name="OFF HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/off-canal.png",OFF HD
+http://loop01-2.canais.is:80/watch/trial/trial/212.ts
+
+#EXTINF:-1 tvg-id="4fd6da5b5920684e20661cdc300f12c1" tvg-name="Paramount" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/paramount-channel.png",Paramount
+http://loop01-2.canais.is:80/watch/trial/trial/343.ts
+
+#EXTINF:-1 tvg-id="4fd6da5b5920684e20661cdc300f12c1" tvg-name="Paramount HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/paramount-channel.png",Paramount HD
+http://loop01-2.canais.is:80/watch/trial/trial/598.ts
+
+#EXTINF:-1 tvg-id="06b68bb825cb6349d7d39bfbbe282e6c" tvg-name="Paramount+ 01 HD" group-title="ESPORTES" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/download-2_wqSmoQY.png",Paramount+ 01 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1753.ts
+
+#EXTINF:-1 tvg-id="421c4d0e5e404eb829f6ca3f381fe0c6" tvg-name="Paramount+ 02 HD" group-title="ESPORTES" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/download-2_wqSmoQY.png",Paramount+ 02 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1754.ts
+
+#EXTINF:-1 tvg-id="6a6ccea4feb62d9c4f37b8d4f1d73c8f" tvg-name="Paramount+ 03 HD" group-title="ESPORTES" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/download-2_wqSmoQY.png",Paramount+ 03 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1755.ts
+
+#EXTINF:-1 tvg-id="5e2ade9678b99d4d6dfa6558a45029ba" tvg-name="Paramount+ 04 HD" group-title="ESPORTES" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/download-2_wqSmoQY.png",Paramount+ 04 HD
+http://loop01-2.canais.is:80/watch/trial/trial/1756.ts
+
+#EXTINF:-1 tvg-id="a72afc6dbece2166ab8239730ac6c267" tvg-name="Premiere 2" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 2
+http://loop01-2.canais.is:80/watch/trial/trial/328.ts
+
+#EXTINF:-1 tvg-id="a72afc6dbece2166ab8239730ac6c267" tvg-name="Premiere 2 FHD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 2 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/707.ts
+
+#EXTINF:-1 tvg-id="a72afc6dbece2166ab8239730ac6c267" tvg-name="Premiere 2 HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/16.ts
+
+#EXTINF:-1 tvg-id="52ac970c3d385cafbc58beff6ec81a29" tvg-name="Premiere 3" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 3
+http://loop01-2.canais.is:80/watch/trial/trial/329.ts
+
+#EXTINF:-1 tvg-id="52ac970c3d385cafbc58beff6ec81a29" tvg-name="Premiere 3 FHD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 3 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/708.ts
+
+#EXTINF:-1 tvg-id="52ac970c3d385cafbc58beff6ec81a29" tvg-name="Premiere 3 HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 3 HD
+http://loop01-2.canais.is:80/watch/trial/trial/17.ts
+
+#EXTINF:-1 tvg-id="9be43eb6572d88eb649936f748f4f8b7" tvg-name="Premiere 4" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 4
+http://loop01-2.canais.is:80/watch/trial/trial/128.ts
+
+#EXTINF:-1 tvg-id="9be43eb6572d88eb649936f748f4f8b7" tvg-name="Premiere 4 FHD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 4 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/807.ts
+
+#EXTINF:-1 tvg-id="9be43eb6572d88eb649936f748f4f8b7" tvg-name="Premiere 4 HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 4 HD
+http://loop01-2.canais.is:80/watch/trial/trial/18.ts
+
+#EXTINF:-1 tvg-id="7e1d8af734d8a0d8e8321843b8c6da54" tvg-name="Premiere 5" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 5
+http://loop01-2.canais.is:80/watch/trial/trial/129.ts
+
+#EXTINF:-1 tvg-id="7e1d8af734d8a0d8e8321843b8c6da54" tvg-name="Premiere 5 FHD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 5 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/808.ts
+
+#EXTINF:-1 tvg-id="7e1d8af734d8a0d8e8321843b8c6da54" tvg-name="Premiere 5 HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 5 HD
+http://loop01-2.canais.is:80/watch/trial/trial/19.ts
+
+#EXTINF:-1 tvg-id="0f24b31db0038029cd6d036102a04ae6" tvg-name="Premiere 6 FHD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 6 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/848.ts
+
+#EXTINF:-1 tvg-id="0f24b31db0038029cd6d036102a04ae6" tvg-name="Premiere 6 HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 6 HD
+http://loop01-2.canais.is:80/watch/trial/trial/20.ts
+
+#EXTINF:-1 tvg-id="d3379423498506d3bd3e76ec3e3a8d91" tvg-name="Premiere 7 HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere.png",Premiere 7 HD
+http://loop01-2.canais.is:80/watch/trial/trial/257.ts
+
+#EXTINF:-1 tvg-id="8b5be68d7c5c6551dec9dc836c2e3ada" tvg-name="Premiere Clubes" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere-clube.png",Premiere Clubes
+http://loop01-2.canais.is:80/watch/trial/trial/99.ts
+
+#EXTINF:-1 tvg-id="8b5be68d7c5c6551dec9dc836c2e3ada" tvg-name="Premiere Clubes FHD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere-clube.png",Premiere Clubes FHD
+http://loop01-2.canais.is:80/watch/trial/trial/702.ts
+
+#EXTINF:-1 tvg-id="8b5be68d7c5c6551dec9dc836c2e3ada" tvg-name="Premiere Clubes HD" group-title="PREMIERE" tvg-logo="http://canais.is/imgs/premiere-clube.png",Premiere Clubes HD
+http://loop01-2.canais.is:80/watch/trial/trial/21.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record
+http://loop01-2.canais.is:80/watch/trial/trial/100.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Belém HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Belém HD
+http://loop01-2.canais.is:80/watch/trial/trial/746.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Brasília HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Brasília HD
+http://loop01-2.canais.is:80/watch/trial/trial/584.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Goiás HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Goiás HD
+http://loop01-2.canais.is:80/watch/trial/trial/745.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Itapoan HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Itapoan HD
+http://loop01-2.canais.is:80/watch/trial/trial/744.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Manaus HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Manaus HD
+http://loop01-2.canais.is:80/watch/trial/trial/716.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Minas HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Minas HD
+http://loop01-2.canais.is:80/watch/trial/trial/563.ts
+
+#EXTINF:-1 tvg-id="909ada269631e8b549b64dc5c703caf7" tvg-name="Record News" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/recordnews-channel.png",Record News
+http://loop01-2.canais.is:80/watch/trial/trial/249.ts
+
+#EXTINF:-1 tvg-id="909ada269631e8b549b64dc5c703caf7" tvg-name="Record News HD" group-title="NOTÍCIAS" tvg-logo="http://canais.is/imgs/recordnews-channel.png",Record News HD
+http://loop01-2.canais.is:80/watch/trial/trial/376.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record Rio HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record Rio HD
+http://loop01-2.canais.is:80/watch/trial/trial/378.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record RS HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record RS HD
+http://loop01-2.canais.is:80/watch/trial/trial/172.ts
+
+#EXTINF:-1 tvg-id="843d40f4eca67ce5e5fc2ebbc6a66d04" tvg-name="Record SP HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/recordtv-channel.png",Record SP HD
+http://loop01-2.canais.is:80/watch/trial/trial/377.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="Redbull TV HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/redbull-tv.png",Redbull TV HD
+http://loop01-2.canais.is:80/watch/trial/trial/199.ts
+
+#EXTINF:-1 tvg-id="6f0c7bc19fb2ab1f90bb824314f083bc" tvg-name="RedeTV!" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/redetv-channel.png",RedeTV!
+http://loop01-2.canais.is:80/watch/trial/trial/101.ts
+
+#EXTINF:-1 tvg-id="a309bb11fa559c6c65bd9176c70be3ec" tvg-name="Sabor e Arte HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/saborearte-channel.png",Sabor e Arte HD
+http://loop01-2.canais.is:80/watch/trial/trial/799.ts
+
+#EXTINF:-1 tvg-id="5e69687443d60cb28428943210c4f1ec" tvg-name="SBT" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/sbt-channel.png",SBT
+http://loop01-2.canais.is:80/watch/trial/trial/102.ts
+
+#EXTINF:-1 tvg-id="5e69687443d60cb28428943210c4f1ec" tvg-name="SBT RS HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/sbt-channel.png",SBT RS HD
+http://loop01-2.canais.is:80/watch/trial/trial/327.ts
+
+#EXTINF:-1 tvg-id="5e69687443d60cb28428943210c4f1ec" tvg-name="SBT SP FHD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/sbt-channel.png",SBT SP FHD
+http://loop01-2.canais.is:80/watch/trial/trial/820.ts
+
+#EXTINF:-1 tvg-id="5e69687443d60cb28428943210c4f1ec" tvg-name="SBT SP HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/sbt-channel.png",SBT SP HD
+http://loop01-2.canais.is:80/watch/trial/trial/352.ts
+
+#EXTINF:-1 tvg-id="95cafa54e51371d34ff6964239696503" tvg-name="Space" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/space-channel.png",Space
+http://loop01-2.canais.is:80/watch/trial/trial/104.ts
+
+#EXTINF:-1 tvg-id="95cafa54e51371d34ff6964239696503" tvg-name="Space FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/space-channel.png",Space FHD
+http://loop01-2.canais.is:80/watch/trial/trial/22.ts
+
+#EXTINF:-1 tvg-id="95cafa54e51371d34ff6964239696503" tvg-name="Space HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/space-channel.png",Space HD
+http://loop01-2.canais.is:80/watch/trial/trial/662.ts
+
+#EXTINF:-1 tvg-id="3bec7af8241b87b4d5c2077277b903b4" tvg-name="SporTV" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv.png",SporTV
+http://loop01-2.canais.is:80/watch/trial/trial/293.ts
+
+#EXTINF:-1 tvg-id="cc1702a6cf1bf845656fd60f439f7ff0" tvg-name="SporTV 2" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv-2.png",SporTV 2
+http://loop01-2.canais.is:80/watch/trial/trial/131.ts
+
+#EXTINF:-1 tvg-id="cc1702a6cf1bf845656fd60f439f7ff0" tvg-name="SporTV 2 FHD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv-2.png",SporTV 2 FHD
+http://loop01-2.canais.is:80/watch/trial/trial/693.ts
+
+#EXTINF:-1 tvg-id="cc1702a6cf1bf845656fd60f439f7ff0" tvg-name="SporTV 2 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv-2.png",SporTV 2 HD
+http://loop01-2.canais.is:80/watch/trial/trial/10.ts
+
+#EXTINF:-1 tvg-id="609c33e1145ee53a8b129f4882c9bc9d" tvg-name="SporTV 3" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv-3.png",SporTV 3
+http://loop01-2.canais.is:80/watch/trial/trial/132.ts
+
+#EXTINF:-1 tvg-id="609c33e1145ee53a8b129f4882c9bc9d" tvg-name="SporTV 3 HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv-3.png",SporTV 3 HD
+http://loop01-2.canais.is:80/watch/trial/trial/44.ts
+
+#EXTINF:-1 tvg-id="3bec7af8241b87b4d5c2077277b903b4" tvg-name="SporTV FHD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv.png",SporTV FHD
+http://loop01-2.canais.is:80/watch/trial/trial/45.ts
+
+#EXTINF:-1 tvg-id="3bec7af8241b87b4d5c2077277b903b4" tvg-name="SporTV HD" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/sportv.png",SporTV HD
+http://loop01-2.canais.is:80/watch/trial/trial/360.ts
+
+#EXTINF:-1 tvg-id="be69d727ad48a045867337fd2d13660e" tvg-name="Star Channel" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/star-channel.png",Star Channel
+http://loop01-2.canais.is:80/watch/trial/trial/85.ts
+
+#EXTINF:-1 tvg-id="be69d727ad48a045867337fd2d13660e" tvg-name="Star Channel HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/star-channel.png",Star Channel HD
+http://loop01-2.canais.is:80/watch/trial/trial/595.ts
+
+#EXTINF:-1 tvg-id="ec9ea8b690cef4a82fb9c78f96d42f90" tvg-name="Studio Universal HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/studiouniversal-channel.png",Studio Universal HD
+http://loop01-2.canais.is:80/watch/trial/trial/188.ts
+
+#EXTINF:-1 tvg-id="05660df47723ffa88d3c94034a87bca6" tvg-name="SyFy" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/syfy-channel.png",SyFy
+http://loop01-2.canais.is:80/watch/trial/trial/133.ts
+
+#EXTINF:-1 tvg-id="05660df47723ffa88d3c94034a87bca6" tvg-name="SyFy HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/syfy-channel.png",SyFy HD
+http://loop01-2.canais.is:80/watch/trial/trial/69.ts
+
+#EXTINF:-1 tvg-id="5ea53fc6f1fec96e1af87bc020275527" tvg-name="TBS" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/tbs-channel.png",TBS
+http://loop01-2.canais.is:80/watch/trial/trial/106.ts
+
+#EXTINF:-1 tvg-id="5ea53fc6f1fec96e1af87bc020275527" tvg-name="TBS FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/tbs-channel.png",TBS FHD
+http://loop01-2.canais.is:80/watch/trial/trial/706.ts
+
+#EXTINF:-1 tvg-id="5ea53fc6f1fec96e1af87bc020275527" tvg-name="TBS HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/tbs-channel.png",TBS HD
+http://loop01-2.canais.is:80/watch/trial/trial/216.ts
+
+#EXTINF:-1 tvg-id="10f4810d7d24f833e499254b54aa780e" tvg-name="TCM" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/tcm-channel.png",TCM
+http://loop01-2.canais.is:80/watch/trial/trial/247.ts
+
+#EXTINF:-1 tvg-id="f98b5ff0bd1547f1e3ead46bc56eff0a" tvg-name="Telecine Action" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-action.png",Telecine Action
+http://loop01-2.canais.is:80/watch/trial/trial/107.ts
+
+#EXTINF:-1 tvg-id="f98b5ff0bd1547f1e3ead46bc56eff0a" tvg-name="Telecine Action FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-action.png",Telecine Action FHD
+http://loop01-2.canais.is:80/watch/trial/trial/596.ts
+
+#EXTINF:-1 tvg-id="f98b5ff0bd1547f1e3ead46bc56eff0a" tvg-name="Telecine Action HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-action.png",Telecine Action HD
+http://loop01-2.canais.is:80/watch/trial/trial/46.ts
+
+#EXTINF:-1 tvg-id="1dcc90c184b2731ff34e7bec780f51e3" tvg-name="Telecine Cult" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-cult.png",Telecine Cult
+http://loop01-2.canais.is:80/watch/trial/trial/583.ts
+
+#EXTINF:-1 tvg-id="1dcc90c184b2731ff34e7bec780f51e3" tvg-name="Telecine Cult FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-cult.png",Telecine Cult FHD
+http://loop01-2.canais.is:80/watch/trial/trial/651.ts
+
+#EXTINF:-1 tvg-id="1dcc90c184b2731ff34e7bec780f51e3" tvg-name="Telecine Cult HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-cult.png",Telecine Cult HD
+http://loop01-2.canais.is:80/watch/trial/trial/207.ts
+
+#EXTINF:-1 tvg-id="8de635c5bc03cae834c60736e1dd18ea" tvg-name="Telecine Fun" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-fun.png",Telecine Fun
+http://loop01-2.canais.is:80/watch/trial/trial/344.ts
+
+#EXTINF:-1 tvg-id="8de635c5bc03cae834c60736e1dd18ea" tvg-name="Telecine Fun FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-fun.png",Telecine Fun FHD
+http://loop01-2.canais.is:80/watch/trial/trial/652.ts
+
+#EXTINF:-1 tvg-id="8de635c5bc03cae834c60736e1dd18ea" tvg-name="Telecine Fun HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-fun.png",Telecine Fun HD
+http://loop01-2.canais.is:80/watch/trial/trial/48.ts
+
+#EXTINF:-1 tvg-id="9534faff8e1bc1cb9d39224613db342a" tvg-name="Telecine Pipoca" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-pipoca.png",Telecine Pipoca
+http://loop01-2.canais.is:80/watch/trial/trial/135.ts
+
+#EXTINF:-1 tvg-id="9534faff8e1bc1cb9d39224613db342a" tvg-name="Telecine Pipoca FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-pipoca.png",Telecine Pipoca FHD
+http://loop01-2.canais.is:80/watch/trial/trial/664.ts
+
+#EXTINF:-1 tvg-id="9534faff8e1bc1cb9d39224613db342a" tvg-name="Telecine Pipoca HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-pipoca.png",Telecine Pipoca HD
+http://loop01-2.canais.is:80/watch/trial/trial/47.ts
+
+#EXTINF:-1 tvg-id="e398c48906d67821ad09058f75d43c71" tvg-name="Telecine Premium" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-premium.png",Telecine Premium
+http://loop01-2.canais.is:80/watch/trial/trial/136.ts
+
+#EXTINF:-1 tvg-id="e398c48906d67821ad09058f75d43c71" tvg-name="Telecine Premium FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-premium.png",Telecine Premium FHD
+http://loop01-2.canais.is:80/watch/trial/trial/49.ts
+
+#EXTINF:-1 tvg-id="e398c48906d67821ad09058f75d43c71" tvg-name="Telecine Premium HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-premium.png",Telecine Premium HD
+http://loop01-2.canais.is:80/watch/trial/trial/666.ts
+
+#EXTINF:-1 tvg-id="a342223e3b2bb3ea0ef96f59ee9c03f2" tvg-name="Telecine Touch" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-touch.png",Telecine Touch
+http://loop01-2.canais.is:80/watch/trial/trial/388.ts
+
+#EXTINF:-1 tvg-id="a342223e3b2bb3ea0ef96f59ee9c03f2" tvg-name="Telecine Touch FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-touch.png",Telecine Touch FHD
+http://loop01-2.canais.is:80/watch/trial/trial/665.ts
+
+#EXTINF:-1 tvg-id="a342223e3b2bb3ea0ef96f59ee9c03f2" tvg-name="Telecine Touch HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/telecine-touch.png",Telecine Touch HD
+http://loop01-2.canais.is:80/watch/trial/trial/186.ts
+
+#EXTINF:-1 tvg-id="090bfb783de4e63cd63647dd733a56cb" tvg-name="TLC" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/tlc-channel.png",TLC
+http://loop01-2.canais.is:80/watch/trial/trial/603.ts
+
+#EXTINF:-1 tvg-id="090bfb783de4e63cd63647dd733a56cb" tvg-name="TLC FHD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/tlc-channel.png",TLC FHD
+http://loop01-2.canais.is:80/watch/trial/trial/649.ts
+
+#EXTINF:-1 tvg-id="090bfb783de4e63cd63647dd733a56cb" tvg-name="TLC HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/tlc-channel.png",TLC HD
+http://loop01-2.canais.is:80/watch/trial/trial/23.ts
+
+#EXTINF:-1 tvg-id="60787c4dd762c3e3e0c76bad4736b591" tvg-name="TNT" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/tnt.png",TNT
+http://loop01-2.canais.is:80/watch/trial/trial/108.ts
+
+#EXTINF:-1 tvg-id="60787c4dd762c3e3e0c76bad4736b591" tvg-name="TNT FHD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/tnt.png",TNT FHD
+http://loop01-2.canais.is:80/watch/trial/trial/650.ts
+
+#EXTINF:-1 tvg-id="60787c4dd762c3e3e0c76bad4736b591" tvg-name="TNT HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/tnt.png",TNT HD
+http://loop01-2.canais.is:80/watch/trial/trial/50.ts
+
+#EXTINF:-1 tvg-id="4455dfc0e4dba4b9829fb5d6d049f2c6" tvg-name="TNT Séries" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/tntseries-channel.png",TNT Séries
+http://loop01-2.canais.is:80/watch/trial/trial/345.ts
+
+#EXTINF:-1 tvg-id="4455dfc0e4dba4b9829fb5d6d049f2c6" tvg-name="TNT Séries HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/tntseries-channel.png",TNT Séries HD
+http://loop01-2.canais.is:80/watch/trial/trial/109.ts
+
+#EXTINF:-1 tvg-id="670be5cf12ff5f57ba590465a57bfb32" tvg-name="Tooncast" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/tooncast-channel.png",Tooncast
+http://loop01-2.canais.is:80/watch/trial/trial/110.ts
+
+#EXTINF:-1 tvg-id="301eca6eb95315a7dc4a8bc22fa370fc" tvg-name="Trace Brazuca HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/trace-brazuca.png",Trace Brazuca HD
+http://loop01-2.canais.is:80/watch/trial/trial/844.ts
+
+#EXTINF:-1 tvg-id="1e2819caa08c6d3754ac77b5c353de6f" tvg-name="TruTV" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/trutv-channel.png",TruTV
+http://loop01-2.canais.is:80/watch/trial/trial/608.ts
+
+#EXTINF:-1 tvg-id="0655400023f877855d0649ff8d2b5b20" tvg-name="TV Cultura HD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/tvcultura-channel.png",TV Cultura HD
+http://loop01-2.canais.is:80/watch/trial/trial/248.ts
+
+#EXTINF:-1 tvg-id="7b4ecc7cf612e3e5f3ca7983a6b847ad" tvg-name="TV Gazeta FHD" group-title="TV ABERTA" tvg-logo="http://canais.is/imgs/tvgazeta-channel.png",TV Gazeta FHD
+http://loop01-2.canais.is:80/watch/trial/trial/234.ts
+
+#EXTINF:-1 tvg-id="9a0aea7e7af4902cf5bf1b57e7ac661c" tvg-name="TV Rá Tim Bum" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/ratimbum-channel.png",TV Rá Tim Bum
+http://loop01-2.canais.is:80/watch/trial/trial/346.ts
+
+#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-name="UFC Fight Pass" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/ufcfithpass-channel.png",UFC Fight Pass
+http://loop01-2.canais.is:80/watch/trial/trial/1746.ts
+
+#EXTINF:-1 tvg-id="UFC Fight Pass 2" tvg-name="UFC Fight Pass 2" group-title="ESPORTES" tvg-logo="http://canais.is/imgs/ufcfithpass-channel.png",UFC Fight Pass 2
+http://loop01-2.canais.is:80/watch/trial/trial/1752.ts
+
+#EXTINF:-1 tvg-id="4d1977b1426685049e7128120ecae216" tvg-name="Universal TV" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/universal-tv.png",Universal TV
+http://loop01-2.canais.is:80/watch/trial/trial/111.ts
+
+#EXTINF:-1 tvg-id="4d1977b1426685049e7128120ecae216" tvg-name="Universal TV HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/universal-tv.png",Universal TV HD
+http://loop01-2.canais.is:80/watch/trial/trial/68.ts
+
+#EXTINF:-1 tvg-id="8a07d965ef39e13a216b45731efaa608" tvg-name="Viva" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/viva-channel.png",Viva
+http://loop01-2.canais.is:80/watch/trial/trial/348.ts
+
+#EXTINF:-1 tvg-id="8a07d965ef39e13a216b45731efaa608" tvg-name="Viva HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/viva-channel.png",Viva HD
+http://loop01-2.canais.is:80/watch/trial/trial/198.ts
+
+#EXTINF:-1 tvg-id="5667ab1a201bbb44497713fa701a9f7d" tvg-name="Warner Channel" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/warner-channel.png",Warner Channel
+http://loop01-2.canais.is:80/watch/trial/trial/139.ts
+
+#EXTINF:-1 tvg-id="5667ab1a201bbb44497713fa701a9f7d" tvg-name="Warner Channel HD" group-title="FILMES E SERIES" tvg-logo="http://canais.is/imgs/warner-channel.png",Warner Channel HD
+http://loop01-2.canais.is:80/watch/trial/trial/71.ts
+
+#EXTINF:-1 tvg-id="68f79c3dd0e1752e53635af3ff25a9ae" tvg-name="Woohoo" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/woohoo-channel.png",Woohoo
+http://loop01-2.canais.is:80/watch/trial/trial/347.ts
+
+#EXTINF:-1 tvg-id="68f79c3dd0e1752e53635af3ff25a9ae" tvg-name="Woohoo HD" group-title="VARIEDADES" tvg-logo="http://canais.is/imgs/woohoo-channel.png",Woohoo HD
+http://loop01-2.canais.is:80/watch/trial/trial/213.ts
+
+#EXTINF:-1 tvg-id="80e5d7543c4d3bb0481279a2943ef70f" tvg-name="ZooMoo" group-title="INFANTIS" tvg-logo="http://canais.is/imgs/zomookids-channel.png",ZooMoo
+http://loop01-2.canais.is:80/watch/trial/trial/252.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="A GRANDE FAMILIA 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",A GRANDE FAMILIA 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/607.ts
+
+#EXTINF:-1 tvg-id="51062afce98a69cd7af537d1c6a9ed87" tvg-name="CHAVES 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",CHAVES 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/282.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="CORAGEM O CÃO COVARDE 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",CORAGEM O CÃO COVARDE 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/290.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="DOIS HOMENS E MEIO 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",DOIS HOMENS E MEIO 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/866.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="EU A PATROA E AS CRIANÇAS 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",EU A PATROA E AS CRIANÇAS 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/283.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="GREYS ANATOMY AO VIVO 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",GREYS ANATOMY AO VIVO 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/863.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="LEI E ORDEM: CRIMES PREMEDITADOS 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",LEI E ORDEM: CRIMES PREMEDITADOS 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/864.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="NARUTO 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",NARUTO 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/729.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="PICA PAU 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",PICA PAU 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/865.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="RICK E MORTY 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",RICK E MORTY 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/738.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="SIMPSONS 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",SIMPSONS 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/731.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="SOUTH PARK 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",SOUTH PARK 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/287.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="TODO MUNDO ODEIA O CHRIS 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",TODO MUNDO ODEIA O CHRIS 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/286.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="UM MALUCO NO PEDAÇO AO VIVO 24 HORAS AO VIVO" group-title="24 HORAS" tvg-logo="http://canais.is/imgs/CINE24H.png",UM MALUCO NO PEDAÇO AO VIVO 24 HORAS AO VIVO
+http://loop01-2.canais.is:80/watch/trial/trial/284.ts
+
+#EXTINF:-1 tvg-id="d41d8cd98f00b204e9800998ecf8427e" tvg-name="XXX: Cine Brasileirinhas" group-title="XXX ADULTOS" tvg-logo="http://canais.is/imgs/brasilieirinhas-channel.png",XXX: Cine Brasileirinhas
+http://loop01-2.canais.is:80/watch/trial/trial/873.ts
+
+#EXTINF:-1 tvg-id="efe0f4fbe924c6f67414a2c7cc6162c0" tvg-name="XXX: Playboy HD" group-title="XXX ADULTOS" tvg-logo="http://canais.is/imgs/playboytv-channel.png",XXX: Playboy HD
+http://loop01-2.canais.is:80/watch/trial/trial/51.ts
+
+#EXTINF:-1 tvg-id="45c929ee639364fb3277238f7adc4ed2" tvg-name="XXX: Sextreme" group-title="XXX ADULTOS" tvg-logo="http://canais.is/imgs/sextreme-channel.png",XXX: Sextreme
+http://loop01-2.canais.is:80/watch/trial/trial/30.ts
+
+#EXTINF:-1 tvg-id="85e11e747f168bfafd3f2018c4150bb9" tvg-name="XXX: Sexy Hot" group-title="XXX ADULTOS" tvg-logo="http://canais.is/imgs/sexyhot-channel.png",XXX: Sexy Hot
+http://loop01-2.canais.is:80/watch/trial/trial/31.ts
+
+#EXTINF:-1 tvg-id="370a1db522f8eeee3d959466a2529b97" tvg-name="XXX: Venus" group-title="XXX ADULTOS" tvg-logo="http://canais.is/imgs/venus-channel.png",XXX: Venus
+http://loop01-2.canais.is:80/watch/trial/trial/32.ts
+
+
+
