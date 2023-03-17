@@ -2551,5 +2551,102 @@ http://loop01-2.canais.is:80/watch/trial/trial/31.ts
 #EXTINF:-1 tvg-id="370a1db522f8eeee3d959466a2529b97" tvg-name="XXX: Venus" group-title="XXX ADULTOS" tvg-logo="http://canais.is/imgs/venus-channel.png",XXX: Venus
 http://loop01-2.canais.is:80/watch/trial/trial/32.ts
 
-
+#EXTINF:-1,AlertTV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1,34100 TV
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1,Delta TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1,Ellas TV Max 
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1,eoetv.png
+https://live.cast-control.eu/organismos/organismos/playlist.m3u8
+#EXTINF:-1,ERT 3 Worldwide
+https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8
+#EXTINF:-1,Faros TV
+https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1,Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1,Action 24
+https://stream-03.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybArUYwzqGsml38D8S_i_1OE)/dm/3/x61fbhs/s/live-2.m3u8
+#EXTINF:-1,akritas tv
+http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
+#EXTINF:-1,High TV
+https://live.streams.ovh/hightv/hightv/playlist.m3u8
+#EXTINF:-1,National Geographic
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1,Radio Epistrofi
+https://s1.cystream.net/live/epistrofi/playlist.m3u8
+#EXTINF:-1,Reload Radio
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1,AlfaDramas
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1,BCI24
+https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+#EXTINF:-1,Diktyo TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1,Egnatia TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1,Ekklhsia
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1,FOX
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,Galxy
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+#EXTINF:-1,Iridatv
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1,Maron TV 
+https://odb.streamhost.gr:3461/live/marontvlive.m3u8
+#EXTINF:-1,Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1,Pella TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1,PlayTV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1,PLP T
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+#EXTINF:-1,starke
+https://stream-07.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvOsp1SVX3FM04PB_YtpxCbo)/dm/3/xqjey2/d/live-2.m3u8
+#EXTINF:-1,DipsoTV.
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1,Epilogestv 
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1,Vouli TV
+https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
+#EXTINF:-1,Ellinikosfm
+https://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
+#EXTINF:-1,Ionian Channel
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1,ARTtv
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1,ΑΧΕΛΩΟΣ TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1,BEST TV
+https://stream.net7.gr/hls/best/index.m3u8
+#EXTINF:-1,Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1,Extra TV
+https://edge1.mystream.gr/video434018/live/playlist.m3u8
+#EXTINF:-1,Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1,Kontra Channel
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1,Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1,ΝΕΑTV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1,OPEN TV HD
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1,Σαμιακή Τηλεόραση
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1,Star TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1,Superb TV
+https://til.pp.ua:3424/live/superblive.m3u8
+#EXTINF:-1,TRT TV 
+https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+#EXTINF:-1,TV100 
+https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1,CreteTV
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 
