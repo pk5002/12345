@@ -1,4 +1,8 @@
-#EXTINF:-1  group-title="Bangla",tvg-logo="https://1.bp.blogspot.com/-Aj32EGiUk0Y/VkF9KPvpKmI/AAAAAAAACHM/MOAw2zx95oU/s1600/btv.jpg",BTV
+
+
+#EXTINF:-1, HBO Signature,
+http://15.235.10.31:14401
+ group-title="Bangla",tvg-logo="https://1.bp.blogspot.com/-Aj32EGiUk0Y/VkF9KPvpKmI/AAAAAAAACHM/MOAw2zx95oU/s1600/btv.jpg",BTV
 http://84.54.131.97:13003
 #EXTINF:-1 group-title="KALKATA BANGLA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa SD 01
 http://103.109.56.116/live/skyfeed1003/index.m3u8
