@@ -1,3 +1,28 @@
+#EXTINF:-1,STAR SPORTS 2
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+
+#EXTINF:-1,STAR SPORTS 1
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
+#EXTINF:-1,STAR JALSHA
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+
+#EXTINF:-1,ZEE BANGLA
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+
+#EXTINF:-1,Sports 18 
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+
+#EXTINF:-1,SONY TEN 2
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+
+#EXTINF:-1,NAGORIK TV
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+
+#EXTINF:-1,STAR SPORTS SELECT 1
+
+http://103.109.56.116/live/skyfeed1008/index.m3u8
 #EXTINF:-1,Futura
 http://15.235.10.31:14336
 #EXTINF:-1,TV Globo
