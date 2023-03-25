@@ -770,6 +770,1974 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/epg.xml.gz" 
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports",Jio Cricket English HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1918/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/144/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 1
+http://localhost:3500/getm3u8/144/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/291/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/167/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/476/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/165/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/155/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News",Times NOW 
+https://JTV.lalitjoshi06.repl.co/getm3u8/383/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News",Times Now Navbharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1906/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/162/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak 
+https://JTV.lalitjoshi06.repl.co/getm3u8/173/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="News",BBC Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1155/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/177/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/891/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN NEWS 18 
+https://JTV.lalitjoshi06.repl.co/getm3u8/492/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1145/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/753/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News",Republic TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/858/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music",Mastiii 
+https://JTV.lalitjoshi06.repl.co/getm3u8/584/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/612/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/545/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka 
+https://JTV.lalitjoshi06.repl.co/getm3u8/619/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/559/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="News",Polimer News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/636/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News",TV9 Telugu News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/618/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/816/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World 
+https://JTV.lalitjoshi06.repl.co/getm3u8/463/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="News",ABP Ananda 
+https://JTV.lalitjoshi06.repl.co/getm3u8/672/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",Sony BBC Earth HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/821/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment",History TV18 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/146/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Lifestyle",TLC HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/479/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle",Food Food 
+https://JTV.lalitjoshi06.repl.co/getm3u8/561/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Lifestyle",GOOD TiMES 
+https://JTV.lalitjoshi06.repl.co/getm3u8/560/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business",Zee Business 
+https://JTV.lalitjoshi06.repl.co/getm3u8/657/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business",CNBC Tv18 Prime HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/143/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business",NDTV Profit 
+https://JTV.lalitjoshi06.repl.co/getm3u8/259/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Business",CNBC Awaaz 
+https://JTV.lalitjoshi06.repl.co/getm3u8/190/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional",Aastha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/175/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional",Aastha Bhajan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/594/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="Devotional",Sanskar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/288/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="Educational",India Science 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1433/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png" group-title="Educational",Swayam Prabha 01 
+https://JTV.lalitjoshi06.repl.co/getm3u8/980/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png" group-title="Educational",Swayam Prabha 02 
+https://JTV.lalitjoshi06.repl.co/getm3u8/981/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png" group-title="Educational",Swayam Prabha 03 
+https://JTV.lalitjoshi06.repl.co/getm3u8/982/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB 
+https://JTV.lalitjoshi06.repl.co/getm3u8/154/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/472/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey 
+https://JTV.lalitjoshi06.repl.co/getm3u8/279/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",Zee Anmol 
+https://JTV.lalitjoshi06.repl.co/getm3u8/473/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal 
+https://JTV.lalitjoshi06.repl.co/getm3u8/474/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/471/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Entertainment",Zee Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/445/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment",Colors Marathi HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/755/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Entertainment",Colors Kannada HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/757/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Entertainment",Zee Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/689/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment",Comedy Central HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1157/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertainment",Zee Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/638/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment",Zee Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/628/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Entertainment",Colors Gujarati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/196/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Entertainment",Zee Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/625/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Entertainment",Colors Bengali HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/756/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment",Epic 
+https://JTV.lalitjoshi06.repl.co/getm3u8/481/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1158/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Entertainment",Zee Yuva 
+https://JTV.lalitjoshi06.repl.co/getm3u8/414/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Entertainment",PTC Punjabi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1171/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Entertainment",Investigation Discovery 
+https://JTV.lalitjoshi06.repl.co/getm3u8/527/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment",DD India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/528/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National 
+https://JTV.lalitjoshi06.repl.co/getm3u8/202/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment",Dabangg 
+https://JTV.lalitjoshi06.repl.co/getm3u8/532/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Entertainment",Colors Tamil HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/429/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Entertainment",DD Madhya Pradesh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/536/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="Entertainment",DD Rajasthan (Jaipur) 
+https://JTV.lalitjoshi06.repl.co/getm3u8/538/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies",Colors Cineplex 
+https://JTV.lalitjoshi06.repl.co/getm3u8/482/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony Pix HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/762/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony Max SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/289/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies",Sony MAX2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/483/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/185/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies",Zee Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/484/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/182/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="Movies",Jio Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1074/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies",Zee Bollywood 
+https://JTV.lalitjoshi06.repl.co/getm3u8/487/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies",Bhojpuri Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/486/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Entertainment",Enterr 10 
+https://JTV.lalitjoshi06.repl.co/getm3u8/485/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies",Zee Action 
+https://JTV.lalitjoshi06.repl.co/getm3u8/488/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/413/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/415/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/231/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News",India TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/235/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News",NDTV India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/258/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/504/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News",Times Now World 
+https://JTV.lalitjoshi06.repl.co/getm3u8/876/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/255/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment",ETV Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/629/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/778/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="News",24 Ghanta TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/464/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News",Sakshi tv 
+https://JTV.lalitjoshi06.repl.co/getm3u8/632/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="News",Suvarna News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/626/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/646/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="News",Thanthi TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/830/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News",News 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/501/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Maharashtra 
+https://JTV.lalitjoshi06.repl.co/getm3u8/617/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="News",BTV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/938/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News",Zee 24 Taas 
+https://JTV.lalitjoshi06.repl.co/getm3u8/442/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="News",Newslive 
+https://JTV.lalitjoshi06.repl.co/getm3u8/613/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/892/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",Jio Sports HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/889/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/875/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports",Jio Football HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1156/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Sports",Jio Cricket 1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1160/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sports",Jio Football 1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1165/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sports",Jio Football 2 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1167/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sports",Jio Football 3 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1168/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="Sports",Jio Football 4 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1169/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Ten 1 
+https://JTV.lalitjoshi06.repl.co/getm3u8/514/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",Ten 2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/523/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",Sony Ten 3 
+https://JTV.lalitjoshi06.repl.co/getm3u8/524/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports",Sony Ten 5 
+https://JTV.lalitjoshi06.repl.co/getm3u8/525/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing 
+https://JTV.lalitjoshi06.repl.co/getm3u8/585/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 
+https://JTV.lalitjoshi06.repl.co/getm3u8/587/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music",E 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/591/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/183/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",ZOOM 
+https://JTV.lalitjoshi06.repl.co/getm3u8/592/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music",MTV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/248/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa 
+https://JTV.lalitjoshi06.repl.co/getm3u8/440/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Music",Public Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/773/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Music",Jaya Max 
+https://JTV.lalitjoshi06.repl.co/getm3u8/420/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music",Sangeet Bhojpuri 
+https://JTV.lalitjoshi06.repl.co/getm3u8/741/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Music",PTC Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1189/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music",Sangeet Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/740/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/815/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yay Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/872/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nickelodeon 
+https://JTV.lalitjoshi06.repl.co/getm3u8/547/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Kids",Nick Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/546/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Kids",Pogo Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/542/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1079/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Kids",Cartoon Network Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/817/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Kids",Nick Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/543/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery Kids 2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/554/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior 
+https://JTV.lalitjoshi06.repl.co/getm3u8/544/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment",Animal Planet HD World 
+https://JTV.lalitjoshi06.repl.co/getm3u8/286/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle",Travelxp HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/164/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/566/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment",Discovery Channel Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/575/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/578/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science 
+https://JTV.lalitjoshi06.repl.co/getm3u8/568/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment",Jio Events HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/871/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",Discovery Channel Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/576/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Infotainment",D Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/569/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Infotainment",History TV18 HD Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/579/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/577/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Infotainment",Animal Planet English 
+https://JTV.lalitjoshi06.repl.co/getm3u8/567/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" group-title="Infotainment",Samara News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1073/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Infotainment",Discovery Channel Bengali 
+https://JTV.lalitjoshi06.repl.co/getm3u8/573/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Lifestyle",Travelxp Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/814/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",Sony BBC Earth HD Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/854/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Infotainment",Discovery 
+https://JTV.lalitjoshi06.repl.co/getm3u8/242/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Infotainment",Sony BBC Earth HD Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/853/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" group-title="Infotainment",Ayush TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1075/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="Infotainment",Desi Channel 
+https://JTV.lalitjoshi06.repl.co/getm3u8/906/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Lifestyle",Travelxp HD Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/562/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Lifestyle",TLC English 
+https://JTV.lalitjoshi06.repl.co/getm3u8/574/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/565/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Lifestyle",TLC Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/571/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="Devotional",Sadhguru Television HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1201/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Lifestyle",Kaumudy TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/563/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Business",CNBC Tv 18 
+https://JTV.lalitjoshi06.repl.co/getm3u8/489/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="Business",ET Now 
+https://JTV.lalitjoshi06.repl.co/getm3u8/212/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" group-title="Business",ET Now Swadesh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1907/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Devotional",Bhakti TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/776/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="Devotional",Sri Sankara 
+https://JTV.lalitjoshi06.repl.co/getm3u8/829/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="Devotional",Sai TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/937/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="Devotional",Peace of Mind 
+https://JTV.lalitjoshi06.repl.co/getm3u8/794/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="Devotional",mh1 Shraddha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/609/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" group-title="Devotional",Lakshya TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/886/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Devotional",Sri Venkateshwar Bhakti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/598/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="Devotional",Divya TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/801/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="Devotional",Paras tv 
+https://JTV.lalitjoshi06.repl.co/getm3u8/602/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="Devotional",Sadhna 
+https://JTV.lalitjoshi06.repl.co/getm3u8/593/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="Devotional",Satsang TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/597/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="Devotional",Angel TV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/835/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Devotional",CVR OM Spiritual 
+https://JTV.lalitjoshi06.repl.co/getm3u8/772/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="Devotional",Aradhana TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/777/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="Devotional",Jinvani TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/596/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="Devotional",PTC Simran 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1191/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Devotional",Shubh TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/828/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png" group-title="Devotional",Sai Leela 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1407/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="Devotional",Hindu Dharmam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/955/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="Devotional",Subhavartha TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/607/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Devotional",Divya Vani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/934/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="Devotional",Arihant TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/466/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png" group-title="Devotional",Mercy TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/924/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="Devotional",Calvary 
+https://JTV.lalitjoshi06.repl.co/getm3u8/977/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png" group-title="Educational",Swayam Prabha 04 
+https://JTV.lalitjoshi06.repl.co/getm3u8/984/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png" group-title="Educational",Swayam Prabha 05 
+https://JTV.lalitjoshi06.repl.co/getm3u8/986/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png" group-title="Educational",Swayam Prabha 06 
+https://JTV.lalitjoshi06.repl.co/getm3u8/987/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png" group-title="Educational",Swayam Prabha 07 
+https://JTV.lalitjoshi06.repl.co/getm3u8/985/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png" group-title="Educational",Swayam Prabha 08 
+https://JTV.lalitjoshi06.repl.co/getm3u8/983/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png" group-title="Educational",Swayam Prabha 09 
+https://JTV.lalitjoshi06.repl.co/getm3u8/988/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png" group-title="Educational",Swayam Prabha 10 
+https://JTV.lalitjoshi06.repl.co/getm3u8/989/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png" group-title="Educational",Swayam Prabha 11 
+https://JTV.lalitjoshi06.repl.co/getm3u8/990/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png" group-title="Educational",Swayam Prabha 12 
+https://JTV.lalitjoshi06.repl.co/getm3u8/991/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="Sports",Jio Cricket 4 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1272/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png" group-title="Educational",Swayam Prabha 13 
+https://JTV.lalitjoshi06.repl.co/getm3u8/992/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png" group-title="Educational",Swayam Prabha 14 
+https://JTV.lalitjoshi06.repl.co/getm3u8/993/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png" group-title="Educational",Swayam Prabha 15 
+https://JTV.lalitjoshi06.repl.co/getm3u8/995/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png" group-title="Educational",Swayam Prabha 16 
+https://JTV.lalitjoshi06.repl.co/getm3u8/994/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png" group-title="Educational",Swayam Prabha 17 
+https://JTV.lalitjoshi06.repl.co/getm3u8/996/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png" group-title="Educational",Swayam Prabha 18 
+https://JTV.lalitjoshi06.repl.co/getm3u8/999/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" group-title="Educational",Swayam Prabha 19 
+https://JTV.lalitjoshi06.repl.co/getm3u8/401/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" group-title="Educational",Swayam Prabha 20 
+https://JTV.lalitjoshi06.repl.co/getm3u8/403/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png" group-title="Educational",Swayam Prabha 21 
+https://JTV.lalitjoshi06.repl.co/getm3u8/997/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png" group-title="Educational",Swayam Prabha 22 
+https://JTV.lalitjoshi06.repl.co/getm3u8/998/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png" group-title="Educational",PM e Vidya 01 
+https://JTV.lalitjoshi06.repl.co/getm3u8/400/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png" group-title="Educational",PM e Vidya 02 
+https://JTV.lalitjoshi06.repl.co/getm3u8/402/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png" group-title="Educational",PM e Vidya 03 
+https://JTV.lalitjoshi06.repl.co/getm3u8/405/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png" group-title="Educational",PM e Vidya 04 
+https://JTV.lalitjoshi06.repl.co/getm3u8/406/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png" group-title="Educational",PM e Vidya 05 
+https://JTV.lalitjoshi06.repl.co/getm3u8/407/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png" group-title="Educational",PM e Vidya 06 
+https://JTV.lalitjoshi06.repl.co/getm3u8/408/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png" group-title="Educational",PM e Vidya 07 
+https://JTV.lalitjoshi06.repl.co/getm3u8/404/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment",Raj Pariwar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/533/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="Entertainment",DD Bihar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/539/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="Entertainment",DD Uttar Pradesh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/540/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Entertainment",Jaya TV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/419/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Entertainment",Mazavali Manorama HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/844/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Entertainment",MK TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/847/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Entertainment",Colors Super 
+https://JTV.lalitjoshi06.repl.co/getm3u8/785/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Entertainment",Vendhar TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/857/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="Entertainment",Sanjha TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/904/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png" group-title="Entertainment",Punjab Today 
+https://JTV.lalitjoshi06.repl.co/getm3u8/951/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="Entertainment",JUSPunjabi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/959/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment",Arre HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/963/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Entertainment",Peppers TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/796/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Entertainment",Zee Sarthak 
+https://JTV.lalitjoshi06.repl.co/getm3u8/722/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Entertainment",Flower TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/634/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Entertainment",Mazhavil Manorama 
+https://JTV.lalitjoshi06.repl.co/getm3u8/648/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="Entertainment",DD Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/690/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Entertainment",Puthu Yugam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/824/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Entertainment",Saam Tv 
+https://JTV.lalitjoshi06.repl.co/getm3u8/691/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Entertainment",Colors Oriya 
+https://JTV.lalitjoshi06.repl.co/getm3u8/198/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="Entertainment",Jonack 
+https://JTV.lalitjoshi06.repl.co/getm3u8/765/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="Entertainment",Rang 
+https://JTV.lalitjoshi06.repl.co/getm3u8/623/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="Entertainment",Rengoni 
+https://JTV.lalitjoshi06.repl.co/getm3u8/635/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Entertainment",ETV Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/692/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",Sony Marathi SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1146/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Entertainment",DD Sahayadri 
+https://JTV.lalitjoshi06.repl.co/getm3u8/695/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment",Sony aath 
+https://JTV.lalitjoshi06.repl.co/getm3u8/697/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Entertainment",Aakash Aath 
+https://JTV.lalitjoshi06.repl.co/getm3u8/698/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Entertainment",DD Malayalam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/699/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment",Dangal 
+https://JTV.lalitjoshi06.repl.co/getm3u8/701/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Entertainment",DD Oriya 
+https://JTV.lalitjoshi06.repl.co/getm3u8/702/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Entertainment",Polimer TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/705/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Entertainment",Raj TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/707/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Entertainment",Makkal TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/708/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment",Kairali TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/710/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Entertainment",Captain tv 
+https://JTV.lalitjoshi06.repl.co/getm3u8/711/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="Entertainment",DD urdu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/712/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri 
+https://JTV.lalitjoshi06.repl.co/getm3u8/706/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Entertainment",DD9 chandana (kannada) 
+https://JTV.lalitjoshi06.repl.co/getm3u8/713/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="Entertainment",DD Girnar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/714/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="Entertainment",DD Punjabi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/715/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png" group-title="Entertainment",DD Kashir 
+https://JTV.lalitjoshi06.repl.co/getm3u8/716/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="Entertainment",Nepal one 
+https://JTV.lalitjoshi06.repl.co/getm3u8/719/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png" group-title="Entertainment",DD13 Guwahati NE 
+https://JTV.lalitjoshi06.repl.co/getm3u8/720/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/723/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="News",Kairali News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/725/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Entertainment",DD5 Podhigai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/726/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Entertainment",Vasanth TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/727/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment",Zee Salaam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/728/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="Entertainment",Kasturi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/730/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment",Kairali WE TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/731/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment",Vissa TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/734/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Entertainment",Maiboli 
+https://JTV.lalitjoshi06.repl.co/getm3u8/736/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="Entertainment",The Q 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1066/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="Kids",The Q Kahaniyan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1920/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_TV.png" group-title="Entertainment",Namma TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1144/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="Entertainment",Rangamanch 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1151/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="Entertainment",Dillagi TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/534/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Entertainment",Dhamaal TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/535/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Movies",Zee Talkies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/153/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Movies",J Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/417/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Movies",Zee Bangla Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/685/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/252/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="Movies",Fakt Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/738/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Movies",Pitaara 
+https://JTV.lalitjoshi06.repl.co/getm3u8/946/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies",Maha Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/809/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Movies",Raj Digital Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/683/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Movies",PTC Punjabi Gold  
+https://JTV.lalitjoshi06.repl.co/getm3u8/1190/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Movies",Oscar Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/883/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" group-title="Movies",Indradhanu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/908/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="Movies",Amaar Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1101/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/666/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",News Nation 
+https://JTV.lalitjoshi06.repl.co/getm3u8/499/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="News",Kanak News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/718/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News",India news 
+https://JTV.lalitjoshi06.repl.co/getm3u8/498/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="News",Puthiya Thalimurai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/677/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="News",News18 BIHAR 
+https://JTV.lalitjoshi06.repl.co/getm3u8/693/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News",Dighvijay TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/923/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="News",Zee Delhi NCR Haryana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/724/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="News",News18 Gujarati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/620/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News",Good News Today 
+https://JTV.lalitjoshi06.repl.co/getm3u8/502/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="News",Asianet News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/180/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="Infotainment",Sony BBC Earth SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/823/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News18 Kannada News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/653/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="News",News7 Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/673/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="News",DY 365 
+https://JTV.lalitjoshi06.repl.co/getm3u8/633/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",News18 Lokmat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/232/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" group-title="News",Pratidin Time 
+https://JTV.lalitjoshi06.repl.co/getm3u8/647/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="News",Tv 9 Gujarat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/616/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News",News18 RAJASTHAN 
+https://JTV.lalitjoshi06.repl.co/getm3u8/531/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News",News18 Bangla News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/717/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="News",News State UK UP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/792/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="News",News 18 Assam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/627/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="News",ABP Asmita 
+https://JTV.lalitjoshi06.repl.co/getm3u8/641/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png" group-title="News",Prag News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/624/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="News",News18 MP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/529/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="News",Kashish News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/770/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/769/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News",ETV Andhra pradesh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/614/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="News",News 18 Tamilnadu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/615/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="News",Manorama News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/662/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="News",Mathrubhumi News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/780/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News",India Today 
+https://JTV.lalitjoshi06.repl.co/getm3u8/493/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="News",TV 5 Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/956/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD Sports 
+https://JTV.lalitjoshi06.repl.co/getm3u8/204/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Music",MK Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/845/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/250/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Music",Tunes 6 
+https://JTV.lalitjoshi06.repl.co/getm3u8/803/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="Music",Raj Music Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/743/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="Music",Ramdhenu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/639/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Music",Raj Musix 
+https://JTV.lalitjoshi06.repl.co/getm3u8/748/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music",PTC Chak De 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1172/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music",9X Tashan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/732/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Music",Sahana Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/749/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="Music",PTC DHOL TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1188/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music",mh1 (Music) 
+https://JTV.lalitjoshi06.repl.co/getm3u8/742/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music",Sangeet Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/735/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9x Jhakaas 
+https://JTV.lalitjoshi06.repl.co/getm3u8/441/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="Music",Only Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/903/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="Music",PBN Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/905/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/737/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Music",Brit Asia 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1192/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music",Kappa TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/786/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="Music",PEACE MUSIC 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1103/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music",Raj Music Malayalam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/739/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music",Steelbird Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1184/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News",10 TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/832/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="News",Zee News MP Chattisgarh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/658/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="News",IBC24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/503/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="News",VTV Gujarati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/642/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News",TV 5 News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/668/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Entertainment",Jio Exclusive HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/866/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment",Hi Dost! 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1232/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="News",Assam Talks 
+https://JTV.lalitjoshi06.repl.co/getm3u8/675/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="News",News Time TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/687/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News",Zee Bihar Jharkhand 
+https://JTV.lalitjoshi06.repl.co/getm3u8/661/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="News",Prameya News 7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/779/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="News",CVR News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/784/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="News",Zee Rajasthan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/659/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News",News18 UP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/530/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="News",News18 Oriya 
+https://JTV.lalitjoshi06.repl.co/getm3u8/696/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/667/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="News",Sandesh News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/782/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News",DD News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/203/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prajaa_TV.png" group-title="News",Prajaa TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/954/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="News",Jaya Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/418/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="News",Malai Murasu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/826/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" group-title="News",Media One TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/910/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="News",Zee 24 Kalak 
+https://JTV.lalitjoshi06.repl.co/getm3u8/929/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/142/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/630/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="News",Kalinga TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/781/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="News",Janam TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/810/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="News",India News UP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/512/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="News",News 18 Kerala 
+https://JTV.lalitjoshi06.repl.co/getm3u8/965/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News",Maha News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/800/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="News",HM TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/665/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Kids",sonic Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/290/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Kids",Cartoon Network Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/166/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids",Discovery Kids Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/550/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment",DD Kisan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/583/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Infotainment",ETV Life 
+https://JTV.lalitjoshi06.repl.co/getm3u8/570/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/InGoa24x7.png" group-title="Infotainment",In Goa 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/422/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Infotainment",Vanitha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/775/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Infotainment",CVR Health 
+https://JTV.lalitjoshi06.repl.co/getm3u8/774/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo 
+https://JTV.lalitjoshi06.repl.co/getm3u8/541/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="Infotainment",Sony BBC Earth HD English 
+https://JTV.lalitjoshi06.repl.co/getm3u8/852/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music",Boogle Bollywood 
+https://JTV.lalitjoshi06.repl.co/getm3u8/962/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness.png" group-title="Lifestyle",testa 
+https://JTV.lalitjoshi06.repl.co/getm3u8/795/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" group-title="Lifestyle",Propex TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/953/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png" group-title="Lifestyle",testii 
+https://JTV.lalitjoshi06.repl.co/getm3u8/797/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="Business",CNBC Bazaar (MNO) 
+https://JTV.lalitjoshi06.repl.co/getm3u8/490/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Devotional",Disha tv 
+https://JTV.lalitjoshi06.repl.co/getm3u8/599/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="Devotional",Vedic TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/856/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional",Darshan 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/611/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="Devotional",Bhaktisagar 2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/939/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="Devotional",Ishwar TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/601/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="Devotional",Channel Win 
+https://JTV.lalitjoshi06.repl.co/getm3u8/605/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Devotional",Nambikkai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/603/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png" group-title="Devotional",Hare krsna 
+https://JTV.lalitjoshi06.repl.co/getm3u8/879/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png" group-title="Devotional",Swar Shree 
+https://JTV.lalitjoshi06.repl.co/getm3u8/887/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="Devotional",Shubhsandesh TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/608/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="Devotional",Shalom 
+https://JTV.lalitjoshi06.repl.co/getm3u8/606/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png" group-title="JioDarshan",Tulja Bhavani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1159/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="Devotional",Sarv Dharam Sangam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/972/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png" group-title="Devotional",Sharnam TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1077/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.png" group-title="Devotional",Garv Punjabi Gurbani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/952/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png" group-title="Devotional",Fateh TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1174/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Valambhakti.png" group-title="Devotional",Valam TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1187/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Om_Shanti.png" group-title="Devotional",Om Shanti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/964/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kartavya_Tv.png" group-title="Devotional",Kartavya TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1186/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" group-title="Devotional",Hamari Sanskruti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1099/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" group-title="Devotional",JUSOne 
+https://JTV.lalitjoshi06.repl.co/getm3u8/961/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Soham_TV.png" group-title="Devotional",Soham TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1078/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Awakening.png" group-title="Devotional",Awakening 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1175/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SRMD.png" group-title="Devotional",SRMD HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1176/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_music.png" group-title="Devotional",Hare Krsna Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1193/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_8.png" group-title="Educational",PM e Vidya 08 
+https://JTV.lalitjoshi06.repl.co/getm3u8/409/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_9.png" group-title="Educational",PM e Vidya 09 
+https://JTV.lalitjoshi06.repl.co/getm3u8/410/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_10.png" group-title="Educational",PM e Vidya 10 
+https://JTV.lalitjoshi06.repl.co/getm3u8/411/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_11.png" group-title="Educational",PM e Vidya 11 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1410/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="Educational",PM e Vidya 12 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1532/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_1.png" group-title="Educational",Vande Gujarat 1 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1069/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_2.png" group-title="Educational",Vande Gujarat 2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1070/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_3.png" group-title="Educational",Vande Gujarat 3 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1082/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_4.png" group-title="Educational",Vande Gujarat 4 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1071/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png" group-title="Educational",Vande Gujarat 5 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1083/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png" group-title="Educational",Vande Gujarat 6 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1084/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_7.png" group-title="Educational",Vande Gujarat 7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1085/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_8.png" group-title="Educational",Vande Gujarat 8 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1086/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_9.png" group-title="Educational",Vande Gujarat 9 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1087/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_10.png" group-title="Educational",Vande Gujarat 10 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1088/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_11.png" group-title="Educational",Vande Gujarat 11 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1089/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_12.png" group-title="Educational",Vande Gujarat 12 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1090/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_13.png" group-title="Educational",Vande Gujarat 13 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1091/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_14.png" group-title="Educational",Vande Gujarat 14 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1092/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_15.png" group-title="Educational",Vande Gujarat 15 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1093/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_16.png" group-title="Educational",Vande Gujarat 16 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1094/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="News",Gulistan News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/807/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="News",Jan TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/768/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="News",Raj News Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/651/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak.png" group-title="JioDarshan",Ashtavinayak 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1524/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="News",News18 JKLH 
+https://JTV.lalitjoshi06.repl.co/getm3u8/694/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="News",India News Haryana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/516/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="News",India News Rajasthan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/513/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="News",GS TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/643/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="News",MBC 
+https://JTV.lalitjoshi06.repl.co/getm3u8/631/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="News",Sahara Samay Bihar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/509/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News",Zee Hindustan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/652/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png" group-title="Kids",TEST14 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/551/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="News",Hindi Khabar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/808/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News",Zee Punjabi HP Haryana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/654/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="News",First India News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/927/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" group-title="News",News11 
+https://JTV.lalitjoshi06.repl.co/getm3u8/882/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RPLUS.png" group-title="News",R Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/950/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="News",SAHARA SAMAY MP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/507/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="News",Captain News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/645/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="News",I News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/790/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="News",News X 
+https://JTV.lalitjoshi06.repl.co/getm3u8/495/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png" group-title="News",Mirror Now 
+https://JTV.lalitjoshi06.repl.co/getm3u8/491/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="News",India News MP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/515/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="News",Sathiyam TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/671/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="News",Naxatra News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/799/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="News",Zee UP UK 
+https://JTV.lalitjoshi06.repl.co/getm3u8/572/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN 
+https://JTV.lalitjoshi06.repl.co/getm3u8/193/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="News",Chardikla Time TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/517/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="News",Sudarshan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/518/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="News",JK 24x7 News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/789/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",AL Jazeera 
+https://JTV.lalitjoshi06.repl.co/getm3u8/494/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="News",PTC News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1170/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="News",Taaza TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/791/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News",Live Today 
+https://JTV.lalitjoshi06.repl.co/getm3u8/771/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="News",Sahara Samay Rastriya 
+https://JTV.lalitjoshi06.repl.co/getm3u8/506/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="News",Mh One News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/511/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="News",Janta TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/880/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="News",News18 Punjab Haryana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/655/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="News",Total TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/855/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST1_HD.png" group-title="Entertainment",TEST1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/978/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST2_HD.png" group-title="Entertainment",TEST2 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/979/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="News",SAHARA SAMAY UP 
+https://JTV.lalitjoshi06.repl.co/getm3u8/508/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News",Wion 
+https://JTV.lalitjoshi06.repl.co/getm3u8/412/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="News",Bharat Samachar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/918/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="News",K News India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/783/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="News",North East Live 
+https://JTV.lalitjoshi06.repl.co/getm3u8/637/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="News",Samachar Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/804/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="News",Samay Rajasthan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/793/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/664/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="News",dw 
+https://JTV.lalitjoshi06.repl.co/getm3u8/496/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="News",Sansad TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/522/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="News",Madhimugam TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/843/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Sansad TV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/520/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="News",TV5 Monde 
+https://JTV.lalitjoshi06.repl.co/getm3u8/885/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="News",Win TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/970/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mantavya_News.png" group-title="News",Mantavya News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/944/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4 TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/933/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_1_India.png" group-title="News",News 1 India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/936/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="News",MKN 
+https://JTV.lalitjoshi06.repl.co/getm3u8/846/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png" group-title="News",APN News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/917/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="News",Jaihind tv 
+https://JTV.lalitjoshi06.repl.co/getm3u8/465/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="News",Jeevan TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/842/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" group-title="News",TV 100 
+https://JTV.lalitjoshi06.repl.co/getm3u8/916/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="News",Bansal News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1179/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="News",India Voice 
+https://JTV.lalitjoshi06.repl.co/getm3u8/788/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png" group-title="News",A1 TV Rajasthan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/926/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" group-title="News",INH 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/957/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="News",GoodNews Channel 
+https://JTV.lalitjoshi06.repl.co/getm3u8/907/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="News",News India 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/850/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="News",Living India News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/831/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="News",SMBC TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/851/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="News",Sadhna News Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/519/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News",Channel News Asia International 
+https://JTV.lalitjoshi06.repl.co/getm3u8/764/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Goa365.png" group-title="News",GOA 365 
+https://JTV.lalitjoshi06.repl.co/getm3u8/421/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="News",France 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/838/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="News",Raj News Malayalam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/650/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png" group-title="News",Prime News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/921/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euro News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/837/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png" group-title="News",Prudent 
+https://JTV.lalitjoshi06.repl.co/getm3u8/966/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" group-title="News",Khabar Fast 
+https://JTV.lalitjoshi06.repl.co/getm3u8/915/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="News",Swadesh News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1185/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="News",JUS 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/960/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RDX_News.png" group-title="News",RDX Goa 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1102/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="News",CVR English 
+https://JTV.lalitjoshi06.repl.co/getm3u8/787/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="News",DNN 
+https://JTV.lalitjoshi06.repl.co/getm3u8/958/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" group-title="News",Jantantra 
+https://JTV.lalitjoshi06.repl.co/getm3u8/975/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News",Raj News 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/767/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Kids",Sony Yay Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/874/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Kids",Sony Yay Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/873/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr. 
+https://JTV.lalitjoshi06.repl.co/getm3u8/548/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Kids",CN HD+ Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1081/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Kids",CN HD+ Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1080/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment",DD bharati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/580/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Infotainment",Care World 
+https://JTV.lalitjoshi06.repl.co/getm3u8/582/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="Infotainment",Insight HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/888/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" group-title="Infotainment",Prime Asia HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1162/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Kids",Nick Malayalam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1340/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1341/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Kids",Nick Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1342/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Kids",Sonic Malayalam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1344/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Sonic Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1345/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Kids",Sonic Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1346/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" group-title="Educational",Digishala 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1227/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Educational",Top Tutor 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1337/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="Educational",Gyan Brikshya 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1428/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manipur_Educational_Channel.png" group-title="Educational",Lairik 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1456/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Educational",TV Teacher 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1447/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="Educational",Utkarsh Primary 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1434/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="Educational",Utkarsh HSBTE 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1435/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="Educational",Utkarsh Secondary 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1436/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="Educational",Utkarsh Higher 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1437/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Meluha.png" group-title="Educational",Meluha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1439/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Home_Learning_Gujarat.png" group-title="Educational",Home Learning Gujarat Standard-9 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1460/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Educational",KITE VICTERS 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1429/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="Devotional",Parmarth TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1449/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Entertainment",Lionsgate Play 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2327/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="Sports",Jio Cricket 2 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1161/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports",JioGames HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1163/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="Sports",Jio Cricket 3 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1166/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="Movies",Colors Gujarati Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1324/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Entertainment",Colors Marathi SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1326/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment",Colors SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1368/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Entertainment",Colors Bangla SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1369/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="Entertainment",Colors Kannada SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1370/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="Music",VH1 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1378/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music",MTV Beats SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1400/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Akal_Academy_Group.png" group-title="Educational",Akal Academy Group 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1478/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IMS_School.png" group-title="Educational",IMS Schools Grade 1 - 8 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1480/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="News",Argus News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1481/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amma.png" group-title="Devotional",AMMA TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1482/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="Entertainment",Moon TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1518/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="Educational",Birla Brainiacs 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1521/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vedant_TV.png" group-title="Devotional",Vedant TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1526/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" group-title="Music",Haryanvi Hits 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1527/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports",MI TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1529/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="Educational",Gyanvani 1 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1531/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="Educational",Tute 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1542/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="Educational",Punjab School TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1545/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya.png" group-title="Educational",AAS Vidyalaya CBSE NCERT 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1547/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khandoba_Majha_Jejuri.png" group-title="JioDarshan",Khandoba Majha, Jejuri 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1548/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DharmaGranth_TV.png" group-title="Devotional",Dharm Granth TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1549/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/P_News.png" group-title="News",P News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1551/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Infotainment",Malanadu TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1552/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABSTAR_News.png" group-title="News",AB Star News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1553/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_TV.png" group-title="Devotional",Sanatan TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1554/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Express_TV.png" group-title="Infotainment",Express TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1557/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Express_TV_Shikshana.png" group-title="Educational",Express Shikshana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1558/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jigyasa_TV.png" group-title="Devotional",Jigyasa TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1559/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png" group-title="Devotional",35mm 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1560/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="Infotainment",Sristi TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1561/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="Educational",Himshiksha Elementary 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1562/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="Educational",Himshiksha Higher 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1563/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="Educational",Himshiksha Vocational 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1564/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Educational",AP-BIE-ARTS 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1565/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Educational",AP-BIE-SCIENCE 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1566/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Educational",AP-CIE-SIVE 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1567/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Atmadarshan_TV.png" group-title="Devotional",Atmadarshan TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1568/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" group-title="Educational",Sanskrit 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1590/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lokmanch_News.png" group-title="News",Lokmanch News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1592/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png" group-title="Educational",Lifology 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1593/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_24.png" group-title="News",Samachar 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1594/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Lifestyle",FTV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1598/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" group-title="Infotainment",InWild HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1599/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="Kids",ZooMoo HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1601/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png" group-title="Infotainment",Smithsonian HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1602/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Bhakti.png" group-title="Devotional",Bangla Bhakti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1605/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" group-title="Infotainment",Ken TV Keralam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1606/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" group-title="Devotional",Manav Dharam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1607/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MP_News.png" group-title="News",MP News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1608/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishvani_TV.png" group-title="Devotional",Ishvani TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1609/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divyang_News.png" group-title="News",Divyang News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1610/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="News",Tara TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1612/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" group-title="Educational",Medha Secondary 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1613/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" group-title="Educational",Omnicuris 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1614/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Ahead.png" group-title="News",India Ahead 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1617/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png" group-title="News",Real News Kerala 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1618/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="Devotional",Madha TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1655/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Kids",Rongeen TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1667/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/C_News_Bharat.png" group-title="News",C News Bharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1670/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png" group-title="Educational",Gyanvani 2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1672/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" group-title="Educational",PTD Chhattisgarrh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1673/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="Sports",ESG TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1675/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BVTV.png" group-title="Devotional",BVTV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1690/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="News",Badakhabar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1692/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Beats.png" group-title="Music",Haryana Beats 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1694/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_TV.png" group-title="News",Prime TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1695/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SSV_TV.png" group-title="Infotainment",SSV TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1696/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/FM_News.png" group-title="News",FM News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1697/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" group-title="News",IND 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1698/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ANN_News.png" group-title="News",ANN News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1699/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Hingulambika_Devi_Temple.png" group-title="Devotional",Shri Hingulambika Devi Temple 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1705/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Mangal_Dev_Grah_Temple.png" group-title="Devotional",Shri Mangal Dev Grah Temple 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1706/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SKY_12.png" group-title="Music",SKY 12 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1708/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24hrs_TV.png" group-title="News",24Hrs TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1725/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Gujarati.png" group-title="News",BBC News Gujarati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1726/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" group-title="News",Anaadi TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1728/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_7.png" group-title="News",Live 7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1729/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab1_TV.png" group-title="Entertainment",Luv Punjab TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1730/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/N5TV.png" group-title="News",N5TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1731/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ND24.png" group-title="News",ND 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1733/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ek_Onkar.png" group-title="Devotional",Ek Onkar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1734/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="News",TV9 Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1735/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Luxe_Tv_HD.png" group-title="Lifestyle",LUXE TV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1736/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mezzo_HD.png" group-title="Music",Mezzo Live HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1737/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hosanna_TV.png" group-title="Devotional",Hosanna TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1738/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V24_TV.png" group-title="Entertainment",JKAC News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1739/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Purnima_TV.png" group-title="Infotainment",Purnima TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1740/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_AtoZ.png" group-title="News",Bharat AtoZ 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1741/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskrit_Ganga_TV.png" group-title="Devotional",Sanskrit Ganga 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1742/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png" group-title="News",Hornbill TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1743/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_TV.png" group-title="News",TTV News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1755/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NK_TV.png" group-title="News",NK TV Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1757/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DPK_News.png" group-title="News",DPK News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1758/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Buletin_India.png" group-title="News",Buletin India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1759/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" group-title="News",Aryan TV National 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1761/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Vision.png" group-title="Entertainment",Channel Vision 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1762/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dadabhagwan.png" group-title="Devotional",Dada Bhagwan Foundation 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1764/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Doinandin.png" group-title="News",Doinandin 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1765/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zorins_TV.png" group-title="News",Zorins TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1766/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png" group-title="Infotainment",Naaptol 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1768/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/LWA.png" group-title="Devotional",LWA 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1769/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Tripura.png" group-title="Educational",Vande Tripura 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1770/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Express_News.png" group-title="News",Express News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1771/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports",Sony Ten 4 HD Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1772/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Sony Ten 4 HD Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1773/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports",Sony Ten 4 Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1774/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" group-title="News",Bharat News TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1777/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SamacharExpressTV.png" group-title="News",Samachar Express TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1786/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VISVAS.png" group-title="Devotional",VISVAS 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1787/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Yeshuaa.png" group-title="Devotional",Yeshuaa TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1788/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dada_Bhagwan_Foundation_Gujarati.png" group-title="Devotional",Dada Bhagwan Foundation Gujarati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1789/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VRLive.png" group-title="News",VR Live 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1790/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KPNews.png" group-title="News",KP News 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1791/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Satta_Express.png" group-title="News",Sattaxpress News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1793/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mangalmaylive.png" group-title="Devotional",Mangalmay Live 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1794/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" group-title="JioDarshan",Shri Amarnathji Shrine Board 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1795/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="News",Ananda Barta 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1796/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DA_News_Plus.png" group-title="News",DA News Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1797/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment",Pasand 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1798/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Entertainment",Studio Yuva Alpha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1799/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" group-title="News",News World India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1802/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" group-title="News",Jan Setu News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1804/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="Sports",Jio Football 5 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1813/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="Sports",Jio Football 6 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1814/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DTV_Bharat.png" group-title="News",DTV Bharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1816/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="News",NEWS 24 MPCG 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1817/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="Sports",Jio Football 7 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1823/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="Sports",Jio Football 8 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1824/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swarlasika.png" group-title="Educational",Swaralasika Sangeetalaya 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1826/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment",Green Chillies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1834/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Devam.png" group-title="Devotional",Sadhna Bhakti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1838/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya_State_Boards.png" group-title="Educational",AAS Vidyalaya State Boards 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1848/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png" group-title="Infotainment",India At Dubai Expo 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1849/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST3_HD.png" group-title="News",TEST3 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1059/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST4_HD.png" group-title="News",TEST4 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1060/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png" group-title="Sports",TEST5 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1061/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST6_HD.png" group-title="News",TEST6 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1062/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST7_HD.png" group-title="News",TEST7 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1063/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST8_HD.png" group-title="Shopping",TEST8 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1148/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="News",ABP Ganga 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1205/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Entertainment",Kalaignar TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1209/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="News",Kalaignar Seithigal  
+https://JTV.lalitjoshi06.repl.co/getm3u8/1210/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_Pravachan.png" group-title="Devotional",Hare Krsna Pravachan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1212/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids",Highbrow 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1216/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/LordShri_Vitthal.png" group-title="JioDarshan",Lord Shri Vitthal Rukmini 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1217/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Infotainment",Animal Planet HD Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1219/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_TV.png" group-title="Devotional",Rajyoga TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1220/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" group-title="Devotional",Rajyoga TV Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1221/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GovindDevji_Jaipur.png" group-title="JioDarshan",Mandir Shri Govinddevji-Jaipur 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1222/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png" group-title="JioDarshan",Dagdusheth Ganpati - Pune 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1223/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nimbark.png" group-title="Devotional",Nimbark TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1224/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" group-title="Lifestyle",Click Life 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1225/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+ 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1226/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ambabai_Temple.png" group-title="JioDarshan",Ambabai Temple-Kolhapur 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1228/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST9_HD.png" group-title="Infotainment",TEST9 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1229/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VR_360.png" group-title="JioDarshan",PTC VR 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1230/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="Sports",Jio Football Hindi HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1234/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Sports",Jio Football Malayalam HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1236/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="Sports",Jio Football Bengali HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1239/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png" group-title="News",TEST10 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1240/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/God_TV.png" group-title="Devotional",God TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1241/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Kids",Sonic Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1242/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Kids",Sonic Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1243/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Kids",Nick Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1244/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" group-title="Music",Sakkat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1245/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tripura_News.png" group-title="News",Headlines Tripura 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1246/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" group-title="Music",Bol Hadippa 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1248/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" group-title="Music",Kadak Hits 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1249/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="News",Twenty Four News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1250/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News",TV9 Bharatvarsh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1251/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="Infotainment",Tehzeeb TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1252/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="News",Kolkata Live 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1253/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Devotional",Aastha Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1254/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Devotional",Aastha Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1255/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" group-title="Devotional",Aastha Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1256/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="News",Ctvn Akd Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1260/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="News",Calcutta News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1261/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="News",Total Tv Haryana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1263/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="News",Kolkata TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1264/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" group-title="Infotainment",Global Sanjh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1265/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Movies",Bflix Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1266/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music",iLove 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1267/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="Movies",ABZY Dhakad 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1268/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="Movies",ABZY Cool 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1269/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="Movies",ABZY Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1270/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png" group-title="JioDarshan",Sri Krishna Matha Udupi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1271/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png" group-title="Lifestyle",Sugran 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1273/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="News",Studio One 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1274/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="Devotional",Nireekshana TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1277/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="Devotional",Prarthana Bhawan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1278/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Entertainment",Manoranjan Grand 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1279/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Movies",Manoranjan TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1280/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="Movies",Manoranjan Movies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1281/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="Movies",Khushboo TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1282/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hanuman_Mahavir_Temple.png" group-title="JioDarshan",Mahavir Mandir Patna 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1283/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" group-title="Devotional",Vignesh TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1284/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music",Insync 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1286/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="News",ANB News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1287/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png" group-title="JioDarshan",Shri Omkareshwar Mandir 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1288/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" group-title="Lifestyle",Stars Tell 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1290/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="News",ABP Sanjha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1291/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="Lifestyle",Wellness 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1292/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="News",Lokshahi News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1293/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports",Eurosport 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1294/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies",B4U Kadak 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1295/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="Movies",B4U Bhojpuri 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1296/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Bangla.png" group-title="News",TV Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1297/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="Entertainment",Manjari TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1299/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="Devotional",HHDL 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1315/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" group-title="JioDarshan",Takht Sri Patna Sahib - Patna 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1317/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Music",VH1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1320/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Entertainment",Colors Infinity SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1325/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="Entertainment",Comedy Central SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1327/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="News",RT TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1338/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment",Zee TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1351/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD  
+https://JTV.lalitjoshi06.repl.co/getm3u8/1358/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment",Zee Marathi HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1360/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Entertainment",Colors Tamil 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1371/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment",Sony Wah 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1393/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",Set SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1396/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World Japan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1405/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="News",Reporter TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1408/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music",SongDew TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1411/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png" group-title="Devotional",Shani Shingnapur 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1412/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" group-title="Devotional",Prati Shirdi Saibaba 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1414/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" group-title="Devotional",Ganga Darshan Varanasi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1415/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title="Devotional",SVBC2 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1417/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" group-title="Devotional",Ichhapuran Balaji Rajasthan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1418/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" group-title="Devotional",Iskon Girgaon 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1419/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" group-title="Devotional",Ashtavinayak Ranjangaon 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1420/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" group-title="Devotional",Karani Mata Rajasthan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1421/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" group-title="Devotional",Mahalaxmi Mumbai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1422/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" group-title="Devotional",Babulnaath Mumbai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1423/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" group-title="Devotional",Mumbadevi Mumbai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1424/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports",1Sports 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1425/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="Devotional",Santvani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1426/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="News",Nandighosha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1427/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids",Jio KIDS 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1430/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1431/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" group-title="News",TIME8 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1432/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="Devotional",Velukkudi Discourses 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1438/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" group-title="Devotional",Krishna Vani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1440/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Music",Wah Punjabi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1441/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="Infotainment",YTV India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1444/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhit 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1450/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="News",9 Bharat Samachar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1451/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Movies",Shemaroo MarathiBana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1452/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1453/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="Devotional",Shiksha TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1454/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Infotainment",Janapriyam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1455/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png" group-title="News",News Only 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1457/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png" group-title="Devotional",Gurkibani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1458/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" group-title="JioDarshan",Shree Ganesh - Moti Doongri Jaipur 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1463/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" group-title="Infotainment",Daijiworld TV 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1464/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Infotainment",History TV18 SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1471/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST11_HD.png" group-title="Infotainment",TEST11 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1475/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST12_HD.png" group-title="Entertainment",TEST12 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1476/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Colors Cineplex HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1477/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png" group-title="JioDarshan",Shri Jain Nakoda Parshwanath Tirth 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1479/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" group-title="News",BHOOMI 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1494/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Entertainment",Kannur One 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1514/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="News",News J 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1515/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" group-title="News",TEST13 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1525/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="News",Network 10 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1528/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Movies",Sony Pix SD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1530/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png" group-title="Infotainment",World  Punjabi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1534/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="Devotional",RadheKrishna TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1537/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" group-title="News",Samachar Today 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1538/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png" group-title="Devotional",Sangat TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1539/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="Devotional",Subharti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1543/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="News",AB News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1550/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" group-title="News",News First 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1555/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png" group-title="Lifestyle",MY ZEN HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1596/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="Entertainment",HITS HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1603/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="Movies",Colors Kannada Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1632/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sirikannada.png" group-title="Entertainment",Siri Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1634/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies",Colors Bangla Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1657/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Gujarat.png" group-title="News",India News Gujarat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1747/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies",Colors Cineplex Bollywood 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1763/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports",Sony Ten 4 Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1775/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Kids",Hoopla Kidz TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1780/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png" group-title="Educational",Aakash EduTV NEET 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1827/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies",And Pictures 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1839/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harpal_TV.png" group-title="Devotional",Z10 TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1847/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Devotional",SVBC 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1850/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png" group-title="Educational",Aakash EduTV JEE 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1851/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png" group-title="News",News11 Bharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1853/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png" group-title="News",STV Haryana News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1854/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NL_TV.png" group-title="News",NL TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1855/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_Assam.png" group-title="News",Pratham Khabar 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1856/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png" group-title="Devotional",SVBC3 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1858/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC4.png" group-title="Devotional",SVBC4 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1859/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" group-title="Entertainment",Punjab Plus 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1868/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kenson_News.png" group-title="News",Kenson News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1869/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music",7X Music 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1871/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="Kids",DreamWorks 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1872/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" group-title="Entertainment",E! 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1881/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST15_HD.png" group-title="Sports",TEST15 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1882/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Kids",Pogo Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1883/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kripa_TV.png" group-title="Devotional",Kripa TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1885/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News",Sansad TV Rajya Sabha 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1886/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jivan_TV.png" group-title="Devotional",Jivan TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1888/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="Sports",Jio Sports 1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1889/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="Sports",Jio Sports 2 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1890/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="News",Tribe TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1891/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Padhega_Bharat.png" group-title="Educational",Padhega Bharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1894/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" group-title="News",Today 24 News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1895/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Flash.png" group-title="News",News Flash 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1896/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pulse_24.png" group-title="News",Pulse 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1897/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GBN24.png" group-title="News",GBN24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1898/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VK_News.png" group-title="News",VK News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1899/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png" group-title="News",Express News Bharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1900/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="Devotional",Adhyatam TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1901/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Baat.png" group-title="News",Aaj Ki Baat Gujarati 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1903/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Namasthe_TV.png" group-title="Devotional",Namasthe TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1919/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png" group-title="Entertainment",MH1 Dil Se 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1925/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png" group-title="Devotional",Sanskriti 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1926/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png" group-title="JioDarshan",Shri Trimbakeshwar Devasthan Trust 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1933/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1954/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle",Foodxp 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1955/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Entertainment",Sidharth TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1956/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Movies",Sidharth Gold 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1957/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Devotional",Sidharth Bhakti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1958/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_India.png" group-title="News",Global India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1959/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png" group-title="News",Bhaarat Today 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1960/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment",Shemaroo TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1961/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="News",Amaar Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1962/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KVP_Bhaarat.png" group-title="News",KVP Bhaarat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1963/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_News.png" group-title="News",ABC News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1964/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png" group-title="News",VNM TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1965/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png" group-title="News",Live TV Kerala 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1966/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Hindi.png" group-title="Devotional",PMC Hindi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1967/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Kannada.png" group-title="Devotional",PMC Kannada 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1968/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Tamizh.png" group-title="Devotional",PMC Tamizh 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1969/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png" group-title="Sports",Jio Sports 3 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1970/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png" group-title="Sports",Jio Sports 4 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1971/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Top_News_Marathi.png" group-title="News",Top News Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1972/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1973/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News",Gujarat 1st 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1974/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Devotional",PMC Telugu 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1975/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Cbeebies.png" group-title="Kids",BBC Cbeebies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1976/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="Entertainment",Zee Bangla HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1977/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1984/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports",Sports18 1 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1985/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Sports18 Khel 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1998/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raftaar_Media.png" group-title="News",Raftaar Media 
+https://JTV.lalitjoshi06.repl.co/getm3u8/1999/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest2_HD.png" group-title="Entertainment",PlusTest2 HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2001/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/" group-title="Devotional",Aadinath TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2002/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Crypto_TV.0-TV" group-title="Educational",3.0 TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2003/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png" group-title="News",Shekinah TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2004/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Virat_24.png" group-title="News",Virat 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2005/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png" group-title="Devotional",Sattva TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2006/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BS9_News.png" group-title="News",BS9 News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2007/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_21.png" group-title="News",News 21 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2008/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Entertainment",Ekamra Nilach akra 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2010/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="Infotainment",Ekamra Bharat Odia 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2011/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Devotional",Paramatma 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2012/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png" group-title="News",Ekamra S News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2013/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rajpath_TV.png" group-title="News",Rajpath TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2014/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Music",Ekamra Musiq 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2015/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Movies",Ekamra Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2016/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png" group-title="News",Munsif TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2017/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Nation.png" group-title="News",Samachar Nation 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2018/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Punjab.png" group-title="News",Global Punjab 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2019/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KKD_News.png" group-title="News",KKD News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2020/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HNN24x7.png" group-title="News",HNN 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2021/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NB_News.png" group-title="News",NB News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2022/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Entertainment",And TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2024/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raatdin_News_Network.png" group-title="News",Raatdin News Network 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2027/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="Devotional",Sadvidya TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2028/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Bhakti.png" group-title="Devotional",Aaryaa Bhakti 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2029/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_News.png" group-title="News",Aaryaa News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2030/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="Lifestyle",Fashion India 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2031/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NSDC_TV.png" group-title="Educational",NSDC TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2034/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amritwani.png" group-title="Devotional",Amritwani 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2035/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" group-title="Music",Dil Se 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2036/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" group-title="Music",Pop Pataka 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2037/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" group-title="Music",Dhamaal 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2038/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Music",Adipolli 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2039/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" group-title="Entertainment",Bollywood Hungama 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2040/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png" group-title="Devotional",Bhakti Sagar 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2041/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png" group-title="Music",Nazraana 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2042/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" group-title="Music",Artist Aloud 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2043/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Auroville_TV.png" group-title="Devotional",Auroville TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2045/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="Music",RS Bharat 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2063/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" group-title="Music",Merchant Records 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2064/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Comedistaan.png" group-title="Entertainment",The Q Comedistaan 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2066/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Marathi.png" group-title="Entertainment",The Q Marathi 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2071/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Media.png" group-title="News",Prime Media Goa 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2074/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment",Gangaur 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2077/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment",Shemaroo Umang 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2078/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_24.png" group-title="News",Bharat 24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2079/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Bartaman_24x7.png" group-title="News",News Bartaman 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2080/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" group-title="News",TV27 News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2081/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="News",22Scope News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2082/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Prime_HD.png" group-title="Entertainment",Jio Prime HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2149/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India24x7.png" group-title="News",India 24x7 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2176/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arya_Sandesh_Tv.png" group-title="Devotional",Arya Sandesh TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2177/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="Sports",Q GameX 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2183/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="Infotainment",U Bangla 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2184/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png" group-title="News",Swatantra News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2187/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Globe_TV.png" group-title="News",Globe TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2188/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" group-title="Movies",Aaryaa Cinema 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2189/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Atrangii_TV.png" group-title="Entertainment",Atrangii TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2191/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gurukul_Rajkot.png" group-title="Devotional",Gurukul 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2192/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png" group-title="JioDarshan",Guruvayur Devaswom 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2205/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Punjab.png" group-title="News",India News Punjab 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2224/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV24.png" group-title="News",TV24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2225/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Entertainment",Jatra Ekamra 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2227/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="News",Samay Kolkata 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2228/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" group-title="Entertainment",Bhojpuri Junction 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2229/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Music",Jio Specials HD 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2230/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/No1_Yari_Jam.png" group-title="Music",No 1 Yaari Jam 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2232/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News80.png" group-title="News",News 80 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2233/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Entertainment",Desi Music Station 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2252/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" group-title="Entertainment",Nakshatra Digital TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2253/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png" group-title="News",Media9 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2254/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RRN_News.png" group-title="News",RRN News 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2255/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="Movies",Zee Thirai 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2256/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/POPxo.png" group-title="Infotainment",POPxo 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2257/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Entertainment",Animax 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2258/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divyalok_TV.png" group-title="Devotional",Divyalok TV 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2322/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TTN24.png" group-title="News",TTN24 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2323/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Scoowhoop.png" group-title="Entertainment",Scoowhoop 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2324/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Entertainment",Punjabi Melodies 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2325/master.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Firstpost.png" group-title="News",Firstpost 
+https://JTV.lalitjoshi06.repl.co/getm3u8/2326/master.m3u8
 
 
 
