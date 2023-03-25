@@ -271,6 +271,14 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmLv3vM5WBMrRmtvLsfPuuKDnnvvfsK5JA3HgwxPwvwjutJfoqt09&auth=434878f996c036a6d35568356834e25b4348001b1e8eb8424fc48dac75c32a03
+
+#EXTINF:-1 group-title="NEWS" HNK NEWS
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIE", HALMARK MOVIE
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 group-title="MUSIC ",VEAT MUSIC
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC ",BALLE BALLE
 https://isgmedia-balleballe-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1group-title="MUSIC ",TASHAN
