@@ -2724,20 +2724,7 @@ https://JTV.lalitjoshi06.repl.co/getm3u8/2254/master.m3u8
 https://JTV.lalitjoshi06.repl.co/getm3u8/2255/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="Movies",Zee Thirai 
 https://JTV.lalitjoshi06.repl.co/getm3u8/2256/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/POPxo.png" group-title="Infotainment",POPxo 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2257/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Entertainment",Animax 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2258/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divyalok_TV.png" group-title="Devotional",Divyalok TV 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2322/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TTN24.png" group-title="News",TTN24 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2323/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Scoowhoop.png" group-title="Entertainment",Scoowhoop 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2324/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Entertainment",Punjabi Melodies 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2325/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Firstpost.png" group-title="News",Firstpost 
-https://JTV.lalitjoshi06.repl.co/getm3u8/2326/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD
@@ -3040,24 +3027,7 @@ http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/174
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/175
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO FILMES" tvg-logo="https://i.imgur.com/5zjmhXY.png" group-title="CANAIS  | FILMES E SERIES",ENTRETENDO FILMES
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/63864
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/364
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/363
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/473
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/368
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO HD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/729
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/474
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO EPTV SAO CARLOS SD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/472
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/369
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://ccdnblck.xyz:80/images/48a504ca5c9d48d80b8bfd4200ace542.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/728
+
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD " tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="CANAIS | ESPORTES",ESPN FHD 
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/769
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN H265" tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="CANAIS | ESPORTES",ESPN H265
