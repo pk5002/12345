@@ -1,3 +1,182 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dishtv.in.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="StarPlus HD" tvg-logo="https://th.bing.com/th/id/OIP.ycx-upSV7i9XjAnMxeT4FwHaIV?w=155&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="📺 Entertainment 📺",Star Plus HD
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280767&extension=ts&play_token=rXzQKxFrNE
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="📺 Entertainment 📺",Star Bharat
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280765&extension=ts&play_token=Z1tGUy6Sy2
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="📺 Entertainment 📺", COLORS
+https://tv.media.jio.com/switch/bpk-tv/Colors_voot_MOB/output03/Colors_voot_MOB-audio_98836_eng=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Rishtey Asia" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="📺 Entertainment 📺",Colors Rishtey Asia
+https://tv.media.jio.com/switch/bpk-tv/Colors_Rishtey_voot_MOB/output03/Colors_Rishtey_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="📺 Entertainment 📺",&TV 
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945815&extension=ts&play_token=lVn6UGKsOe
+#EXTINF:-1 tvg-id="" tvg-name="Sony Entertainment Television tvg-logo="https://i.imgur.com/AkdfpVr.png" group-title="📺 Entertainment 📺",Sony Entertainment Television
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156170&extension=ts&play_token=UZqC0vokdl
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="https://logo.koditvepg.com/IN/sony.pal.in.png" group-title="📺 Entertainment 📺",Sony Pal
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156101&extension=ts&play_token=X8ikCsC17A
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="📺 Entertainment 📺",Sony Sab
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280764&extension=ts&play_token=YaC6YxD6K4
+#EXTINF:-1 tvg-id="" tvg-name="Sony Wah" tvg-logo="https://i.imgur.com/WaHcsb1.png" group-title="📺 Entertainment 📺",Sony Wah
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156039&extension=ts&play_token=GGZfLb4D5B
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="https://i.imgur.com/g3eT2vP.png" group-title="📺 Entertainment 📺",Zee TV 
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280773&extension=ts&play_token=ElTiI9x7h0
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/rskUQ83.png" group-title="📺 Entertainment 📺",Zee Anmol 
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156165&extension=ts&play_token=9RQodHs1sm
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Zing!" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="📺 Music 📺",Zing!
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156046&extension=ts&play_token=gW10xc85ip
+#EXTINF:-1 tvg-id="" tvg-name="MTV India hd" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="📺 Music 📺",MTV India hd
+https://tv.media.jio.com/switch/bpk-tv/MTV_HD_Plus_voot_MOB/output03/MTV_HD_Plus_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="📺 Music 📺",MTV India
+https://tv.media.jio.com/switch/bpk-tv/MTV_voot_MOB/output03/MTV_voot_MOB-audio_98835_eng=98800-video=2906400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="https://i.imgur.com/lxgXHx4.png" group-title="📺 Music 📺",Mastiii
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156050&extension=ts&play_token=C6tUT1U2IS
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music India" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="📺 Music 📺",B4U Music India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280800&extension=ts&play_token=tYUbVdDQPp
+#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD IN" tvg-logo="https://assets.rstream.me/images/j/kJJCWyggSO.png" group-title="📺 Music 📺",MTV BEATS HD
+https://tv.media.jio.com/switch/bpk-tv/MTV_Beats_HD_voot_MOB/output03/MTV_Beats_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Beats" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="📺 Music 📺",MTV BEATS
+https://tv.media.jio.com/switch/bpk-tv/MTV_Beats_voot_MOB/output03/MTV_Beats_voot_MOB-audio_98836_eng=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="📺 Music 📺",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XJalwa" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9x-jalwa-white.png" group-title="📺 Music 📺",9XJalwa
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E24" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-207/list/09207e24.jpg" group-title="📺 Music 📺",E24
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945947&extension=ts&play_token=BBYKfuAq0S
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="📺News 📺",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="📺News 📺",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="📺News 📺",ZEE NEWS
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="📺News 📺",Republic Bharat
+https://ottrb3.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News18 India" tvg-logo="https://i.imgur.com/5VLCwbt.png" group-title="📺News 📺",News18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="India TV" tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="📺News 📺",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="📺News 📺",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News18 Madhya Pradesh/Chhattisgarh" tvg-logo="https://i.imgur.com/Yhg2eLH.png" group-title="📺News 📺",News18 Madhya Pradesh/Chhattisgarh
+https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/News18_MP_Chhattisgarh_NW18_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="India News" tvg-logo="https://i.imgur.com/l54AGtz.png" group-title="📺News 📺",India News
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_360p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports Ten 5" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="📺 Sports 📺",Sony Sports Ten 5
+https://lin-gd-001-cf.slivcdn.com/out/v1/79396cc3e885493e950b24dcddceaeda/master_7.m3u8?hdntl=exp=1674709728~acl=*~hmac=c8d9436650fa4ee99a04b0fc9ab8c9e149521ee4a6e13c3760a375bfc7ef8b38&originpath=/linear/hls/pb/event/Sle_TR8rQIuZHWzshEXYjQ/stream/171dfbd2-e0fa-429b-8adf-56018f3cd156:TPE2/variant/d36bf8f514f89a676ea85aee2e2f11aa/bandwidth/4704510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports First" tvg-logo="https://i.imgur.com/PghOIRK.png" group-title="📺 Sports 📺",Star Sports First
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282674&extension=ts&play_token=hNNVHVSzXo
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports Ten 3" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="📺 Sports 📺",Sony Sports Ten 3
+https://lin-gd-001-cf.slivcdn.com/out/v1/af14396716554fb59c86194f8967f47a/master_1.m3u8?hdntl=exp=1674709651~acl=*~hmac=e1677baa27a3a5f4e4ad3612b7d92ff94b2810ac779d899e7a2da1c49fac0a5f&originpath=/linear/hls/pb/event/BCOFZq1JQjq12fmaO6lAAA/stream/d54d4d75-c920-49f1-b3b4-be16bde8960e:SIN2/variant/d3f53437b6f46cf3e8fb7941b360a811/bandwidth/4788929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="📺 Sports 📺",DD Sports
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945932&extension=ts&play_token=jFBwXTYq6Z
+#EXTINF:-1 tvg-id="." tvg-name="FOOTBALL" tvg-logo="https://th.bing.com/th/id/OIP.xlwrhQvBL2IJDWYLYez6FgHaHw?pid=ImgDet&rs=1" group-title="📺 Sports 📺",FOOTBALL
+https://tv.media.jio.com/fallback/bpk-tv/JV_SportsHD_English_DIG_MOB/Fallback/hls/Index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q_GameX" tvg-logo="https://sldhncdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="📺 Sports 📺",Q_GameX
+https://tv.freeseries.eu.org/live.php?c=Q_GameX&q=800&e=.m3u8
+
+
+#EXTINF:-1 ch-id="Nick Jr India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"  group-title="📺 KIDS 📺",Nick Jr India
+https://delta10tatasky.akamaized.net/out/i/2672019.mpd
+#EXTINF:-1 ch-id="Cartoon Network India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"  group-title="📺 KIDS 📺",Cartoon Network India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280748&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1 ch-id="Nickelodeon India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png"  group-title="📺 KIDS 📺",Nickelodeon India
+https://delta13tatasky.akamaized.net/out/i/2284303.mpd
+#EXTINF:-1 ch-id="pogo" tvg-logo="https://i.imgur.com/70pYQh4.png"  group-title="📺 KIDS 📺",pogo
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156128&extension=ts&play_token=gt1O8RLTWB
+#EXTINF:-1 ch-id="Sony Yay!" tvg-logo="https://i.imgur.com/MhlO1dB.png"  group-title="📺 KIDS 📺",Sony Yay!
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+#EXTINF:-1 ch-id="Nickelodeon Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png"  group-title="📺 KIDS 📺",Nickelodeon Sonic
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+#EXTINF:-1 ch-id="Discovery Kids India" tvg-logo="https://i.imgur.com/0iNQvoL.png"  group-title="📺 KIDS 📺",Discovery Kids India
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+#EXTINF:-1 ch-id="Disney Channel India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"  group-title="📺 KIDS 📺",Disney Channel India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
+#EXTINF:-1 ch-id="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png"  group-title="📺 KIDS 📺",Hungama TV
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1112134&extension=ts&play_token=RCXouamxQm
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="📺 infotainment 📺",Sony BBC Earth
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156012&extension=ts&play_token=6RCt1Fb32p
+#EXTINF:-1 tvg-id="" tvg-name="History TV18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="📺 infotainment 📺",History TV18
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156018&extension=ts&play_token=s5fbCiJqsJ
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="📺 infotainment 📺",Discovery Channel India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155999&extension=ts&play_token=DIgUOpbkUZ
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="📺 infotainment 📺",Animal Planet India
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="📺 infotainment 📺",Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="InWild" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" group-title="📺 infotainment 📺",InWild
+https://tv.freeseries.eu.org/live.php?c=InWild_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="📺 infotainment 📺",TLC India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280770&extension=ts&play_token=ZPGqvy93j4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo India" tvg-logo="https://i.imgur.com/U5eTiCu.png" group-title="📺 infotainment 📺",Discovery Turbo India
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_9_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="📺 infotainment 📺",Investigation Discovery India
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺 infotainment 📺",National Geographic India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156011&extension=ts&play_token=P4XdXN7HKq
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="📺 infotainment 📺",National Geographic Wild India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155989&extension=ts&play_token=rNG8r6lfBe
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Colors Cineplex Bollywood
+https://tv.media.jio.com/switch/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/Colors_Cineplex_Bollywood_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="https://th.bing.com/th/id/OIP.NBpRyVHwkDdXJYyAh9QnygHaHa?w=160&h=180&c=7&r=0&o=5&pid=1.7" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Colors Cineplex
+https://tv.media.jio.com/switch/bpk-tv/Colors_Cineplex_SD_voot_MOB/output03/Colors_Cineplex_SD_voot_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Sony Max
+https://lin-gd-001-cf.slivcdn.com/out/v1/8d20f41e1ed341fd95ea4fd19b55587e/master_3.m3u8?hdntl=exp=1674710996~acl=*~hmac=738eb625265a5c8879356a2f12906c6c09419c7d7674021065b914e105b3befc&originpath=/linear/hls/pb/event/Oc1isQAET3WaNPoABfScmg/stream/6e003927-0db3-4e38-992c-a70d5fd403f6:TPE2/variant/7869050f318ca8f9c9eb311fd7069cc9/bandwidth/4789149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Sony Max 2
+https://lin-gd-001-cf.slivcdn.com/out/v1/3387ff1dbcb84b06b22dab95a4ee30e5/master_1.m3u8?hdntl=exp=1674711077~acl=*~hmac=69a65407bc150b071b136ae0e211feca2507920ca2bcbc1fe9b272e9eb6d2c17&originpath=/linear/hls/pb/event/MdQ5Zy-PSraOccXu8jflCg/stream/fa5cc0f7-2284-4998-b973-58d49065dae0:SIN2/variant/2d20f3a52d977ce10b32dbafc18b231f/bandwidth/4789122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol Cinema" tvg-logo="https://i.imgur.com/DjzFjod.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Anmol Cinema
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156146&extension=ts&play_token=4cl37E020l
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Asia" tvg-logo="https://i.imgur.com/uYjCv5p.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Cinema Asia
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156146&extension=ts&
+#EXTINF:-1 tvg-id="" tvg-name="&pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",&pictures HD
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945812&extension=ts&play_token=gkpVvAphM1
+#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",&pictures
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945811&extension=ts&play_token=yoHGyKMT8m
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",B4U Movies India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280799&extension=ts&play_token=aERtNM5Gnh
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Cinema HD
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280772&extension=ts&play_token=pN5likZ3kl
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Sony Max HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/8fe2e6b11f184c34ac3f44cbd6a7caf0/master_1.m3u8?hdntl=exp=1674710948~acl=*~hmac=b25b0496794b20e3483edb6c4b0caa318254e2e459818bbc6f0f88b9257f1b63&originpath=/linear/hls/pb/event/UcjHNJmCQ1WRlGKlZm73QA/stream/ac80ed30-3604-46bc-a84a-1c893d0ef14a:TPE2/variant/e6c30f1a90c3e51f6602a20749c24851/bandwidth/4705628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bflix_Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Bflix_Movies
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280803&extension=ts&play_token=FJ47CSI9q5
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Colors Cineplex HD
+https://tv.media.jio.com/switch/bpk-tv/Colors_Cineplex_voot_MOB/output03/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="dubai movies" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png" group-title="📺 English Movies 📺",dubai movies
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="📺 English Movies 📺",SONY PIX HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master_1.m3u8?hdntl=exp=1674711297~acl=*~hmac=556d6f33c5d46f429e184cb6c486a909a0d9374221d422f8eaf0fa953bbe6001&originpath=/linear/hls/pb/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/169b891c-2f50-41fc-bb92-43232682b5d2:TPE2/variant/6e26ec4c92b1acfce6dc0855fd65610a/bandwidth/4704862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dca5effb-f654-41c7-8f52-ae71b86b6511-small3x1_stirr_1219_epg_filmrisefreemovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="📺 English Movies 📺",Filmrise Movies
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="https://mycinema.club/wp-content/uploads/2021/03/cropped-MyCinemaLogo_dropshadow-2.png" group-title="📺 English Movies 📺",MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="📺 English Movies 📺",ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://www.bing.com/th?id=OSK.7d045043e00a89222cde2fc2486d0845&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM" group-title="📺 English Movies 📺",ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C MOVOIES" tvg-logo="https://static.epg.best/us/TurnerClassicMovies.us.png" group-title="📺 English Movies 📺",C MOVOIES
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY CHANNEL" tvg-logo="https://th.bing.com/th/id/OIP.Z4ATbEqe_70-0TU7QpPD_gHaF7?w=203&h=180&c=7&r=0&o=5&pid=1.7" group-title="📺 English Movies 📺",FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://static.epg.best/my/Hits.my.png" group-title="📺 English Movies 📺",HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="📺 English Movies 📺",HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
+
+
 
 #EXTINF:-1,ANIMAL PLANET
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
