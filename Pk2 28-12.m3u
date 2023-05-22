@@ -2,6 +2,187 @@
 #EXTM3U
 #EXTINF:-1 ,BBF
 http://147.78.163.1:7002/play/a02q/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,IND - Star Plus UK
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69442
+#EXTINF:-1 ,IND - B4U Music UK
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69444
+#EXTINF:-1 ,IND - Sony Entertainment (SET) UK
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69446
+#EXTINF:-1 ,IND - Aaj Tak UK
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69447
+#EXTINF:-1 ,IND - Rishtey UK
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69451
+#EXTINF:-1 ,ABP NEWS
+http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/100822
+#EXTINF:-1 ,AAJ TAK
+http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/100823
+#EXTINF:-1 ,SONY YAY
+http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/96187
+#EXTINF:-1 ,Free Cable TV
+http://freecatv-manik.xyz/freecatv.m3u8
+#EXTINF:-1 ,SONY SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 ,STAR BHARAT
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 ,&PICTURESHD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,Colors Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 ,National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,79.Discovery Investigation
+http://168.205.87.198:8555/live/adriana/123456/36.m3u8
+#EXTINF:-1 ,Sony Entertainment TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 ,Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="freecatv",IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,MEEM TV
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Law and Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,MBC Bollywood HD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,C MOVOIES
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 ,MOVIES RUSSIAN
+http://myott.top/stream/DEKA6YA5JRN/107.m3u8
+#EXTINF:-1 ,SUPER HD
+http://142.132.136.139:8000/play/a003/index.m3u8
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 ,RTV
+https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="KOLKATA",MAASRANGA TV official
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 ,Channel 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
+#EXTINF:-1 ,DHINCHAAK 2 (BD)
+https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
+#EXTINF:-1 ,Goldmines(BD)
+https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+#EXTINF:-1 ,Cinama TV (BD)
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+#EXTINF:-1 ,Gaan Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
+#EXTINF:-1 ,SONY
+http://45.5.117.182:8000/play/a0ho/index.m3u8
+#EXTINF:-1 ,SONY HD
+http://45.5.117.182:8000/play/a0i3/index.m3u8
+#EXTINF:-1 ,Amrita TV (576p)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 ,Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 ,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 ,Canada Star TV
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
+#EXTINF:-1 ,Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 ,Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 ,Jeevan TV (576p)
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 ,Kairali TV (480p)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 ,Kairali We (576p)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 ,Kalaignar (576p)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 ,Kalaignar Sirippoli (576p)
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 ,Kalinga TV (864p) [Not 24/7]
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 ,Kasthuri (576p)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 ,Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 ,NPL TV
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 ,One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 ,Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
+#EXTINF:-1 ,JAYA HD
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-1 ,Goldmines(BD)
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+#EXTINF:-1 ,DesheBideshe TV
+http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
+#EXTINF:-1,Nick Junior
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Sonic Nickelodeon
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Comedy Central 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_SD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Comedy Central HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Clubbing TV
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Rishtey
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Super
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Infinity 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_SD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Infinity HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Cineplex Superhits
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Cineplex 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Cineplex HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Cineplex Bollywood
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Bangla 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Bangla HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Bangla Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Kannada 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Kannada HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Kannada Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Marathi 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Marathi HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Tamil 
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Tamil HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Gujarati
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Gujarati Cinema
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors Oriya
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,NAN IPTV
