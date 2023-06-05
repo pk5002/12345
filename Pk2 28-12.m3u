@@ -49,62 +49,7 @@ http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 #EXTINF:-1 ,DesheBideshe TV
 http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
-#EXTINF:-1,Nick Junior
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Sonic Nickelodeon
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Comedy Central 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Comedy Central HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Clubbing TV
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Rishtey
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Super
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Infinity 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Infinity HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Cineplex Superhits
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Cineplex 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Cineplex HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Cineplex Bollywood
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Bangla 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Bangla HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Bangla Cinema
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Kannada 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Kannada HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Kannada Cinema
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Marathi 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Marathi HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Tamil 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Tamil HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Gujarati
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Gujarati Cinema
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
-#EXTINF:-1,Colors Oriya
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Nick Junior
 #EXTINF:-1 ,RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,NAN IPTV
