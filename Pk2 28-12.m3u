@@ -2,45 +2,8 @@
 #EXTM3U
 #EXTINF:-1 ,BBF
 http://147.78.163.1:7002/play/a02q/index.m3u8
-#EXTM3U
-#EXTINF:-1 ,IND - Star Plus UK
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69442
-#EXTINF:-1 ,IND - B4U Music UK
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69444
-#EXTINF:-1 ,IND - Sony Entertainment (SET) UK
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69446
-#EXTINF:-1 ,IND - Aaj Tak UK
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69447
-#EXTINF:-1 ,IND - Rishtey UK
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/69451
-#EXTINF:-1 ,ABP NEWS
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/100822
-#EXTINF:-1 ,AAJ TAK
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/100823
-#EXTINF:-1 ,SONY YAY
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/96187
-#EXTINF:-1 ,Free Cable TV
-http://freecatv-manik.xyz/freecatv.m3u8
-#EXTINF:-1 ,SONY SAB HD
-http://208.86.19.13:81/7022.stream/index.m3u8
-#EXTINF:-1 ,STAR BHARAT
-http://208.86.19.13:81/7211.stream/index.m3u8
-#EXTINF:-1 ,&PICTURESHD
-http://208.86.19.13:81/7055.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 ,ZEE ACTION
-http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 ,Colors Cineplex HD
-http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 ,National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,79.Discovery Investigation
-http://168.205.87.198:8555/live/adriana/123456/36.m3u8
-#EXTINF:-1 ,Sony Entertainment TV
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+
+
 #EXTINF:-1 ,Hindi TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,B4U Kadak
@@ -87,38 +50,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
 http://45.5.117.182:8000/play/a0ho/index.m3u8
 #EXTINF:-1 ,SONY HD
 http://45.5.117.182:8000/play/a0i3/index.m3u8
-#EXTINF:-1 ,Amrita TV (576p)
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 ,Ayush TV
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 ,Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 ,Canada Star TV
-https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-#EXTINF:-1 ,Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 ,Hulchul TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 ,Jeevan TV (576p)
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 ,Kairali TV (480p)
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 ,Kairali We (576p)
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1 ,Kalaignar (576p)
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 ,Kalaignar Sirippoli (576p)
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTINF:-1 ,Kalinga TV (864p) [Not 24/7]
-https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 ,Kasthuri (576p)
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1 ,Nour TV
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 ,NPL TV
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 ,One TV (720p)
-http://137.59.86.218:1935/live/onetv/playlist.m3u8
+onetv/playlist.m3u8
 #EXTINF:-1 ,Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
 #EXTINF:-1 ,JAYA HD
