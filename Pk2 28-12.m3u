@@ -4,10 +4,6 @@
 http://147.78.163.1:7002/play/a02q/index.m3u8
 
 
-#EXTINF:-1 ,Hindi TV
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="freecatv",IB Tv Usa
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 ,MEEM TV
