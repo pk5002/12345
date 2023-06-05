@@ -8,12 +8,6 @@ http://147.78.163.1:7002/play/a02q/index.m3u8
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 ,MEEM TV
 http://208.86.19.13:81/502.stream/index.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 ,Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Law and Crime Network
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 ,Star Gold Select HD
@@ -164,71 +158,7 @@ https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.
 #EXTINF:-1 ,ROYEL TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 #EXTINF:-1 ,VARENDRA TV
-https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla_dec=auto
-http://103.113.149.52:8000/play/a00l/index.m3u8
-#EXTINF:-1 ,ATN News_dec=auto
-http://103.113.149.52:8000/play/a00e/index.m3u8
-#EXTINF:-1 ,Ananda TV_dec=auto
-http://103.113.149.52:8000/play/a00f/index.m3u8
-#EXTINF:-1 ,BTV National_dec=auto
-http://103.113.149.52:8000/play/a007/index.m3u8
-#EXTINF:-1 ,BTV World_dec=auto
-http://103.113.149.52:8000/play/a008/index.m3u8
-#EXTINF:-1 ,Bangla Vision_dec=auto
-http://103.113.149.52:8000/play/a00n/index.m3u8
-#EXTINF:-1 ,BanglaTV HD_dec=auto
-http://103.113.149.52:8000/play/a00m/index.m3u8
-#EXTINF:-1 ,BijoyTV_dec=auto
-http://103.113.149.52:8000/play/a009/index.m3u8
-#EXTINF:-1 ,Boishakhi TV_dec=auto
-http://103.113.149.52:8000/play/a00a/index.m3u8
-#EXTINF:-1 ,Channel 24HD_dec=auto
-http://103.113.149.52:8000/play/a002/index.m3u8
-#EXTINF:-1 ,Channel I HD_dec=auto
-http://103.113.149.52:8000/play/a00o/index.m3u8
-#EXTINF:-1 ,DBC NEWS_dec=auto
-http://103.113.149.52:8000/play/a00s/index.m3u8
-#EXTINF:-1 ,Deepto TV HD_dec=auto
-http://103.113.149.52:8000/play/a00k/index.m3u8
-#EXTINF:-1 ,Desh TV_dec=auto
-http://103.113.149.52:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,EKHON TV_dec=auto
-http://103.113.149.52:8000/play/a003/index.m3u8
-#EXTINF:-1 ,Ekattor TV HD_dec=auto
-http://103.113.149.52:8000/play/a00p/index.m3u8
-#EXTINF:-1 ,Ekushey TV_dec=auto
-http://103.113.149.52:8000/play/a00g/index.m3u8
-#EXTINF:-1 ,Gaan Bangla HD_dec=auto
-http://103.113.149.52:8000/play/a00q/index.m3u8
-#EXTINF:-1 ,Jamuna Television_dec=auto
-http://103.113.149.52:8000/play/a00h/index.m3u8
-#EXTINF:-1 ,MYTV HD_dec=auto
-http://103.113.149.52:8000/play/a00i/index.m3u8
-#EXTINF:-1 ,Mohona TV_dec=auto
-http://103.113.149.52:8000/play/a00d/index.m3u8
-#EXTINF:-1 ,NTV_dec=auto
-http://103.113.149.52:8000/play/a00r/index.m3u8
-#EXTINF:-1 ,News 24 HD_dec=auto
-http://103.113.149.52:8000/play/a00t/index.m3u8
-#EXTINF:-1 ,Rtv HD_dec=auto
-http://103.113.149.52:8000/play/a00b/index.m3u8
-#EXTINF:-1 ,SA TV HD_dec=auto
-http://103.113.149.52:8000/play/a005/index.m3u8
-#EXTINF:-1 ,SOMOY TV HD_dec=auto
-http://103.113.149.52:8000/play/a00j/index.m3u8
-#EXTINF:-1 ,asiantvHD_dec=auto
-http://103.113.149.52:8000/play/a006/index.m3u8
-#EXTINF:-1 ,Colors-Bengali-HD
-http://freecatv-manik.xyz/Colors-Bengali-HD.m3u8
-#EXTINF:-1 ,Zee~Bangla~HD
-http://freecatv-manik.xyz/Zee~Bangla~HD.m3u8
-#EXTINF:-1 ,Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 ,Maasranga TV(BD2)
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 ,Ekushay TV(BDIX)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,7 Star
