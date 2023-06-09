@@ -228,8 +228,6 @@ http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
 #EXTINF:-1 ,B4U MOVIES (IN)
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,B4U MOVIES (UK)
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX2
@@ -256,8 +254,6 @@ http://180.178.188.152:8000/play/a012
 http://180.178.188.152:8000/play/a014
 #EXTINF:-1 ,MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 ,&TV
-http://180.178.188.152:8000/play/a01u
 #EXTINF:-1 ,Colors
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
 #EXTINF:-1 ,&PICTURES
@@ -266,8 +262,6 @@ http://208.86.19.13:81/7055.stream/index.m3u8
 http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:-1 ,Zee tv
 http://180.178.188.152:8000/play/a00b
-#EXTINF:-1 ,Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 ,STAR•BHARAT
 http://208.86.19.13:81/7211.stream/index.m3u8
 #EXTINF:-1 ,Colors•Cineplex HD
@@ -279,8 +273,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
-#EXTINF:-1 ,SAHARA ONE (IN)
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
 #EXTINF:-1 ,UTV HD (IN)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,E24 (IN)
@@ -291,14 +283,8 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1,DISCOVERY
 https://tinyurl.com/NocopyFreeiptvm3u8link
-#EXTINF:-1,T SPORT
-https://stream.rockstreamer.com/121212.m3u8
-#EXTINF:-1,GTV
-http://mirajliv@bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8?token=copy
 #EXTINF:-1,ANIMAL PLANET
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1,Futura
-http://15.235.10.31:14336
 #EXTINF:-1,TV Globo
 http://15.235.10.31:14330
 #EXTINF:-1,Fox Sports 2
@@ -315,28 +301,18 @@ http://15.235.10.31:14410
 http://15.235.10.31:14503
 #EXTINF:-1,HBO Family
 http://15.235.10.31:14387
-#EXTINF:-1,Star Chahhel
+#EXTINF:-1,Star Channel
 http://15.235.10.31:14775
 #EXTINF:-1,HBO2
 http://15.235.10.31:14382
-#EXTINF:-1,SporTV 3
-http://15.235.10.31:14771
-#EXTINF:-1,GNT
-http://15.235.10.31:14363
-#EXTINF:-1,ESPN
-http://15.235.10.31:14769
 #EXTINF:-1,HGTV
 http://15.235.10.31:14412
-#EXTINF:-1,Star Chahhel
+#EXTINF:-1,Star Chan
 http://15.235.10.31:14774
 #EXTINF:-1,Studio Universal
 http://15.235.10.31:14778
 #EXTINF:-1, HBO+
 http://15.235.10.31:14408
-#EXTINF:-1,H2
-http://15.235.10.31:14376
-#EXTINF:-1,H2
-http://15.235.10.31:14373
 #EXTINF:-1, HBO Signature
 http://15.235.10.31:14385
 #EXTINF:-1, HBO Signature
