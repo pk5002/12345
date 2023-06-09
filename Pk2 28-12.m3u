@@ -1,33 +1,5 @@
 
 #EXTM3U
-
-
-
-#EXTINF:-1 ,MBC Bollywood HD
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 ,Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 ,SUPER HD
-http://142.132.136.139:8000/play/a003/index.m3u8
-#EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,DHINCHAAK 2 (BD)
-https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
-#EXTINF:-1 ,Goldmines(BD)
-https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
-#EXTINF:-1 ,Cinama TV (BD)
-https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
-#EXTINF:-1 ,SONY
-http://45.5.117.182:8000/play/a0ho/index.m3u8
-#EXTINF:-1 ,SONY HD
-http://45.5.117.182:8000/play/a0i3/index.m3u8
-onetv/playlist.m3u8
-#EXTINF:-1 ,Raj TV
-http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
-#EXTINF:-1 ,JAYA HD
-http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
-#EXTINF:-1 ,Goldmines(BD)
-https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 EXTINF:-1 ,Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 ,Zee Bangla
@@ -362,7 +334,31 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 
 
 
-
+#EXTINF:-1 ,MBC Bollywood HD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,SUPER HD
+http://142.132.136.139:8000/play/a003/index.m3u8
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 ,DHINCHAAK 2 (BD)
+https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
+#EXTINF:-1 ,Goldmines(BD)
+https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+#EXTINF:-1 ,Cinama TV (BD)
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+#EXTINF:-1 ,SONY
+http://45.5.117.182:8000/play/a0ho/index.m3u8
+#EXTINF:-1 ,SONY HD
+http://45.5.117.182:8000/play/a0i3/index.m3u8
+onetv/playlist.m3u8
+#EXTINF:-1 ,Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
+#EXTINF:-1 ,JAYA HD
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-1 ,Goldmines(BD)
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 #EXTINF:-1 ,Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 ,Star Plus HD
