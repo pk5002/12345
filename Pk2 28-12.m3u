@@ -1,6 +1,6 @@
 
 #EXTINF:-1,tv
-http://fifabangladesh.tk:80/RTB_API/play.php?tid=Colors_Super_voot_MOB/output03/hdntl=exp=1688317954~acl=%2f*~id=3b396ef0-a8b6-4812-aa7d-bf08c3ed28a3~data=hdntl~hmac=066013053c5f3353f8ffa6e01bdb8c70a4ffdc0c3cf5ceaad31bad49d7c322f9/Colors_Super_voot_MOB-audio_98835_hin=98800-video=765200.m3u8
+http://103.61.73.220:8000/play/a05h
 #EXTINF:-1,akhon tv  http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581 #EXTINF:-1,channel9
 http://cdn01.palki.tv:80/live/Channel9-M/tracks-v2/seg-0-845149.hls.fmp4?token=913921fb79e3c202313a37ed6ea91581
 #EXTINF:-1,akhon tv
