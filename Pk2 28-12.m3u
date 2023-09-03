@@ -1,6 +1,6 @@
 
 #EXTINF:-1,tv
-http://103.61.73.220:8000/play/a05h
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,akhon tv  http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581 #EXTINF:-1,channel9
 http://cdn01.palki.tv:80/live/Channel9-M/tracks-v2/seg-0-845149.hls.fmp4?token=913921fb79e3c202313a37ed6ea91581
 #EXTINF:-1,akhon tv
