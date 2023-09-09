@@ -2,7 +2,7 @@
 #EXTINF:-1,tv
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,akhon tv  http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581 #EXTINF:-1,channel9
-http://103.162.136.103:25461/live/FAH/fah/215.m3u8
+http://103.61.73.220:8000/play/a0g7
 #EXTINF:-1,akhon tv
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
 #EXTINF:-1 ,Khushboo Bangla(BD2)
