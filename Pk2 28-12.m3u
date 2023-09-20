@@ -20,10 +20,10 @@ https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_v
 https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/Colors_Cineplex_Bollywood_voot_MOB.m3u8
 #EXTINF:-1,StarGold SelHD-Rs8
 https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/.m3u8
-#EXTINF:-1,StarMovieSelHD-Rs19
-http://103.61.73.220:8000/play/a04d
-#EXTINF:-1,StarS1 HindiHD-Rs19
-http://103.61.73.220:8000/play/a041
+#EXTINF:-1,COLORS BANGLA
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,ZEE BANGLA CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1,StarSportSL1HD-Rs19
 https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB.m3u8
 #EXTINF:-1,StarSportSL2HD-Rs10
@@ -32,16 +32,16 @@ https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD
 https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/Comedy_Central_HD_voot_MOB.m3u8
 #EXTINF:-1,StarSports2 HD-Rs19
 https://thenayeemparvez@prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/MTV_Beats_voot_MOB.m3u8
-#EXTINF:-1,StarSuvarnaHD-Rs19
-http://103.61.73.220:8000/play/a0df
-#EXTINF:-1,Sun Bangla@
-http://103.61.73.220:8000/play/a0gc
+#EXTINF:-1,COLORS TAMIL HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,COLORS MARATHI HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,tv
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,akhon tv  http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581 #EXTINF:-1,channel9
 http://103.61.73.220:8000/play/a0g7
-#EXTINF:-1,akhon tv
-http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
+#EXTINF:-1,ZEE TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
 #EXTINF:-1 ,Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 ,iB TV USA
