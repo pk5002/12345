@@ -328,98 +328,6 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 
 
 
-
-https://livetv-channels.b-cdn.net/8083/chunklist0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE",MAHA MOVIE
-https://livetv-channels.b-cdn.net/8089/chunklist0.m3u8
-#EXTINF:-1 group-title="MUSIC ",M TONES
-https://livetv-channels.b-cdn.net/8009/chunklist0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE ",MAHA MOVIE
-https://livetv-channels.b-cdn.net/8025/chunklist0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE",ASIANET
-http://46.4.77.66:80/asianet/playlist.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE",ASIANET PLUS
-http://50.7.69.66/asianetplus/index.m3u8
-#EXTINF:-1 group-title="MUSIC ",SANGEET BANGLA
-https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",JAYA HD
-http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",SONY SAB HD
-http://208.86.19.13:81/7022.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",& TV HD
-http://208.86.19.13:81/7033.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",STAR BHARAT
-http://208.86.19.13:81/7211.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE " ,&PICTURESHD
-http://208.86.19.13:81/7055.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE ",SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVE",ZEE ACTION
-http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE",SONY MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIE",Colors Cineplex HD
-http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",Q MARATHI
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathixiaomi-ono/playlist.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",Q YOU INDIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvxiaomi-ono/playlist.m3u8
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",Q INDIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqxiaomi-ono/playlist.m3u8
-#EXTINF:-1 group-title="ANIMAL",turboin
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="ANIMAL",LoveNature4K2
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",maiboliin
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="ANIMAL",OutsideTV
-https://d3ogvsjhr301yh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ecfucb9qnj105-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="ANIMAL",outside
-https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT ",pitaar
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWvWtftAvT2wzatc8pSn_unmEUZlIw1hrK5qTLR0vMUcMqHVwTTTRtAovTQaVCIdEMmyaxpOX74uwhCzNBNh62ITt56ytFi0SE8OYefDHRJfd2XlVZwJajVGjhLycpTxsC7lFyYQ3PtfiI3WEh9Z0RcTME4WJigUiR8chrKe5Coae2f11pbeLC4IRP/w320-h320/9x-jalwa-tv-channel-frequency-channel-number-logo.jpg"  group-title="ONLINE--HINDI TV",9XM JALWA (IN)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWvWtftAvT2wzatc8pSn_unmEUZlIw1hrK5qTLR0vMUcMqHVwTTTRtAovTQaVCIdEMmyaxpOX74uwhCzNBNh62ITt56ytFi0SE8OYefDHRJfd2XlVZwJajVGjhLycpTxsC7lFyYQ3PtfiI3WEh9Z0RcTME4WJigUiR8chrKe5Coae2f11pbeLC4IRP/w320-h320/9x-jalwa-tv-channel-frequency-channel-number-logo.jpg"  group-title="ONLINE--HINDI TV",9XM JALWA (IN)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XJalwa/default/index.m3u8
-#EXTINF:-1 group-title="MUSIC ",9x jhakaas
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png",MASTIII 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/master.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png",MASTIII 
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:-1group-title="MUSIC ",9x jalwa
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmLzru0vkB1jfAhnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=18d1328be099fe023cd5cd51b7a44bde4b0f0ada2614ae59439074d2a8431cc3
-#EXTINF:-1group-title="MUSIC ",SHOW BOX
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStveYze1tA0L5tLrkqLL6vMfIrtfzvtbkt1jgqNnuvfznuKDnnvDRrM5pve41vfrRmgjesxHtru16y2T4rfnuvLvIve4XtKe9pq&auth=f7b9422f0cabf72e90a7773f5e2ce9ed1828c9f1e7349423331e98202cfa83a8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",MUSIC INDIA
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBhvssgH1vuHREvrgvJzAmhHjyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=b5e441824106a6f98352f320453fbb176b0402d379e5b9771930a0ed6d90f06f
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",MUSIC INDIA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmLv3vM5WBMrRmtvLsfPuuKDnnvvfsK5JA3HgwxPwvwjutJfoqt09&auth=434878f996c036a6d35568356834e25b4348001b1e8eb8424fc48dac75c32a03
-#EXTINF:-1 group-title="ENGLISH MOVIE", HALMARK MOVIE
-https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 group-title="MUSIC ",VEAT MUSIC
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC ",BALLE BALLE
-https://isgmedia-balleballe-1-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1group-title="MUSIC ",TASHAN
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuzZfKmMH5u0vnEvnfAentvgXmzw5KnLnfuJnxrejZtwT4vMvTzdjor3HotuzWrwrfyZK&auth=0b5a9b8576beba2d765c70b845705f5a0a7cfd595fe1ea836061dccc30e8bb3f
-#EXTINF:-1 group-title="MUSIC ",TASHAN
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPPD&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/dilse.jpg"  group-title="ONLINE--HINDI TV",DIL SE (IN)
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.joomusic.info/assets/images/logo.png"  group-title="ONLINE--HINDI TV",JOO MUSIC (IN)
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1group-title="MUSIC ",JOO MUSIC
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rSvffyAdzusgT5y2XwC1rwAffsrteXv1C1A1jgCevHr3bnzvHJD1zyA3LpvLjZtwXcv1fQsxHnvu15vevWC00ZsxLIre5PvtnSnfrgtKjLrZr3yKuWD1DRuJbsEJa9&auth=46f28b46e96d7a5f7b9d97f529a538bb04b9d92f9b129f616493bac3a2418bed
-#EXTINF:-1 group-title="MUSIC ",TRACE URBAN
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC ",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC ",TRACE LATIN
@@ -516,14 +424,7 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhrxLIrtb3v2Tsmfj6md0&auth=2a85062464bf63e398f9a052ed8a47d65d5ca6965597db42e58a29b7b2e7e2ec
 #EXTINF:-1group-title="ANIMAL",FOOD NETWORK
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
-#EXTINF:-1group-title="HINDI ENTERTAINMENT ",THE Q
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rSs2vTyZbwsgW0wwXWnMrhvLvrmMHXvM5WAK5uqKrnm2XAyKuXBvziBdnsrKjZvg5jEwjesLLvruPozgTOrfnuBeLrBMrevJiXmgvuuNvxvezzuLHJnu1vrJnovxrczdjwvvjhzeLuru40uKvOrvOYnvbrBgT4vMTktK9gwKrAmwHjuLHKwvvftxPJvLzdzeC0EgiYrtLqut09&auth=332fb0af7ef01576c968df2a6574dc9f0a12d7d03a5bece62a939860c53ada4e
-#EXTINF:-1group-title="MUSIC ",TARANG MUSIC
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdfLwgHXu0vktLjguKvLrZvrzvzRnvmZCdnLA2HfzdfND2jesK1wwhbUzgPsC1ruqMfssfjiufe9pq&auth=11d69f1bdb443449f1900b0291ad872d7bf68c7b93ca75722d1cc0b14cbcc0aa
-#EXTINF:-1group-title="HINDI ENTERTAINMENT ",TARANG
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=yvDKsu1fuM9zBhb2u1rOv2vTuKrnwhbVwMXAnLrvtxHrveL4vfvgwK5vCenAEMT4zw1KnLDvsxLovejZvfrwtvjhttvtvu5UvtfsrwfiBfDKBwrTv1HSm05vnxnnBKPnzwSXBu1vsM9JvLPczhPwtgvUAeHwvuOWyMPgDLLumdK&auth=e239be0f2a7ceb8ad3840cb4e35d0d0e9e43cc684e5478e61eda1f2089eb5144
-#EXTINF:-1group-title="HINDI ENTERTAINMENT ",ZEE TV
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rREvfyyZrwwg95wMXsq2qYwKTLBwmWvLvrEu9wBejnBLPAutfRmvmZCdrLvLPfzuC1twvRntjvmfjUt1zAq2fhnvbssgrWvM5KtMrREdrnweOZzurcsvPxEe5nrNbfzevJDLfxzhLwwhaZwLrSre0ZrtvIwfi1tti1yvLwzhzArwmXyLHNmvrfvM9zvgX0zeHREMjSCgHovZuWyvrwDgvevKLLvePyt1D4wLvdDejAEKzjzvzVD1yYmwfrEKy1vfHRmwjyuKXwmJKWutfWDgrhvLHIv1i1v1HSmfmXzdvnBwXyyLzWEfyZCg5HvMH1u21SwwjvCgXnmJvoyMT4DfPfttbIvxbStw0XBMnRAdvxA3HkyMXWte0ZBe5IAZf2wKDSwwiZzhrwDZ09&auth=f6b9dffba6a54c3135fb034f948c48fd90127a4eacb375379a94049498b1e1bf
+.
 #EXTINF:-1group-title="ANIMAL",TLC
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56
 #EXTINF:-1group-title="ANIMAL",DISCOVERY SCIENCE
