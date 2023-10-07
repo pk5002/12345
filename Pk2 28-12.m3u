@@ -90,6 +90,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0, CARTOON NETWORK [ARABIC]
 https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:0, CARTOON NETWORK
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=1
 #EXTINF:0, SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:0, DESI CHANNEL
