@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 ,&prive HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
+#EXTINF:-1 ,&flix HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
+#EXTINF:-1 ,Comedy Central
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
+
+
 #EXTINF:60,Colors HD
 https://jiotvweb.online/app/live.php?id=144&e=.m3u8
 #EXTINF:56,Zee Bangla
