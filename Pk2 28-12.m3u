@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTM3U
+
+#EXTM3U
+#EXTINF:29,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://bdtv.globalflix.net:2020/live/sunbanglacinema/playlist.m3u8
+
 #EXTINF:-1 ,&prive HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 ,&flix HD
