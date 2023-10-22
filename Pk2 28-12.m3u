@@ -151,6 +151,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:0,GTV
 http://himel-op@103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8?key=Himel-Himuhe.Past.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb.mp4
+#EXTINF:-1 ,T Sports BD
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,T Sports BD ICC Would
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:0, CHANNEL 24
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0, SOMOY TV
