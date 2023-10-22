@@ -149,6 +149,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 ,ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 , GAZI TV
+http://chanel.dekhaott.com/Gazi-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,GTV
 http://himel-op@103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8?key=Himel-Himuhe.Past.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb.mp4
 #EXTINF:-1 ,T Sports BD
