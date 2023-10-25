@@ -2,6 +2,8 @@
 #EXTM3U
 
 #EXTM3U 
+
+
 #EXTINF: -1 group-title="Ungrouped", & Flix HD
 http://103.132.181.118:82/play/a00x
 #EXTINF: -1 group-title="Ungrouped", & Picture
@@ -188,6 +190,8 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2174.ts
 ৷৷৷৷৷৷৷৷৷  🍆🍆🍆🍆🍆🍆ইন্ডিয়ান বাংলা চ্যানেল🌶️🌶️🌶️🌶️।।।।।।।।।
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="" group-title="বাংলা মুভি",IND-Bangla: SUN Bangla
+http://xtv.ooo:8080/46883/46883/245906
 #EXTINF:29 group-title="বাংলা মুভি",সান বাংলা সিনেমা
 http://bdtv.globalflix.net:2020/live/sunbanglacinema/playlist.m3u8
 #EXTINF:-1 group-title="বাংলা মুভি",SONY 8
