@@ -2,6 +2,27 @@
 #EXTM3U
 
 #EXTM3U 
+#EXTINF: -1 SONY WAH
+http://1161218186.rsc.cdn77.me/SonyWah/index.m3u8?token=test
+#EXTINF: -1 zee Bollywood 
+http://1161218186.rsc.cdn77.me/ZeeBollywood/index.m3u8?token=test
+#EXTINF: -1 RTV
+http://1161218186.rsc.cdn77.me/RTV/index.m3u8?token=test
+#EXTINF: -1 ZEE ACTION
+http://1161218186.rsc.cdn77.me/ZeeAction/index.m3u8?token=test
+#EXTINF: -1 SONY PAL
+http://1161218186.rsc.cdn77.me/SonyPal/index.m3u8?token=test
+#EXTINF: -1 COLORS BANGLA
+http://1161218186.rsc.cdn77.me/ColorsBangla/index.m3u8?token=test
+#EXTINF: -1 ZEE BANGLA
+http://1161218186.rsc.cdn77.me/ZeeBangla/index.m3u8?token=test
+#EXTINF: -1 DEEPTO TV
+http://1161218186.rsc.cdn77.me/DeeptoTV/index.m3u8?token=test
+#EXTINF: -1SONY AAATH
+http://1161218186.rsc.cdn77.me/SonyAath/index.m3u8?token=test
+
+
+
 
 
 #EXTINF: -1 group-title="Ungrouped", & Flix HD
