@@ -4,8 +4,8 @@
 #EXTM3U 
 #EXTINF: -1, Star jalsha movie
 http://tv.ebox.live:8080/roarzone/bk/31/tracks-v1a1/mono.m3u8?token=e907d3503724365e547fa77a3526d4ead9fdf146-d8e999a26a713fc9e0a6bbb1a1fafdd1-1699030505-1699019705
-#EXTINF: -1, zee Bollywood 
-http://1161218186.rsc.cdn77.me/ZeeBollywood/index.m3u8?token=test
+#EXTINF: -1, zee cafe
+http://tv.ebox.live:8080/roarzone/bk/69/tracks-v1a1/mono.m3u8?token=0f8b8ab68e627f142964507d4ede431c1b7d9753-72332d5e9a0ee3c0aba59ac873d856fd-1699036554-1699025754
 #EXTINF: -1, RTV
 http://1161218186.rsc.cdn77.me/RTV/index.m3u8?token=test
 #EXTINF: -1, ZEE ACTION
