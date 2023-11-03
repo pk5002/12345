@@ -4,6 +4,21 @@
 #EXTM3U 
 
 
+#EXTINF:-1,colore-bangla-cinema
+http://tv3.ebox.live:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=9448910ace0fbde7686b1477eaca75a4851534e0-bf14b7aad4cab69040cd21c9584f1066-1699042032-1699031232
+#EXTINF:-1,enterr10
+http://tv3.ebox.live:8082/enterr10/tracks-v1a1/mono.m3u8?token=e4be95aebb2cf0fbe49a67ade75e36a509434a89-762d4a017f05e0d3ea1ab1e37249fc19-1699042125-1699031325
+#EXTINF:-1,NEXUS TV
+http://tv3.ebox.live:8082/Nexus_TV_HD/tracks-v1a1/mono.m3u8?token=f60aa0ed66a3cda9000eb6d876bca687ad9d8bc0-36b7ae66cbf6399391e64664ce55b72a-1699042192-1699031392
+#EXTINF:-1,GLOBAL TV
+http://tv3.ebox.live:8082/Global_Tv/tracks-v1a1/mono.m3u8?token=d39f682f753ceab2da81c13d26155bde149edf4a-da5fc6a8a121484b8f0fd4a71e4a817d-1699042224-1699031424
+#EXTINF:-1,DESH TV
+http://tv3.ebox.live:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8?token=7c08303838314fd15ebb287e6074441023143e90-6ccb450e7393dc7e19f80f438069654d-1699042257-1699031457
+#EXTINF:-1,BIJOY TV
+http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9b9e49b59bbeba7734855ab6f8e-a59d58a15da970b2bbf5491dedc9e6a6-1699042288-1699031488
+
+#EXTINF:-1,NTV
+http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
 
 #EXTINF: -1, star jalsha HD
 http://tv.ebox.live:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=5c60e2447b0f2d1b2f313a94bd82157ec8bb6ba8-7ba3b510aad78ff4ca14546593c70924-1699038437-1699027637
