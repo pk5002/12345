@@ -35,8 +35,8 @@ http://tv.ebox.live:8080/roarzone/bk/31/tracks-v1a1/mono.m3u8?token=e907d3503724
 #EXTINF: -1, Star jalsha movie
 http://tv3.ebox.live:8082/jalshamovies/tracks-v1a1/mono.m3u8?token=6b81f56e2b49fafb2984de9fa6a0f11282f7eece-ca501d48298745d5d59c087e265b3a71-1699042580-1699031780
 
-#EXTINF: -1, zee cafe
-http://tv.ebox.live:8080/roarzone/bk/69/tracks-v1a1/mono.m3u8?token=0f8b8ab68e627f142964507d4ede431c1b7d9753-72332d5e9a0ee3c0aba59ac873d856fd-1699036554-1699025754
+#EXTINF: -1, movies now
+http://tv3.ebox.live:8082/movies-now/tracks-v1a1/mono.m3u8?token=29ca96b7dce4f98d360ce68c841e8dd4bfcd7ab0-df3fda65f7e99e9ea3864b8102323349-1699087884-16990770841699025754
 #EXTINF: -1, MNX PLUS
 http://tv3.ebox.live:8082/mnx-hd/tracks-v1a1/mono.m3u8?token=4c1e83bc48955700a9c73fb18f3c5baec10fba44-fcda4d7419b783a782fc6acc82f82a0d-1699041824-1699031024
 #EXTINF: -1, ZEE ACTION
