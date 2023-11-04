@@ -2,6 +2,24 @@
 #EXTM3U
 
 #EXTM3U 
+#EXTINF:-1,stersports1hd
+http://tv3.ebox.live:8082/stersports1hd/tracks-v1a1/mono.m3u8?token=96c69c5ea2636895777c44f5adc9cc7214333355-e6f536781cb72b5cf354eecdd94b64d1-1699090737-1699079937
+#EXTINF:-1,Gazi-TVv
+http://tv3.ebox.live:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=9e43cf503ceb7c49cb2dd8ce6839240680f7a712-a2c83596efef5782466f84b486c9029e-1699090775-1699079975
+#EXTINF:-1,sports-18
+http://tv3.ebox.live:8082/sports-18/tracks-v1a1/mono.m3u8?token=65e9a5cc88ebe6062e5ed13f1cab6bd77a79e40d-c3e00ccde4d0a04561050ade08911dcc-1699090807-1699080007
+#EXTINF:-1,starsports2
+http://tv3.ebox.live:8082/starsports2/tracks-v1a1/mono.m3u8?token=bae1805c734a668bdc61424360aee25d3cc8c429-44858b6c26e7b47b5bbd2580ddfdc82c-1699090833-1699080033
+#EXTINF:-1,Star_Sport_Select1HD
+http://tv3.ebox.live:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=706bb9492704e0707a8789e555bed0184d5ab1b3-93693e8ac80ea7b0ff109d1b20906d28-1699090861-1699080061
+
+#EXTINF:-1,Star_Sport_Select1HD
+http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9b5902c8a9d0a622f8c5a90-2faa91856fda2149ba71b95d35257318-1699091243-1699080443
+#EXTINF:-1,Star_Sport_Select1HD
+http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9b5902c8a9d0a622f8c5a90-2faa91856fda2149ba71b95d35257318-1699091243-1699080443
+
+#EXTINF:-1,stargold
+http://tv3.ebox.live:8082/stargold/tracks-v1a1/mono.m3u8?token=2a08090b665a762273d5d9c57e503f7adbab00e9-1e30afee4756dabfc30a9b5a7f7c5def-1699091349-1699080549
 #EXTINF:-1,Ekhon-Tv
 http://tv3.ebox.live:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8?token=13b7e429bd117a8525bbdf95832f16fe28d2689b-04e888cf1ad5c5f0a4effd9b253f60bc-1699090120-1699079320
 
