@@ -2,6 +2,22 @@
 #EXTM3U
 
 #EXTM3U 
+#EXTINF:-1,T T-Sports
+http://tv3.ebox.live:8082/T-Sportss/tracks-v1a1/mono.m3u8?token=74366a45a775e8e2831bb354b456260836775b6f-df69ee79f55491f2b7747aa535d8cbb9-1699100301-1699089501
+#EXTINF:-1,star world
+http://tv3.ebox.live:8082/star-worldhd/tracks-v1a1/mono.m3u8?token=44d545c6b42a45f899e7486c87db28a49fb5d7ce-da6185a28c1fb9b8d653f0b549e27bf5-1699100378-1699089578
+#EXTINF:-1,travelxp
+http://tv3.ebox.live:8082/travelxp/tracks-v1a1/mono.m3u8?token=6d0bcaa6e2076e658259a444866bb882c65cad9f-6a0b5e386831419eeba7df20bf40e5a8-1699100428-1699089628
+#EXTINF:-1,wild
+http://tv3.ebox.live:8082/wild/tracks-v1a1/mono.m3u8?token=83ff33996eedc604cab099895234dd009d54687b-fa686c806b58803f7aa31b51defdb01c-1699100452-1699089652
+#EXTINF:-1,net geo wild
+http://tv3.ebox.live:8082/ngohd/tracks-v1a1/mono.m3u8?token=e143b95010e933c680f2cc66e9974191773ddeb1-3ecc1981750b84e843e91fe2023e7d37-1699100472-1699089672
+#EXTINF:-1,discovery
+http://tv3.ebox.live:8082/discovery/tracks-v1a1/mono.m3u8?token=a9dfd2855d4a4ba55bee4090b83aa05d65b5f3d5-5cb2089003fef723d33ff51e963e8d02-1699100497-1699089697
+#EXTINF:-1,bbc bbcearth
+http://tv3.ebox.live:8082/bbcearth/tracks-v1a1/mono.m3u8?token=2887dc4642cfc3b80fd8e581c98002afb4b8046b-5b2d21d3dc508250b98377a427c62a58-1699100516-1699089716
+#EXTINF:-1,and andpictures
+http://tv3.ebox.live:8082/andpictures/tracks-v1a1/mono.m3u8?token=734d9909ef0a94d553f3da29ce03ca7afa17534d-2fbb2f1c3e7936b0da20c9cd5996fe9e-1699100579-1699089779
 #EXTINF:-1, মুগ্ধ 1hd
 http://tv3.ebox.live:8082/stersports1hd/tracks-v1a1/mono.m3u8?token=96c69c5ea2636895777c44f5adc9cc7214333355-e6f536781cb72b5cf354eecdd94b64d1-1699090737-1699079937
 #EXTINF:-1, পূর্ণতা Gazi-TVv
