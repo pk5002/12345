@@ -2,6 +2,29 @@
 #EXTM3U
 
 #EXTM3U 
+
+#EXTINF:-1,somoy
+http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
+
+#EXTINF:-1,Asian_TV_HD
+http://tv3.ebox.live:8082/Asian_TV_HD/tracks-v1a1/mono.m3u8?token=dea8ee19ff51ccf90b4a0b532a2fb103aa675561-7747dad1517a3ac6ff4f2d22a84a858e-1699134506-1699123706
+
+
+#EXTINF:-1,ATN_Bangla_SD
+http://tv3.ebox.live:8082/ATN_Bangla_SD/tracks-v1a1/mono.m3u8?token=c1a77f56c5c155d1cffe08dde7656ed942531dfe-460dee750896c8217c5bf6b1afd437f6-1699134539-1699123739
+#EXTINF:-1,starplus
+http://tv3.ebox.live:8082/starplus/tracks-v1a1/mono.m3u8?token=be7d6b6c960a9b057ec076fb514ff9bc7093e0eb-ac421967df2aa95c5509d0dde82ef061-1699134593-1699123793
+#EXTINF:-1,zeetv
+http://tv3.ebox.live:8082/zeetv/tracks-v1a1/mono.m3u8?token=b081ea14772a26b69fe648674cc750246c4a5725-653b7ceee0e024547b26db308be47937-1699134624-1699123824
+
+#EXTINF:-1,zeecinemahd
+http://tv3.ebox.live:8082/zeecinemahd/tracks-v1a1/mono.m3u8?token=65e93802b5ff9c9083e1c7f6f79eedfd0f64ead6-0e1a6e922a904d335c74c64ce97e4999-1699134645-1699123845
+#EXTINF:-1,son
+http://tv3.ebox.live:8082/sonyen/tracks-v1a1/mono.m3u8?token=66aa759d4f6e8f501305185c7f904aaf27e6624c-5cd904a7c46c8fbb6ab144dd84ad3d4f-1699134694-1699123894
+#EXTINF:-1,sony-maxhd
+http://tv3.ebox.live:8082/sony-maxhd/tracks-v1a1/mono.m3u8?token=582b646e18e4335a478b0be1f1af7ac98bfb932b-6ff003329ea88b158aa07bdb278d94af-1699134719-1699123919
+#EXTINF:-1,colore-tv-hd
+http://tv3.ebox.live:8082/colore-tv-hd/tracks-v1a1/mono.m3u8?token=3159713ff7663fbc3d73e92547b962a452ac0a41-9042eb9e8577bce09784f7c58fc7d9c5-1699134739-1699123939
 #EXTINF:-1,T T-Sports
 http://tv3.ebox.live:8082/T-Sportss/tracks-v1a1/mono.m3u8?token=74366a45a775e8e2831bb354b456260836775b6f-df69ee79f55491f2b7747aa535d8cbb9-1699100301-1699089501
 #EXTINF:-1,star world
