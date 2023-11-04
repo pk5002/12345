@@ -2,7 +2,16 @@
 #EXTM3U
 
 #EXTM3U 
-
+#EXTINF:-1,Ananda_TV_SD
+http://tv3.ebox.live:8082/Ananda_TV_SD/tracks-v1a1/mono.m3u8?token=9520755da4e89535c95ad750b7c7dc4213621f94-1d37bae1daa93336a29896e404071e26-1699089509-1699078709
+#EXTINF:-1,Channel_24_HD
+http://tv3.ebox.live:8082/Channel_24_HD/tracks-v1a1/mono.m3u8?token=2fe13826768bbb08951f4663af4ff064f55cb719-c3ba0ea5c465150af768b13d240e1f64-1699089587-1699078787
+#EXTINF:-1,Channel_9_HD
+http://tv3.ebox.live:8082/Channel_9_HD/tracks-v1a1/mono.m3u8?token=64a628e181217e57eb66137568a355b3ba618bfc-8a090faf140055aff1e09fe4884e00b0-1699089614-1699078814
+#EXTINF:-1,channeli
+http://tv3.ebox.live:8082/channeli/tracks-v1a1/mono.m3u8?token=c1a5c75d3b6649eb9d13a69b3c4277cbc817ac4f-3af069f18accdbe3aec32442dd1a0bdb-1699089640-1699078840
+#EXTINF:-1,Mohona_Tv
+http://tv3.ebox.live:8082/Mohona_Tv/tracks-v1a1/mono.m3u8?token=bd8a61ba1fb583479f3031261a0a4f7698309c74-fb81ea6a5d21fa01616fe99561f6090d-1699089696-1699078896
 #EXTINF:-1,colore-bangla-cinema
 http://tv3.ebox.live:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=9448910ace0fbde7686b1477eaca75a4851534e0-bf14b7aad4cab69040cd21c9584f1066-1699042032-1699031232
 #EXTINF:-1,enterr10
@@ -15,27 +24,16 @@ http://tv3.ebox.live:8082/Global_Tv/tracks-v1a1/mono.m3u8?token=d39f682f753ceab2
 http://tv3.ebox.live:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8?token=7c08303838314fd15ebb287e6074441023143e90-6ccb450e7393dc7e19f80f438069654d-1699042257-1699031457
 #EXTINF:-1,BIJOY TV
 http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9b9e49b59bbeba7734855ab6f8e-a59d58a15da970b2bbf5491dedc9e6a6-1699042288-1699031488
-
 #EXTINF:-1,NTV
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
-
-
-
-
 #EXTINF:-1,starjalsha
 http://tv3.ebox.live:8082/starjalsha/tracks-v1a1/mono.m3u8?token=860ea193c9fe731b055ebddff2c5d800e58b3727-ca5afd1c07cba987a17343f53338ea32-1699088409-1699077609
-
-
 #EXTINF:-1,zeebanglahd
 http://tv3.ebox.live:8082/zeebanglahd/tracks-v1a1/mono.m3u8?token=b473cebdac62ad285a3fcbe987d09dbd9e0b1333-da3a8510e4ccea2cd7e23624fed29211-1699088505-1699077705
-
 #EXTINF:-1,zee-bangla-cinema
 http://tv3.ebox.live:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=93efb86291bcbadfc4619e01b5db9f19043222b5-b66fe6b79ff9f67cd5cbeccab8ba1481-1699088535-1699077735
-
 #EXTINF:-1,Sony_Aath
 http://tv3.ebox.live:8082/Sony_Aath/tracks-v1a1/mono.m3u8?token=a1e7843ab1058ab09a7490e794b683c57594fc28-6834933918504a35d4ba6a287a6a0682-1699088575-1699077775
-
-
 #EXTINF:-1,Ekattor_TV_HD
 http://tv3.ebox.live:8082/Ekattor_TV_HD/tracks-v1a1/mono.m3u8?token=ef9b6c3983cb9e1c8754907949b9cfd46f85a581-ae5fe20515b8283df3c290eca477800c-1699088667-1699077867
 #EXTINF:-1,colore-bangla-cinema
@@ -53,7 +51,6 @@ http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9
 
 #EXTINF:-1,NTV
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
-
 #EXTINF: -1, star jalsha HD
 http://tv.ebox.live:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=5c60e2447b0f2d1b2f313a94bd82157ec8bb6ba8-7ba3b510aad78ff4ca14546593c70924-1699038437-1699027637
 #EXTINF: -1,sony aath
