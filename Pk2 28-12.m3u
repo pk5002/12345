@@ -2,7 +2,8 @@
 #EXTM3U
 
 #EXTM3U 
-
+#EXTINF:-1,nick
+http://187.95.95.247/Nickelodeon/index.m3u8
 #EXTINF:-1,sport
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1,somoy
