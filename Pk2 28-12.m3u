@@ -85,16 +85,12 @@ http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9
 http://tv3.ebox.live:8082/stargold/tracks-v1a1/mono.m3u8?token=2a08090b665a762273d5d9c57e503f7adbab00e9-1e30afee4756dabfc30a9b5a7f7c5def-1699091349-1699080549
 #EXTINF:-1,Ekhon-Tv
 http://tv3.ebox.live:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8?token=13b7e429bd117a8525bbdf95832f16fe28d2689b-04e888cf1ad5c5f0a4effd9b253f60bc-1699090120-1699079320
-
 #EXTINF:-1,Ekattor_TV_HD
 http://tv3.ebox.live:8082/Ekattor_TV_HD/tracks-v1a1/mono.m3u8?token=5ebdc4071bef6e8d8ea4b37e9060015d5134c7d8-3b2c19de1b43dda1eceea6d9491395fc-1699090153-1699079353
-
 #EXTINF:-1,Deepto-Tv
 http://tv3.ebox.live:8082/Deepto-Tv/tracks-v1a1/mono.m3u8?token=b5a09334b089d0145143f9f310ca56f27788e790-875e23b4a03d843f923c09c238b432d6-1699090194-1699079394
-
 #EXTINF:-1,Independent_TV_SD
 http://tv3.ebox.live:8082/Independent_TV_SD/tracks-v1a1/mono.m3u8?token=ee31be6d1c611296e236458b3980931f283ca04f-a687c98038b41c510d6e2ac9eb09d70b-1699090225-1699079425
-
 #EXTINF:-1,Ekushey_Tv_SD
 http://tv3.ebox.live:8082/Ekushey_Tv_SD/tracks-v1a1/mono.m3u8?token=c723704bb37878f86788919baddcccae350126b0-75c728258617d9317032c138f96fbe47-1699090252-1699079452
 #EXTINF:-1,Bangla_Vision_HD
@@ -155,7 +151,8 @@ http://tv3.ebox.live:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8?token=7c08303838314fd
 http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9b9e49b59bbeba7734855ab6f8e-a59d58a15da970b2bbf5491dedc9e6a6-1699042288-1699031488
 #EXTINF:-1,NTV
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
-
+EXTINF:-1, 9xm
+http://tv3.ebox.live:8082/9xm/tracks-v1a1/mono.m3u8?token=c25a6b9854962d78d202952141f7c3aae58f2ec0-d47a90f1a741e3327ded10a7b783e33c-1699305052-1699294252
 #EXTINF:-1,nick
 http://187.95.95.247/Nickelodeon/index.m3u8
 #EXTINF:-1,sport
