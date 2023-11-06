@@ -69,7 +69,7 @@ http://tv3.ebox.live:8082/bbcearth/tracks-v1a1/mono.m3u8?token=2887dc4642cfc3b80
 http://tv3.ebox.live:8082/andpictures/tracks-v1a1/mono.m3u8?token=734d9909ef0a94d553f3da29ce03ca7afa17534d-2fbb2f1c3e7936b0da20c9cd5996fe9e-1699100579-1699089779
 #EXTINF:-1, মুগ্ধ 1hd
 http://tv3.ebox.live:8082/stersports1hd/tracks-v1a1/mono.m3u8?token=96c69c5ea2636895777c44f5adc9cc7214333355-e6f536781cb72b5cf354eecdd94b64d1-1699090737-1699079937
-#EXTINF:-1, পূর্ণতা Gazi-TVv
+#EXTINF:-1,Gazi-TVv
 http://tv3.ebox.live:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=9e43cf503ceb7c49cb2dd8ce6839240680f7a712-a2c83596efef5782466f84b486c9029e-1699090775-1699079975
 #EXTINF:-1,sports-18
 http://tv3.ebox.live:8082/sports-18/tracks-v1a1/mono.m3u8?token=65e9a5cc88ebe6062e5ed13f1cab6bd77a79e40d-c3e00ccde4d0a04561050ade08911dcc-1699090807-1699080007
@@ -151,7 +151,7 @@ http://tv3.ebox.live:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8?token=7c08303838314fd
 http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9b9e49b59bbeba7734855ab6f8e-a59d58a15da970b2bbf5491dedc9e6a6-1699042288-1699031488
 #EXTINF:-1,NTV
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
-EXTINF:-1, 9xm
+#EXTINF:-1, 9xm
 http://tv3.ebox.live:8082/9xm/tracks-v1a1/mono.m3u8?token=c25a6b9854962d78d202952141f7c3aae58f2ec0-d47a90f1a741e3327ded10a7b783e33c-1699305052-1699294252
 #EXTINF:-1,nick
 http://187.95.95.247/Nickelodeon/index.m3u8
