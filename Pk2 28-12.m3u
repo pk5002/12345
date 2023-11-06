@@ -3,6 +3,8 @@
 
 #EXTM3U 
 
+#EXTINF:-1,sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1,somoy
 http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
 
