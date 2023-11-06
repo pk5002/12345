@@ -6,9 +6,38 @@
 http://187.95.95.247/Nickelodeon/index.m3u8
 #EXTINF:-1,sport
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+#EXTINF:-1,MC Family Hits
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218697
+#EXTINF:-1,HBO 2 4K
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218716
+#EXTINF:-1,HBO Family 4K
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218717
+#EXTINF:-1,HBO 4K
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218718
+#EXTINF:-1,HBO POP 4K
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218719
+#EXTINF:-1,HBO XTREME 4K
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218720
+#EXTINF:-1,HBO
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218721
+#EXTINF:-1,HBO MUNDI
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218722
+#EXTINF:-1,HBO2
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218723
+#EXTINF:-1,HBO Family HD
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218724
+#EXTINF:-1,HBO 4K+
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218725
+#EXTINF:-1,HBO Plus 4K+
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218726
+#EXTINF:-1,HBO XTREME 4K+
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218727
+#EXTINF:-1,HBO2 4K+
+http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218728
+
+
 #EXTINF:-1,somoy
 http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
-
 #EXTINF:-1,Asian_TV_HD
 http://tv3.ebox.live:8082/Asian_TV_HD/tracks-v1a1/mono.m3u8?token=dea8ee19ff51ccf90b4a0b532a2fb103aa675561-7747dad1517a3ac6ff4f2d22a84a858e-1699134506-1699123706
 
