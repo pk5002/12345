@@ -2,8 +2,8 @@
 #EXTM3U
 
 #EXTM3U 
-
-
+#EXTINF:-1, zee cafe
+http://hgkhj.hs.vc:9630/toto/zeecafehd/chunks.m3u8?nimblesessionid=50807112&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDM6Mzc6MzcgUE0maGFzaF92YWx1ZT12WjRtR3FXWE13UFgzQ21GdDIzK3N3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, 8xm
 http://hgkhj.hs.vc:9630/libris/8xm/chunks.m3u8?nimblesessionid=50639464&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIzIDc6MjA6MTYgUE0maGFzaF92YWx1ZT1tbmllSXNxMkZVODZUR2p0Q2VLWktRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, masranga
