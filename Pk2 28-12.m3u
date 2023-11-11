@@ -153,6 +153,14 @@ http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
 #EXTINF:-1, 9xm
 http://tv3.ebox.live:8082/9xm/tracks-v1a1/mono.m3u8?token=c25a6b9854962d78d202952141f7c3aae58f2ec0-d47a90f1a741e3327ded10a7b783e33c-1699305052-1699294252
+
+#EXTINF:-1,Duronto-Tv-HD
+http://otv.ftpbd.net:8082/Duronto-Tv-HD/tracks-v1a1/mono.m3u8?token=39d02a21d9ac0f64b79bc2996c6f909c5d505019-96e48a5b8b176b11f824df4282f8f72e-1699725852-1699715052
+
+#EXTINF:-1,BBC-Cbeebies-HD
+http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/tracks-v1a1/mono.m3u8?token=484099862e66ed905c7febaf8300a0faac07b49d-cd4ad224df68d489c32e4dde1b03fb63-1699725910-1699715110
+#EXTINF:-1,Nick-Jr
+http://otv.ftpbd.net:8082/Nick-Jr/tracks-v1a1/mono.m3u8?token=bb0a6ebc288dc19b33312651606c53afd639b1c9-ff236c9cd191737e149b34010573388f-1699725946-1699715146
 #EXTINF:-1,nick
 http://187.95.95.247/Nickelodeon/index.m3u8
 #EXTINF:-1,sport
