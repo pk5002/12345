@@ -2,10 +2,7 @@
 #EXTM3U
 
 #EXTM3U 
-#EXTINF:-1, zee cafe
-http://hgkhj.hs.vc:9630/toto/zeecafehd/chunks.m3u8?nimblesessionid=50807112&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDM6Mzc6MzcgUE0maGFzaF92YWx1ZT12WjRtR3FXWE13UFgzQ21GdDIzK3N3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, 8xm
-http://hgkhj.hs.vc:9630/libris/8xm/chunks.m3u8?nimblesessionid=50639464&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIzIDc6MjA6MTYgUE0maGFzaF92YWx1ZT1tbmllSXNxMkZVODZUR2p0Q2VLWktRPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1, masranga
 http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
 #EXTINF:-1,somoy
@@ -244,5 +241,220 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 
 
 ⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️MUSIC CHANNEL🇦🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
-
+#EXTINF:-1,IND: SONY TV HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1406.m3u8
+#EXTINF:-1,IND: SONY TV SD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1407.m3u8
+#EXTINF:-1,IND: SONY TV (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1408.m3u8
+#EXTINF:-1,IND: STAR PLUS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1409.m3u8
+#EXTINF:-1,IND: STAR UTSAV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/32811.m3u8
+#EXTINF:-1,IND: STAR PLUS (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1410.m3u8
+#EXTINF:-1,IND: ZEE TV HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1411.m3u8
+#EXTINF:-1,IND: COLORS HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1413.m3u8
+#EXTINF:-1,IND: COLORS TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1414.m3u8
+#EXTINF:-1,IND: COLORS (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1415.m3u8
+#EXTINF:-1,IND: &TV HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1416.m3u8
+#EXTINF:-1,IND: &TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1417.m3u8
+#EXTINF:-1,IND: SONY SAB HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1418.m3u8
+#EXTINF:-1,IND: SONY SAB SD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1419.m3u8
+#EXTINF:-1,IND: SONY SAB (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1420.m3u8
+#EXTINF:-1,IND: SONY PAL
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1421.m3u8
+#EXTINF:-1,IND: SONY WAH
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/33475.m3u8
+#EXTINF:-1,IND: STAR BHARAT
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1422.m3u8
+#EXTINF:-1,IND: UTSAV BHARAT UK
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/11264.m3u8
+#EXTINF:-1,IND: COLORS RISHTEY (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1423.m3u8
+#EXTINF:-1,IND: ZEE ANMOL
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1424.m3u8
+#EXTINF:-1,IND: DHAMAAL TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1425.m3u8
+#EXTINF:-1,IND: DILLAGI TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1426.m3u8
+#EXTINF:-1,IND: BIG MAGIC
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1427.m3u8
+#EXTINF:-1,IND: D2H COMEDY ACTIVE
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/32809.m3u8
+#EXTINF:-1,IND: D2H EVERGREEN CLASSIC
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/31163.m3u8
+#EXTINF:-1,IND: D2H MOVIES ACTIVE
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/31164.m3u8
+#EXTINF:-1,IND: D2H CINE ACTIVE
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/32810.m3u8
+#EXTINF:-1,IND: BBO HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/29445.m3u8
+#EXTINF:-1,IND: BBO HD UK
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/29446.m3u8
+#EXTINF:-1,IND: MINIPLEX HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/29447.m3u8
+#EXTINF:-1,IND: Disney Hotstar Premium
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/26596.m3u8
+#EXTINF:-1,IND: &EXPLOR HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1428.m3u8
+#EXTINF:-1,IND: & PICTURES HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1429.m3u8
+#EXTINF:-1,IND: & PICTURES
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1430.m3u8
+#EXTINF:-1,IND: ZEE CINEMA HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1431.m3u8
+#EXTINF:-1,IND: ZEE CINEMA SD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1432.m3u8
+#EXTINF:-1,IND: ZEE CINEMA UK
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1433.m3u8
+#EXTINF:-1,IND: ZEE CINEMA USA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1434.m3u8
+#EXTINF:-1,IND: STAR GOLD HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1435.m3u8
+#EXTINF:-1,IND: STAR GOLD HD UK
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1436.m3u8
+#EXTINF:-1,IND: STAR GOLD SD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1437.m3u8
+#EXTINF:-1,IND: STAR GOLD SELECT
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1438.m3u8
+#EXTINF:-1,IND: STAR GOLD ROMANCE
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/11261.m3u8
+#EXTINF:-1,IND: STAR GOLD THRILLS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/11262.m3u8
+#EXTINF:-1,IND: SONY MAX
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1439.m3u8
+#EXTINF:-1,IND: SONY MAX HD (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1440.m3u8
+#EXTINF:-1,IND: SONY MAX 2
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1441.m3u8
+#EXTINF:-1,IND: ZEE ACTION
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1442.m3u8
+#EXTINF:-1,IND: ZEE BOLLYWOOD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1443.m3u8
+#EXTINF:-1,IND: ZEE CLASSIC
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23855.m3u8
+#EXTINF:-1,IND: ZEE ANMOL CINEMA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1444.m3u8
+#EXTINF:-1,IND: UTV HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1445.m3u8
+#EXTINF:-1,IND: COLOR CINEPLEX HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1446.m3u8
+#EXTINF:-1,IND: COLORS CINEPLEX (UK)
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1447.m3u8
+#EXTINF:-1,IND: COLORS HINDI DUB
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/26595.m3u8
+#EXTINF:-1,IND: B4U Plus
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1448.m3u8
+#EXTINF:-1,IND: B4U Movies
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1449.m3u8
+#EXTINF:-1,IND: B4U Kadak
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1450.m3u8
+#EXTINF:-1,IND: Cinema TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1451.m3u8
+#EXTINF:-1,IND: ENTER 10
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1452.m3u8
+#EXTINF:-1,IND: MANORANJAN TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1453.m3u8
+#EXTINF:-1,IND: MANORANJAN MOVIES
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1454.m3u8
+#EXTINF:-1,IND: MAHA MOVIES
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1455.m3u8
+#EXTINF:-1,IND: BOLLYWOOD PREMIER
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1456.m3u8
+#EXTINF:-1,IND: BOLLYWOOD CLASSIC
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1457.m3u8
+#EXTINF:-1,IND: BOLLYWOOD NOW
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1458.m3u8
+#EXTINF:-1,IND: WILLOW CRICKET HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1459.m3u8
+#EXTINF:-1,IND: STAR SPORTS 1 HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1460.m3u8
+#EXTINF:-1,IND: STAR SPORTS 1 HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1461.m3u8
+#EXTINF:-1,IND: STAR SPORTS 2 HD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1462.m3u8
+#EXTINF:-1,IND: STAR SPORTS 3 SD
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1463.m3u8
+#EXTINF:-1,IND: STAR SPORTS SELECT 1
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1464.m3u8
+#EXTINF:-1,IND: STAR SPORTS SELECT 2
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1465.m3u8
+#EXTINF:-1,IND: DD SPORTS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1473.m3u8
+#EXTINF:-1,IND: HINDI HITS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/29448.m3u8
+#EXTINF:-1,IND: PEN TV
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/16189.m3u8
+#EXTINF:-1,IND: Mastiii
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1494.m3u8
+#EXTINF:-1,IND: 9X JALWA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1495.m3u8
+#EXTINF:-1,IND: B4U Music
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1496.m3u8
+#EXTINF:-1,IND: ZING
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1498.m3u8
+#EXTINF:-1,IND: PITAARA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1499.m3u8
+#EXTINF:-1,IND: DIL SE
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1501.m3u8
+#EXTINF:-1,IND: POP PATAKHA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1502.m3u8
+#EXTINF:-1,IND: Jhanjar Music
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1504.m3u8
+#EXTINF:-1,IND: STAR MOVIES SELECT
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/11263.m3u8
+#EXTINF:-1,IND: ZEE CAFE
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1506.m3u8
+#EXTINF:-1,IND: &FLIX
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1508.m3u8
+#EXTINF:-1,IND: Movies Now
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1509.m3u8
+#EXTINF:-1,IND: MNX
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1510.m3u8
+#EXTINF:-1,IND: Romedy Now
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1511.m3u8
+#EXTINF:-1,IND: PBN MUSIC
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1514.m3u8
+#EXTINF:-1,IND: REPUBLIC BHARAT NEWS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1517.m3u8
+#EXTINF:-1,IND: TV9 Bharatvarsh
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23526.m3u8
+#EXTINF:-1,IND: ABP NEWS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1515.m3u8
+#EXTINF:-1,IND: NEWS 24
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23527.m3u8
+#EXTINF:-1,IND: NEWS 18 URDU
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23555.m3u8
+#EXTINF:-1,IND: AAJ TAK NEWS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1518.m3u8
+#EXTINF:-1,IND: NEWS 18 INDIA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1519.m3u8
+#EXTINF:-1,IND: INDIA TV NEWS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1521.m3u8
+#EXTINF:-1,IND: NEWS NATION
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23557.m3u8
+#EXTINF:-1,IND: ZEE NEWS
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1516.m3u8
+#EXTINF:-1,IND: NDTV INDIA
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1520.m3u8
+#EXTINF:-1,IND: IBC 24
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23556.m3u8
+#EXTINF:-1,IND: CNBC AWAAZ
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23554.m3u8
+#EXTINF:-1,IND: ZEE SALAAM
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1512.m3u8
+#EXTINF:-1,IND: ZEE HINDUSTAN
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/1513.m3u8
+#EXTINF:-1,IND: 1ST NEWS RAJASTHAN
+http://bandookk.xyz:80/live/streamcode/XGvvvVySJmPG/23553.m3u8
 
