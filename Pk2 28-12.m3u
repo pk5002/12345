@@ -2,7 +2,13 @@
 #EXTM3U
 
 #EXTM3U 
+#EXTINF:-1,GeoTV
+http://pgplex.net:8080/GeoTV/tracks-v1/index.fmp4.m3u8?token=2fac600f5603564f2e6fa57dcb18d737a0bef7f9-81c600b4703532035b0e884927698b2b-1699726999-1699716199
 
+#EXTINF:-1,LotusTVMacau
+http://pgplex.net:8080/LotusTVMacau/tracks-v1/index.fmp4.m3u8?token=58f7a81b6ae51b57ee0921fe7476773fc1b3f951-96294199c47d9b123b590cd8a92612b1-1699727106-1699716306
+#EXTINF:-1,WorldCupSD2
+http://pgplex.net:8080/WorldCupSD2/tracks-a1/index.fmp4.m3u8?token=7e18110d6bc94e783b50f647d9b65a79640f1824-db1a4ceefab53bbf433ec13e07bbde1a-1699727199-1699716399
 #EXTINF:-1, masranga
 http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
 #EXTINF:-1,somoy
