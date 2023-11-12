@@ -1,18 +1,65 @@
 #EXTM3U
 #EXTM3U
 
-#EXTM3U 
-#EXTINF:-1,ADSPORTS1
-http://pgplex.net:8080/ADSPORTS1/tracks-a1/index.fmp4.m3u8?token=afc16ccd142722955a4cc99569404cbdef444ce5-0a6761b41f3817bbffd367196d46ffdb-1699727544-1699716744
-#EXTINF:-1,ADSPORTS2
-http://pgplex.net:8080/ADSPORTS2/tracks-a1/index.fmp4.m3u8?token=1e4fbc78f803a42ccae135398a1759d8d6953863-2ecccc1fcf61068867ead76c06aea843-1699727573-1699716773
-#EXTINF:-1,GeoTV
-http://pgplex.net:8080/GeoTV/tracks-v1/index.fmp4.m3u8?token=2fac600f5603564f2e6fa57dcb18d737a0bef7f9-81c600b4703532035b0e884927698b2b-1699726999-1699716199
 
+#EXTINF:0 tvg-id="ts557" group-title="Zee Channels",tvg-logo="",Zee TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+#EXTINF:0 tvg-id="ts63" group-title="Zee Channels",tvg-logo="",Zee TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+#EXTINF:-1 tvg-id="ts578" group-title="Zee Channels",tvg-logo="",&TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF:0 tvg-id="ts40" group-title="Zee Channels",tvg-logo="",&TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#EXTINF:0 tvg-id="ts523" group-title="Zee Channels",tvg-logo="",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF:0 tvg-id="ts123" group-title="Zee Channels",tvg-logo="",Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:0 tvg-id="ts503" group-title="Zee Channels",tvg-logo="",Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:0 tvg-id="ts148" group-title="Zee Channels",tvg-logo="",&Pictures
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF:0 tvg-id="ts267" group-title="Zee Channels",tvg-logo="",&Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:0 tvg-id="ts175" group-title="Zee Channels",tvg-logo="",Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#EXTINF:0 tvg-id="ts100" group-title="Zee Channels",tvg-logo="",Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0 tvg-id="ts64" group-title="Zee Channels",tvg-logo="",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:0 tvg-id="ts259" group-title="Zee Channels",tvg-logo="",Zee News
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF:0 tvg-id="ts514" group-title="Zee Channels",tvg-logo="",Zee Hindustan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#EXTINF:0 tvg-id="ts260" group-title="Zee Channels",tvg-logo="",Zee Business
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
+#EXTINF:0 tvg-id="ts255" group-title="Zee Channels",tvg-logo="",Wion
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
+#EXTINF:0 tvg-id="ts517" group-title="Zee Channels",tvg-logo="",Zing
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+#EXTINF:0 tvg-id="ts518" group-title="Zee Channels",tvg-logo="",Zee Salaam
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+#EXTINF:0 tvg-id="ts251" group-title="Zee Channels",tvg-logo="",Zee Marathi
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
+#EXTINF:0 tvg-id="ts501" group-title="Zee Channels",tvg-logo="",Zee Marathi HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#EXTINF:0 tvg-id="ts249" group-title="Zee Channels",tvg-logo="",Zee Talkies
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+#EXTINF:0 tvg-id="ts515" group-title="Zee Channels",tvg-logo="",Zee Talkies HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+#EXTINF:0 tvg-id="ts522" group-title="Zee Channels", tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",Zee Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:0 tvg-id="ts522" group-title="Zee Channels",tvg-logo="",Zee Bangla HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+#EXTINF:0 tvg-id="ts254" group-title="Zee Channels",tvg-logo="",Zee Bangla Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#EXTINF:0 tvg-id="ts257" group-title="Zee Channels",tvg-logo="",Zee Tamil
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+#EXTINF:0 tvg-id="ts252" group-title="Zee Channels",tvg-logo="",Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#EXTINF:0 tvg-id="ts256" group-title="Zee Channels",tvg-logo="",Zee Kannada
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
 #EXTINF:-1,LotusTVMacau
 http://pgplex.net:8080/LotusTVMacau/tracks-v1/index.fmp4.m3u8?token=58f7a81b6ae51b57ee0921fe7476773fc1b3f951-96294199c47d9b123b590cd8a92612b1-1699727106-1699716306
-#EXTINF:-1,WorldCupSD2
-http://pgplex.net:8080/WorldCupSD2/tracks-a1/index.fmp4.m3u8?token=7e18110d6bc94e783b50f647d9b65a79640f1824-db1a4ceefab53bbf433ec13e07bbde1a-1699727199-1699716399
 #EXTINF:-1, masranga
 http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
 #EXTINF:-1,somoy
