@@ -11,6 +11,24 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF: -1,TEN SPORT
 http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
+#EXTINF: -1,colors_tamil
+http://195.181.169.78:8899/colors_tamil/tracks-v1a1/mono.m3u8
+#EXTINF: -1,rasitv
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/chunklist_w2006078245.m3u8
+
+#EXTINF: -1,iptv
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6692/index.m3u8
+#EXTINF: -1,starvijay_raj
+http://198.16.100.90:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+
+#EXTINF: -1,iptv1
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6696/index.m3u8
+#EXTINF: -1,iptvbd
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6693/index.m3u8
+#EXTINF: -1,colors colors_tamil
+http://195.181.169.78:8899/colors_tamil/tracks-v1a1/mono.m3u8
+#EXTINF: -1,zee_tamil
+http://195.181.169.78:8899/zee_tamil/tracks-v1a1/mono.m3u8
 #EXTINF: -1,PK
 http://185.224.217.17:8080/live/wfghmontoya@gmail.com/Ke5GSTw2do/558177.m3u8?token=TBdbWBBdEl4VUwFTC1oEBARVAlEHAlBUUANaUFIFVQcDBgNaAARWBgcVHEZAFkdWUV45ClEXWAdTCQlWARhBRkRQQWYKURJeFQUIUQNSFx8SRw8OUBdYAkoTSAhSFlldQllfFUFQSBBSRV4FXz1RVkZaBQYXDwxHCl0UQ1laPFdSWFJXBxcKRgYVHEZaEUURCl0TD1kZQFAPRUoAQlFBCVlAX1VPF1MLQllEFkpADxF5fURPF1AaRgNfSwhZWkEJFVgATFsXHEZeRG8WVhFBQVVSCwZHF1gQVhMUQ1tVG2xUWl1XBlZEDVhZQ0YJQAERHBELDFtcFl0UbkgIUhZZXUJZX0Q=
 #EXTINF: -1, SUN BANGLA CINEMA
