@@ -1,5 +1,16 @@
 #EXTM3U
 #EXTM3U
+#EXTINF: -1,jagonews24
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF: -1,moviebangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF: -1,STAR-JALSHA
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF: -1,STARGOLDUK
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF: -1,TEN SPORT
+http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF: -1,PK
 http://185.224.217.17:8080/live/wfghmontoya@gmail.com/Ke5GSTw2do/558177.m3u8?token=TBdbWBBdEl4VUwFTC1oEBARVAlEHAlBUUANaUFIFVQcDBgNaAARWBgcVHEZAFkdWUV45ClEXWAdTCQlWARhBRkRQQWYKURJeFQUIUQNSFx8SRw8OUBdYAkoTSAhSFlldQllfFUFQSBBSRV4FXz1RVkZaBQYXDwxHCl0UQ1laPFdSWFJXBxcKRgYVHEZaEUURCl0TD1kZQFAPRUoAQlFBCVlAX1VPF1MLQllEFkpADxF5fURPF1AaRgNfSwhZWkEJFVgATFsXHEZeRG8WVhFBQVVSCwZHF1gQVhMUQ1tVG2xUWl1XBlZEDVhZQ0YJQAERHBELDFtcFl0UbkgIUhZZXUJZX0Q=
 #EXTINF: -1, SUN BANGLA CINEMA
