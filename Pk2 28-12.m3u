@@ -15,7 +15,23 @@ http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
 http://195.181.169.78:8899/colors_tamil/tracks-v1a1/mono.m3u8
 #EXTINF: -1,rasitv
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/chunklist_w2006078245.m3u8
+#EXTINF: -1,BTV
+http://tv3.ebox.live:8082/Btv-Hd/tracks-v1a1/mono.m3u8?token=35390237ffeafe96799a4604e054e111976e95a1-e62f22def9f25a3d1290d0bae0884533-1700023052-1700012252
+#EXTINF: -1,NAGRIK
+http://tv.ebox.live:8080/roarzone/bk/59/tracks-v1a1/mono.m3u8?token=90ca63203aa6601c822c7a94ec96eeef050d3976-04d7bae99777f120973f079dde193abe-1700022886-1700012086
 
+#EXTINF: -1,RTV
+http://tv.ebox.live:8080/roarzone/bk/14/tracks-v1a1/mono.m3u8?token=df4dc83d3401729f1209ff538827a4331faf1a05-afec056d2cf5f3b256d114b5e9ae3825-1700023137-1700012337
+
+#EXTINF: -1,T SPORT
+http://tv.ebox.live:8080/roarzone/bk/102/tracks-v1a1/mono.m3u8?token=022b1f403a64a247ff4850327bc6960b0ea0c417-013de3605db12bb897835c601353ad36-1700023175-1700012375
+#EXTINF: -1,Sony sab
+
+http://tv.ebox.live:8080/roarzone/bk/36/tracks-v1a1/mono.m3u8?token=43616b9f92b09aae4ee088b87ca967a584c21c2e-1e8577076e341685a28331a02aa12fb1-1700023221-1700012421
+#EXTINF: -1,M TV
+http://tv.ebox.live:8080/roarzone/bk/46/tracks-v1a1/mono.m3u8?token=12bf71464a58a5d55f1a0d1c86658ebfaa508579-bf2ee837e6ae204cb3081ecb9cbed9c4-1700023258-1700012458
+#EXTINF: -1,BOISHAKHI TV
+http://tv.ebox.live:8080/roarzone/bk/61/tracks-v1a1/mono.m3u8?token=e2e173c2c4a384522528ecf02ef8a381cd5a0663-9e511118f49f293cda83af44d313cfda-1700023338-1700012538
 #EXTINF: -1,iptv
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6692/index.m3u8
 #EXTINF: -1,starvijay_raj
