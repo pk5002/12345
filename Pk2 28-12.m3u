@@ -2,6 +2,8 @@
 #EXTM3U
 #EXTM3U
 
+#EXTINF:-1, sky Net sports
+http://tvcdn.hoichoi24.com:8083/1022/tracks-v1a1/mono.m3u8?token=e5f529fe026c44fc48c1b0d7e7b8b43cd5eae7d5-d653f171a637aa2edc7f139128e3fdab-1700226854-1700223254
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",8XM
 http://tv.cloudcdn.me:80/live.ts?channelId=370&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
