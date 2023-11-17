@@ -1,6 +1,232 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",8XM
+http://tv.cloudcdn.me:80/live.ts?channelId=370&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",24 NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=368&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",92 NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=371&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",A PLUS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=373&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AAJ ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=375&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AAJ NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=376&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ABB TAK
+http://tv.cloudcdn.me:80/live.ts?channelId=378&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",APNA CHANNEL
+http://tv.cloudcdn.me:80/live.ts?channelId=379&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ARY DIGITAL HD
+http://tv.cloudcdn.me:80/live.ts?channelId=380&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ARY NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=386&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ARY ZAUQ
+http://tv.cloudcdn.me:80/live.ts?channelId=57535&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ARY ZINDAGI
+http://tv.cloudcdn.me:80/live.ts?channelId=392&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ATV ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=394&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AUR LIFE HD
+http://tv.cloudcdn.me:80/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AVT KHYBER
+http://tv.cloudcdn.me:80/live.ts?channelId=464&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AWAZ ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=22762&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",BOL ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=396&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",BOL NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=397&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",CANADA ONE TV
+http://tv.cloudcdn.me:80/live.ts?channelId=461&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",CAPITAL TV
+http://tv.cloudcdn.me:80/live.ts?channelId=22759&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",CHANNEL FIVE
+http://tv.cloudcdn.me:80/live.ts?channelId=36260&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",CITY 41
+http://tv.cloudcdn.me:80/live.ts?channelId=462&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",CITY NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=57536&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",DAWN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=403&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",DHARTI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=57493&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",DISCOVER PAKISTAN
+http://tv.cloudcdn.me:80/live.ts?channelId=33167&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",DUNIYA NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=405&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",EAWAZ TV
+http://tv.cloudcdn.me:80/live.ts?channelId=22761&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",EXPRESS ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",EXPRESS NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=408&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",FILMAX
+http://tv.cloudcdn.me:80/live.ts?channelId=36261&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",FILM WORLD
+http://tv.cloudcdn.me:80/live.ts?channelId=409&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=410&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO KAHANI
+http://tv.cloudcdn.me:80/live.ts?channelId=412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO TEZ
+http://tv.cloudcdn.me:80/live.ts?channelId=416&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆??𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GNN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=417&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GREEN TV ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GTN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=32496&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HAMARA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=52493&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM MASALA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HMM NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=419&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM PASTHO 1
+http://tv.cloudcdn.me:80/live.ts?channelId=439&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM SITARY
+http://tv.cloudcdn.me:80/live.ts?channelId=420&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM TV
+http://tv.cloudcdn.me:80/live.ts?channelId=422&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=423&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM WORLD
+http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",JALWA
+http://tv.cloudcdn.me:80/live.ts?channelId=428&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",JOO MUSIC
+http://tv.cloudcdn.me:80/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",K21 NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=66&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KAWISH TV
+http://tv.cloudcdn.me:80/live.ts?channelId=468&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KAY2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=429&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KHYBAR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=459&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KOHINOOR TV
+http://tv.cloudcdn.me:80/live.ts?channelId=430&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KTN ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=22758&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KTN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=22757&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",LAHORE NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=432&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",LAHORE RANG NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=22753&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",MASHRIQ HD
+http://tv.cloudcdn.me:80/live.ts?channelId=57495&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",N6 TV
+http://tv.cloudcdn.me:80/live.ts?channelId=123907&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",NEO NEWS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=436&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",NEWS ONE
+http://tv.cloudcdn.me:80/live.ts?channelId=437&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PAK TV
+http://tv.cloudcdn.me:80/live.ts?channelId=466&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PLAY ENTERTAINMENT
+http://tv.cloudcdn.me:80/live.ts?channelId=440&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PNN NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=115213&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV HOME
+http://tv.cloudcdn.me:80/live.ts?channelId=444&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV NATIONAL
+http://tv.cloudcdn.me:80/live.ts?channelId=445&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=446&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV WORLD NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=447&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PUBLIC NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=448&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",RAAVI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=22763&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ROHI TV
+http://tv.cloudcdn.me:80/live.ts?channelId=57490&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",SAMAA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=449&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",SEE TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-2 tvg-id="" group-title="🌟 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏         𝘽𝙔         𝘼𝘼𝘿𝙄 🌟" tvg-logo="https://toppng.com/uploads/preview/welcome-png-black-and-white-11563129602lednix2jsm.png" ,𝐓𝐆_𝐀𝐀𝐃𝐈
+http://content://com.google.android.apps.docs.storage.legacy/enc%3Dencoded%3DH93BhpdZQuT-BY14GsSA9F_IIKkUsu6dUZByWajoN0Id_yf4DjGM-ZjWZd5ZMA%3D%3D
+
 #EXTINF:-1 group-title="AS INDIA" ,===== INDIA UK =====
 http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/100797
 #EXTINF:-1 group-title="AS INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" ,IN-UK: STAR PLUS HD
