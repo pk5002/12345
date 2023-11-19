@@ -1953,5 +1953,5 @@ http://tv.cloudcdn.me/live.ts?channelId=295&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",{s2}STAR SPORT 1-HD (hindi)
 http://tv.cloudcdn.me/live.ts?channelId=49569&uid=2496&deviceMac=00:1A:79:A8:9C:32
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",& PICTURE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",& PICTURE
 http://tv.cloudcdn.me/live.ts?channelId=152&uid=2496&deviceMac=00:1A:79:A8:9C:32
