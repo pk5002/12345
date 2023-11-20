@@ -2,7 +2,31 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:-1, masranga
+#EXTINF:-1,Colors tv
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61c9bc4a5e5cbe8721a1d0033e7250a4753f20fbd5e1731a844ecb520c94d7468a719b159ecb4c5bcf4a3b186bb0696ed8191985eb954efc84b3c90015ef3fdfac30fb3bdf5beedff04a783e516d7fe4c04f16cd24d0a5a1f0f082bbc476054a4b&token=
+
+#EXTINF:-1,colors resty
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f612ef5f2738b5c1c74d50dd7497c729da98d3751db14e6f5c5605c7af42710ed56556659c9f9de975b0b8441b284e85dd03fe916097cbeb4908d4db36d79e7afbd2184a62f29dc31a4134e0f5c04c0d5407ea7b82a857d91fa0474ddf1567807b69811b58a1eec8d4269a89845f25f71f3&token=
+
+#EXTINF:-1,MTV MTV_Beats_HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB-audio_98835_hin=98800-video=3110800-425124146.ts
+
+#EXTINF:-1,MTV MTV_Beats_HD
+
+https://mhdtv.co.in/jio/stream.php?chunks=82cbed82027f59b8dbc1d2de326ffc56870aaad54856a452c70f16e822de51ed53bd549bdd80b0dd053cf866d441bc5a7a37270341d33789599e6bd97939695a2d835c20b63daa1de0ddf4082c4ef1d866ea81429522b5b7ca4deec46112aa25788e641ea6a683c0dfa58a36c438d8bf75ec1951e4188ca224d200a54ed6f527827afdca55b789333cddbf31b14cd2a5cd78d376a6865ba790b6817b48e778ec&itoken=
+
+#EXTINF:-1,StarMovie
+https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1,akaash bangla
+https://tvs1.aynaott.com/aakaashBangla/tracks-v1a1/mono.m3u8?hdnts=st=1700497294~exp=1700540494~acl=/*~data=45.61.146.183-WEB~hmac=38bb249b55b456520a30d94f0b9bad3c2c70f52aa51923f65a36dfe39c09002d
+#EXTINF:-1 dhoom 
+https://tvs1.aynaott.com/dhoom/tracks-v1a1/mono.m3u8?hdnts=st=1700497369~exp=1700540569~acl=/*~data=45.61.146.183-WEB~hmac=e6cfe624063ca21bed61ba90222ebc8df8ce10a8663acfb9962d505b6d44d106
+#EXTINF:-1 sunnxtv
+https://sunnxtv.co.in/sun/app/stream.php?chunks=d7cb19f063c1bd98c08e5d6634b75227e1682fbcf3d8efc4a2756b18f9e47af98d3aa004dc360a8a702b3e132a7f20b6bd48ab9a9ba32006c2c26e39a9d24d7e04e7896cd9ab5c5add94306c58ea7a121006c0b229e168a7769bbb18563a0f558ea94807d7eeda47568a960f5e895c09eb2363063a717042770cd4588185c00efbefe5b312a4189b8f860519e8f9597568046e49a0913a51077f6cbbfd98f3582d517259ec5a0dae7129a8ca3ee1f05cb9dbf171f47cfc8ea7069964843b2438
+#EXTINF:-1,star ma 
+https://mhdtvpro.com/honey/index.m3u8/?id=155843&code=txasia2&key=8080
+#EXTINF:-1,star ma movie
+https://mhdtvpro.com/honey/index.m3u8/?id=155842&code=txasia2&key=8080#EXTINF:-1, masranga
 http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
 #EXTINF:-1,somoy
 http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
