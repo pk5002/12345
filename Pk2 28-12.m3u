@@ -9,6 +9,8 @@ https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6d
 https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f612ef5f2738b5c1c74d50dd7497c729da98d3751db14e6f5c5605c7af42710ed56556659c9f9de975b0b8441b284e85dd03fe916097cbeb4908d4db36d79e7afbd2184a62f29dc31a4134e0f5c04c0d5407ea7b82a857d91fa0474ddf1567807b69811b58a1eec8d4269a89845f25f71f3&token=
 
 
+#EXTINF:-1,LotusTVMacau
+http://pgplex.net:8080/LotusTVMacau/tracks-v1/index.fmp4.m3u8?token=58f7a81b6ae51b57ee0921fe7476773fc1b3f951-96294199c47d9b123b590cd8a92612b1-1699727106-1699716306
 #EXTINF: -1, MOVIES NOW
 http://tv3.ebox.live:8082/movies-now/tracks-v1a1/mono.m3u8?token=29ca96b7dce4f98d360ce68c841e8dd4bfcd7ab0-df3fda65f7e99e9ea3864b8102323349-1699087884-16990770841699025754
 #EXTINF: -1, MNX PLUS
@@ -213,11 +215,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=392&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ATV ENTERTAINMENT HD
 http://tv.cloudcdn.me:80/live.ts?channelId=394&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AUR LIFE HD
-http://tv.cloudcdn.me:80/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AVT KHYBER
-http://tv.cloudcdn.me:80/live.ts?channelId=464&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",AWAZ ENTERTAINMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=22762&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -235,8 +234,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33167&uid=7435&deviceMac=00:1A:79:51:
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",EXPRESS ENTERTAINMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=407&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",EXPRESS NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=408&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",FILMAX
 http://tv.cloudcdn.me:80/live.ts?channelId=36261&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -250,29 +248,18 @@ http://tv.cloudcdn.me:80/live.ts?channelId=410&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO KAHANI
 http://tv.cloudcdn.me:80/live.ts?channelId=412&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=414&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GEO TEZ
-http://tv.cloudcdn.me:80/live.ts?channelId=416&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆??𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GNN NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=417&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GREEN TV ENTERTAINMENT HD
 http://tv.cloudcdn.me:80/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",GTN NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=32496&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HAMARA TV
-http://tv.cloudcdn.me:80/live.ts?channelId=52493&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM MASALA TV
 http://tv.cloudcdn.me:80/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HMM NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=419&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",HUM PASTHO 1
 http://tv.cloudcdn.me:80/live.ts?channelId=439&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -294,79 +281,29 @@ http://tv.cloudcdn.me:80/live.ts?channelId=428&uid=7435&deviceMac=00:1A:79:51:4B
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",JOO MUSIC
 http://tv.cloudcdn.me:80/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",K21 NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=66&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KAWISH TV
-http://tv.cloudcdn.me:80/live.ts?channelId=468&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KAY2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=429&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KHYBAR TV
-http://tv.cloudcdn.me:80/live.ts?channelId=459&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KOHINOOR TV
-http://tv.cloudcdn.me:80/live.ts?channelId=430&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KTN ENTERTAINMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=22758&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",KTN NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=22757&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",LAHORE NEWS HD
-http://tv.cloudcdn.me:80/live.ts?channelId=432&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",LAHORE RANG NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=22753&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",MASHRIQ HD
-http://tv.cloudcdn.me:80/live.ts?channelId=57495&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",N6 TV
-http://tv.cloudcdn.me:80/live.ts?channelId=123907&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",NEO NEWS HD
-http://tv.cloudcdn.me:80/live.ts?channelId=436&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",NEWS ONE
-http://tv.cloudcdn.me:80/live.ts?channelId=437&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PAK TV
-http://tv.cloudcdn.me:80/live.ts?channelId=466&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PLAY ENTERTAINMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=440&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PNN NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=115213&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV HOME
 http://tv.cloudcdn.me:80/live.ts?channelId=444&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV NATIONAL
 http://tv.cloudcdn.me:80/live.ts?channelId=445&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=446&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV WORLD NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=447&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PUBLIC NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=448&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",RAAVI TV
-http://tv.cloudcdn.me:80/live.ts?channelId=22763&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",ROHI TV
-http://tv.cloudcdn.me:80/live.ts?channelId=57490&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",SAMAA TV
-http://tv.cloudcdn.me:80/live.ts?channelId=449&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
+#
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",SEE TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B:3A
      
@@ -733,50 +670,7 @@ http://195.181.169.78:8899/zee_tamil/tracks-v1a1/mono.m3u8
 http://185.224.217.17:8080/live/wfghmontoya@gmail.com/Ke5GSTw2do/558177.m3u8?token=TBdbWBBdEl4VUwFTC1oEBARVAlEHAlBUUANaUFIFVQcDBgNaAARWBgcVHEZAFkdWUV45ClEXWAdTCQlWARhBRkRQQWYKURJeFQUIUQNSFx8SRw8OUBdYAkoTSAhSFlldQllfFUFQSBBSRV4FXz1RVkZaBQYXDwxHCl0UQ1laPFdSWFJXBxcKRgYVHEZaEUURCl0TD1kZQFAPRUoAQlFBCVlAX1VPF1MLQllEFkpADxF5fURPF1AaRgNfSwhZWkEJFVgATFsXHEZeRG8WVhFBQVVSCwZHF1gQVhMUQ1tVG2xUWl1XBlZEDVhZQ0YJQAERHBELDFtcFl0UbkgIUhZZXUJZX0Q=
 #EXTINF: -1, SUN BANGLA CINEMA
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
-#EXTINF: -1 tvg-id="ts52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment", Colors HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts305" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Entertainment", Colors Bangla HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts612" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png" group-title="Entertainment", Colors Kannada HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts308" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG" group-title="Entertainment", Colors Marathi HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png" group-title="Entertainment", Colors Rishtey
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts107" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-340-j5jmiei0-v1/imageContent-340-j5jmiei0-m1.png" group-title="Entertainment", Colors Gujarati
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts674" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Entertainment", Colors Tamil HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts115" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-355-j5jndjn4-v1/imageContent-355-j5jndjn4-m2.png" group-title="Entertainment", Colors Oriya
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts187" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="Entertainment", Colors Infinity HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts307" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="Entertainment", Comedy Central HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts533" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18308-jcqnzl68-v1/imageContent-18308-jcqnzl68-m1.PNG" group-title="Entertainment", Colors Super
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts61" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies", Colors Cineplex HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-logo="https://iili.io/JJY4ccg.md.png" group-title="Movies", Colors Cineplex Superhits
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts1000" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Movies", Colors Cineplex Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts667" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31454-jmirfosw-v2/imageContent-31454-jmirfosw-m2.png" group-title="Movies", Colors Kannada Cinema
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts692" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png" group-title="Movies", Colors Gujarati Cinema
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Gujarati_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts406" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music", MTV HD Plus
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts236" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="Music", MTV Beats
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts405" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music", MTV Beats HD
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts118" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids", Nick Junior
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts127" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids", Sonic Nickelodeon
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-id="ts433" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Kids", Nick HD Plus
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#
 #EXTINF:-1 ,&prive HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 ,&flix HD
@@ -816,18 +710,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:0 tvg-id="ts64" group-title="Zee Channels",tvg-logo="",Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:0 tvg-id="ts259" group-title="Zee Channels",tvg-logo="",Zee News
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF:0 tvg-id="ts514" group-title="Zee Channels",tvg-logo="",Zee Hindustan
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
-#EXTINF:0 tvg-id="ts260" group-title="Zee Channels",tvg-logo="",Zee Business
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
-#EXTINF:0 tvg-id="ts255" group-title="Zee Channels",tvg-logo="",Wion
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
+
 #EXTINF:0 tvg-id="ts517" group-title="Zee Channels",tvg-logo="",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
-#EXTINF:0 tvg-id="ts518" group-title="Zee Channels",tvg-logo="",Zee Salaam
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+
 #EXTINF:0 tvg-id="ts251" group-title="Zee Channels",tvg-logo="",Zee Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
 #EXTINF:0 tvg-id="ts501" group-title="Zee Channels",tvg-logo="",Zee Marathi HD
@@ -848,15 +734,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF:0 tvg-id="ts256" group-title="Zee Channels",tvg-logo="",Zee Kannada
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
-#EXTINF:-1,LotusTVMacau
-http://pgplex.net:8080/LotusTVMacau/tracks-v1/index.fmp4.m3u8?token=58f7a81b6ae51b57ee0921fe7476773fc1b3f951-96294199c47d9b123b590cd8a92612b1-1699727106-1699716306
 
 #EXTINF:-1,nick
 http://187.95.95.247/Nickelodeon/index.m3u8
 #EXTINF:-1,sport
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-#EXTINF:-1,MC Family Hits
-http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218697
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1,HBO 2 4K
 http://proiptvdigic.com:8080/andres2309/AxTrfssMFfYW/218716
 #EXTINF:-1,HBO Family 4K
@@ -1346,47 +1228,7 @@ http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116478
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/023tlc.png" group-title="English ",116. ENGLISH| TLC FHD
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116482
 
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC",IN | Zoom TV
-http://xtv.ooo:8080/20005/20005/66190
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC",IN | 9xm
-http://xtv.ooo:8080/20005/20005/66192
-#EXTINF:-1 tvg-id="" tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN | MUSIC",IN | B4u Music
-http://xtv.ooo:8080/20005/20005/66203
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN | MUSIC",IN | 9x Jalwa
-http://xtv.ooo:8080/20005/20005/66226
-#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT [FHD]" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN | MUSIC",IN | MTV BEAT [FHD]
-http://xtv.ooo:8080/20005/20005/66273
-#EXTINF:-1 tvg-id="" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="INDIAN | MUSIC",ind-pun: Pittara TV
-http://xtv.ooo:8080/20005/20005/66285
-#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN | MUSIC",IN | 9x Tashan
-http://xtv.ooo:8080/20005/20005/66289
-#EXTINF:-1 tvg-id="" tvg-name="***IND: DRAMA (4K ULTRA HD)***" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",***IND: DRAMA (4K ULTRA HD)***
-http://xtv.ooo:8080/20005/20005/109946
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="INDIAN | 4K ULTRA HD",Colors (4K)
-http://xtv.ooo:8080/20005/20005/109947
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://openboxv8s.com/india/set_asia.jpg" group-title="INDIAN | 4K ULTRA HD",SONY SET (4K)
-http://xtv.ooo:8080/20005/20005/109948
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://openboxv8s.com/india/star_plus_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
-http://xtv.ooo:8080/20005/20005/109949
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV (4K)" tvg-logo="http://openboxv8s.com/india/zee_tv.jpg" group-title="INDIAN | 4K ULTRA HD",ZEE TV (4K)
-http://xtv.ooo:8080/20005/20005/109950
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN | 4K ULTRA HD",STAR BHARAT (4K)
-http://xtv.ooo:8080/20005/20005/109951
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png" group-title="INDIAN | 4K ULTRA HD",&tv (4K)
-http://xtv.ooo:8080/20005/20005/109952
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN | 4K ULTRA HD",SONY SAB (4K)
-http://xtv.ooo:8080/20005/20005/109953
-#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="INDIAN | MUSIC",IN: Mastii
-http://xtv.ooo:8080/20005/20005/112988
-#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="INDIAN | MUSIC",IN: UTV Bindass
-http://xtv.ooo:8080/20005/20005/112993
-#EXTINF:-1 tvg-id="" tvg-name="IND-Punjabi: PTC_MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="INDIAN | MUSIC",IND-Punjabi: PTC_MUSIC
-http://xtv.ooo:8080/20005/20005/153373
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA*" tvg-logo="" group-title="INDIAN | MUSIC",MUSIC INDIA*
-http://xtv.ooo:8080/20005/20005/190028
-#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="" group-title="INDIAN | MUSIC",IN: Boogle Bollywood
-http://xtv.ooo:8080/20005/20005/206045
-#EXTINF:-1 tvg-id="" tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="INDIAN | MUSIC",IND: MTV HD +
+#
 
 
 #EXTM3U
