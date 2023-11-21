@@ -8,33 +8,27 @@ https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6d
 #EXTINF:-1,colors resty
 https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f612ef5f2738b5c1c74d50dd7497c729da98d3751db14e6f5c5605c7af42710ed56556659c9f9de975b0b8441b284e85dd03fe916097cbeb4908d4db36d79e7afbd2184a62f29dc31a4134e0f5c04c0d5407ea7b82a857d91fa0474ddf1567807b69811b58a1eec8d4269a89845f25f71f3&token=
 
-#EXTINF:-1,StarMovie
+
+#EXTINF: -1, MOVIES NOW
+http://tv3.ebox.live:8082/movies-now/tracks-v1a1/mono.m3u8?token=29ca96b7dce4f98d360ce68c841e8dd4bfcd7ab0-df3fda65f7e99e9ea3864b8102323349-1699087884-16990770841699025754
+#EXTINF: -1, MNX PLUS
+http://tv3.ebox.live:8082/mnx-hd/tracks-v1a1/mono.m3u8?token=4c1e83bc48955700a9c73fb18f3c5baec10fba44-fcda4d7419b783a782fc6acc82f82a0d-1699041824-1699031024
+#EXTINF:-1,SONY PIX HD
+http://tv3.ebox.live:8082/sonypixhd/tracks-v1a1/mono.m3u8?token=0c9a1bae4544cc587501c2e8752d6bec3186f1f6-d50e4fd94c192c33da1f68f2fe452277-1699193381-1699181
+#EXTINF:-1,STARMOVIES
+http://tv3.ebox.live:8082/starmovies/tracks-v1a1/mono.m3u8?token=c7245dddd64f7d7c3bd62e69ae21a2b154cfff2d-3a9e0a63998e8d421b89a36e8c57c8d1-1699090424-1699079624
+#EXTINF:-1,STARMOVIES
 https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v0_index.m3u8
-#EXTINF:-1,akaash bangla
-https://tvs1.aynaott.com/aakaashBangla/tracks-v1a1/mono.m3u8?hdnts=st=1700497294~exp=1700540494~acl=/*~data=45.61.146.183-WEB~hmac=38bb249b55b456520a30d94f0b9bad3c2c70f52aa51923f65a36dfe39c09002d
-#EXTINF:-1,dhoom 
-https://tvs1.aynaott.com/dhoom/tracks-v1a1/mono.m3u8?hdnts=st=1700497369~exp=1700540569~acl=/*~data=45.61.146.183-WEB~hmac=e6cfe624063ca21bed61ba90222ebc8df8ce10a8663acfb9962d505b6d44d106
-#EXTINF:-1,sunnxtv
-https://sunnxtv.co.in/sun/app/stream.php?chunks=d7cb19f063c1bd98c08e5d6634b75227e1682fbcf3d8efc4a2756b18f9e47af98d3aa004dc360a8a702b3e132a7f20b6bd48ab9a9ba32006c2c26e39a9d24d7e04e7896cd9ab5c5add94306c58ea7a121006c0b229e168a7769bbb18563a0f558ea94807d7eeda47568a960f5e895c09eb2363063a717042770cd4588185c00efbefe5b312a4189b8f860519e8f9597568046e49a0913a51077f6cbbfd98f3582d517259ec5a0dae7129a8ca3ee1f05cb9dbf171f47cfc8ea7069964843b2438
-#EXTINF:-1,star ma 
-https://mhdtvpro.com/honey/index.m3u8/?id=155843&code=txasia2&key=8080
-#EXTINF:-1,star ma movie
-https://mhdtvpro.com/honey/index.m3u8/?id=155842&code=txasia2&key=8080
-#EXTINF:-1, masranga
-http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
-#EXTINF:-1,somoy
-http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
-#EXTINF:-1,Asian_TV_HD
-http://tv3.ebox.live:8082/Asian_TV_HD/tracks-v1a1/mono.m3u8?token=dea8ee19ff51ccf90b4a0b532a2fb103aa675561-7747dad1517a3ac6ff4f2d22a84a858e-1699134506-1699123706
-#EXTINF:-1,News_24_HD
-http://tv3.ebox.live:8082/News_24_HD/tracks-v1a1/mono.m3u8?token=06be89d10766be2445171f1696b8c3e48b8a8b65-2339806b283eba75566785f542a56bfc-1699192839-1699182039
-#EXTINF:-1,Btv-World
-http://tv3.ebox.live:8082/Btv-World/tracks-v1a1/mono.m3u8?token=1bc3fa1e7b3b69a5f3ef6a19a96e417c268f565f-1fda799d72eacac92cc38d0501438f7e-1699192920-1699182120
-#EXTINF:-1,Gaan-Bangla
-http://tv3.ebox.live:8082/Gaan-Bangla/tracks-v1a1/mono.m3u8?token=e1e70f7ba8902e4600801d424f12dc3344a5fc4a-5f538b50bd9f0fbb8d16f9d2cf3bc9f0-1699192955-1699182155
-#EXTINF:-1,ptv
+#EXTINF:-1,MNX
+http://103.141.2.37:25461/live/web/web/574.m3u8
+#EXTINF:-1,MN PLUS
+http://103.141.2.37:25461/live/web/web/571.m3u8
+#EXTINF:-1,T SPORT
+http://103.141.2.37:25461/live/web/web/586.m3u8
+
+#EXTINF:-1,PTV SPORTS
 http://tv3.ebox.live:8082/ptv/tracks-v1a1/mono.m3u8?token=4a7d0d1e15f26369af6a4a19a10c9078411d157c-4debcf8a20d9125b8e4d62a64c3aa26b-1699193005-1699182205
-#EXTINF:-1,sonyten1
+#EXTINF:-1,SONYTEN1
 http://tv3.ebox.live:8082/sonyten1/tracks-v1a1/mono.m3u8?token=dddae27fee1da500b20fd044d1255c98c9880f40-6802c8069d13109cbaefcf7dd8775efa-1699193110-1699182310
 #EXTINF:-1,sonyten2
 http://tv3.ebox.live:8082/sonyten2/tracks-v1a1/mono.m3u8?token=e61bf853de9ceaf9eca72b73150eca3180f4d86f-bb937897d499f1cfc57dba6c7bde108f-1699193132-1699182332
@@ -42,12 +36,10 @@ http://tv3.ebox.live:8082/sonyten2/tracks-v1a1/mono.m3u8?token=e61bf853de9ceaf9e
 http://tv3.ebox.live:8082/sonyten3/tracks-v1a1/mono.m3u8?token=b1d3eabf8e0c8ddb3df3762800d3bd93cb64880c-9d89c78e50ce1657a262fe3d0d7c9e88-1699193208-1699182408
 #EXTINF:-1,sonysix
 http://tv3.ebox.live:8082/sonysix/tracks-v1a1/mono.m3u8?token=0031089d2be70b5b4eb2dfbfe5fa3bbaba2f43d3-c0e6bda9c2fca2c5734079e5e52d5bc8-1699193231-1699182431
-#EXTINF:-1,T-Sportss
-http://tv3.ebox.live:8082/T-Sportss/tracks-v1a1/mono.m3u8?token=16b1d5a0101cf32088d88ebb6efe73c8784a0cea-2a2e66784d7c503d2fb197d9fdc09455-1699193263-1699182463
+
 #EXTINF:-1,colorscineplex
 http://tv3.ebox.live:8082/colorscineplex/tracks-v1a1/mono.m3u8?token=428bbf19e44ba49be9072985d9470a97a34ab21a-55ad4d4884a622d5ce3839cf013c43c6-1699193328-1699182528
-#EXTINF:-1,sonypixhd
-http://tv3.ebox.live:8082/sonypixhd/tracks-v1a1/mono.m3u8?token=0c9a1bae4544cc587501c2e8752d6bec3186f1f6-d50e4fd94c192c33da1f68f2fe452277-1699193381-1699182581
+
 #EXTINF:-1,sunbangla
 http://tv3.ebox.live:8082/sunbangla/tracks-v1a1/mono.m3u8?token=cd459fc49251e793c898859439e8bf524c3b4446-a1b0cca18947379d836a973d27de085e-1699193475-1699182675
 #EXTINF:-1,sangeetbangla
@@ -67,9 +59,7 @@ http://tv3.ebox.live:8082/sonyen/tracks-v1a1/mono.m3u8?token=66aa759d4f6e8f50130
 #EXTINF:-1,sony-maxhd
 http://tv3.ebox.live:8082/sony-maxhd/tracks-v1a1/mono.m3u8?token=582b646e18e4335a478b0be1f1af7ac98bfb932b-6ff003329ea88b158aa07bdb278d94af-1699134719-1699123919
 #EXTINF:-1,colore-tv-hd
-http://tv3.ebox.live:8082/colore-tv-hd/tracks-v1a1/mono.m3u8?token=3159713ff7663fbc3d73e92547b962a452ac0a41-9042eb9e8577bce09784f7c58fc7d9c5-1699134739-1699123939
-#EXTINF:-1,T T-Sports
-http://tv3.ebox.live:8082/T-Sportss/tracks-v1a1/mono.m3u8?token=74366a45a775e8e2831bb354b456260836775b6f-df69ee79f55491f2b7747aa535d8cbb9-1699100301-1699089501
+http://tv3.ebox.live:8082/colore-tv-hd/tracks-v1a1/mono.m3u8?token=3159713ff7663fbc3d73e92547b962a452ac0a41-9042eb9e8577bce09784f7c58fc7d9c5-1699134739-1699123939
 #EXTINF:-1,star world
 http://tv3.ebox.live:8082/star-worldhd/tracks-v1a1/mono.m3u8?token=44d545c6b42a45f899e7486c87db28a49fb5d7ce-da6185a28c1fb9b8d653f0b549e27bf5-1699100378-1699089578
 #EXTINF:-1,travelxp
@@ -84,9 +74,9 @@ http://tv3.ebox.live:8082/discovery/tracks-v1a1/mono.m3u8?token=a9dfd2855d4a4ba5
 http://tv3.ebox.live:8082/bbcearth/tracks-v1a1/mono.m3u8?token=2887dc4642cfc3b80fd8e581c98002afb4b8046b-5b2d21d3dc508250b98377a427c62a58-1699100516-1699089716
 #EXTINF:-1,and andpictures
 http://tv3.ebox.live:8082/andpictures/tracks-v1a1/mono.m3u8?token=734d9909ef0a94d553f3da29ce03ca7afa17534d-2fbb2f1c3e7936b0da20c9cd5996fe9e-1699100579-1699089779
-#EXTINF:-1, মুগ্ধ 1hd
+#EXTINF:-1,STARSPORTS1HD
 http://tv3.ebox.live:8082/stersports1hd/tracks-v1a1/mono.m3u8?token=96c69c5ea2636895777c44f5adc9cc7214333355-e6f536781cb72b5cf354eecdd94b64d1-1699090737-1699079937
-#EXTINF:-1,Gazi-TVv
+#EXTINF:-1,Gazi-TV
 http://tv3.ebox.live:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=9e43cf503ceb7c49cb2dd8ce6839240680f7a712-a2c83596efef5782466f84b486c9029e-1699090775-1699079975
 #EXTINF:-1,sports-18
 http://tv3.ebox.live:8082/sports-18/tracks-v1a1/mono.m3u8?token=65e9a5cc88ebe6062e5ed13f1cab6bd77a79e40d-c3e00ccde4d0a04561050ade08911dcc-1699090807-1699080007
@@ -100,6 +90,23 @@ http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9
 http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9b5902c8a9d0a622f8c5a90-2faa91856fda2149ba71b95d35257318-1699091243-1699080443
 #EXTINF:-1,stargold
 http://tv3.ebox.live:8082/stargold/tracks-v1a1/mono.m3u8?token=2a08090b665a762273d5d9c57e503f7adbab00e9-1e30afee4756dabfc30a9b5a7f7c5def-1699091349-1699080549
+
+
+#EXTINF:-1, MASSRAGHA TELEVISION 
+http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
+#EXTINF:-1,SOMMOY TV
+http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
+
+#EXTINF:-1,RTV
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,Asian_TV_HD
+http://tv3.ebox.live:8082/Asian_TV_HD/tracks-v1a1/mono.m3u8?token=dea8ee19ff51ccf90b4a0b532a2fb103aa675561-7747dad1517a3ac6ff4f2d22a84a858e-1699134506-1699123706
+#EXTINF:-1,News_24_HD
+http://tv3.ebox.live:8082/News_24_HD/tracks-v1a1/mono.m3u8?token=06be89d10766be2445171f1696b8c3e48b8a8b65-2339806b283eba75566785f542a56bfc-1699192839-1699182039
+#EXTINF:-1,Btv-World
+http://tv3.ebox.live:8082/Btv-World/tracks-v1a1/mono.m3u8?token=1bc3fa1e7b3b69a5f3ef6a19a96e417c268f565f-1fda799d72eacac92cc38d0501438f7e-1699192920-1699182120
+#EXTINF:-1,Gaan-Bangla
+http://tv3.ebox.live:8082/Gaan-Bangla/tracks-v1a1/mono.m3u8?token=e1e70f7ba8902e4600801d424f12dc3344a5fc4a-5f538b50bd9f0fbb8d16f9d2cf3bc9f0-1699192955-1699182155
 #EXTINF:-1,Ekhon-Tv
 http://tv3.ebox.live:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8?token=13b7e429bd117a8525bbdf95832f16fe28d2689b-04e888cf1ad5c5f0a4effd9b253f60bc-1699090120-1699079320
 #EXTINF:-1,Ekattor_TV_HD
@@ -117,9 +124,7 @@ http://tv3.ebox.live:8082/Bangla_TV_HD/tracks-v1a1/mono.m3u8?token=4e395a3028cf1
 #EXTINF:-1,SA_TV_HD
 http://tv3.ebox.live:8082/SA_TV_HD/tracks-v1a1/mono.m3u8?token=0c6cf2a7609edb2c55b5c76724116c3868b3b6f5-47310d2eec2fb8fa03e267e266d8c27d-1699090338-1699079538
 #EXTINF:-1,My_Tv
-http://tv3.ebox.live:8082/My_Tv/tracks-v1a1/mono.m3u8?token=f5f652550581bf424336addbb465d9a10419da1c-7bb1ad7da65003d75a839fc7fc65a9ac-1699090380-1699079580
-#EXTINF:-1,starmovies
-http://tv3.ebox.live:8082/starmovies/tracks-v1a1/mono.m3u8?token=c7245dddd64f7d7c3bd62e69ae21a2b154cfff2d-3a9e0a63998e8d421b89a36e8c57c8d1-1699090424-1699079624
+http://tv3.ebox.live:8082/My_Tv/tracks-v1a1/mono.m3u8?token=f5f652550581bf424336addbb465d9a10419da1c-7bb1ad7da65003d75a839fc7fc65a9ac-1699090380-1699079580
 #EXTINF:-1,Ananda_TV_SD
 http://tv3.ebox.live:8082/Ananda_TV_SD/tracks-v1a1/mono.m3u8?token=9520755da4e89535c95ad750b7c7dc4213621f94-1d37bae1daa93336a29896e404071e26-1699089509-1699078709
 #EXTINF:-1,Channel_24_HD
@@ -146,10 +151,7 @@ http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
 #EXTINF: -1, Star jalsha movie
 http://tv3.ebox.live:8082/jalshamovies/tracks-v1a1/mono.m3u8?token=6b81f56e2b49fafb2984de9fa6a0f11282f7eece-ca501d48298745d5d59c087e265b3a71-1699042580-1699031780
-#EXTINF: -1, movies now
-http://tv3.ebox.live:8082/movies-now/tracks-v1a1/mono.m3u8?token=29ca96b7dce4f98d360ce68c841e8dd4bfcd7ab0-df3fda65f7e99e9ea3864b8102323349-1699087884-16990770841699025754
-#EXTINF: -1, MNX PLUS
-http://tv3.ebox.live:8082/mnx-hd/tracks-v1a1/mono.m3u8?token=4c1e83bc48955700a9c73fb18f3c5baec10fba44-fcda4d7419b783a782fc6acc82f82a0d-1699041824-1699031024
+
 #EXTINF:-1,starjalsha
 http://tv3.ebox.live:8082/starjalsha/tracks-v1a1/mono.m3u8?token=860ea193c9fe731b055ebddff2c5d800e58b3727-ca5afd1c07cba987a17343f53338ea32-1699088409-1699077609
 #EXTINF:-1,zeebanglahd
@@ -178,45 +180,13 @@ http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2
 http://tv3.ebox.live:8082/9xm/tracks-v1a1/mono.m3u8?token=c25a6b9854962d78d202952141f7c3aae58f2ec0-d47a90f1a741e3327ded10a7b783e33c-1699305052-1699294252
 
 
-#EXTINF:-1,A sport
-http://46.229.253.221/live/undg22/undg22/214986.m3u8?token=ShJcU0BbQQNHWwQIBgYHXAxSBAUCUAdSCFBaBFxTBFNXVFEGVVcFW1MbGBpEF0dcWF1vWQIXXlMAVlsPU0gRR0JVRm1aV0EDRw0ADARWAxsVEkRZC1BGWwFOQEcMABEIEwUECwIBQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoHQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAloAVRsYGlQMQFdNQkkSXBcmJRNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVYLUAEWRQ==
-
-
-#EXTINF:-1,ESPN
-http://46.229.253.220/live/undg22/undg22/215552.m3u8?token=ShJcU0BbQQNHCwAMUgYHDAAIAVIHDVFQBlcGA1dXBQBUBQxUCgdbCgMbGBpEF0dcWF1vWQIXXlMAV1cCV0gRR0JVRm1aV0EDRw0ADARWAxsVEkRZC1BGWwFOQEcMABEIEwMMAQcBUg9HFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQUbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUENVgwDGhtBVlZMXkRCHxdeQ3MmQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVw8HCwFbF0Q=
-
-#EXTINF:-1, T SPORT
-http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTV
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1,StarGold2
-http://185.135.157.27:8090/IN_StarGold2/tracks-v1a1/mono.m3u8?token=6ee7b686c154eeb61e5d06ebd4af2411
-
-#EXTINF:-1,STAR GOLD
-http://195.74.93.163/live/undg22/undg22/9375.m3u8?token=ShJcU0BbQQNHAAZdVgUFDA1VBFNeDVxTU1tQB1dQAFMGUwBWA1FTDAQbGBpEF0dcWF1vWQIXXlgCVVcbRxFAV0NvXVYRCUENUQ0HDQFBGRtNWV1VRA9UTRMSC1NHXhEAAgkFCgcFQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoHQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAlsIVBsYGlQMQFdNQkkSXBcmJRNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVUKVAwWRQ==
-
-#EXTINF:-1,NET GEO Wild
-http://103.141.2.37:25461/live/web/web/576.m3u8
-#EXTINF:-1,MNX
-http://103.141.2.37:25461/live/web/web/574.m3u8
-
-#EXTINF:-1,MN PLUS
-http://103.141.2.37:25461/live/web/web/571.m3u8
-#EXTINF:-1,T SPORT
-http://103.141.2.37:25461/live/web/web/586.m3u8
 
 
 
 
 
 
-#EXTINF:-1,Duronto-Tv-HD
-http://otv.ftpbd.net:8082/Duronto-Tv-HD/tracks-v1a1/mono.m3u8?token=39d02a21d9ac0f64b79bc2996c6f909c5d505019-96e48a5b8b176b11f824df4282f8f72e-1699725852-1699715052
 
-#EXTINF:-1,BBC-Cbeebies-HD
-http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/tracks-v1a1/mono.m3u8?token=484099862e66ed905c7febaf8300a0faac07b49d-cd4ad224df68d489c32e4dde1b03fb63-1699725910-1699715110
-#EXTINF:-1,Nick-Jr
-http://otv.ftpbd.net:8082/Nick-Jr/tracks-v1a1/mono.m3u8?token=bb0a6ebc288dc19b33312651606c53afd639b1c9-ff236c9cd191737e149b34010573388f-1699725946-1699715146
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",8XM
 http://tv.cloudcdn.me:80/live.ts?channelId=370&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
