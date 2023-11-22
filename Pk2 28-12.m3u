@@ -50,6 +50,11 @@ http://tv3.ebox.live:8082/sunbangla/tracks-v1a1/mono.m3u8?token=cd459fc49251e793
 http://tv3.ebox.live:8082/sangeetbangla/tracks-v1a1/mono.m3u8?token=22f3aee817deca731348bffefab262f8a3d4d4db-119d4521c3eb363192f39488f458928c-1699193502-1699182702
 #EXTINF:-1,sonyway
 http://tv3.ebox.live:8082/sonyway/tracks-v1a1/mono.m3u8?token=d30cc6c105f4b87f14a7def1a8764cab6df6855f-8485afe88877f3c49385562e13a680b0-1699193533-1699182733
+
+
+
+#EXTINF:-1,NICK TV
+http://103.141.2.37:25461/live/web/web/615.m3u8
 #EXTINF:-1,ATN_Bangla_SD
 http://tv3.ebox.live:8082/ATN_Bangla_SD/tracks-v1a1/mono.m3u8?token=c1a77f56c5c155d1cffe08dde7656ed942531dfe-460dee750896c8217c5bf6b1afd437f6-1699134539-1699123739
 #EXTINF:-1,starplus
