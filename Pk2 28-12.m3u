@@ -882,122 +882,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Express Entertainment
-http://xtv.ooo:8080/20005/20005/26010
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV
-http://xtv.ooo:8080/20005/20005/221339
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
-http://xtv.ooo:8080/20005/20005/25981
-#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM SITARAY
-http://xtv.ooo:8080/20005/20005/25983
-#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK: HUM EUROPE*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM EUROPE*
-http://xtv.ooo:8080/20005/20005/103688
-#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM MASALA" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM MASALA
-http://xtv.ooo:8080/20005/20005/103689
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM PSHTO*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM PSHTO*
-http://xtv.ooo:8080/20005/20005/207397
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL
-http://xtv.ooo:8080/20005/20005/221337
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
-http://xtv.ooo:8080/20005/20005/25989
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
-http://xtv.ooo:8080/20005/20005/25990
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY Family" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: ARY Family
-http://xtv.ooo:8080/20005/20005/103673
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT
-http://xtv.ooo:8080/20005/20005/221338
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT HD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT HD
-http://xtv.ooo:8080/20005/20005/25977
-#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO KAHANI HD
-http://xtv.ooo:8080/20005/20005/221341
-#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1
-http://xtv.ooo:8080/20005/20005/221340
-#EXTINF:-1 tvg-id="" tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1 HD
-http://xtv.ooo:8080/20005/20005/26040
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
-http://xtv.ooo:8080/20005/20005/221342
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
-http://xtv.ooo:8080/20005/20005/103703
-#EXTINF:-1 tvg-id="" tvg-name="PK: SAB TV PAK" tvg-logo="https://sabtv.pk/wp-content/uploads/2022/03/logo-mob-1.png" group-title="PAKISTAN | ENTERTAINMENT",PK: SAB TV PAK
-http://xtv.ooo:8080/20005/20005/25975
-#EXTINF:-1 tvg-id="" tvg-name="PK | A-PLUS" tvg-logo="https://static.epg.best/pk/APlusTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | A-PLUS
-http://xtv.ooo:8080/20005/20005/25984
-#EXTINF:-1 tvg-id="tvone.pk" tvg-name="PK | TV ONE" tvg-logo="https://static.epg.best/us/TVOne.us.png" group-title="PAKISTAN | ENTERTAINMENT",PK | TV ONE
-http://xtv.ooo:8080/20005/20005/25986
-#EXTINF:-1 tvg-id="" tvg-name="PK | See HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="PAKISTAN | ENTERTAINMENT",PK | See HD
-http://xtv.ooo:8080/20005/20005/25982
-#EXTINF:-1 tvg-id="" tvg-name="PK | ATV ENTERTENMENT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atv_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ATV ENTERTENMENT
-http://xtv.ooo:8080/20005/20005/25987
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | PTV GLOBAL
-http://xtv.ooo:8080/20005/20005/25994
-#EXTINF:-1 tvg-id="apna.pk" tvg-name="PK | Apna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Apna_Channel_New_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Apna Channel
-http://xtv.ooo:8080/20005/20005/25998
-#EXTINF:-1 tvg-id="arymusik.pk" tvg-name="PK | Ary Music Pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Ary Music Pk
-http://xtv.ooo:8080/20005/20005/26000
-#EXTINF:-1 tvg-id="" tvg-name="PK | Kay 2" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Kay 2
-http://xtv.ooo:8080/20005/20005/26023
-#EXTINF:-1 tvg-id="" tvg-name="PK | Khyber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/AVT_Khyber_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Khyber TV
-http://xtv.ooo:8080/20005/20005/26025
-#EXTINF:-1 tvg-id="" tvg-name="PK | KTN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | KTN TV
-http://xtv.ooo:8080/20005/20005/26026
-#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | FILMAX
-http://xtv.ooo:8080/20005/20005/26038
-#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore Rung" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1550524418.jpeg" group-title="PAKISTAN | ENTERTAINMENT",PK | Lahore Rung
-http://xtv.ooo:8080/20005/20005/26039
-#EXTINF:-1 tvg-id="" tvg-name="PK | Waseeb TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Waseeb TV
-http://xtv.ooo:8080/20005/20005/26042
-#EXTINF:-1 tvg-id="" tvg-name="PK | Zindgai TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK | Zindgai TV*
-http://xtv.ooo:8080/20005/20005/26043
-#EXTINF:-1 tvg-id="" tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Bol Entertainment HD
-http://xtv.ooo:8080/20005/20005/26045
-#EXTINF:-1 tvg-id="" tvg-name="PK: 8XM" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: 8XM
-http://xtv.ooo:8080/20005/20005/103668
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: AAJ ENTERTAINMENT
-http://xtv.ooo:8080/20005/20005/103670
-#EXTINF:-1 tvg-id="" tvg-name="PK: EAWAZ TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: EAWAZ TV*
-http://xtv.ooo:8080/20005/20005/103671
-#EXTINF:-1 tvg-id="" tvg-name="PK: C44" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: C44
-http://xtv.ooo:8080/20005/20005/103677
-#EXTINF:-1 tvg-id="" tvg-name="PK: Discovery HD" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Discovery HD
-http://xtv.ooo:8080/20005/20005/103684
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARUJ TV" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: ARUJ TV
-http://xtv.ooo:8080/20005/20005/103685
-#EXTINF:-1 tvg-id="" tvg-name="PK: FILMWORLD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/film_world_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK: FILMWORLD
-http://xtv.ooo:8080/20005/20005/103686
-#EXTINF:-1 tvg-id="" tvg-name="PK: GTV" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: GTV
-http://xtv.ooo:8080/20005/20005/103687
-#EXTINF:-1 tvg-id="" tvg-name="PK: Hum Pashto 1" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Hum Pashto 1
-http://xtv.ooo:8080/20005/20005/103697
-#EXTINF:-1 tvg-id="" tvg-name="PK: PLAY ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: PLAY ENTERTAINMENT
-http://xtv.ooo:8080/20005/20005/103698
-#EXTINF:-1 tvg-id="" tvg-name="PK: PLAY TV" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: PLAY TV
-http://xtv.ooo:8080/20005/20005/103699
-http://xtv.ooo:8080/20005/20005/26029
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="" group-title="NETFLIX ACTION",•●★--- Welcome ----★●•
-http://xtv.ooo:8080/20005/20005/247997
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 1" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 1
-http://xtv.ooo:8080/20005/20005/247998
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 2
-http://xtv.ooo:8080/20005/20005/247999
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 3" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 3
-http://xtv.ooo:8080/20005/20005/248000
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 4" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 4
-http://xtv.ooo:8080/20005/20005/248001
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 5" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 5
-http://xtv.ooo:8080/20005/20005/248002
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 6" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 6
-http://xtv.ooo:8080/20005/20005/248003
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 7" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 7
-http://xtv.ooo:8080/20005/20005/248004
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 8" tvg-logo="" group-title="NETFLIX ACTION",NETFLIX ACTION 8
-http://xtv.ooo:8080/20005/20005/248005
-
-
-
+PIC
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/channeli.png" group-title="Bangla tv",1. CHANNELi HD 
@@ -1228,7 +1113,7 @@ http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116478
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/023tlc.png" group-title="English ",116. ENGLISH| TLC FHD
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116482
 
-#
+
 
 
 #EXTM3U
@@ -1246,17 +1131,17 @@ http://tv.cloudcdn.me/live.ts?channelId=196&uid=2496&deviceMac=00:1A:79:A8:9C:32
 http://tv.cloudcdn.me/live.ts?channelId=197&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8p7KMmg/download-5.png" tvg-chno="14" group-title="FreoTV",STAR GOLD 2
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1LSJDpy/download-5.jpg" tvg-chno="15" group-title="FreoTV",MOVIES NOW HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1LSJDpy/download-5.jpg" tvg-chno="15" group-title="FreoTV",STAR MOVIES
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5wmh6P3/download.jpg" tvg-chno="7" group-title="FreoTV",STAR SPORT 1 HD
 http://176.119.29.52/live.ts?channelId=293&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",{s1}STAR SPORT 1-HD (hindi)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",STAR SPORT 1-HD (hindi)
 http://tv.cloudcdn.me/live.ts?channelId=295&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",{s2}STAR SPORT 1-HD (hindi)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",STAR SPORT 1-HD (hindi)
 http://tv.cloudcdn.me/live.ts?channelId=49569&uid=2496&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1, star movie select
 http://tv.cloudcdn.me/live.ts?channelId=199&uid=2496&deviceMac=00:1A:79:A8:9C:32
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",& PICTURE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",B4U MOVIE
 http://tv.cloudcdn.me/live.ts?channelId=152&uid=2496&deviceMac=00:1A:79:A8:9C:32
