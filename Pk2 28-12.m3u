@@ -15,7 +15,29 @@ http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/101
 #EXTINF:-1,BeIN Sports 3
 http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/102
 
-
+http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 ,ATN Bangla
+http://bd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,Channel 24
+http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 ,DBC News
+http://bd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 ,Independent
+http://bd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,Jamuna TV
+http://bd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 ,NEWS 24 HD
+http://bd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 ,BOISHAKHI TV
+http://bd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 ,JagoNews24 TV
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 ,Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,RTV(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 ,ATN Music(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1,GREEN TV
 http://bd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1,BTV
