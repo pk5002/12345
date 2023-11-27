@@ -14,6 +14,10 @@ http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100
 http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/101
 #EXTINF:-1,BeIN Sports 3
 http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/102
+
+
+#EXTINF: -1,GREEN TV
+http://bd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1,BTV
 http://tv3.ebox.live:8082/Btv-Hd/tracks-v1a1/mono.m3u8?token=35390237ffeafe96799a4604e054e111976e95a1-e62f22def9f25a3d1290d0bae0884533-1700023052-1700012252
 #EXTINF:-1,Btv-World
