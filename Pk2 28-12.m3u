@@ -3,8 +3,13 @@
 
 
 
-#EXTINF:-1 ,Willo Cricket
-http://nl.seetv.cc/play/5446/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1, STAR JALSHA
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
+
+#EXTINF:-1, STAR JALSHA MOVIE
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
+
 #EXTINF: -1,BTV
 http://tv3.ebox.live:8082/Btv-Hd/tracks-v1a1/mono.m3u8?token=35390237ffeafe96799a4604e054e111976e95a1-e62f22def9f25a3d1290d0bae0884533-1700023052-1700012252
 #EXTINF:-1,Btv-World
