@@ -357,6 +357,10 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="Bangla ",56. Travelxp 720p✅
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",58. SONY TEN 1 HD 
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282670
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="sports ",59. SONY TEN 2 HD 
@@ -404,17 +408,13 @@ http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/945569
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="India ",80. ZEE CINEMA FHD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #ck/index.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="India ",94. 
-SONY SAB HD
-http://watchindia.net:8880/live/60427/00546/2323.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="India ",95. Star Bharat HD
-http://watchindia.net:8880/live/60427/00546/780.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="India ",96. Star Gold India HD
-http://watchindia.net:8880/live/60427/00546/785.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="India ",97. Star Gold Select HD
-http://watchindia.net:8880/live/60427/00546/784.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="India ",98. Star Plus HD
-http://watchindia.net:8880/live/60427/00546/1924.ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="English ",99. STAR MOVIES HD
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/155727
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="English ",100. ENGLISH| STAR MOVIES SELECT HD
