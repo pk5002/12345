@@ -2,14 +2,6 @@
 
 
 
-
-#EXTINF:-1, STAR JALSHA
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-
-
-#EXTINF:-1, STAR JALSHA MOVIE
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
-
 #EXTINF: -1,BTV
 http://tv3.ebox.live:8082/Btv-Hd/tracks-v1a1/mono.m3u8?token=35390237ffeafe96799a4604e054e111976e95a1-e62f22def9f25a3d1290d0bae0884533-1700023052-1700012252
 #EXTINF:-1,Btv-World
@@ -82,7 +74,6 @@ http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9
 #EXTINF:-1,NTV
 http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
 
-
 #EXTINF:-1,SUN BANGLA CINEMA
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1,sunbangla
@@ -103,7 +94,6 @@ http://tv3.ebox.live:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=94489
 http://tv3.ebox.live:8082/Sony_Aath/tracks-v1a1/mono.m3u8?token=a1e7843ab1058ab09a7490e794b683c57594fc28-6834933918504a35d4ba6a287a6a0682-1699088575-1699077775
 #EXTINF:-1,enterr10
 http://tv3.ebox.live:8082/enterr10/tracks-v1a1/mono.m3u8?token=e4be95aebb2cf0fbe49a67ade75e36a509434a89-762d4a017f05e0d3ea1ab1e37249fc19-1699042125-1699031325
-
 
 #EXTINF:-1 ,Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
@@ -204,46 +194,7 @@ http://tv3.ebox.live:8082/9xm/tracks-v1a1/mono.m3u8?token=c25a6b9854962d78d20295
 
 #
 
-#EXTINF:-1 group-title="AS INDIA" ,===== 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: COLORS INFINITY HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93649
-#EXTINF:-1 group-title="AS ENGLISH" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" ,ENGLISH: COMEDY CENTRAL HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93650
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: DISNEY INTERNATIONAL HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93651
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: DISNEY XD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93652
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: FOX LIFE HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93654
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: HBO INDIA HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93655
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: HISTORY TV 18 HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93656
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: MN PLUS HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93657
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: MNX HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93658
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: MOVIES NOW HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93659
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: ANIMAL PLANET WORLD HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93660
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: DISCOVERY WORLD HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93661
-#EXTINF:-1 group-title="AS ENGLISH" tvg-logo="http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEOGRAPHIC_WILD_HD.png" ,ENGLISH: NAT GEO WILD HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93662
-#EXTINF:-1 group-title="AS ENGLISH" ,ENGLISH: NATIONAL GEOGRAPHIC HD
-http://sansat.net:25461/ZzSHHZHFzDVGGoF/dLZ21svkg0zZOwe/93663
-#EXTINF:-1 group-title="AS ENGLISH" tvg-logo="http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEO.png" ,ENGLISH: NAT GEO ENGLISH HD
-
+#
 
 
 
@@ -384,8 +335,7 @@ https://epiconvh.s.llnwi.net/ishaara/master.m3u8
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:0 tvg-id=""group-title="Entertainment",Nazara
 https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
-#EXTINF:0 tvg-id=""group-title="Entertainment",Sony kal
-https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
+
 #EXTINF:0 tvg-id=""group-title="Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:0 tvg-id=""group-title="Entertainment",DD Bharti
@@ -552,93 +502,40 @@ http://tv.cloudcdn.me/live.ts?channelId=152&uid=2496&deviceMac=00:1A:79:A8:9C:32
 
 
 
-#EXTINF:-1 ,ATN Islamic TV
-http://bd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 ,Peace TV ENG
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-#EXTINF:-1 ,Channel 24
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1 ,ATN Islamic (BDIX0)
-http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 ,Khusboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
-#
-#EXTINF:-1 ,Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 ,MASTI
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Zoom
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
-#
-#
 
-#EXTINF:-1 ,Channel I 🇧🇩
-http://162.244.81.142:1935/live/livestream/chunklist_w1355945905.m3u8
-#EXTINF:-1 ,Deepto Tv 🇧🇩
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 ,Zee Bangla 🇮🇳
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF:-1 ,Sangeet Bangla 🇮🇳
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extension=ts&play_token=otM0DQF4Ff
+
 #EXTINF:-1 ,ZEE BANGLA CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-
-
-#EXTINF:-1 ,Channel S (1080p)
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-#EXTINF:-1 ,ATN Islamic
-http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
-#EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 #EXTINF:-1 ,ZEE BANGLA
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 ,STARJALSHA
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1 ,Jalsha Movies HD (2)
+#EXTINF:-1 ,Jalsha Movies HD 
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1 ,Zee Bangla HD 2
+#EXTINF:-1 ,Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
 
 
 #EXTINF:-1 ,Discovery HD [BANGLA]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
-#EXTINF:-1 ,SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
 
 #EXTINF:-1 ,Rajdhani tv
-http://iptvbd.jagobd.com:1931/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1 ,ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 ,BANGLA TV
-http://208.86.19.13:81/504.stream/index.m3u8?
-#EXTINF:-1 ,CHANNEL I
-http://208.86.19.13:81/510.stream/index.m3u8?
+http://iptvbd.jagobd.com:1931/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 ,Rajdhani
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rajdhanitv.stream/chunks.m3u8
 
-#EXTINF:-1 ,NAN TV
-https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
-#EXTINF:-1 ,ATN Music
-https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-
-#EXTINF:-1 ,Rajdhani TV
-https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rajdhanitv.stream/playlist.m3u8
+#
 #EXTINF:-1 ,Channel Europe
 https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeleurope.stream/playlist.m3u8
 #EXTINF:-1 ,Discovery ALL
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
-
-
-
-#EXTINF:-1 ,9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 ,BTV World
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+
 #EXTINF:-1 ,Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 ,MBC Bollywood
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,Discovery Kids
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Chanel S uk
@@ -776,46 +673,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B
 
 
 ...
-#EXTM3U
-#EXTINF:-1, Powered by Md Manik.
-#EXTINF:-1, manikdish@gmail.com
-#EXTINF:-1, Telegram Group: https://t.me/bdstream
 
-
-
-
-#EXTINF:-1,T Sports 22
-
-#EXTINF:-1,Astro Cricket
-http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
-#EXTINF:-1,Willow HD
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1,T Sports
-http://live-himelop.ddns.net:8080/hls/col12.m3u8
-#EXTINF:-1,BeIN Sports 1
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100
-#EXTINF:-1,BeIN Sports 2
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/101
-#EXTINF:-1,BeIN Sports 3
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/102
-#EXTINF:-1,Sports18 1 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1984&e=.m3u8
-#EXTINF:-1,Sports18 1
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1985&e=.m3u8
-#EXTINF:-1,Sports18 Khel
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1998&e=.m3u8
-#EXTINF:-1,Jio Football 1 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1165&e=.m3u8
-#EXTINF:-1,Jio Cricket 3 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1166&e=.m3u8
-#EXTINF:-1,Jio Football 2 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1167&e=.m3u8
-#EXTINF:-1,Jio Football 3 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1168&e=.m3u8
-#EXTINF:-1 ,Jio Football 4 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=1169&e=.m3u8
-#EXTINF:-1 ,Jio Sports HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=889&e=.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=891&e=.m3u8
 #EXTINF:-1,Sony Ten 3 HD
