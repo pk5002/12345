@@ -669,43 +669,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B
 
 
 ...
-
-#EXTINF:-1,Sony Ten 2 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=891&e=.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=892&e=.m3u8
-#EXTINF:-1,Sony Ten 5 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=155&e=.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-https://tv.jatiyatopic.xyz/jiotv/sthh.php?id=162&e=.m3u8
-#EXTINF:-1,UK TNT Sports 1
-https://tinyurl.com/s2s66632/1846762.ts
-#EXTINF:-1,UK TNT Sports 2
-https://tinyurl.com/s2s66632/1846763.ts
-#EXTINF:-1 ,UK TNT Sports 3
-https://tinyurl.com/s2s66632/1846764.ts
-#EXTINF:-1,BT SPORTS EXTRA 1 HD
-https://tinyurl.com/s2s66632/1846767.ts
-#EXTINF:-1 ,BT SPORTS EXTRA 2 HD
-https://tinyurl.com/s2s66632/1846768.ts
-#EXTINF:-1, BT SPORTS EXTRA 3 HD
-https://tinyurl.com/s2s66632/1846769.ts
-#EXTINF:-1,BT SPORTS EXTRA 4 HD
-https://tinyurl.com/s2s66632/1846770.ts
-#EXTINF:-1,UK Sky Sports Action
-https://tinyurl.com/s2s66632/1846771.ts
-#EXTINF:-1,UK Sky Sports Arena
-https://tinyurl.com/s2s66632/1846772.ts
-#EXTINF:-1,UK Sky Sports F1
-https://tinyurl.com/s2s66632/1846774.ts
-#EXTINF:-1 ,UK Sky Sports Football
-https://tinyurl.com/s2s66632/1846775.ts
-#EXTINF:-1 ,Eurosport 2 HD
-https://tinyurl.com/s2s66632/1847082.ts
-#EXTINF:-1,UK Sky Sports Main Events
-https://tinyurl.com/s2s66632/1847084.ts
-#EXTINF:-1,UK Sky Sports MIX
-https://tinyurl.com/s2s66632/1847433.ts
+
 #EXTINF:-1, VIJU SPORTS
 https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
 #EXTINF:-1 ,T Sports
@@ -732,22 +696,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
 #EXTINF:-1 ,Sky Sports Cricket
 https://sports.freesportstime.com/live/streamfreecric.m3u8
-#EXTINF:-1 ,beIN Sports 1
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100
-#EXTINF:-1 ,beIN Sports 3
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/102
-#EXTINF:-1 ,beIN Sports 4
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/103
-#EXTINF:-1 ,beIN Sports 6
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/105
-#EXTINF:-1 ,beIN Sports 7
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/106
-#EXTINF:-1 ,beIN Sports English 1
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/110
-#EXTINF:-1 ,beIN Sports English 3
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/267769
-#EXTINF:-1 ,beIN Sports Premium 1
-http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/109
+
 #EXTINF:-1 ,Tsports HD
 http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Sports
@@ -760,18 +709,12 @@ http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 ,Astro 🇲🇾 Cricket HD
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,ICC TV Add free Channel
-https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+
 #EXTINF:-1 ,Gazi TV 2
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 #EXTINF:-1 ,Willow Extra TV
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-#EXTINF:-1 ,Via Play Sports 1
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 ,Via Play Sports 2
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 ,SPORTSMAX 1
-https://is.gd/8Xi5qy
+
 #EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 ,TLT + Willow Sports
@@ -791,59 +734,19 @@ https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 ,RACING TV
 http://89.187.167.94:80/live.ts?channelId=98&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,EUROSPORT 2
-http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,ViaPlay 1 UK
-http://89.187.167.92:80/live.ts?channelId=104&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,ViaPlay 2 UK
-http://89.187.167.94:80/live.ts?channelId=105&deviceUser=jeff1&devicePass=jeff1&uid=21890
+http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,SPORTY STUFF
 http://89.187.167.94:80/live.ts?channelId=108&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,Sky Sports F1.
 http://89.187.167.92:80/live.ts?channelId=130&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS F1
-http://89.187.167.92:80/live.ts?channelId=131&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS MAIN EVENT
-http://89.187.167.94:80/live.ts?channelId=135&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS ACTION / NFL
-http://89.187.167.92:80/live.ts?channelId=139&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Mix.
-http://89.187.167.92:80/live.ts?channelId=140&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS MIX
-http://89.187.167.94:80/live.ts?channelId=141&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Cricket.
-http://89.187.167.92:80/live.ts?channelId=142&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Football.
-http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Golf.
-http://89.187.167.94:80/live.ts?channelId=146&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS GOLF
-http://89.187.167.92:80/live.ts?channelId=147&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Racing.
-http://89.187.167.92:80/live.ts?channelId=148&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS RACING
-http://89.187.167.92:80/live.ts?channelId=149&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports News.
-http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#d=21890
 #EXTINF:-1 ,TNT SPORTS 1
 http://89.187.167.93:80/live.ts?channelId=153&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,BT Sport 4
 http://89.187.167.93:80/live.ts?channelId=158&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,VIAPLAY EXTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1 ,Sky Sports Golf.
-http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS GOLF
-http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,Sky Sports Racing.
-http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS RACING
-http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS NEWS
-http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,TNT Sport 1
-http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,TNT SPORTS 1
-http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#
 #EXTINF:-1 ,ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
 #EXTINF:-1 ,ESPN 2 HD
@@ -859,11 +762,7 @@ http://45.166.92.22:58001/play/a04k/index.m3u8
 #EXTINF:-1 ,TyCSports HD.
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1 ,Fox Sports 3 LatinoAmerica HD
-http://167.250.222.35:16000/play/a07u/index.m3u8
-#EXTINF:-1 ,BUNDES LIGA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
-#EXTINF:-1 ,LIGA ITALY 3
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19042/index.m3u8
+http://167.250.222.35:16000/play/a07u/index.m3u8
 #EXTINF:-1 ,SPORTS TV 1
 http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
 #EXTINF:-1 ,TYC SPORTS
@@ -892,19 +791,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Bein Sports 4 HD
-http://node01.nntv.az:8153/ch3/ch3.hi.m3u8
-#EXTINF:-1 ,Bein Sports 5 HD
-http://node01.nntv.az:8153/ch4/ch4.hi.m3u8
-#EXTINF:-1 ,Bein Sports 6 HD
-http://node01.nntv.az:8153/ch5/ch5.hi.m3u8
-#EXTINF:-1 ,Bein Sports 7 HD
-http://node01.nntv.az:8153/ch6/ch6.hi.m3u8
-#EXTINF:-1 ,Bein Sports 3XTRA HD
-http://node01.nntv.az:8153/ch2/ch2.hi.m3u8
-
-
-
 
 
 
