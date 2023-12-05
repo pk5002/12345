@@ -741,15 +741,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tfh.png",Trailers from Hell 🇺🇸
 https://bec-trailersfromhell-1-us.plex.wurl.tv/4300.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png",🇺🇸 ➾ BBC Drama ᴴᴰ 
-https://i.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
-#EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png",🇲🇽 AXN
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png",🇲🇽🇺🇸 AXN
 http://173.225.246.25:8889/udp/239.203.20.4:4003
 
@@ -774,12 +765,6 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SonyChannel.png",🇲🇽🇺🇸 Sony Channelᴴᴰ
 http://138.219.58.234:8112/play/085
-
-
-#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png",HBO Xtreme 🇲🇽🇺🇸
-https://bit.ly/3OPKiaV?/playlist1080p.m3u8
-
-
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",Star Channel 🇲🇽🇺🇸
 http://138.219.58.234:8112/play/083
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",Star Channel 🇲🇽🇺🇸
