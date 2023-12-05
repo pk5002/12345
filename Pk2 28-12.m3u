@@ -166,11 +166,17 @@ http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/chunklist_w2006078245.m3u8
 
 #EXTINF:-1,sports-18
 http://tv3.ebox.live:8082/sports-18/tracks-v1a1/mono.m3u8?token=65e9a5cc88ebe6062e5ed13f1cab6bd77a79e40d-c3e00ccde4d0a04561050ade08911dcc-1699090807-1699080007
+
+
+#EXTINF:-1,starsports1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1,starsports1
+http://51.159.59.244/dd_s_h_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,starsports2
 http://tv3.ebox.live:8082/starsports2/tracks-v1a1/mono.m3u8?token=bae1805c734a668bdc61424360aee25d3cc8c429-44858b6c26e7b47b5bbd2580ddfdc82c-1699090833-1699080033
 #EXTINF:-1,StarSportSelect1HD
 http://tv3.ebox.live:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=706bb9492704e0707a8789e555bed0184d5ab1b3-93693e8ac80ea7b0ff109d1b20906d28-1699090861-1699080061
-#EXTINF:-1,StarSportSelect1HD
+#EXTINF:-1,StarSportSelect HD2
 http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9b5902c8a9d0a622f8c5a90-2faa91856fda2149ba71b95d35257318-1699091243-1699080443
 #EXTINF:-1,StarSportSelect1HD
 http://tv3.ebox.live:8082/select2/tracks-v1a1/mono.m3u8?token=0a09f46b602d568ca9b5902c8a9d0a622f8c5a90-2faa91856fda2149ba71b95d35257318-1699091243-1699080443
