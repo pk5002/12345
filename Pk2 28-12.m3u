@@ -739,6 +739,59 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tfh.png",Trailers from Hell 🇺🇸
+https://bec-trailersfromhell-1-us.plex.wurl.tv/4300.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png",🇺🇸 ➾ BBC Drama ᴴᴰ 
+https://i.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
+#EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png",🇲🇽 AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/AXN.png",🇲🇽🇺🇸 AXN
+http://173.225.246.25:8889/udp/239.203.20.4:4003
+
+
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",Usa 🇲🇽🇺🇸
+http://186.3.76.238:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",Usa 🇲🇽🇺🇸
+http://138.219.58.234:8112/play/101
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",🇲🇽 ➾ USA 
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png",Warner Tvᴴᴰ
+https://bit.ly/46793nW?/playlist720.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png",🇺🇸🇮🇹 Warner Tv ᴴᴰ 
+http://176.65.146.136:8019/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png",🇲🇽 Warner Tv ᴴᴰ
+http://138.219.58.234:8112/play/081
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://www.warnerbros.com/assets/apple-touch-icon.png",🇲🇽 Warner Tv ᴴᴰ 
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SonyChannel.png",🇲🇽🇺🇸 Sony Channelᴴᴰ
+http://138.219.58.234:8112/play/085
+
+
+#EXTINF:-1 tvg-id="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/hbo.png",HBO Xtreme 🇲🇽🇺🇸
+https://bit.ly/3OPKiaV?/playlist1080p.m3u8
+
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",Star Channel 🇲🇽🇺🇸
+http://138.219.58.234:8112/play/083
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",Star Channel 🇲🇽🇺🇸
+https://bit.ly/45Sagkd?/playlist1080p.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",Hallmark 🇺🇸
+https://bit.ly/3NjZLi9?/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",Hallmark Movies & More ᴴᴰ 🇺🇸[Pluto]
+https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ParamountChannel.jpg",Paramount Network 🇺🇸[Pluto]
+https://bit.ly/ParamountNetwork?/chunklist.m3u8
 #EXTINF:-1 ,HUSTLE TV
 http://89.187.179.242:1578/
 
