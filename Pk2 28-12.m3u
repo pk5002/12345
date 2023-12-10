@@ -1,7 +1,7 @@
 
 
 #EXTINF:-1,tv
-http://tv.cloudcdn.me/live.ts?channelId=197&uid=5049&deviceMac=00:1A:79:17:C0:8F
+http://tv.cloudcdn.me/live.ts?channelId=260&uid=5049&deviceMac=00:1A:79:17:C0:8F
 
 #EXTINF:-1,rtv
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
