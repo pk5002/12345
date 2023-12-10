@@ -1,9 +1,7 @@
 
 
 #EXTINF:-1,tv
-http://tv.cloudcdn.me/live.ts?channelId=260&uid=5049&deviceMac=00:1A:79:17:C0:8F
-
-#EXTINF:-1,rtv
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8#EXTINF:-1,rtv
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,GAZI 
 http://103.109.56.116/live/skyfeed1006/index.m3u8
