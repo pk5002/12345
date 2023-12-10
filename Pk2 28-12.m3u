@@ -1,4 +1,36 @@
 
+#EXTINF:-1,FOOD NETWORK
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1,DISCOVERY PAKISTAN
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+#EXTINF:-1,CINEPLEX
+http://170.254.18.107/CINEPLEX/index.m3u8
+
+#EXTINF:-1,ZEECINEMA
+http://170.254.18.107/ZEECINEMA/index.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1,BOLLYWOD CLASSIC HS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1,& PICTURE HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF:-1,&PICTURES HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:-1,ZEE CINENA HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:-1,ZEE ACTION
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:-1,ZEE BOLLYWOD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
+#EXTINF:-1,MOVIE HOUSE
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1,ENTERTEN HD
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:-1,HD TV
+https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/62717aac-9e26-4811-8255-eecd869e06c3:SIN/master.m3u8
 #EXTINF:-1,DISCOVER
 https://varun-iptv.netlify.app/m3u/discoverykannada.m3u8
 #EXTINF:-1, Colors 
