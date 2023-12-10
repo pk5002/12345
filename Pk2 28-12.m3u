@@ -1,6 +1,7 @@
 
-
-#EXTINF:-1,tv
+#EXTINF:-1,DISCOVER
+https://varun-iptv.netlify.app/m3u/discoverykannada.m3u8
+#EXTINF:-1, Colors 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8#EXTINF:-1,rtv
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,GAZI 
