@@ -41,20 +41,11 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1,CUMILLA 24
 http://103.149.142.133/0.m3u8
-#EXTINF:-1,tv
+#EXTINF:-1, S CHANNEL 
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
-#EXTINF:-1,TV2
+#EXTINF:-1,DEEN CHANNEL
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1,mcncdndigital
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1,booglebollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1,mntv
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1,mntv
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1,purpletv
-https://singamcloud.in/purpletv/purpletv/index.m3u8
+
 #EXTINF:-1,Zeecinemalu
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF:-1,Zeea Zeebangla
