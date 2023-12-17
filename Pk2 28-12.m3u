@@ -2252,14 +2252,16 @@ https://bit.ly/3A67lFz?/playlist.m3u8
 ==== TRACE MUSIC ====
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",🎶➾ Trace Urban
+#EXTINF:-1,Trace Urban
 http://95.67.12.82:9068/
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",🎶➾ Trace Urban ²
+#EXTINF:-1,Trace Urban ²
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-
-
+#EXTINF:-1  Sol Musica
+https://bit.ly/47gjVkn?/playlist.m3u8
+#EXTINF:-1 MCM Top 
+http://iptv.prosto.tv:7000/ch137/video.m3u8
+#EXTINF:-1  Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
 
 ==== COUNTRY MUSIC ====
 
@@ -2272,14 +2274,6 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SolMusica.png",🇪🇸 🎶➾ Sol Musica
-https://bit.ly/47gjVkn?/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png",🇫🇷 🎶➾ MCM Top 
-http://iptv.prosto.tv:7000/ch137/video.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png",🎶➾ Afrobeats TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/radio-birikina.png",🇮🇹 🎶➾ Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 
 
 
