@@ -777,29 +777,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B
 
 ...
 
-#EXTINF:-1, VIJU SPORTS
-https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-#EXTINF:-1 ,Sony Sports Ten 1 HD(BD)
-http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-#EXTINF:-1 ,Sony Sports Ten 2 HD(Toffee)
-http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
-#EXTINF:-1 ,Sony Sports Ten 5(Flixhub)
-http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-#EXTINF:-1 ,TNT Sports 1 ru
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-#EXTINF:-1 ,Star Sports 1
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
-#EXTINF:-1 ,Astro Cricket 1 HD
-http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
-#EXTINF:-1 ,Sky Sports Cricket
-https://sports.freesportstime.com/live/streamfreecric.m3u8
-
-#EXTINF:-1 ,Tsports HD
-http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#
 #EXTINF:-1 ,Willow Cricket HD
 http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 ,Astro 🇲🇾 Cricket HD
@@ -810,10 +788,7 @@ https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 #EXTINF:-1 ,Willow Extra TV
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 
-#EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 ,TLT + Willow Sports
-http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
+
 #EXTINF:-1 ,TNT Sports 4 🇮🇪
 http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
 #EXTINF:-1 ,sport
@@ -2231,21 +2206,17 @@ http://188.191.160.238:7780/udp/239.195.1.193:1234
 ==== VEVO MUSIC CHANNELS ====
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",VEVO
+#EXTINF:-1,VEVO
 https://bit.ly/3maJ49S?/live.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",🎶➾ VEVO pop Europe
+#EXTINF:-1, VEVO pop Europe
 https://bit.ly/3sB8b7V?/manifest.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",🎶➾ VEVO 90's
+#EXTINF:-1 , VEVO 90's
 https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",🎶➾ VEVO 80's
+#EXTINF:-1, VEVO 80's
 https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png",🎶➾ VEVO 70's
+#EXTINF:-1,VEVO 70's
 https://bit.ly/3dcUGVE?wmsAuthSign=InspirationLinks
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://sck.pm/9Ap",🎶➾ XITE 80s Flashback
-https://bit.ly/3ojzxCc?/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://sck.pm/uyX",🎶➾ XITE 90s Throwback
-https://bit.ly/3A67lFz?/playlist.m3u8
 
 
 
@@ -2256,53 +2227,20 @@ https://bit.ly/3A67lFz?/playlist.m3u8
 http://95.67.12.82:9068/
 #EXTINF:-1,Trace Urban ²
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  Sol Musica
+#EXTINF:-1,Sol Musica
 https://bit.ly/47gjVkn?/playlist.m3u8
-#EXTINF:-1 MCM Top 
+#EXTINF:-1, MCM Top 
 http://iptv.prosto.tv:7000/ch137/video.m3u8
-#EXTINF:-1  Afrobeats TV
+#EXTINF:-1,Afrobeats TV
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
 
-==== COUNTRY MUSIC ====
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/country%20network.png",The Country Networkᴴᴰ [Stirr]
-https://bit.ly/41YBHFw?/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cmc.gif",🇺🇸 🎶 ➾ California Music Channelᴴᴰ 
-https://cmc-ono.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-logo-kisskissitalia.png.webp",🇮🇹 🎶➾ Radio Kiss Kiss Italia
-https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w755853254.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/51Radio.png",🇮🇹 🎶➾ 51 Radio Tv
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?wmsAuthSign=InspirationLinks
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/88stereo.png",🇨🇷 🎶➾ 88 Stereo
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?wmsAuthSign=InspirationLinks
-
-#EXTINF:-1 tvg-name="" group-title="Music" tvg-logo="https://www.lorini.net/streaming/clientes/OXIGENO%20TV.png",🎶➾ Oxigeno tv
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w807150064.m3u8
-
-
-==== VARIOUS NATIONALITIES MUSIC  ====
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/reloadPlay.png",🇬🇷 🎶➾ Reload Radio
-http://web.onair-radio.eu:1935/video/video/chunklist_w292100545.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="http://rwpromosites.s3-website-us-east-1.amazonaws.com/marketing/images/jingles/kronehit/logo.png",🇦🇹 🎶➾ Kronehit TV
+#EXTINF:-1, Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",🎶➾ Deluxe Musicᴴᴰ
+#EXTINF:-1, Deluxe Musicᴴᴰ
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="localnow_Box Playlist" group-title="Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62193d7b462f855c4901c83b",🇪🇸 🎶➾ Box Playlist
+#EXTINF:-1,Box Playlist
 https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://sck.pm/aazR",🇷🇺 🎶➾ VIVA
+#EXTINF:-1, VIVA
 https://hlss.goodgame.ru/hls/180805.m3u8
 
 
