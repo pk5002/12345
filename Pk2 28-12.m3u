@@ -34,13 +34,13 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1,TOP CINE ROKU
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
 
-#EXTINF:-1,DeeptoTV
+#EXTINF:-1,DEEPTO TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1,deshitv
+#EXTINF:-1,DESH TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1,CUMILLA 24
 http://103.149.142.133/0.m3u8
-#EXTINF:-1,SangeetBangla
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF:-1,tv
 https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1,TV2
