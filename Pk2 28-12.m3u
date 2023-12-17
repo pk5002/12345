@@ -1,25 +1,25 @@
 
-#EXTINF:-1,tennischannel-intl-samsung-uk
+#EXTINF:-1,TENNIS 4K
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1,amgtennisus
+#EXTINF:-1,TENNIS USA
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 
 
-
+#EXTINF:-1,MBC4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1,shls-mbc5-prod-dub
+#EXTINF:-1,MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1,shls-mbcbollywood-prod-dub
+#EXTINF:-1, MBC BOLLYWOOD 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1,shls-mbcplusdrama-prod-dub
+#EXTINF:-1,MBC PLUS DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1,shls-iraq-prod-dub
+#EXTINF:-1,MBC IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1,shls-mbcpersia-prod-dub
+#EXTINF:-1,MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1,shls-rotanaplus-prod-dub
+#EXTINF:-1,ROTANA PLUS
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_4.m3u8
 #EXTINF:-1,tv
 http://210.210.155.35/session/cad736e0-9746-11ee-bfbc-8a0e99a49b4a/uq2663/h/h194/index.m3u8
