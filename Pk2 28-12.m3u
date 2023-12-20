@@ -56,8 +56,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 #EXTINF:-1,FOOD NETWORK
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-#EXTINF:-1,DISCOVERY PAKISTAN
-https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+#EXTINF:-1,MARATHI HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,CINEPLEX
 http://170.254.18.107/CINEPLEX/index.m3u8
 
@@ -83,8 +83,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1,ENTERTEN HD
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
-#EXTINF:-1,HD TV
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/62717aac-9e26-4811-8255-eecd869e06c3:SIN/master.m3u8
+#EXTINF:-1,RISTHEY HD TV
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,DISCOVER
 https://varun-iptv.netlify.app/m3u/discoverykannada.m3u8
 #EXTINF:-1, Colors 
@@ -96,8 +96,8 @@ http://103.109.56.116/live/skyfeed1006/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,ASIAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1,TV
-http://175.107.244.52:4457/play/a08g/16214004.m3u8
+#EXTINF:-1,COLORS CINEPLEX TV
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,jagonews24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF: -1,BTV
@@ -123,48 +123,48 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/
 #EXTINF:-1,Ekhon-Tv
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Ekattor_TV_HD
-http://tv3.ebox.live:8082/Ekattor_TV_HD/tracks-v1a1/mono.m3u8?token=5ebdc4071bef6e8d8ea4b37e9060015d5134c7d8-3b2c19de1b43dda1eceea6d9491395fc-1699090153-1699079353
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Ekattor_TV_HD
-http://tv3.ebox.live:8082/Ekattor_TV_HD/tracks-v1a1/mono.m3u8?token=ef9b6c3983cb9e1c8754907949b9cfd46f85a581-ae5fe20515b8283df3c290eca477800c-1699088667-1699077867
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1,Deepto-Tv
-http://tv3.ebox.live:8082/Deepto-Tv/tracks-v1a1/mono.m3u8?token=b5a09334b089d0145143f9f310ca56f27788e790-875e23b4a03d843f923c09c238b432d6-1699090194-1699079394
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Independent_TV_SD
-http://tv3.ebox.live:8082/Independent_TV_SD/tracks-v1a1/mono.m3u8?token=ee31be6d1c611296e236458b3980931f283ca04f-a687c98038b41c510d6e2ac9eb09d70b-1699090225-1699079425
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1,Ekushey_Tv_SD
-http://tv3.ebox.live:8082/Ekushey_Tv_SD/tracks-v1a1/mono.m3u8?token=c723704bb37878f86788919baddcccae350126b0-75c728258617d9317032c138f96fbe47-1699090252-1699079452
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 #EXTINF:-1,Bangla_Vision_HD
-http://tv3.ebox.live:8082/Bangla_Vision_HD/tracks-v1a1/mono.m3u8?token=8a5f1d2fb69556cdac9434e9e2eee5aeb46fb05f-dd658eec6806c0f48144219cd9533af6-1699090280-1699079480
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1,Bangla_TV_HD
-http://tv3.ebox.live:8082/Bangla_TV_HD/tracks-v1a1/mono.m3u8?token=4e395a3028cf13896f776d97a580c728be56b2d7-cef7ea71e6a2a26624b81f784de8093f-1699090306-1699079506
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
 #EXTINF:-1,SA_TV_HD
-http://tv3.ebox.live:8082/SA_TV_HD/tracks-v1a1/mono.m3u8?token=0c6cf2a7609edb2c55b5c76724116c3868b3b6f5-47310d2eec2fb8fa03e267e266d8c27d-1699090338-1699079538
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
 #EXTINF:-1,My_Tv
-http://tv3.ebox.live:8082/My_Tv/tracks-v1a1/mono.m3u8?token=f5f652550581bf424336addbb465d9a10419da1c-7bb1ad7da65003d75a839fc7fc65a9ac-1699090380-1699079580
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
 #EXTINF:-1,Ananda_TV_SD
-http://tv3.ebox.live:8082/Ananda_TV_SD/tracks-v1a1/mono.m3u8?token=9520755da4e89535c95ad750b7c7dc4213621f94-1d37bae1daa93336a29896e404071e26-1699089509-1699078709
+https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1,Channel_24_HD
-http://tv3.ebox.live:8082/Channel_24_HD/tracks-v1a1/mono.m3u8?token=2fe13826768bbb08951f4663af4ff064f55cb719-c3ba0ea5c465150af768b13d240e1f64-1699089587-1699078787
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?=Samitvhd.com
 #EXTINF:-1,Channel_9_HD
-http://tv3.ebox.live:8082/Channel_9_HD/tracks-v1a1/mono.m3u8?token=64a628e181217e57eb66137568a355b3ba618bfc-8a090faf140055aff1e09fe4884e00b0-1699089614-1699078814
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1,channeli
-http://tv3.ebox.live:8082/channeli/tracks-v1a1/mono.m3u8?token=c1a5c75d3b6649eb9d13a69b3c4277cbc817ac4f-3af069f18accdbe3aec32442dd1a0bdb-1699089640-1699078840
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1,Mohona_Tv
-http://tv3.ebox.live:8082/Mohona_Tv/tracks-v1a1/mono.m3u8?token=bd8a61ba1fb583479f3031261a0a4f7698309c74-fb81ea6a5d21fa01616fe99561f6090d-1699089696-1699078896
+http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1,NEXUS TV
-http://tv3.ebox.live:8082/Nexus_TV_HD/tracks-v1a1/mono.m3u8?token=f60aa0ed66a3cda9000eb6d876bca687ad9d8bc0-36b7ae66cbf6399391e64664ce55b72a-1699042192-1699031392
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1,GLOBAL TV
-http://tv3.ebox.live:8082/Global_Tv/tracks-v1a1/mono.m3u8?token=d39f682f753ceab2da81c13d26155bde149edf4a-da5fc6a8a121484b8f0fd4a71e4a817d-1699042224-1699031424
+http://210.210.155.35/session/969099fc-9f5d-11ee-98d7-a51e9f7a4573/dr9445/h/h21/index.m3u8
 #EXTINF:-1,DESH TV
-http://tv3.ebox.live:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8?token=7c08303838314fd15ebb287e6074441023143e90-6ccb450e7393dc7e19f80f438069654d-1699042257-1699031457
+http://210.210.155.35/session/a7e00db4-9f5d-11ee-be2c-8d08be954788/dr9445/h/h20/01.m3u8
 #EXTINF:-1,BIJOY TV
 http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9b9e49b59bbeba7734855ab6f8e-a59d58a15da970b2bbf5491dedc9e6a6-1699042288-1699031488
-#EXTINF:-1,NTV
-http://tv3.ebox.live:8082/NTV_SD/tracks-v1a1/mono.m3u8?token=2204a026deab74f94b2e0c707296633623304196-a582354edcfd91d99ce050c39fd42fbc-1699042313-1699031513
-#EXTINF:-1,NEXUS TV
-http://tv3.ebox.live:8082/Nexus_TV_HD/tracks-v1a1/mono.m3u8?token=f60aa0ed66a3cda9000eb6d876bca687ad9d8bc0-36b7ae66cbf6399391e64664ce55b72a-1699042192-1699031392
-#EXTINF:-1,GLOBAL TV
-http://tv3.ebox.live:8082/Global_Tv/tracks-v1a1/mono.m3u8?token=d39f682f753ceab2da81c13d26155bde149edf4a-da5fc6a8a121484b8f0fd4a71e4a817d-1699042224-1699031424
+#EXTINF:-1,MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1, ETV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,DESH TV
 http://tv3.ebox.live:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8?token=7c08303838314fd15ebb287e6074441023143e90-6ccb450e7393dc7e19f80f438069654d-1699042257-1699031457
 #EXTINF:-1,BIJOY TV
