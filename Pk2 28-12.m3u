@@ -101,27 +101,27 @@ http://175.107.244.52:4457/play/a08g/16214004.m3u8
 #EXTINF:-1,jagonews24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF: -1,BTV
-http://tv3.ebox.live:8082/Btv-Hd/tracks-v1a1/mono.m3u8?token=35390237ffeafe96799a4604e054e111976e95a1-e62f22def9f25a3d1290d0bae0884533-1700023052-1700012252
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Btv-World
-http://tv3.ebox.live:8082/Btv-World/track-v1a1/mono.m3u8?token=1bc3fa1e7b3b69a5f3ef6a19a96e417c268f565f-1fda799d72eacac92cc38d0501438f7e-1699192920-1699182120
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,ATN_Bangla
-http://tv3.ebox.live:8082/ATN_Bangla_SD/tracks-v1a1/mono.m3u8?token=c1a77f56c5c155d1cffe08dde7656ed942531dfe-460dee750896c8217c5bf6b1afd437f6-1699134539-1699123739
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, MASSRAGHA TELEVISION 
-http://tv3.ebox.live:8082/masranga/tracks-v1a1/mono.m3u8?token=c030eee4a87d056cb0b4b1a8e54f9beff9074352-3766ea8c10441e18a329d5fae74ea829-1699294674-1699283874
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 
 #EXTINF:-1,SOMMOY TV
-http://tv3.ebox.live:8082/somoy/tracks-v1a1/mono.m3u8?token=961e703bf5b813abb46db4c1a9a7f6c4c04b467a-4a6f73f31ff50cb74e0556ddd3df7081-1699134442-1699123642
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,RTV
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Asian_TV_HD
-http://tv3.ebox.live:8082/Asian_TV_HD/tracks-v1a1/mono.m3u8?token=dea8ee19ff51ccf90b4a0b532a2fb103aa675561-7747dad1517a3ac6ff4f2d22a84a858e-1699134506-1699123706
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,News_24_HD
-http://tv3.ebox.live:8082/News_24_HD/tracks-v1a1/mono.m3u8?token=06be89d10766be2445171f1696b8c3e48b8a8b65-2339806b283eba75566785f542a56bfc-1699192839-1699182039
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Gaan-Bangla
-http://tv3.ebox.live:8082/Gaan-Bangla/tracks-v1a1/mono.m3u8?token=e1e70f7ba8902e4600801d424f12dc3344a5fc4a-5f538b50bd9f0fbb8d16f9d2cf3bc9f0-1699192955-1699182155
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Ekhon-Tv
-http://tv3.ebox.live:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8?token=13b7e429bd117a8525bbdf95832f16fe28d2689b-04e888cf1ad5c5f0a4effd9b253f60bc-1699090120-1699079320
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Ekattor_TV_HD
 http://tv3.ebox.live:8082/Ekattor_TV_HD/tracks-v1a1/mono.m3u8?token=5ebdc4071bef6e8d8ea4b37e9060015d5134c7d8-3b2c19de1b43dda1eceea6d9491395fc-1699090153-1699079353
 #EXTINF:-1,Ekattor_TV_HD
