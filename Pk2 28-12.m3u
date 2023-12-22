@@ -100,50 +100,50 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,jagonews24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF: -1,BTV
+#EXTINF: -1,MTV HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Btv-World
+#EXTINF:-1,MTV BEATS SD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,ATN_Bangla
+#EXTINF:-1,MTV BEATS HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1, MASSRAGHA TELEVISION 
+#EXTINF:-1, SONIC NICKELODEON 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 
-#EXTINF:-1,SOMMOY TV
+#EXTINF:-1,NICK HD PLUS
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,RTV
+#EXTINF:-1,NICK JUNIOR
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Asian_TV_HD
+#EXTINF:-1,COLORS INFINITY
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,News_24_HD
+#EXTINF:-1,COMEDY CENTRAL
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Gaan-Bangla
+#EXTINF:-1,COLORS TAMIL
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Ekhon-Tv
+#EXTINF:-1,COLORS BANGLA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Ekattor_TV_HD
+#EXTINF:-1,COLORS KANNADA
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Ekattor_TV_HD
+#EXTINF:-1,COLORS GUJARATI
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1,Deepto-Tv
+#EXTINF:-1,RISHTEY CINEPLEX
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Independent_TV_SD
+#EXTINF:-1,WE TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
-#EXTINF:-1,Ekushey_Tv_SD
+#EXTINF:-1,INVESTIGATION DISCOVERY
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-#EXTINF:-1,Bangla_Vision_HD
+#EXTINF:-1,MAZHAVIL MANOROMA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1,Bangla_TV_HD
+#EXTINF:-1, ROTANA CINEMA
 https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
-#EXTINF:-1,SA_TV_HD
+#EXTINF:-1,ROTANA CINEMA
 https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
-#EXTINF:-1,My_Tv
+#EXTINF:-1,ROTANA COMEDY
 https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-#EXTINF:-1,Ananda_TV_SD
+#EXTINF:-1,ROTANA MUSIC
 https://daiconnect.com/live/hls/rotana/music/.m3u8
-#EXTINF:-1,Channel_24_HD
+#EXTINF:-1,C
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?=Samitvhd.com
 #EXTINF:-1,Channel_9_HD
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
