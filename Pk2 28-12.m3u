@@ -915,13 +915,70 @@ http://tv.cloudcdn.me:80/live.ts?channelId=444&uid=7435&deviceMac=00:1A:79:51:4B
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",PTV NATIONAL
 http://tv.cloudcdn.me:80/live.ts?channelId=445&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-
-
-#
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/3775381.jpg" group-title="𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙆𝙄   𝘾𝙃𝘼𝙉𝙉𝙀𝙇",SEE TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=450&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
+
+
+#EXTINF:-1,TV1
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/570/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/548/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/547/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/343/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/341/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/344/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/546/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/339/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/334/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/314/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/64/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/43/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/42/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/37/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/34/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/36/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/32/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/31/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/30/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/29/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/28/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/27/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/61/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/24/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/23/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/17/index.m3u8
+#EXTINF:-1,TV
+http://195.181.175.69:2080/22/index.m3u8
+#EXTINF:-1,TV
+https://edge-uk1.manoto.click/live.m3u8
 
 
 
