@@ -3,8 +3,8 @@
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,ZEE WORLD
 https://da6c334e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/ae377865-0f27-4dbe-9910-7309830ea0fd/4.m3u8
-#EXTINF:-1,hugama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8?hdnts=st=1712580901~exp=1712584501~acl=!*/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/*!yuppTVCom_61_-1_bd44e0f2ee794b3b_BD_103.100.235.170/payload/yuppTVCom_61_-1_bd44e0f2ee794b3b_BD_103.100.235.170/*~hmac=44a6a0e30af4046495f550677293ff6b21ae60e26c75d7851a1a9dbfd2595a5d&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=6572&ads.channel_name=BollywoodHungama&ads.network_name=yupptv&ads.user=0
+#EXTINF:-1,DESH TV
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=DwHEy1aGBXRC8QebRVccXg&expires=1714371186&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1, Moon tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
@@ -12,12 +12,12 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=d_N-2Ck60WVMTO6F7fukiw&expires=1714370899&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1,SOMMOY NEWS
 https://iv.melmac.space/api/manifest/hls_variant/expire/1712598088/ei/6NcTZonZAfnti9oPg-mggAw/ip/2a0a%3A4580%3A1011%3Aa100%3A%3A337%3A9f1f/id/e_BQWtx15qI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118564/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_8X8ktCUam-102KYxtDUDooy6SQVijH8ts/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKsn2_gATwBBaOcu-qONS1q90BZT8Tbiqg3JEbDmIlNZAiAMOE3VFb-pcyvQumYihk789QUx2cMY011COn7z0bR5uA%3D%3D/file/index.m3u8
-#EXTINF:-1,BBO
-https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/playlist.m3u8?hdnts=st=1712580585~exp=1712581185~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_61_-1_bd44e0f2ee794b3b_BD_103.100.235.170/payload/yuppTVCom_61_-1_bd44e0f2ee794b3b_BD_103.100.235.170/*~hmac=7e0bb9dfbaa7c7b9d20f52a76f33db56fcf5d000d03549487eba5863aa5d73ab&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=0
+#EXTINF:-1,71 tv
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=9dxbyPbz1NARje-lqn9v8A&expires=1714371242&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1,Bangla vision
 https://iv.melmac.space/api/manifest/hls_variant/expire/1712596662/ei/VtITZpPEAeKI6dsPjLC8qAo/ip/2a0a%3A4580%3A1011%3Aa100%3A%3A337%3A9f1f/id/swRhx6JcZ88.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8JlumilKhxWGt4JF1_5d-22N98YyXgu_Fo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPa66QXP4AJgjfy1X9N4BgKJDqg0_p1vwA4YgeD7GN1OAiB07dtBrL3oCGD-l8hzN4N9OvTkzX2kQ4yIasSeo4vOoQ%3D%3D/file/index.m3u8
-#EXTINF:-1, A
-https://iv.melmac.space/api/manifest/hls_variant/expire/1712596032/ei/4M8TZou0LN6a1gL214ngBg/ip/2a0a%3A4580%3A1011%3Aa100%3A%3A337%3A9f1f/id/suSPQSFq8S4.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51138684/txs/51138683%2C51138684%2C51138685%2C51138686%2C51138687/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8nae0pxiKgb4bteskmIVER48hu5TXr9R5o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKtQcHEfWi0QTJmq0O0VHfC1kqm-XiWVBW3sWCCYcw3UAiAP9vK6WEiLvAKUel-uzxAI_Yyy_8SYyjp1sUZTVap00A%3D%3D/file/index.m3u8
+#EXTINF:-1, BIJOY TV
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=4hlzEynB7FCaJVg558mmbA&expires=1714371077&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1,RTV 
 https://iv.melmac.space/api/manifest/hls_variant/expire/1712593514/ei/CsYTZpbSLI6l1wKx5Kb4AQ/ip/2a0a%3A4580%3A1011%3Aa100%3A%3A337%3A9f1f/id/pHoWD51ZhtI.1~45619229/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129850/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1kBBZnqrrnDS0dmU7zt51zoOfRL7UJ5-NUJXI41b8E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDAIXFUY7YfVwO_U61ZKH_toxM88LpqxRYVLE80hd6cwCIFOcBWI-0Uq7fdT_wMrq1OBsafiMhfK0GF8nfiz6upH0/file/index.m3u8
