@@ -34,7 +34,7 @@ http://live.sanandatelevision.in:2020/sananda/index.m3u8
 #EXTINF:-1, tv2
 https://live.bongobd.com/hls/mRLYykt9uxmIBynkvqiH3Q/1723468898/jamuna_tv.m3u8
 #EXTINF:-1,tv3
-https://dai.google.com/linear/hls/pb/event/LXlUkw84QayJjYS76yXWcg/stream/38578d2f-8e5c-4f20-a977-300981585df2:SIN/variant/fc422c1704d1bf95b103a2944c5e07b8/bandwidth/2048000.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
 #EXTINF:-1,fashion tv 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #EXTINF:-1,MAASRANGA TV
