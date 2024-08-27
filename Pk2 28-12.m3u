@@ -29,8 +29,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1, asian music
 https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1, SANANDA TELEVISION 
-http://176.119.29.52/live.ts?channelId=106&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#EXTINF:-1,DISCOVERY
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1, tv2
 http://server4.ftpbd.net/
 #EXTINF:-1,tv3
