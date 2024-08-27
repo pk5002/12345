@@ -8,10 +8,10 @@ http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1,EUROPE BANGLA
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-
-
-
-
+#EXTINF:-1,BRAZZERS TV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1,BABEAS TV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1,DORCEL TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
