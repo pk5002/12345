@@ -9,6 +9,12 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF:-1,EUROPE BANGLA
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
+
+
+
+#EXTINF:-1,DORCEL TV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
 #EXTINF:-1,LOTUS MACAU TV1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1,MOVIE BANGLA 
