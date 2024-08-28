@@ -8,8 +8,11 @@ http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1,EUROPE BANGLA
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1,FOX ACTION MOVIE
+http://xtv.ooo:8080/live/danyear12/am809100/353001.ts
 
-
+#EXTINF:-1,STAR MOVIE
+http://xtv.ooo:8080/live/danyear12/am809100/353002.ts
 #EXTINF:-1,STAR MA MOVIE
 http://xtv.ooo:8080/live/danyear12/am809100/381155.ts
 
