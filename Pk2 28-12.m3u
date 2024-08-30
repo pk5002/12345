@@ -1,18 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,LOTUS MACAU TV1
+#EXTINF:-1,SANGET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1,MOVIE BANGLA 
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjQgNjo0MTo1MiBQTSZoYXNoX3ZhbHVlPXkxN3ZNc3JKTHVXTkl5VkQyNEJVL3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
@@ -23,8 +10,7 @@ http://supersonictv.live:8080/live/439090/246943/22122.ts
 #EXTINF:-1,V1+TV
 http://supersonictv.live:8080/live/439090/246943/22178.ts
 
-#EXTINF:-1,MAASRANGA TV
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
 #EXTINF:-1,TRAVEL XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discover Pakistan 
@@ -42,7 +28,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #EXTINF:-1,MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, DBC NEWS
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjQgNjozODoyNCBQTSZoYXNoX3ZhbHVlPS9MZzdZTll0Y3E1SytuSzN4SzN1YlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1,massraga
@@ -65,41 +50,12 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1,MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
-#EXTINF:-1,DUBAI ONE
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,CINE REAL
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-#EXTINF:-1,TOP CINE ROKU
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
-
-#EXTINF:-1,DEEPTO TV
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1,DESH TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
-
-#EXTINF:-1,CUMILLA 24
-http://103.149.142.133/0.m3u8
-#EXTINF:-1, S CHANNEL 
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
-#EXTINF:-1,DEEN CHANNEL
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-
-
 #EXTINF:-1,FOOD NETWORK
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-#EXTINF:-1,MARATHI HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,CINEPLEX
-http://170.254.18.107/CINEPLEX/index.m3u8
-
-#EXTINF:-1,ZEECINEMA
-http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1,BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1,BOLLYWOD CLASSIC HS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
 
 #EXTINF:-1,MOVIE HOUSE
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
@@ -129,7 +85,8 @@ http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
 
-#EXTM3U
+#EXTINF:-1,group-title="BANGLA🇧🇩🇧🇩 IPTV",MAASRANGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 ,group-title="BANGLA🇧🇩🇧🇩 IPTV",BTV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 ,group-title="BANGLA🇧🇩🇧🇩 IPTV",Ekushey TV
