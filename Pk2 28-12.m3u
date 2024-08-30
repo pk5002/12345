@@ -3,8 +3,8 @@
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,TRACE SPORTS 
 http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1,ENTERTAINMENT BANGLA
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+ENTERTAINMENT BANGLA
+
 #EXTINF:-1,FOX ACTION MOVIE
 http://xtv.ooo:8080/live/danyear12/am809100/353001.ts
 
@@ -54,8 +54,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #EXTINF:-1,MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,একুশে TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1, DBC NEWS
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjQgNjozODoyNCBQTSZoYXNoX3ZhbHVlPS9MZzdZTll0Y3E1SytuSzN4SzN1YlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
@@ -130,10 +128,10 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",BANGLATV EUROPE
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",eTEN TV
-https://iptvbd.live/test/1080.m3u8
-#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",I IPTV BD
-http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",🇧🇩 ENTERTAINMEN BANGL TV🇧🇩
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",একুশে টিভি
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",Movie Bangla
