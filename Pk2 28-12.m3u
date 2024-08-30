@@ -1,13 +1,10 @@
-n#EXTINF:-1,BANGLA 24
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+
 #EXTINF:-1,sangeet bhojpuri
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,TRACE SPORTS 
 http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1,ENTERTAINMENT BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF:-1,EUROPE BANGLA
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1,FOX ACTION MOVIE
 http://xtv.ooo:8080/live/danyear12/am809100/353001.ts
 
@@ -82,17 +79,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1,MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1,ROTANA PLUS
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_4.m3u8
-#EXTINF:-1,MOVIEBOX
-https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-#EXTINF:-1,CENTERAL 
-https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
 
-#EXTINF:-1,AMAZON MOVIE
-https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1,ROCK ACTION 
-http://210.210.155.37/session/b7a42a82-9747-11ee-8432-8fa1a1b5b65f/dr9445/h/h15/index.m3u8
 #EXTINF:-1,DUBAI ONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,CINE REAL
@@ -112,14 +99,7 @@ https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1,DEEN CHANNEL
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
-#EXTINF:-1,Zeecinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-#EXTINF:-1,Zeea Zeebangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1,Zeebangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1,Zeemarathihd
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+
 #EXTINF:-1,FOOD NETWORK
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1,MARATHI HD
@@ -134,97 +114,43 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,BOLLYWOD CLASSIC HS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1,& PICTURE HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:-1,&PICTURES HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:-1,ZEE CINENA HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1,ZEE ACTION
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF:-1,ZEE BOLLYWOD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
 #EXTINF:-1,MOVIE HOUSE
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1,ENTERTEN HD
-http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
-#EXTINF:-1,RISTHEY HD TV
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,DISCOVER
-https://varun-iptv.netlify.app/m3u/discoverykannada.m3u8
-#EXTINF:-1, Colors 
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8#EXTINF:-1,RTV
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1,GAZI 
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1, manoto http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1,ASIAN TV
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1,COLORS CINEPLEX TV
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,jagonews24
-http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF: -1,MTV HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,MTV BEATS SD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,MTV BEATS HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1, SONIC NICKELODEON 
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-
-
-
-#EXTINF:-1,WE TV
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-#EXTINF:-1,MAZHAVIL MANOROMA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-
-#EXTINF:-1,C
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?=Samitvhd.com
-#EXTINF:-1,Channel_9_HD
-http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1,channeli
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1,Mohona_Tv
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-#EXTINF:-1,NEXUS TV
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1,GLOBAL TV
-http://210.210.155.35/session/969099fc-9f5d-11ee-98d7-a51e9f7a4573/dr9445/h/h21/index.m3u8
-#EXTINF:-1,DESH TV
-http://210.210.155.35/session/a7e00db4-9f5d-11ee-be2c-8d08be954788/dr9445/h/h20/01.m3u8
-#EXTINF:-1,BIJOY TV
-http://tv3.ebox.live:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8?token=b82287a597a0f9b9e49b59bbeba7734855ab6f8e-a59d58a15da970b2bbf5491dedc9e6a6-1699042288-1699031488
-#EXTINF:-1,MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1, ETV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 
 
-#EXTINF:-1,group-title="BANGLA IPTV",AB TV
-http://208.86.19.13:81/501.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",eTEN TV
+
+🇧🇩🇧🇩🇧🇩🇧🇩বাংলা টিভি🇧🇩🇧🇩🇧🇩🇧🇩
+
+
+
+#EXTINF:-1,group-title="BANGLA🇧🇩🇧🇩 IPTV",BANGLA24 TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",BANGLATV EUROPE
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",eTEN TV
 https://iptvbd.live/test/1080.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",I IPTV BD
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",I IPTV BD
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",itv
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",Movie Bangla
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",Times Television
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",Times Television
 http://208.86.19.13:81/506.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA IPTV",
+#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="BANGLA_JAGO",AB TV USA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/abtvusa.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA_JAGO",AKHON TV
