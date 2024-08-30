@@ -14,29 +14,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/353001.ts
 #EXTINF:-1,STAR MOVIE
 http://xtv.ooo:8080/live/danyear12/am809100/353002.ts
 #EXTINF:-1,STAR MA MOVIE
-http://xtv.ooo:8080/live/danyear12/am809100/381155.ts
-
-#EXTINF:-1,BRAZZERS TV
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1,BABEAS TV
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1,DORCEL TV
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-
-#EXTINF:-1,PENTHOUSE
-http://78.130.250.2:8023/play/a005/index.m3u8
-#EXTINF:-1,DESIRE HD
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1,EROXXX HD
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1,EROX HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1,EXTASTY HD
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1,LEO HD
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1,REALITY KINGS
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+http://xtv.ooo:8080/live/danyear12/am809100/381155.tst
 
 
 
@@ -73,7 +51,7 @@ https://amchls.wns.live/hls/stream.m3u8
 http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1,FASHION TV
 http://188.113.190.11/194/tracks-v1a1/index.m3u8
-#EXTINF:-1,tv3
+#EXTINF:-1,MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
 #EXTINF:-1,fashion tv 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
