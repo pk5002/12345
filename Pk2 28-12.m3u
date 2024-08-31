@@ -3,12 +3,9 @@
 
 #EXTINF:-1,V1+TV
 http://supersonictv.live:8080/live/439090/246943/22178.ts
+ts
 
 
-#EXTINF:-1,TRAVEL XP
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Discover Pakistan 
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1, asian music
 https://amchls.wns.live/hls/stream.m3u8
@@ -326,6 +323,10 @@ http://supersonictv.live:8080/live/439090/246943/22045.ts
 #EXTINF:-1,group-title="ANIMAL"NETGEO WILD
 http://supersonictv.live:8080/live/439090/246943/22122.ts
 
+#EXTINF:-1,group-title="ANIMAL"TRAVEL XP
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Discover Pakistan 
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 
 
