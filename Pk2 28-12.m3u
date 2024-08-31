@@ -301,23 +301,12 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 #EXTINF:-1,group-title="ANIMAL"ANIMAL PLANET
 http://supersonictv.live:8080/live/439090/246943/22045.ts
 #EXTINF:-1,group-title="ANIMAL"NETGEO WILD
-http://supersonictv.live:8080/live/439090/246943/22122.ts
-
+http://supersonictv.live:8080/live/439090/246943/22122.ts
 #EXTINF:-1,group-title="ANIMAL"TRAVEL XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Discover Pakistan 
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-
-
-🦣🦣🦣🦣🦙🦙🦙🦙🐿️🐿️🐿️ANIMALCHANNEL🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣
-
-
-
-#EXTINF:0 tvg-id=""group-title="Kids & Information", Disney
-http://xtv.ooo:8080/live/090909/090909/167551.ts
-#EXTINF:-1 group-title="Kids & Information",Gubbare
-https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
 #EXTINF:-1 tvg-id="567" group-title="Kids & Information"tvg-language="English" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="566" group-title="Kids & Information"tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet Hindi
@@ -328,8 +317,6 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="242" group-title="Kids & Information"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-#EXTINF:-1 tvg-id="554" group-title="Kids & Information"tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU",Discovery Kids
-https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:-1 tvg-id="568" group-title="Kids & Information"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 #EXTINF:-1 tvg-id="568" group-title="Kids & Information"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science Hindi
@@ -354,6 +341,19 @@ https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="571" group-title="Kids & Information"tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC Hindi HD
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
+
+
+
+🦣🦣🦣🦣🦙🦙🦙🦙🐿️🐿️🐿️ANIMALCHANNEL🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣
+
+
+
+#EXTINF:0 tvg-id=""group-title="Kids ", Disney
+http://xtv.ooo:8080/live/090909/090909/167551.ts
+#EXTINF:-1 group-title="Kids",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+#EXTINF:-1 tvg-id="554" group-title="Kids"tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU",Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
 
 
