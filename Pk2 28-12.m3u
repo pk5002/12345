@@ -55,14 +55,9 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1,group-title="MBC",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+EXTINF
 
 
-
-
-
-
-#EXTINF:-1,FOOD NETWORK
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1,BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1,BOLLYWOD CLASSIC HS
@@ -339,6 +334,13 @@ https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="566" group-title="Kids & Information"tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet Hindi
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+
+
+
+
+#EXTINF:-1,group-title="Kids & Information"FOOD NETWORK
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-id="242" group-title="Kids & Information"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery English HD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="242" group-title="Kids & Information"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery Hindi HD
@@ -552,7 +554,14 @@ http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116482
 
 
 
-❤️❤️❤️❤️❤️❤️#EXTM3U❤️❤️❤️❤️❤️❤️❤️
+❤️❤️❤️❤️❤️❤️#EXTM3U❤️❤️❤️❤️❤️❤️❤️😛😛🇦🇶😛🍎🥒🥒🥒🥒🥒🥒🥒🥉🥉🥒🥉🥉🥒🍎🫠
+🛂🛂🛂🛂🛂🛂🛂🛂🛂🛂🛂🛂🛂🛂😭😭🛂🛂
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C55L4CRQ/download-2.png" tvg-chno="6" group-title="FreoTV",STAR PRAVAH-HD
 http://tv.cloudcdn.me/live.ts?channelId=28128&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwwk4fbx/download-3.png" tvg-chno="8" group-title="FreoTV",STAR BHARAT HD
