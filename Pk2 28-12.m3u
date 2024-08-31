@@ -1,21 +1,23 @@
 
 
-
-#EXTINF:-1,V1+TV
+#EXTINF:-1,group-title="MUSIC",sangeet bhojpuri
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1,TRACE SPORTS 
+http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1,group-title="MUSIC",V1+TV
 http://supersonictv.live:8080/live/439090/246943/22178.ts
 ts
-#EXTINF:-1, asian music
+#EXTINF:-1,group-title="MUSIC",asian music
 https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1,FASHION TV
-http://188.113.190.11/194/tracks-v1a1/index.m3u8
-#EXTINF:-1,MUSIC INDIA
+#EXTINF:-1,group-title="MUSIC",MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
-#EXTINF:-1,fashion tv 
+
+🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲
+
+
+#EXTINF:-1,group-title="FASHION",fashion tv 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-#EXTINF:-1,MAASRANGA TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,massraga
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=YvAeDeVANEISqZtFFQ64cw&expires=1719117619&user=ff39d05fef0749028389f28943b73363
+
 
 
 
@@ -597,14 +599,10 @@ http://tv.cloudcdn.me/live.ts?channelId=152&uid=2496&deviceMac=00:1A:79:A8:9C:32
 
 
 
-#EXTINF:-1 ,Discovery HD [BANGLA]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
 
-#EXTINF:-1,sangeet bhojpuri
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1,TRACE SPORTS 
-http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-ENTERTAINMENT BANGLA
+
+
+
 
 #EXTINF:-1,FOX ACTION MOVIE
 http://xtv.ooo:8080/live/danyear12/am809100/353001.ts
