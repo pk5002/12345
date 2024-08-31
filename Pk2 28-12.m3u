@@ -1,6 +1,5 @@
 
-#EXTINF:-1,SANGET BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
 #EXTINF:-1,ANIMAL PLANET
 http://supersonictv.live:8080/live/439090/246943/22045.ts
 #EXTINF:-1,NETGEO WILD
@@ -36,18 +35,32 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1,TENNIS USA
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1,MBC4
+
+
+
+
+
+🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾🇧🇾
+
+
+#EXTINF:-1,group-title="MBC",MBC4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1,MBC5
+#EXTINF:-1,group-title="MBC",MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1, MBC BOLLYWOOD 
+#EXTINF:-1, group-title="MBC",MBC BOLLYWOOD 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1,MBC PLUS DRAMA
+#EXTINF:-1,group-title="MBC",MBC PLUS DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1,MBC IRAQ
+#EXTINF:-1,group-title="MBC",MBC IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1,MBC PERSIA
+#EXTINF:-1,group-title="MBC",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1,FOOD NETWORK
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1,BOLLYWOOD HD
@@ -62,7 +75,7 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
 
 
-🇧🇩🇧🇩🇧🇩🇧🇩বাংলা টিভি🇧🇩🇧🇩🇧🇩🇧🇩
+🇧🇩🇧🇩🇧🇩🇧🇩বাংলা টিভি🇧🇩🇧🇩🇧🇩🇧🇩🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍🌍
 
 
 
@@ -288,7 +301,12 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 
 
-🥯🥯🥯🥯🥯🥯🥯🥯🥯এনিম্যাল চ্যানেল🥦🥦🥦🥦🥦
+
+
+
+
+
+🥯🥯🥯🥯🥯🥯🥯🥯🥯এনিম্যাল চ্যানেল🥦🥦🥦🥦🥦🫣🫣🫣🫣🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦
 
 #EXTINF:-1 group-title="ANIMAL",TLC 🇬🇧
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_19.m3u8
@@ -309,7 +327,10 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 
 
 
-⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️⚛️MUSIC CHANNEL🇦🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳🇭🇳
+🦣🦣🦣🦣🦙🦙🦙🦙🐿️🐿️🐿️ANIMALCHANNEL🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣🦣
+
+
+
 #EXTINF:0 tvg-id=""group-title="Kids & Information", Disney
 http://xtv.ooo:8080/live/090909/090909/167551.ts
 #EXTINF:-1 group-title="Kids & Information",Gubbare
