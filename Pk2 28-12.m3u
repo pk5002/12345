@@ -1,4 +1,4 @@
-
+👜👜👜👜👜👜👜👜👠👠👠👠👠👠👠👠👠👠
 
 #EXTINF:-1,group-title="MUSIC",sangeet bhojpuri
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
@@ -201,8 +201,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#EXTINF: -1,TEN SPORT
-http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
+
 
 
 
@@ -219,12 +218,7 @@ http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
 
 
 
-
-
-
-
-#EXTINF: -1,moviebangla
-http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
 
 
 
@@ -432,7 +426,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 🦬🦬🦬🦬🐿️🦙🦣🦣🦣🦣🦣🦣🏠🏠🏠🏠🏠🏠
 
-
+#EXTINF: -1,group-title="Sports"TEN SPORT
+http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",58. SONY TEN 1 HD 
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282670
