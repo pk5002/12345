@@ -1,9 +1,6 @@
 
 
-#EXTINF:-1,ANIMAL PLANET
-http://supersonictv.live:8080/live/439090/246943/22045.ts
-#EXTINF:-1,NETGEO WILD
-http://supersonictv.live:8080/live/439090/246943/22122.ts
+
 #EXTINF:-1,V1+TV
 http://supersonictv.live:8080/live/439090/246943/22178.ts
 
@@ -303,6 +300,13 @@ https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 
 🥯🥯🥯🥯🥯🥯🥯🥯🥯এনিম্যাল চ্যানেল🥦🥦🥦🥦🥦🫣🫣🫣🫣🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦🇷🇦
 
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ANIMAL",TLC 🇬🇧
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_19.m3u8
 #EXTINF:-1group-title="Sport ",EUROSPORT
@@ -317,7 +321,10 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
 #EXTINF:-1group-title="ANIMAL",ANIMAL PLANET
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
-
+#EXTINF:-1,group-title="ANIMAL"ANIMAL PLANET
+http://supersonictv.live:8080/live/439090/246943/22045.ts
+#EXTINF:-1,group-title="ANIMAL"NETGEO WILD
+http://supersonictv.live:8080/live/439090/246943/22122.ts
 
 
 
