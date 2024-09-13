@@ -4,16 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- BeIN Factual ----★●•" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/beIN-MEDIA-GROUP.png" group-title="BEIN ENTERTAINMENT",•●★--- BeIN Factual ----★●•
-http://xtv.ooo:8080/danyear12/am809100/381381
-#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Dmax HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_dmax.jpg" group-title="BEIN ENTERTAINMENT",AR: Bein Dmax HD
-http://xtv.ooo:8080/danyear12/am809100/381380
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN HGTV HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_HGTV.png" group-title="BEIN ENTERTAINMENT",AR: BeIN HGTV HD
-http://xtv.ooo:8080/danyear12/am809100/381379
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Outdoor HD" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/outdoor_channel_international.png" group-title="BEIN ENTERTAINMENT",AR: BeIN Outdoor HD
-http://xtv.ooo:8080/danyear12/am809100/381378
-#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Discovery Family HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_family_us.png" group-title="BEIN ENTERTAINMENT",AR: BeIN Discovery Family HD
-http://xtv.ooo:8080/danyear12/am809100/381377
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Fatafeat HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fatafeat.png" group-title="BEIN ENTERTAINMENT",AR: BeIN Fatafeat HD
 http://xtv.ooo:8080/danyear12/am809100/381376
 #EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Gourmet HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Gourmet.png" group-title="BEIN ENTERTAINMENT",AR: BeIN Gourmet HD
