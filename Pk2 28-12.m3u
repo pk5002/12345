@@ -1,15 +1,11 @@
 
-
-
-
-
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/zee_tv.jpg",ZEE TV (4K)
+#EXTINF:-1,tvg-logo="http://openboxv8s.com/india/zee_tv.jpg",ZEE TV (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109950.ts
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",STAR BHARAT (4K)
+#EXTINF:-1,tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",STAR BHARAT (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109951.ts
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png",&tv (4K)
+#EXTINF:-1,tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png",&tv (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109952.ts
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg",SONY SAB (4K)
+#EXTINF:-1,tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg",SONY SAB (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109953.ts
 #EXTINF:-1 tvg-logo="",***IND: MOVIES (4K ULTRA HD)***
 http://xtv.ooo:8080/live/danyear12/am809100/109954.ts
