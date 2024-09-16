@@ -2,7 +2,7 @@
 
 
 
-http://xtv.ooo:8080/live/danyear12/am809100/109949.ts
+
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/zee_tv.jpg",ZEE TV (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109950.ts
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",STAR BHARAT (4K)
@@ -23,8 +23,6 @@ http://xtv.ooo:8080/live/danyear12/am809100/109958.ts
 http://xtv.ooo:8080/live/danyear12/am809100/109959.ts
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg",Star Gold Select (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109960.ts
-#EXTINF:-1 tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png",Movies_active (4K)
-http://xtv.ooo:8080/live/danyear12/am809100/109961.ts
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/and-flix-in.png",& flix (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/109962.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/800px-%26priv%C3%A9_HD.svg.png",& Prive (4K)
@@ -80,64 +78,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/109994.ts
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",IN: EUROPSPORT (4K)
 http://xtv.ooo:8080/live/danyear12/am809100/206324.ts
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/Zoom.in.png",IN | Zoom TV
-http://xtv.ooo:8080/live/danyear12/am809100/66190.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/9XM.in.png",IN | 9xm
-http://xtv.ooo:8080/live/danyear12/am809100/66192.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMusic.in.png",IN | B4u Music
-http://xtv.ooo:8080/live/danyear12/am809100/66203.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/9XJalwa.in.png",IN | 9x Jalwa
-http://xtv.ooo:8080/live/danyear12/am809100/66226.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/MTVBeats.in.png",IN | MTV BEAT
-http://xtv.ooo:8080/live/danyear12/am809100/66273.ts
-#EXTINF:-1 tvg-logo="",ind-pun: Pittara TV
-http://xtv.ooo:8080/live/danyear12/am809100/66285.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/9XTashan.in.png",IN | 9x Tashan
-http://xtv.ooo:8080/live/danyear12/am809100/66289.ts
-#EXTINF:-1 tvg-logo="",IN: Mastii
-http://xtv.ooo:8080/live/danyear12/am809100/112988.ts
-#EXTINF:-1 tvg-logo="",IN: UTV Bindass
-http://xtv.ooo:8080/live/danyear12/am809100/112993.ts
-#EXTINF:-1 tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png",IND-Punjabi: PTC MUSIC
-http://xtv.ooo:8080/live/danyear12/am809100/153373.ts
-#EXTINF:-1 tvg-logo="",MUSIC INDIA
-http://xtv.ooo:8080/live/danyear12/am809100/190028.ts
-#EXTINF:-1 tvg-logo="",IN: Boogle Bollywood
-http://xtv.ooo:8080/live/danyear12/am809100/206045.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png",IND: MTV HD +
-http://xtv.ooo:8080/live/danyear12/am809100/206049.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",IND: MTV India
-http://xtv.ooo:8080/live/danyear12/am809100/206054.ts
-#EXTINF:-1 tvg-logo="",IND:PB: Balle Balle
-http://xtv.ooo:8080/live/danyear12/am809100/219495.ts
-#EXTINF:-1 tvg-logo="",IND:PB: Wah Punjabi
-http://xtv.ooo:8080/live/danyear12/am809100/219496.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png",IND: ZING
-http://xtv.ooo:8080/live/danyear12/am809100/219497.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 18
-http://xtv.ooo:8080/live/danyear12/am809100/362865.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 19
-http://xtv.ooo:8080/live/danyear12/am809100/362866.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 20
-http://xtv.ooo:8080/live/danyear12/am809100/362867.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 21
-http://xtv.ooo:8080/live/danyear12/am809100/362868.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",IN: 24/7 MUSIC 01
-http://xtv.ooo:8080/live/danyear12/am809100/219498.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",IN: 24/7 MUSIC 02
-http://xtv.ooo:8080/live/danyear12/am809100/270503.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",IN: 24/7 MUSIC 03
-http://xtv.ooo:8080/live/danyear12/am809100/270504.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 04
-http://xtv.ooo:8080/live/danyear12/am809100/270505.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 05
-http://xtv.ooo:8080/live/danyear12/am809100/270506.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 06
-http://xtv.ooo:8080/live/danyear12/am809100/270507.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 07
-http://xtv.ooo:8080/live/danyear12/am809100/270508.ts
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 08
-http://xtv.ooo:8080/live/danyear12/am809100/270509.ts
+
 #EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 09
 http://xtv.ooo:8080/live/danyear12/am809100/270510.ts
 #EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png",24/7 MUSIC 10
