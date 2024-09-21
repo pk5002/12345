@@ -1042,45 +1042,52 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 🦬🦬🦬🦬🐿️🦙🦣🦣🦣🦣🦣🦣🏠🏠🏠🏠🏠🏠
 
-#EXTINF: -1,group-title="Sports"TEN SPORT
-http://tv.cloudcdn.me/live.ts?channelId=301&uid=5049&deviceMac=00:1A:79:17:C0:8F
+#EXTINF:-1 tvg-id="playboy-tv" tvg-logo="https://epgx.site/p/playboy-tv.png" group-title="Взрослые", Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",58. SONY TEN 1 HD 
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282670
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="sports ",59. SONY TEN 2 HD 
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282671
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="sports ",60. SONY TEN 3 HD 
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114578
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="sports ",61. STAR SPORTS 1HD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/155968
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="TATAPLAY Movies",62. STAR SPORTS 2 HD 
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114581
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3-HD.jpeg" group-title="sports ",63. STAR SPORTS 3 HD 
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282678
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-4.jpeg" group-title="sports ",64. SONY TEN 4 HD 
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114579
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="sports ",65. SPORTS 18 FHD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1057243
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" group-title="sports ",66. A SPORTS HD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/281100
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/D-SPORTS-HD.jpg" group-title="sports ",67. SPORTS| D SPORTS HD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/156027
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-title="sports ",68. ASTRO CRICKET HD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/315181
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="Sports",69. STAR SPORTS SELECT 1 FHD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114583
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="Sports ",70. STAR SPORTS SELECT 2 FHD
-http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114584
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-title="sports ",71. ASTRO SPORTS HD 
-http://mix-dns.com:8080/live/jfayiz%40gmail.com/Xx4rC8umZ4/485564.m3u8
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-title="sports ",72. ASTRO TV
-http://mix-dns.com:8080/live/jfayiz%40gmail.com/Xx4rC8umZ4/485564.ts
+#EXTINF:-1 tvg-id="sholk" tvg-logo="https://epgx.site/p/sholk.png" group-title="Взрослые", Шёлк
+http://ca.ukrainske.tv/7310/5EA2AF4303AF555/video.m3u8
 
-#EXTINF:-1,group-title="sports ",TENNIS 4K
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые", Digital Desire
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:-1,group-title="sports ",TENNIS USA
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="Взрослые", Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые", Dorcel TV HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eroxxxhd" group-title="Взрослые",Eroxxx HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="erox" group-title="Взрослые",Erox
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые", Extasy TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые", Extasy 4K
+http://188.42.198.244:9230/XXX_EXTASY_4K/index.m3u8?token=s1fkzaoxq7
+
+#EXTINF:-1 tvg-id="babes-tv" group-title="Взрослые",Babes TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png" group-title="Взрослые", Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые", Reality Kings TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="penthouse-gold" group-title="Взрослые", Penthouse Gold
+http://78.130.250.2:8023/play/a005/index.m3u8
 
 
 
