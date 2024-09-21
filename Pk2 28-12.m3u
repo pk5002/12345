@@ -1651,31 +1651,57 @@ http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116482
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C55L4CRQ/download-2.png" tvg-chno="6" group-title="FreoTV",STAR PRAVAH-HD
-http://tv.cloudcdn.me/live.ts?channelId=28128&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwwk4fbx/download-3.png" tvg-chno="8" group-title="FreoTV",STAR BHARAT HD
-http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRsJ2Lfj/download-1.jpg" tvg-chno="9" group-title="FreoTV",STAR PLUS-HD
-http://tv.cloudcdn.me/live.ts?channelId=200&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn0nnW7p/download-3.jpg" tvg-chno="11" group-title="FreoTV",STAR UTSAV
-http://tv.cloudcdn.me/live.ts?channelId=12364&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FJXnndN/download-4.jpg" tvg-chno="12" group-title="FreoTV",STAR GOLD HD
-http://tv.cloudcdn.me/live.ts?channelId=196&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5vkx7VN/download-4.png" tvg-chno="13" group-title="FreoTV",STAR GOLD SELECT-HD
-http://tv.cloudcdn.me/live.ts?channelId=197&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8p7KMmg/download-5.png" tvg-chno="14" group-title="FreoTV",STAR GOLD 2
-http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1LSJDpy/download-5.jpg" tvg-chno="15" group-title="FreoTV",STAR MOVIES
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5wmh6P3/download.jpg" tvg-chno="7" group-title="FreoTV",STAR SPORT 1 HD
-http://176.119.29.52/live.ts?channelId=293&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",STAR SPORT 1-HD (hindi)
-http://tv.cloudcdn.me/live.ts?channelId=295&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",STAR SPORT 1-HD (hindi)
-http://tv.cloudcdn.me/live.ts?channelId=49569&uid=2496&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1 tvg-id="fashion-one-4k" group-title="Fashion",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnxJYQP3/download-6.jpg" tvg-chno="16" group-title="FreoTV",B4U MOVIE
-http://tv.cloudcdn.me/live.ts?channelId=152&uid=2496&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Fashion",Fashion TV HD
+http://188.113.190.11/194/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fashion-one-hd" group-title="Fashion",Fashion One HD
+http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAwODcxMDAxNSIsImV4cCI6MTcyNDc1NDI0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzI0MTQ5NDQ1LCJzZXNzaW9uX2lkIjoiMzE1MzhmYmRjZDBkYTA2Mzk4OGFjNjIyYTZmYzM1Y2MiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SGndIoycWQ4GzTwSbeZBIe7o97_VRMl-7SYkU2UOfGc
+
+#EXTINF:-1 tvg-id="fashionbox-hd" tvg-logo="https://epgx.site/p/fashionbox-hd.png" group-title="Fashion", FashionBox HD
+http://camera.global-x.ru/FashionBox/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Fashion",FTV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://epgx.site/p/world-fashion-channel-en.png" group-title="Fashion",World Fashion Channel En
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://epgx.site/p/world-fashion-channel.png" group-title="Fashion",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Fashion",Fashion TV Africa
+http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Fashion",Fashion TV Paris
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://epgx.site/p/fashion-tv.png" ,Мода 1
+https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://epgx.site/p/fashion-tv.png" ,Мода 2
+https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://epgx.site/p/fashion-tv.png" ,Мода 3
+https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://epgx.site/p/fashion-tv.png" ,Мода 4
+https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://epgx.site/p/fashion-tv.png" ,Мода 5
+https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://epgx.site/p/fashion-tv.png" ,Мода 6
+https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+
 
 
 
