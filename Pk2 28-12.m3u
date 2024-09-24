@@ -1,5 +1,11 @@
-#EXTINF:-1,COLORS BANGLA
+#EXTINF:-1, T sport
+http://tv.cloudcdn.me/live.ts?channelId=98&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1, sony aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1, zee bangla
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=4944&deviceMac=00:1A:79:94:98:FE
 
+#EXTINF:-1,COLORS BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=92&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1,STAR MAA MUSIC
 http://ktv.im:8080/live/678900/678900/83934.ts
