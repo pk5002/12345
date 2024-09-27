@@ -15,14 +15,13 @@ http://ktv.im:8080/live/678900/678900/393.ts
 http://217.20.112.199:8888/zeebangla/index.m3u8
 #EXTINF:-1 tvg-logo="PURNOTA",STARJALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",DISCOVERY HD
-https://nowmetv.xyz/delta/discovery/api/Discovery_Science_Hindi.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",ID DISCOVERY 
-https://nowmetv.xyz/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",DISCOVERY KIDS
-https://nowmetv.xyz/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",ANIMAL PLANET HD
-https://nowmetv.xyz/delta/discovery/api/Animal_Planettv_Hindi.m3u8
+#EXTINF:-1, ZEE BANGLA CINEMA
+http://tv.cloudcdn.me/live.ts?channelId=119&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1, STAR JALSHA MOVIES
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1, RTV
+http://176.119.29.52/live.ts?channelId=112&uid=4944&deviceMac=00:1A:79:94:98:FE
+
 #EXTINF:-1 tvg-logo="PURNOTA",ZEE TV HD
 http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 
