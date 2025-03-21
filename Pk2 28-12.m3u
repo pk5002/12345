@@ -25,21 +25,21 @@ http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
 #EXTINF:-1,STAR MOVIES  HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
-#EXTINF:-1 tvg-logo="PURNOTA",DD NATIONAL HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",UTV BANGLA 
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",ZEE BANGLA HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+#EXTINF:-1,COLOURS CINEPLEX HD 
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
+#EXTINF:-1,COLOURS HD 
+http://103.122.74.6:8888/hls/COLORS.HD.m3u8
 
 #EXTINF:-1 tvg-logo="PURNOTA",HOLLYWOOD DESHI
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="PURNOTA",TARA TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",ZEE TV HD
+#EXTINF:-1,SONY ENTERTAINMENT  HD
 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
+http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
 #EXTINF:-1 tvg-logo="PURNOTA", &PICTURE HD
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
