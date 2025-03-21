@@ -11,19 +11,19 @@ http://103.122.74.6:8888/hls/zeemovie.m3u8
 http://103.122.74.6:8888/hls/zeebangla.m3u8
 #EXTINF:-1, SONY AATH
 http://103.122.74.6:8888/hls/SONY.AAT.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA", ZEE BANGLA HD
-http://217.20.112.199:8888/zeebangla/index.m3u8
-#EXTINF:-1 tvg-logo="PURNOTA",STARJALSHA HD
-http://217.20.112.199/starjalshahd/index.m3u8
-#EXTINF:-1, ZEE BANGLA CINEMA
-http://tv.cloudcdn.me/live.ts?channelId=119&uid=4944&deviceMac=00:1A:79:94:98:FE
-#EXTINF:-1, STAR JALSHA MOVIES
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=4944&deviceMac=00:1A:79:94:98:FE
-#EXTINF:-1, RTV
-http://176.119.29.52/live.ts?channelId=112&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1, NAT GEO HD
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+#EXTINF:-1,ROMEDY NOW HD
+http://103.122.74.6:8888/hls/ROMEDY.NOW.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
+#EXTINF:-1,NAGORIK TV
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
+#EXTINF:-1,GAZI TV
+http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
 
-#EXTINF:-1 tvg-logo="PURNOTA",ZEE TV HD
-http://103.110.110.11:8081/live/zeetv/playlist.m3u8
+#EXTINF:-1,STAR MOVIES  HD
+http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
 #EXTINF:-1 tvg-logo="PURNOTA",DD NATIONAL HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
