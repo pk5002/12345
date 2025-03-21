@@ -1,3 +1,6 @@
+
+#EXTINF:-1,DURONTO TV
+http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 #EXTINF:-1, T SPORTS 
 http://103.122.74.6:8888/hls/tsports.m3u8
 #EXTINF:-1,TARA TV
