@@ -32,11 +32,23 @@ http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
 #EXTINF:-1,COLOURS HD 
 http://103.122.74.6:8888/hls/COLORS.HD.m3u8
 
-#EXTINF:-1 tvg-logo="PURNOTA",TARA TV
+#EXTINF:-1,TARA TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1,SONY ENTERTAINMENT  HD
-
 http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
+
+#EXTINF:-1,STAR SPORTS SELECT1 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
+
+#EXTINF:-1,STAR SPORTS SELECT2 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1,FASHION TV NEWYORK
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
