@@ -9,8 +9,8 @@ http://103.122.74.6:8888/hls/starJalsha.m3u8
 http://103.122.74.6:8888/hls/zeemovie.m3u8
 #EXTINF:-1,ZEE BANGLA HD
 http://103.122.74.6:8888/hls/zeebangla.m3u8
-#EXTINF:-1, KIK movie
-http://ktv.im:8080/live/678900/678900/393.ts
+#EXTINF:-1, SONY AATH
+http://103.122.74.6:8888/hls/SONY.AAT.m3u8
 #EXTINF:-1 tvg-logo="PURNOTA", ZEE BANGLA HD
 http://217.20.112.199:8888/zeebangla/index.m3u8
 #EXTINF:-1 tvg-logo="PURNOTA",STARJALSHA HD
