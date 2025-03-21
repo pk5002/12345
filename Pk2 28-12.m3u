@@ -825,16 +825,10 @@ http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" group-title="Fashion",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fashion-tv" group-title="Fashion",Fashion TV HD
-http://188.113.190.11/194/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-id="fashionbox-hd" tvg-logo="https://epgx.site/p/fashionbox-hd.png" group-title="Fashion", FashionBox HD
-http://camera.global-x.ru/FashionBox/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
