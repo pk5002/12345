@@ -13,6 +13,8 @@ http://202.164.50.194:8000/play/a090/index.m3u8
 
 #EXTINF:-1, T SPORTS 
 http://103.122.74.6:8888/hls/tsports.m3u8
+#EXTINF:-1,AKASH BANGLA
+http://202.164.50.194:8000/play/a0fp/index.m3u8
 #EXTINF:-1,TARA TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1,STAR JALSHA HD
