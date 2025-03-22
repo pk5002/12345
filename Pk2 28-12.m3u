@@ -6,7 +6,12 @@ http://202.164.50.194:8000/play/a08j/index.m3u8
 #EXTINF:-1,GOLDMINES 2
 http://202.164.50.194:8000/play/a089/index.m3u8
 
-
+#EXTINF:-1,DISNEY JUNIOR
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD 
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1,PITAARA TV
+http://212.102.34.8:9080/Pitaara/index.m3u8
 #EXTINF:-1,BFLIX
 http://202.164.50.194:8000/play/a0cr/index.m3u8
 #EXTINF:-1,GOLDMINES BOLLYWOOD 
