@@ -6,6 +6,9 @@ http://202.164.50.194:8000/play/a08j/index.m3u8
 #EXTINF:-1,GOLDMINES 2
 http://202.164.50.194:8000/play/a089/index.m3u8
 
+
+#EXTINF:-1,BFLIX
+http://202.164.50.194:8000/play/a0cr/index.m3u8
 #EXTINF:-1,GOLDMINES BOLLYWOOD 
 http://202.164.50.194:8000/play/a08e/index.m3u8
 #EXTINF:-1,GOLDMINES ACTION 
