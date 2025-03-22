@@ -166,9 +166,7 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",🇧🇩 ENTERTAINMEN BANGL TV🇧🇩
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-
-#EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",MOVIE BANGLA 
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjQgNjo0MTo1MiBQTSZoYXNoX3ZhbHVlPXkxN3ZNc3JKTHVXTkl5VkQyNEJVL3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
@@ -207,47 +205,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 🇦🇶🇦🇶🇦🇶🇦🇶🇦🇶🇧🇧🇦🇶🇦🇶🇦🇶🇦🇶🇦🇶🇦🇶🇧🇮🇧🇭🇧🇭🇧🇭🇧🇹🇧🇹🇧🇹🇧🇹🇧🇭🇧🇹🇧🇻🇧🇻🇧🇻🇧🇻🇧🇻🇧🇻🇧🇭🇧🇭🇧🇮🇧🇮🇧🇯🇧🇯🇧🇯🇧🇯🇧🇯🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮
 
 
-#EXTINF:0 tvg-id="ts63" group-title="Zee Channels",tvg-logo="",Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:0 tvg-id="ts40" group-title="Zee Channels",tvg-logo="",&TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:0 tvg-id="ts523" group-title="Zee Channels",tvg-logo="",Zee Anmol
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
-#EXTINF:0 tvg-id="ts123" group-title="Zee Channels",tvg-logo="",Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF:0 tvg-id="ts503" group-title="Zee Channels",tvg-logo="",Zee Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:0 tvg-id="ts148" group-title="Zee Channels",tvg-logo="",&Pictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:0 tvg-id="ts267" group-title="Zee Channels",tvg-logo="",&Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:0 tvg-id="ts175" group-title="Zee Channels",tvg-logo="",Zee Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
-#EXTINF:0 tvg-id="ts100" group-title="Zee Channels",tvg-logo="",Zee Action
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF:0 tvg-id="ts64" group-title="Zee Channels",tvg-logo="",Zee Anmol Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:0 tvg-id="ts517" group-title="Zee Channels",tvg-logo="",Zing
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 
-#EXTINF:0 tvg-id="ts501" group-title="Zee Channels",tvg-logo="",Zee Marathi HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-#EXTINF:0 tvg-id="ts515" group-title="Zee Channels",tvg-logo="",Zee Talkies HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
-#EXTINF:0 tvg-id="ts522" group-title="Zee Channels",tvg-logo="",Zee Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF:0 tvg-id="ts254" group-title="Zee Channels",tvg-logo="",Zee Bangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:0 tvg-id="ts257" group-title="Zee Channels",tvg-logo="",Zee Tamil
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-#EXTINF:0 tvg-id="ts252" group-title="Zee Channels",tvg-logo="",Zee Cinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-#EXTINF:0 tvg-id="ts256" group-title="Zee Channels",tvg-logo="",Zee Kannada
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
-#EXTINF:0 tvg-id="ts259" group-title="Zee Channels",BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:0 tvg-id="ts260" group-title="Zee Channels",BOLLYWOD CLASSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 
 
@@ -264,63 +222,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 group-title="ANIMAL",TLC 🇬🇧
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_19.m3u8
-#EXTINF:-1,group-title="Sport ",EUROSPORT
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhrxLIrtb3v2Tsmfj6md0&auth=2a85062464bf63e398f9a052ed8a47d65d5ca6965597db42e58a29b7b2e7e2ec
-#EXTINF:-1,group-title="ANIMAL",FOOD NETWORK
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
-#EXTINF:-1,group-title="ANIMAL",TLC
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56
-#EXTINF:-1,group-title="ANIMAL",DISCOVERY SCIENCE
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
-#EXTINF:-1,group-title="ANIMAL",DISCOVERY HD
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
-#EXTINF:-1,group-title="ANIMAL",ANIMAL PLANET
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
-#EXTINF:-1,group-title="ANIMAL"ANIMAL PLANET
-http://supersonictv.live:8080/live/439090/246943/22045.ts
-#EXTINF:-1,group-title="ANIMAL"NETGEO WILD
-http://supersonictv.live:8080/live/439090/246943/22122.ts
-#EXTINF:-1,group-title="ANIMAL"TRAVEL XP
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Discover Pakistan 
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-#EXTINF:-1,tvg-id="567" group-title="ANIMAL",tvg-language="English" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet English
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1, tvg-id="566" group-title="ANIMAL",tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet Hindi
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
-#EXTINF:-1,group-title="ANIMAL",FOOD NETWORK
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-#EXTINF:-1, tvg-id="242" group-title="ANIMAL",tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery English HD
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-#EXTINF:-1, tvg-id="242" group-title="ANIMAL",tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery Hindi HD
-https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-#EXTINF:-1 tvg-id="568" group-title="ANIMAL"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science English
-https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-#EXTINF:-1 tvg-id="568" group-title="ANIMAL"tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science Hindi
-https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
-#EXTINF:-1 tvg-id="541" group-title="ANIMAL"tvg-language="English" tvg-logo="https://te.legra.ph/file/b8670a893a66fa1b5de93.jpg",Discovery Turbo
-https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-#EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" tvg-chno="8" group-title="ANIMAL",DMAX HD
-https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-#EXTINF:-1 tvg-id="875" group-title="ANIMAL"tvg-language="English" tvg-logo="https://te.legra.ph/file/588fbda0e490e38dbe544.png",Eurosport HD
-https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
-#EXTINF:-1 tvg-logo="https://te.legra.ph/file/cdc56626013f9d5b1c2ba.png" tvg-chno="11" group-title="ANIMAL",Food Network English
-https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
-#EXTINF:-1 tvg-id="" group-title="ANIMAL"tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAW6TPl2g34-F2So-4sd_M8o2htuwycdExXg&usqp=CAU",HGTV English HD
-https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 tvg-id="527" group-title="ANIMAL",tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU",ID English HD
-https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
-#EXTINF:-1 tvg-id="527" group-title="ANIMAL"tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU",ID Hindi HD
-https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" tvg-chno="9" group-title="ANIMAL",TRVL English HD
-https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
-#EXTINF:-1 tvg-id="574" group-title="ANIMAL",tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC English HD
-https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-#EXTINF:-1 tvg-id="571" group-title="ANIMAL"tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC Hindi HD
-https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 
 
 
