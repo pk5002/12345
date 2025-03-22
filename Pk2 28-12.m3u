@@ -13,6 +13,9 @@ http://202.164.50.194:8000/play/a090/index.m3u8
 
 #EXTINF:-1, T SPORTS 
 http://103.122.74.6:8888/hls/tsports.m3u8
+
+#EXTINF:-1,MARTIBHUMI TV
+http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1,KHUSHBOO TV
 http://202.164.50.194:8000/play/a069/index.m3u8
 #EXTINF:-1,DD BANGLA
