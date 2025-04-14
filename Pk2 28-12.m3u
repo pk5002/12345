@@ -2,6 +2,8 @@
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1,ATN BANGLA
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=442000.m3u8
+#EXTINF:-1,NTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1,STAR JALSHA
 https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1,ETV BHARAT
