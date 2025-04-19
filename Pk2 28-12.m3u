@@ -484,8 +484,8 @@ https://ortepe.xyz:15981/tv/penthouse/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 https://ortepe.xyz:15981/tv/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI1IDI6NTE6MjAgUE0maGFzaF92YWx1ZT1sMm9pWnIvMmZ3WXl1YlprV3hrWTVnPT0mdmFsaWRtaW51dGVzPTYw
 
 
-#EXTINF:-1,XXX
-https://ortepe.xyz:15981/tv/penthousepassion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI1IDI6NTI6MzUgUE0maGFzaF92YWx1ZT1XeG1JRHpzdWxnUWRnRXJuRkpqRk5RPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,T SPORTS 
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 
 
 
