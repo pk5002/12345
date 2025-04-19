@@ -1,3 +1,6 @@
+
+#EXTINF:-1,TARA TV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1,SANONDA TV
 https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1,CHANNEL 24
@@ -170,8 +173,7 @@ http://202.164.50.194:8000/play/a069/index.m3u8
 http://202.164.50.194:8000/play/a0gi/index.m3u8
 #EXTINF:-1,AKASH BANGLA
 http://202.164.50.194:8000/play/a0fp/index.m3u8
-#EXTINF:-1,TARA TV
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
 #EXTINF:-1,STAR JALSHA HD
 http://103.122.74.6:8888/hls/starJalsha.m3u8
 
