@@ -14,16 +14,16 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701.m3u8
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1,NTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1,NTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1,SOMMOY NEWS TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
 #EXTINF:-1,STAR JALSHA
 https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1,BANGLA VISION
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715.m3u8
-#EXTINF:-1,MOVIES NOW HD
-http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
-#EXTINF:-1,ZEE TV HD
-http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
+#EXTINF:-1,BTV NEWS
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1,BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1,UTSHOV GLOD
 http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
 #EXTINF:-1,NAT GEO WILD HD
