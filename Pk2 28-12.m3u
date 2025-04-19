@@ -8,18 +8,18 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1,DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1,NEXUS TV
-https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,JAMUNA TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701.m3u8
 #EXTINF:-1,7 CHANNEL HD 
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1,ATN BANGLA
-http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1,NTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716.m3u8
 #EXTINF:-1,NTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1,STAR JALSHA
 https://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#EXTINF:-1,ETV BHARAT
-http://103.122.74.6:8888/hls/ETV.BAL.BHARAT.m3u8
+#EXTINF:-1,BANGLA VISION
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715.m3u8
 #EXTINF:-1,MOVIES NOW HD
 http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
 #EXTINF:-1,ZEE TV HD
