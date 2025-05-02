@@ -448,6 +448,14 @@ http://supersonictv.live:8080/live/548104/479041/12330.ts
 #EXTINF:-1,star plus
 http://supersonictv.live:8080/live/548104/479041/12304.ts
 
+#EXTINF:-1,&flix
+http://supersonictv.live:8080/live/548104/479041/85440.ts
+
+#EXTINF:-1,zee tv
+http://supersonictv.live:8080/live/548104/479041/85444.ts
+#EXTINF:-1,sab
+http://supersonictv.live:8080/live/548104/479041/85547.ts
+
 
 
 
