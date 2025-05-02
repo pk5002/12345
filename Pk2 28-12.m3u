@@ -432,6 +432,11 @@ http://supersonictv.live:8080/live/548104/479041/84020.ts
 #EXTINF:-1,&tv HD
 http://supersonictv.live:8080/live/548104/479041/84012.ts
 
+#EXTINF:-1,zee cinema
+http://supersonictv.live:8080/live/548104/479041/85543.ts
+#EXTINF:-1,ctv
+http://supersonictv.live:8080/live/548104/479041/85562.ts
+
 
 
 
