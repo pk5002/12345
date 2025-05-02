@@ -374,6 +374,10 @@ http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1,Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+
 
 
 
