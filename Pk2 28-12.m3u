@@ -422,10 +422,10 @@ http://xtv.ooo:8080/live/52882216/581881255/109962.m3u8
 http://xtv.ooo:8080/live/52882216/581881255/109955.m3u8
 
 #EXTINF:-1,& Prive HD
-http://xtv.ooo:8080/live/52882216/581881255/109963.m3u8
+http://supersonictv.live:8080/live/548104/479041/84019.ts
 
 #EXTINF:-1,& Xplorer HD
-http://xtv.ooo:8080/live/52882216/581881255/109964.m3u8
+http://supersonictv.live:8080/live/548104/479041/84020.ts
 
 #EXTINF:-1,&tv HD
 http://supersonictv.live:8080/live/548104/479041/84012.ts
