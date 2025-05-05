@@ -500,6 +500,9 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1, colours bangla cinema
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1, zee cinema
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1163959&extension=m3u8&play_token=vdLn3EEWEe
+
 
 
 
