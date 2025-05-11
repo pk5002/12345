@@ -627,9 +627,8 @@ http://38.96.178.201/live/DisneyXD/index.m3u8
 #EXTINF:-1,Nick Jr
 http://38.96.178.201/live/NickJr/index.m3u8
 
-#EXTINF:-1,urban trace
-http://103.239.255.212:8000/play/a042/index
-.
+#EXTINF:-1,TEN SPORTS 
+http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w1906681785.m3u8
 
 
 
