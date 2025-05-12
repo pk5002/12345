@@ -1,5 +1,7 @@
-#EXTINF:-1,&flix
 
+#EXTINF:-1,ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1,&flix
 https://re.fredflix.fun/playlist.php?id=AndFlixHDELE&key=2105517&e=.m3u8
 #EXTINF:-1, sun bangla
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8?token=339ca626558a5ebd852832de73413639debb7c9a-d9bec9451c229edd06a58ac8bc337007-1747029237-1747018437
