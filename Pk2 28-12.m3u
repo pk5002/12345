@@ -643,6 +643,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w1906681785.m3u8
 #EXTINF:-1,HINDI HITS HD
 https://tiger-hub.vercel.app/Sangeet-bhojpuri/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,sommoy bangla
+https://tiger-hub.vercel.app/Somoy-bangla/tracks-v1a1/mono.m3u8
 
 
 
