@@ -1,21 +1,24 @@
-
-#EXTINF:-1,Sony Aath
+#EXTINF:-1group-title="BANGLA",BTV NEWS
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1group-title="BANGLA",BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1group-title="BANGLA",Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1,Sony AATH(tata play)
+#EXTINF:-1group-title="BANGLA",Sony AATH(tata play)
 http://38.96.178.201/live/SonyAath/index.m3u8
-#EXTINF:-1,zee bangla
+#EXTINF:-1group-title="BANGLA",zee bangla
 https://re.fredflix.fun/playlist.php?id=ZeeBanglaHDELE&key=2105554&e=.m3u8
-#EXTINF:-1, PROBASHI BANGLA
+#EXTINF:-1group-title="BANGLA", PROBASHI BANGLA
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ME TV
+#EXTINF:-1group-title="BANGLA",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,&flix
 https://re.fredflix.fun/playlist.php?id=AndFlixHDELE&key=2105517&e=.m3u8
-#EXTINF:-1, sun bangla
+#EXTINF:-1group-title="BANGLA", sun bangla
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8?token=339ca626558a5ebd852832de73413639debb7c9a-d9bec9451c229edd06a58ac8bc337007-1747029237-1747018437
 #EXTINF:-1,HUM TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1,Sony aath  https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1,group-title="BANGLA"Sony aath  https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 #EXTINF:-1,Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -50,17 +53,17 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1,Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1,#EXTINF:-1,Colors Bangla
+#EXTINF:-1group-title="BANGLA",Colors Bangla
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 
-#EXTINF:-1,Dhoom Music
+#EXTINF:-1group-title="BANGLA",Dhoom Music
 http://38.96.178.201/live/Dhoom/index.m3u8
 
-#EXTINF:-1,Ruposhi Bangla
+#EXTINF:-1group-title="BANGLA",Ruposhi Bangla
 http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1group-title="BANGLA",Sangeet Bangla
 http://38.96.178.201/live/SangeetBangla/index.m3u8
 
 
@@ -71,40 +74,40 @@ http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1,DD Sports
 http://38.96.178.201/live/DDSports/index.m3u8
 
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1group-title="BANGLA",ATN Bangla
 http://38.96.178.201/live/ATNBangla/index.m3u8
 
-#EXTINF:-1,ATN News
+#EXTINF:-1group-title="BANGLA",ATN News
 http://38.96.178.201/live/ATNNews/index.m3u8
 
-#EXTINF:-1,Bangla TV
+#EXTINF:-1group-title="BANGLA",Bangla TV
 http://38.96.178.201/live/BanglaTV/index.m3u8
 
-#EXTINF:-1,BanglaVision
+#EXTINF:-1group-title="BANGLA",BanglaVision
 http://38.96.178.201/live/BanglaVision/index.m3u8
 
-#EXTINF:-1,Bijoy TV
+#EXTINF:-1group-title="BANGLA",Bijoy TV
 http://38.96.178.201/live/BijoyTV/index.m3u8
 
-#EXTINF:-1,BTV
+#EXTINF:-1group-title="BANGLA",BTV
 http://38.96.178.201/live/BTV/index.m3u8
 
-#EXTINF:-1,Ekhon TV
+#EXTINF:-1group-title="BANGLA",Ekhon TV
 http://38.96.178.201/live/EkhonTV/index.m3u8
 
-#EXTINF:-1,NTV
+#EXTINF:-1group-title="BANGLA",NTV
 http://38.96.178.201/live/NTV/index.m3u8
 
-#EXTINF:-1,Gaan Bangla
+#EXTINF:-1group-title="BANGLA",Gaan Bangla
 http://38.96.178.201/live/GaanBangla/index.m3u8
 
-#EXTINF:-1,Independent
+#EXTINF:-1group-title="BANGLA",Independent
 http://38.96.178.201/live/Independent/index.m3u8
 
-#EXTINF:-1,Nexus TV
+#EXTINF:-1group-title="BANGLA",Nexus TV
 http://38.96.178.201/live/NexusTV/index.m3u8
 
-#EXTINF:-1,SATV
+#EXTINF:-1group-title="BANGLA",SATV
 http://38.96.178.201/live/SATV/index.m3u8
 
 #EXTINF:-1,Sony HD
@@ -136,66 +139,57 @@ http://38.96.178.201/live/DisneyXD/index.m3u8
 
 #EXTINF:-1,Nick Jr
 http://38.96.178.201/live/NickJr/index.m3u8
-#EXTINF:-1,SONY AATH
+#EXTINF:-1group-title="BANGLA",SONY AATH
 http://38.96.178.201/live/SonyAath/index.m3u8
-#EXTINF:-1,TARA TV
+#EXTINF:-1group-title="BANGLA",TARA TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1,SANONDA TV
+#EXTINF:-1group-title="BANGLA",SANONDA TV
 https://live.sanonda.tv/sanonda/index.m3u8
-#EXTINF:-1,CHANNEL 24
+#EXTINF:-1group-title="BANGLA",CHANNEL 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1,INDEPENDENT TV
+#EXTINF:-1group-title="BANGLA",INDEPENDENT TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1,ATN NEWS
+#EXTINF:-1group-title="BANGLA",ATN NEWS
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1,BOISHAKI TV
+#EXTINF:-1group-title="BANGLA",BOISHAKI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1,DEEPTO TV
+#EXTINF:-1group-title="BANGLA",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1,JAMUNA TV
+#EXTINF:-1group-title="BANGLA",JAMUNA TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701.m3u8
 #EXTINF:-1,7 CHANNEL HD 
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1group-title="BANGLA",NTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1,SOMMOY NEWS TV
+#EXTINF:-1group-title="BANGLA",SOMMOY NEWS TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
-#EXTINF:-1,STAR JALSHA
+#EXTINF:-1group-title="BANGLA",STAR JALSHA
 https://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#EXTINF:-1,BANGLA VISION
+#EXTINF:-1group-title="BANGLA",BANGLA VISION
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715.m3u8
-#EXTINF:-1,BTV NEWS
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1,BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1,MAZIC TV
+
+#EXTINF:-1group-title="BANGLA",MAZIC TV
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 
 
 #EXTINF:-1,DISNEY JUNIOR
 http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Jalsha Movies HD
+#EXTINF:-1group-title="BANGLA",Jalsha Movies HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
 #EXTINF:-1,PITAARA TV
 http://212.102.34.8:9080/Pitaara/index.m3u8
-#EXTINF:-1,Channel i
+#EXTINF:-1group-title="BANGLA",Channel i
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1,GOLDMINES BOLLYWOOD 
 http://202.164.50.194:8000/play/a08e/index.m3u8
 #EXTINF:-1,GOLDMINES ACTION 
 http://202.164.50.194:8000/play/a090/index.m3u8
 
-#EXTINF:-1, T SPORTS 
+#EXTINF:-1group-title="BANGLA", T SPORTS 
 http://103.122.74.6:8888/hls/tsports.m3u8
 
-#EXTINF:-1,MARTIBHUMI TV
+#EXTINF:-1group-title="BANGLA",MARTIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
-#EXTINF:-1,KHUSHBOO TV
-http://202.164.50.194:8000/play/a069/index.m3u8
-#EXTINF:-1,DD BANGLA
-http://202.164.50.194:8000/play/a0gi/index.m3u8
-#EXTINF:-1,AKASH BANGLA
-http://202.164.50.194:8000/play/a0fp/index.m3u8
 
 
 
