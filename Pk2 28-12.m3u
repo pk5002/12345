@@ -12,8 +12,66 @@ https://re.fredflix.fun/playlist.php?id=ZeeBanglaHDELE&key=2105554&e=.m3u8
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1group-title="BANGLA",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1,&flix
-https://re.fredflix.fun/playlist.php?id=AndFlixHDELE&key=2105517&e=.m3u8
+#EXTINF:-1group-title="BANGLA",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1group-title="BANGLA",Dhoom Music
+http://38.96.178.201/live/Dhoom/index.m3u8
+#EXTINF:-1group-title="BANGLA",Ruposhi Bangla
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
+#EXTINF:-1group-title="BANGLA",Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+
+#EXTINF:-1group-title="BANGLA",ATN Bangla
+http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1group-title="BANGLA",ATN News
+http://38.96.178.201/live/ATNNews/index.m3u8
+#EXTINF:-1group-title="BANGLA",Bangla TV
+http://38.96.178.201/live/BanglaTV/index.m3u8
+#EXTINF:-1group-title="BANGLA",BanglaVision
+http://38.96.178.201/live/BanglaVision/index.m3u8
+#EXTINF:-1group-title="BANGLA",Bijoy TV
+http://38.96.178.201/live/BijoyTV/index.m3u8
+#EXTINF:-1group-title="BANGLA",BTV
+http://38.96.178.201/live/BTV/index.m3u8
+#EXTINF:-1group-title="BANGLA",Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+#EXTINF:-1group-title="BANGLA",NTV
+http://38.96.178.201/live/NTV/index.m3u8
+#EXTINF:-1group-title="BANGLA",Gaan Bangla
+http://38.96.178.201/live/GaanBangla/index.m3u8
+#EXTINF:-1group-title="BANGLA",Independent
+http://38.96.178.201/live/Independent/index.m3u8
+#EXTINF:-1group-title="BANGLA",Nexus TV
+http://38.96.178.201/live/NexusTV/index.m3u8
+#EXTINF:-1group-title="BANGLA",SATV
+http://38.96.178.201/live/SATV/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1group-title="BANGLA", sun bangla
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8?token=339ca626558a5ebd852832de73413639debb7c9a-d9bec9451c229edd06a58ac8bc337007-1747029237-1747018437
 #EXTINF:-1,HUM TV
@@ -53,62 +111,18 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1,Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1group-title="BANGLA",Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Dhoom Music
-http://38.96.178.201/live/Dhoom/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Ruposhi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
-
-
-#EXTINF:-1group-title="BANGLA",Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
 
 
 
+#EXTINF:-1,&flix
+https://re.fredflix.fun/playlist.php?id=AndFlixHDELE&key=2105517&e=.m3u8
 #EXTINF:-1,T Sports
 http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-1,DD Sports
 http://38.96.178.201/live/DDSports/index.m3u8
 
-#EXTINF:-1group-title="BANGLA",ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
 
-#EXTINF:-1group-title="BANGLA",ATN News
-http://38.96.178.201/live/ATNNews/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Bangla TV
-http://38.96.178.201/live/BanglaTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",BanglaVision
-http://38.96.178.201/live/BanglaVision/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Bijoy TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",BTV
-http://38.96.178.201/live/BTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",NTV
-http://38.96.178.201/live/NTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Gaan Bangla
-http://38.96.178.201/live/GaanBangla/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Independent
-http://38.96.178.201/live/Independent/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Nexus TV
-http://38.96.178.201/live/NexusTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",SATV
-http://38.96.178.201/live/SATV/index.m3u8
 
 #EXTINF:-1,Sony HD
 http://38.96.178.201/live/SonyHD/index.m3u8
