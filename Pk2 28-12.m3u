@@ -1,7 +1,8 @@
 
-
-#EXTINF:-1,MONORANJAN PRIMR
-https://bozztv.com/rongo/rongo-MohonaTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Sony Aath(tata play)
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1,Sony AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
 #EXTINF:-1,zee bangla
 https://re.fredflix.fun/playlist.php?id=ZeeBanglaHDELE&key=2105554&e=.m3u8
 #EXTINF:-1, PROBASHI BANGLA
@@ -62,8 +63,7 @@ http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://38.96.178.201/live/SangeetBangla/index.m3u8
 
-#EXTINF:-1,Sony AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
+
 
 #EXTINF:-1,T Sports
 http://38.96.178.201/live/TSports/index.m3u8
@@ -666,8 +666,6 @@ https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
