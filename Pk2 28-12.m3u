@@ -222,13 +222,6 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
 #EXTINF:-1,FASHION TV
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-#EXTINF:-1,URBAN TRACE
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-
-
-
-
-
 
 
 
@@ -290,8 +283,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF:-1 group-title="BANGLA🇧🇩🇧🇩 IPTV",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1,group-title="BANGLA🇧🇩🇧🇩 IPTV",MAASRANGA TV
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
 
 
 
@@ -397,8 +389,7 @@ http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="fashion-one-4k" group-title="Fashion",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
@@ -426,12 +417,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
 
 
-#EXTINF:-1,STAR SPORTS
-http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1,T SPORTS 
-http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Sony BBC Earth HD
@@ -440,43 +426,7 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1, channel 9
 http://38.96.178.201/live/Channel9/index.m3u8
 
-#EXTINF:-1,willo cricket1
 
-http://supersonictv.live:8080/live/548104/479041/85650.ts
-
-#EXTINF:-1,willo cricket2
-http://supersonictv.live:8080/live/548104/479041/85651.ts
-
-#EXTINF:-1,& Prive HD
-http://supersonictv.live:8080/live/548104/479041/84019.ts
-
-#EXTINF:-1,& Xplorer HD
-http://supersonictv.live:8080/live/548104/479041/84020.ts
-
-#EXTINF:-1,&tv HD
-http://supersonictv.live:8080/live/548104/479041/84012.ts
-
-#EXTINF:-1,zee cinema
-http://supersonictv.live:8080/live/548104/479041/85543.ts
-#EXTINF:-1,star jalsha movie
-http://supersonictv.live:8080/live/548104/479041/85562.ts
-#EXTINF:-1,DD BANGLA
-http://supersonictv.live:8080/live/548104/479041/85477.ts
-
-#EXTINF:-1,zee bangla
-http://supersonictv.live:8080/live/548104/479041/85461.ts
-
-#EXTINF:-1,zee cinema
-http://supersonictv.live:8080/live/548104/479041/12330.ts
-
-#EXTINF:-1,star plus
-http://supersonictv.live:8080/live/548104/479041/12304.ts
-
-#EXTINF:-1,&flix
-http://supersonictv.live:8080/live/548104/479041/85440.ts
-
-#EXTINF:-1,zee tv
-http://supersonictv.live:8080/live/548104/479041/85444.ts
 #EXTINF:-1,sab
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
@@ -725,9 +675,8 @@ http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
 http://45.143.108.110:2200/tntmusic
 
 
-#EXTINF:-1,megahit
-http://hls.peers.tv/hls/tv1000_megahit_hd/16/copy/20250523/segment-1747863303-09939207.ts
-
+#EXTINF:-1,TNT4
+http://109.248.236.51/tnt4/tracks-v1a1/mono.m3u8
 
 
 
