@@ -600,14 +600,8 @@ http://38.96.178.201/live/NickJr/index.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w1906681785.m3u8
 
 
-#EXTINF:-1,HINDI HITS HD
+#EXTINF:-1,SANGEET BHOJPURI
 https://tiger-hub.vercel.app/Sangeet-bhojpuri/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,sommoy bangla
-https://tiger-hub.vercel.app/Somoy-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,remix bangla
-https://tiger-hub.vercel.app/Remex-bangla/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="Entertainment",SET HD
