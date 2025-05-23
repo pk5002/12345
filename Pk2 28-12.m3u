@@ -670,6 +670,8 @@ http://109.248.236.51/tnt4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,KINO PREMIUM 
 http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NSTV
+http://109.248.236.51/nstv/tracks-v1a1/mono.m3u8
 
 
 
