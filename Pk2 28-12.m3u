@@ -117,15 +117,10 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 
 
-#EXTINF:-1,&flix
-https://re.fredflix.fun/playlist.php?id=AndFlixHDELE&key=2105517&e=.m3u8
-#EXTINF:-1,T Sports
-http://38.96.178.201/live/TSports/index.m3u8
+
 
 #EXTINF:-1,DD Sports
 http://38.96.178.201/live/DDSports/index.m3u8
-
-
 
 #EXTINF:-1,Sony HD
 http://38.96.178.201/live/SonyHD/index.m3u8
@@ -677,6 +672,10 @@ http://45.143.108.110:2200/tntmusic
 
 #EXTINF:-1,TNT4
 http://109.248.236.51/tnt4/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,KINO PREMIUM 
+http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.m3u8
 
 
 
