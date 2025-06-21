@@ -1,4 +1,5 @@
-
+#EXTINF:-1,SONY PIX
+http://stvlive.net:8080/sonypix/tracks-v1a1/mono.m3u8
 #EXTINF:-1,t sport
 http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,star movies
