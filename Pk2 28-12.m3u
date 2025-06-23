@@ -1,3 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,zee cinema
+http://stvlive.net:8080/zeebncinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,rtv
+http://stvlive.net:8080/rtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ntv
+http://stvlive.net:8080/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,nick
+http://stvlive.net:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1,natgeo 
+http://stvlive.net:8080/natgeo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,movies now
+http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
+#EXTINF:-1,jamuna news
+http://stvlive.net:8080/jamuna/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ekattor
+http://stvlive.net:8080/ekattor/tracks-v1a1/mono.m3u8
+#EXTINF:-1,dbc news
+http://stvlive.net:8080/dbc/tracks-v1a1/mono.m3u8
+#EXTINF:-1,channel i
+http://stvlive.net:8080/channeli/tracks-v1a1/mono.m3u8
+#EXTINF:-1,catoon network
+http://stvlive.net:8080/cartoonnetwork/tracks-a1/mono.m3u8
+#EXTINF:-1,boishakhi  tv
+http://stvlive.net:8080/boishakhi/tracks-a1/mono.m3u8
+#EXTINF:-1,bangla vision
+http://stvlive.net:8080/banglavision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY PIX
 http://stvlive.net:8080/sonypix/tracks-v1a1/mono.m3u8
 #EXTINF:-1,t sport
