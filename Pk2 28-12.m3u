@@ -259,186 +259,15 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1,Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1, channel 9
-http://38.96.178.201/live/Channel9/index.m3u8
 
 
-#EXTINF:-1,sab
-http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
-#EXTINF:-1,Deepto TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1,Jamuna
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1,ATN News 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1,Bangla Vision 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1,BTV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1,Channel 24 HD 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1,Ekattor HD 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
-
-#EXTINF:-1,HUM TV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1,Independent TV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1,NTV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1,Somoy TV 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
-
-
-#EXTINF:-1,ATN Bangla 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
-
-#EXTINF:-1,Channel I HD 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
-
-#EXTINF:-1,zee bangla cinema
-https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
-
-
-#EXTINF:-1, colours bangla cinema
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-#EXTINF:-1, zee cinema
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1163959&extension=m3u8&play_token=vdLn3EEWEe
-
-
-
-
-
-
-
-
-#EXTINF:-1,Akash AATH
-http://38.96.178.201/live/AkashAath/index.m3u8
-
-#EXTINF:-1,Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
-
-#EXTINF:-1,Dhoom Music
-http://38.96.178.201/live/Dhoom/index.m3u8
-
-#EXTINF:-1,Ruposhi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
-
-#EXTINF:-1,Star Jalsha HD
-http://38.96.178.201/live/STARJALSHA/index.m3u8
-
-#EXTINF:-1,Jalsha Movies HD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
-
-#EXTINF:-1,Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
-
-#EXTINF:-1,Sony AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
-
-#EXTINF:-1,T Sports
-http://38.96.178.201/live/TSports/index.m3u8
-
-#EXTINF:-1,Gazi TV
-http://38.96.178.201/live/GaziTV/index.m3u8
-
-#EXTINF:-1,PTV Sports
-http://38.96.178.201/live/PTVSports/index.m3u8
-
-#EXTINF:-1,A Sports
-http://38.96.178.201/live/ASports/index.m3u8
-
-#EXTINF:-1,DD Sports
-http://38.96.178.201/live/DDSports/index.m3u8
-
-#EXTINF:-1,ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
-
-#EXTINF:-1,ATN News
-http://38.96.178.201/live/ATNNews/index.m3u8
-
-#EXTINF:-1,Bangla TV
-http://38.96.178.201/live/BanglaTV/index.m3u8
-
-#EXTINF:-1,BanglaVision
-http://38.96.178.201/live/BanglaVision/index.m3u8
-
-#EXTINF:-1,Bijoy TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
-
-#EXTINF:-1,BTV
-http://38.96.178.201/live/BTV/index.m3u8
-
-#EXTINF:-1,Channel 9
-http://38.96.178.201/live/Channel9/index.m3u8
-
-#EXTINF:-1,Channel i
-http://38.96.178.201/live/ChannelI/index.m3u8
-
-#EXTINF:-1,Channel S
-http://38.96.178.201/live/ChannelS/index.m3u8
-
-#EXTINF:-1,Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
-
-#EXTINF:-1,Jamuna TV
-http://38.96.178.201/live/JamunaTV/index.m3u8
-
-#EXTINF:-1,NTV
-http://38.96.178.201/live/NTV/index.m3u8
-
-#EXTINF:-1,Gaan Bangla
-http://38.96.178.201/live/GaanBangla/index.m3u8
-
-#EXTINF:-1,Independent
-http://38.96.178.201/live/Independent/index.m3u8
-
-#EXTINF:-1,Nexus TV
-http://38.96.178.201/live/NexusTV/index.m3u8
-
-#EXTINF:-1,SATV
-http://38.96.178.201/live/SATV/index.m3u8
-
-#EXTINF:-1,Sony HD
-http://38.96.178.201/live/SonyHD/index.m3u8
-
-#EXTINF:-1,&TV
-http://38.96.178.201/live/AndTV/index.m3u8
-
-#EXTINF:-1,B4U Music
-http://38.96.178.201/live/B4UMusic/index.m3u8
-
-#EXTINF:-1,Star Plus
-http://38.96.178.201/live/StarPlus/index.m3u8
-
-#EXTINF:-1,Star Gold
-http://38.96.178.201/live/StarGold/index.m3u8
-
-#EXTINF:-1,Zing
-http://38.96.178.201/live/Zing/index.m3u8
-
-#EXTINF:-1,Disney
-http://38.96.178.201/live/Disney/index.m3u8
-
-#EXTINF:-1,SONY
-http://38.96.178.201/live/SONY/index.m3u8
-
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://38.96.178.201/live/NickJr/index.m3u8
-
-#EXTINF:-1,TEN SPORTS 
-http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w1906681785.m3u8
 
 
 #EXTINF:-1,SANGEET BHOJPURI
@@ -498,25 +327,6 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1,viju tv 1000
-http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TNT MUSIC
-http://45.143.108.110:2200/tntmusic
-
-
-#EXTINF:-1,TNT4
-http://109.248.236.51/tnt4/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,KINO PREMIUM 
-http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NSTV
-http://109.248.236.51/nstv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,ATN NEWS 
-http://stvlive.net:8080/atnnews/tracks-v1a1/mono.m3u8
 
 
 
