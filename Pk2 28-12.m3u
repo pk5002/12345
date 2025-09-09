@@ -8,34 +8,8 @@
 
 
 
-#EXTINF:-1,zee cinema
-http://stvlive.net:8080/zeebncinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,rtv
-http://stvlive.net:8080/rtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ntv
-http://stvlive.net:8080/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,nick
-http://stvlive.net:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1,natgeo 
-http://stvlive.net:8080/natgeo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,movies now
-http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
-#EXTINF:-1,jamuna news
-http://stvlive.net:8080/jamuna/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ekattor
-http://stvlive.net:8080/ekattor/tracks-v1a1/mono.m3u8
-#EXTINF:-1,dbc news
-http://stvlive.net:8080/dbc/tracks-v1a1/mono.m3u8
-#EXTINF:-1,channel i
-http://stvlive.net:8080/channeli/tracks-v1a1/mono.m3u8
-#EXTINF:-1,catoon network
-http://stvlive.net:8080/cartoonnetwork/tracks-a1/mono.m3u8
-#EXTINF:-1,boishakhi  tv
-http://stvlive.net:8080/boishakhi/tracks-a1/mono.m3u8
-#EXTINF:-1,bangla vision
-http://stvlive.net:8080/banglavision/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY PIX
-http://stvlive.net:8080/sonypix/tracks-v1a1/mono.m3u8
+
+/tracks-v1a1/mono.m3u8
 #EXTINF:-1,t sport
 http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,star movies
@@ -48,86 +22,7 @@ http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://stvlive.net:8080/somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1, jalsha movies
 http://stvlive.net:8080/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,sangeet bangla
-http://stvlive.net:8080/sbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,sony aath
-http://stvlive.net:8080/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1,star sport2
-http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,stargold2
-http://stvlive.net:8080/stargold2/tracks-a1/mono.m3u8
-#EXTINF:-1,star jalsha
-http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1, star select2
-http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,stargold
-http://103.175.242.10:8080/stargold/tracks-a1/mono.m3u8
-#EXTINF:-1,zee bangla
-http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1, sanjha tv
-http://livestream.unlimitedcdn.com/sanjhatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, MASTI
-http://stvlive.net:8080/abmasti/tracks-a1/mono.m3u8
-#EXTINF:-1,jalsha movie
-http://38.96.178.201/live/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,star jalsha
-http://38.96.178.201/live/STARJALSHA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony max
-http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Massranga tv
-http://stvlive.net:8080/maasranga/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors tv
-http://stvlive.net:8080/colorshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, & Picture
-http://stvlive.net:8080/andpicture/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="BANGLA",ATN BANGLA
-http://stvlive.net:8080/atnbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1group-title="BANGLA",BTV NEWS
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1group-title="BANGLA",BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1group-title="BANGLA",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1group-title="BANGLA",Sony AATH(tata play)
-http://38.96.178.201/live/SonyAath/index.m3u8
-#EXTINF:-1group-title="BANGLA",zee bangla
-https://re.fredflix.fun/playlist.php?id=ZeeBanglaHDELE&key=2105554&e=.m3u8
-#EXTINF:-1group-title="BANGLA", PROBASHI BANGLA
-http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1group-title="BANGLA",ME TV
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1group-title="BANGLA",Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
-#EXTINF:-1group-title="BANGLA",Dhoom Music
-http://38.96.178.201/live/Dhoom/index.m3u8
-#EXTINF:-1group-title="BANGLA",Ruposhi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
-#EXTINF:-1group-title="BANGLA",Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
 
-#EXTINF:-1group-title="BANGLA",ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
-#EXTINF:-1group-title="BANGLA",ATN News
-http://38.96.178.201/live/ATNNews/index.m3u8
-#EXTINF:-1group-title="BANGLA",Bangla TV
-http://38.96.178.201/live/BanglaTV/index.m3u8
-#EXTINF:-1group-title="BANGLA",BanglaVision
-http://38.96.178.201/live/BanglaVision/index.m3u8
-#EXTINF:-1group-title="BANGLA",Bijoy TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
-
-#EXTINF:-1group-title="BANGLA",Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
-#EXTINF:-1group-title="BANGLA",NTV
-http://38.96.178.201/live/NTV/index.m3u8
-#EXTINF:-1group-title="BANGLA",Gaan Bangla
-http://38.96.178.201/live/GaanBangla/index.m3u8
-#EXTINF:-1group-title="BANGLA",Independent
-http://38.96.178.201/live/Independent/index.m3u8
-#EXTINF:-1group-title="BANGLA",Nexus TV
-http://38.96.178.201/live/NexusTV/index.m3u8
-#EXTINF:-1group-title="BANGLA",SATV
-http://38.96.178.201/live/SATV/index.m3u8
 
 
 
