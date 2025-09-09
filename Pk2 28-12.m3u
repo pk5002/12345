@@ -9,19 +9,6 @@
 
 
 
-/tracks-v1a1/mono.m3u8
-#EXTINF:-1,t sport
-http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,star movies
-http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Gtv
-http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,dicovery
-http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1,sommoy news
-http://stvlive.net:8080/somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1, jalsha movies
-http://stvlive.net:8080/jalshamovies/tracks-v1a1/mono.m3u8
 
 
 
@@ -50,10 +37,8 @@ http://stvlive.net:8080/jalshamovies/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1group-title="BANGLA", sun bangla
-https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8?token=339ca626558a5ebd852832de73413639debb7c9a-d9bec9451c229edd06a58ac8bc337007-1747029237-1747018437
-#EXTINF:-1,HUM TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
+
+
 #EXTINF:-1,group-title="BANGLA"Sony aath  https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 #EXTINF:-1,Sony Yay
@@ -94,86 +79,7 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 
 
-#EXTINF:-1,DD Sports
-http://38.96.178.201/live/DDSports/index.m3u8
 
-#EXTINF:-1,Sony HD
-http://38.96.178.201/live/SonyHD/index.m3u8
-
-#EXTINF:-1,&TV
-http://38.96.178.201/live/AndTV/index.m3u8
-
-#EXTINF:-1,B4U Music
-http://38.96.178.201/live/B4UMusic/index.m3u8
-
-#EXTINF:-1,Star Plus
-http://38.96.178.201/live/StarPlus/index.m3u8
-
-#EXTINF:-1,Star Gold
-http://38.96.178.201/live/StarGold/index.m3u8
-
-#EXTINF:-1,Zing
-http://38.96.178.201/live/Zing/index.m3u8
-
-#EXTINF:-1,Disney
-http://38.96.178.201/live/Disney/index.m3u8
-
-#EXTINF:-1,SONY
-http://38.96.178.201/live/SONY/index.m3u8
-
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://38.96.178.201/live/NickJr/index.m3u8
-#EXTINF:-1group-title="BANGLA",SONY AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
-#EXTINF:-1group-title="BANGLA",TARA TV
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1group-title="BANGLA",SANONDA TV
-https://live.sanonda.tv/sanonda/index.m3u8
-#EXTINF:-1group-title="BANGLA",CHANNEL 24
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1group-title="BANGLA",INDEPENDENT TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1group-title="BANGLA",ATN NEWS
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1group-title="BANGLA",BOISHAKI TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1group-title="BANGLA",DEEPTO TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1group-title="BANGLA",JAMUNA TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701.m3u8
-#EXTINF:-1,7 CHANNEL HD 
-https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1group-title="BANGLA",NTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1group-title="BANGLA",SOMMOY NEWS TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
-#EXTINF:-1group-title="BANGLA",STAR JALSHA
-https://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#EXTINF:-1group-title="BANGLA",BANGLA VISION
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715.m3u8
-
-#EXTINF:-1group-title="BANGLA",MAZIC TV
-https://jolshabd.com/live/mbanglatv/playlist.m3u8
-
-
-#EXTINF:-1,DISNEY JUNIOR
-http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-#EXTINF:-1group-title="BANGLA",Jalsha Movies HD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
-#EXTINF:-1,PITAARA TV
-http://212.102.34.8:9080/Pitaara/index.m3u8
-#EXTINF:-1group-title="BANGLA",Channel i
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1,GOLDMINES BOLLYWOOD 
-http://202.164.50.194:8000/play/a08e/index.m3u8
-#EXTINF:-1,GOLDMINES ACTION 
-http://202.164.50.194:8000/play/a090/index.m3u8
-
-#EXTINF:-1group-title="BANGLA", T SPORTS 
-http://103.122.74.6:8888/hls/tsports.m3u8
 
 #EXTINF:-1group-title="BANGLA",MARTIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
