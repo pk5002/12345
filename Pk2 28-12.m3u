@@ -5,22 +5,26 @@ https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1,ZEE BANGLA
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
-#EXTINF:-1,World_Fashion_TV
-http://84.54.128.52:9090/play/a00a/index.m3u8
-#EXTINF:-1,bTV
-http://84.54.128.52:9090/play/1002/index.m3u8
-#EXTINF:-1,bTV Action
-http://84.54.128.52:9090/play/1004/index.m3u8
-#EXTINF:-1,bTV Action HD
-http://84.54.128.52:9090/play/13004/index.m3u8
-#EXTINF:-1,bTV Cinema
-http://84.54.128.52:9090/play/1006/index.m3u8
-#EXTINF:-1,bTV Comedy
-http://84.54.128.52:9090/play/1005/index.m3u8
-#EXTINF:-1,bTV HD
-http://84.54.128.52:9090/play/13003/index.m3u8
-#EXTINF:-1,bTV Lady
-http://84.54.128.52:9090/play/1007/index.m3u8
+#EXTINF:-1,Amar Bangla*
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+
+#EXTINF:-1,*Amar Digital*
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+
+#EXTINF:-1,*Mon TV Bangla*
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+
+#EXTINF:-1,*Bhakti Bangla*
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+
+#EXTINF:-1,*Salam Bangla*
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
+
+#EXTINF:-1,*Sananda TV*
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+
+#EXTINF:-1,*Digital Fashion*
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
 
 
