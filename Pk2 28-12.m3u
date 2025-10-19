@@ -179,14 +179,22 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑
-
-#EXTINF:-1 tvg-id="0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png" group-title="Samsung max",Fashion TV
-https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8?ads.wurl_channel=902&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:0 tvg-id="Pictures.in" group-title="Movies",BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:0 tvg-id="Pictures.in" group-title="Movies",Maha Movies
-http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/maasranga/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/ntv/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/discovery/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/starplus/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/jalshamovies/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/starjalsha/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/stargold/index.m3u8
+#EXTINF:-1,1
+http://stvlive.net:8080/andpicture/index.m3u8
 
 
 
