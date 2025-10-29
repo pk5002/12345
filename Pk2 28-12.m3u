@@ -20,8 +20,8 @@ http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13586.ts
 #EXTINF:-1,*xxxx
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13584.ts
 
-#EXTINF:-1,sport tv
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?AFDTV
+#EXTINF:-1,National geographic 
+http://179.51.136.19:8000/play/a1bd/index.m3u8
 
 #EXTINF:-1,*Digital Fashion*
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/13590.ts
