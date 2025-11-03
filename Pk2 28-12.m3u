@@ -6,24 +6,11 @@ http://103.182.170.32:8888/play/a03z
 #EXTINF:-1,TARA MUSIC
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 
-
-
 #EXTINF:-1,nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
 
-
-
 #EXTINF:-1,National geographic 
 http://179.51.136.19:8000/play/a1bd/index.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1group-title="BANGLA",MARTIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
@@ -58,7 +45,7 @@ http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 #EXTINF:-1,aynott
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-
+#EXTINF:-1,duronto tv https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 
 
