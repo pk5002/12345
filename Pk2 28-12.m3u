@@ -25,10 +25,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 
 
-#EXTINF:-1,TFC
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1,zee bangla tv
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+
 
 
 
@@ -676,22 +673,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑
-#EXTINF:-1,1
-http://stvlive.net:8080/maasranga/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/ntv/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/discovery/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/starplus/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/jalshamovies/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/starjalsha/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/stargold/index.m3u8
-#EXTINF:-1,1
-http://stvlive.net:8080/channeli/index.m3u8
+#
 
 
 
