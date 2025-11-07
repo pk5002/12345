@@ -2,7 +2,8 @@
 http://103.180.118.5:9981/stream/channelid/789671189
 #EXTINF:-1,Star jalsha
 http://103.182.170.32:8888/play/a03z
-
+#EXTINF:-1,ZEE BANGLA
+http://iptvpro.stream/play/live.php?mac=00:1A:79:78:81:12&stream=1531202&extension=ts&play_token=qOAo8loJKt
 #EXTINF:-1,TARA MUSIC
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 
