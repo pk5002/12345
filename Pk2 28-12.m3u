@@ -6,37 +6,31 @@ http://103.182.170.32:8888/play/a03z
 #EXTINF:-1,TARA MUSIC
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 
-#EXTINF:-1,nicktoons
-http://41.205.93.154/NICKTOONS/index.m3u8
-
 #EXTINF:-1,National geographic 
 http://179.51.136.19:8000/play/a1bd/index.m3u8
 
 #EXTINF:-1group-title="BANGLA",MARTIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
 
-#EXTINF:-1,B4u
+#EXTINF:-1,KADAK
 http://cdn-2.pishow.tv/live/227/master.m3u8
 
-
-
-
-#EXTINF:-1,B4u
+#EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/index.m3u8
 #EXTINF:-1,B4u
 https://cdn-4.pishow.tv/live/233/master.m3u8
-#EXTINF:-1,B4u
+#EXTINF:-1,OSCAR MOVIES
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF:-1,B4u
+#EXTINF:-1,ABZY MOVIES
 https://cdn-3.pishow.tv/live/441/master.m3u8
 
-#EXTINF:-1,B4u
+#EXTINF:-1,PUBLIC MUSIC
 https://cdn-1.pishow.tv/live/1013/master.m3u8
-#EXTINF:-1,B4u
+#EXTINF:-1,MONORANJAN TV
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1,B4u
+#EXTINF:-1,GOLDMINES
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1,B4u
+#EXTINF:-1,B4U 
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
 
