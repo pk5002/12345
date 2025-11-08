@@ -1,4 +1,36 @@
 
+#EXTINF:-1 ,Colors Kannada (1080p)
+http://87.255.35.150:18219
+#EXTINF:-1 ,Colors Kannada Cinema (576p)
+http://87.255.35.150:18940/
+#EXTINF:-1 ,Colors Marathi (1080p)
+http://87.255.35.150:18233/
+#EXTINF:-1 ,Colors Rishtey Asia (576p)
+http://87.255.35.150:18886/
+#EXTINF:-1 ,Colors Super (576p)
+http://87.255.35.150:18445/
+#EXTINF:-1 ,Colors Tamil (1080p)
+http://87.255.35.150:18225/
+#EXTINF:-1 ,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 ,TF1_HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 ,RTL9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 ,Discovery_HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 ,Eurosport_HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Eurosport_2_HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 ,SONY LIV
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 ,SONY LIV2
+https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
+
+
+
 #EXTINF:-1,palyboy
 http://31.148.48.15:80/Playboy_TV/index.m3u8
 #EXTINF:-1,playboy tv
