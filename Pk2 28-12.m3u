@@ -838,75 +838,167 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
 
 
-#EXTINF:-1,Sony BBC Earth HD
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTM3U
+#EXTINF:40,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2402/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20018/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/204/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/127/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/714/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6021/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15117/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6037/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6050/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2409/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/205/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/504/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6011/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6022/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6038/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6051/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/213/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/16062/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14035/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/501/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/713/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6024/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6039/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6053/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/520/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/716/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6027/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6041/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6056/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/112/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/746/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6025/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6040/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6054/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15119/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2417/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/237/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/502/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/717/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6035/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6049/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/506/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6015/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6029/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6043/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2024/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/128/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/747/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6028/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6042/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/113/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6019/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6034/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6048/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/705/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6014/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6026/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19230/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/544/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/739/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6033/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6047/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/103/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/513/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5033/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/508/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6017/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6031/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6045/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5031/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/503/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6018/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6032/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6046/index.m3u8
+#EXTINF:0,RTVi
+#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2086/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/826/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/514/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6016/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=3000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6030/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,SANGEET BHOJPURI
-https://tiger-hub.vercel.app/Sangeet-bhojpuri/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="Entertainment",SET HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="Entertainment",Sony SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
-
-#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="Movies",Sony MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Movies",Sony MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies" group-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png", Sony MAX 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies" group-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png", Sony WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Movies",Sony PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="Infotainment",Sony BBC Earth HD
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports",Sony Sports Ten 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTzjp5hQzAllLUx0A_fJ5ThFLGdt-X7rIPKzw25coi6AUVjo_KyvDQrsb&s=10", Sony Sports Ten 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports", Sony Sports Ten 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="SonyLIV by CRICFy",Sony KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
