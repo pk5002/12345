@@ -37,6 +37,30 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Star Sports 1
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1,Star Sports 1 Hindi
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1,Star Sports 2
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1,Star Sports 2 Hindi
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1,Star Sports 2 Tami
+http://103.182.170.32:8888/play/a02i
+
 #EXTINF:-1 ,Colors Kannada (1080p)
 http://87.255.35.150:18219
 #EXTINF:-1 ,Colors Kannada Cinema (576p)
