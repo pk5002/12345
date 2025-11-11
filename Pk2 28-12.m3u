@@ -24,6 +24,19 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy  📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,Colors Kannada (1080p)
 http://87.255.35.150:18219
 #EXTINF:-1 ,Colors Kannada Cinema (576p)
@@ -38,30 +51,12 @@ http://87.255.35.150:18445/
 http://87.255.35.150:18225/
 #EXTINF:-1 ,Histoire HD
 http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:-1 ,TF1_HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 ,RTL9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:-1 ,Discovery_HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-1 ,Eurosport_HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 ,Eurosport_2_HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1 ,SONY LIV
-https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 ,SONY LIV2
-https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 
 
 
-#EXTINF:-1,palyboy
-http://31.148.48.15:80/Playboy_TV/index.m3u8
-#EXTINF:-1,playboy tv
-http://176.28.64.91:7550/udp/239.10.1.101:5000
-#EXTINF:-1,BRAZZERS
-http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
+
+
+
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title="",Asianet HD
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
@@ -82,24 +77,20 @@ http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/245/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1,Star jalsha
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-#EXTINF:-1,HUM TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1,Star jalsha
-/http://streamer2.nexgen.bz/ZEE/index.m3u8
+
+
 #EXTINF:-1, জি বাংলা সিনেমা
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1,zee biscope
 http://103.180.118.5:9981/stream/channelid/789671189
-#EXTINF:-1,Star jalsha
-http://103.182.170.32:8888/play/a03z
+
 #EXTINF:-1,ZEE BANGLA1
 http://103.182.170.32:8888/play/a048
 #EXTINF:-1,TARA MUSIC
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1,sun bangla
 http://103.182.170.32:8888/play/a01v
-#EXTINF:-1,National geographic 
-http://179.51.136.19:8000/play/a1bd/index.m3u8
+
 
 #EXTINF:-1group-title="BANGLA",MARTIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
