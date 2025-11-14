@@ -24,6 +24,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy  📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1,HALLMARK MOVIES
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1,LIFE TIME MOVIE
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1,LAND TV
