@@ -110,10 +110,7 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8    
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
 http://87.255.35.150:18502/
-#EXTINF:-1, BRAZZERS TV
-http://45.145.32.13:20440/brazzers/index.m3u8?token=test
-#EXTINF:-1,DORCEL TV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/245/index.m3u8
+
 #EXTINF:-1,আল জাজীরা
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1,Star jalsha
