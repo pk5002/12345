@@ -28,8 +28,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
-#EXTINF:-1,HBO
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+#EXTINF:-1,HBO 1
+https://stream1.freetv.fun/hbo-xtreme-4.mHBO 
 #EXTINF:-1,HALLMARK MOVIES
 https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1,LIFE TIME MOVIE
