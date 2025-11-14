@@ -272,28 +272,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f7/Zee_Bangla_Cinema_%282025%29_2D.png/revision/latest?cb=20250521042015",ZEE BANGLA CINEMA HD
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723",COLORS BANGLA CINEMA HD
-https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ddbangla.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png",ZEE TV HD
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280773&extension=m3u8&play_token=rHvXXIcwWf
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/PvZ3RxWc/SONY-MAX-HD.png",SONY MAX HD
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280759&extension=m3u8&play_token=Cq3RPqI8cO
-#EXTINF:-1 group-title="INDIAN",&FLIX HD
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=155990&extension=m3u8&play_token=w3TBgO4nIw
-#EXTINF:-1 group-title="INDIAN",&PICTURES
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280744&extension=m3u8&play_token=kby7anSQIK
-#EXTINF:-1 group-title="INDIAN",&PRIVE
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=155746&extension=m3u8&play_token=WozO5Fu2ey
-#EXTINF:-1 group-title="INDIAN",&TV
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN",&TV HD
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280745&extension=m3u8&play_token=A8kgJnIgsS
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/zW7MbGg6/SONY-SAB-HD.png",SONY SAB HD
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=280764&extension=m3u8&play_token=2Sb2bE1Psd
-#EXTINF:-1 group-title="MUSIC",ZING
-http://iptvpro.stream:80/play/live.php?mac=00:1A:79:78:81:12&stream=156046&extension=m3u8&play_token=5TGlMe9Nep
+
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/zoom.png",ZOOM
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819",SANGEET BANGLA HD
