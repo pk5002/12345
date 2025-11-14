@@ -26,8 +26,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
-
-
+#EXTINF:-1,QUANJI
+https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
 #EXTINF:-1,HBO2
 http://143.244.60.30/HBO_FAMILY/index.m3u8 
 #EXTINF:-1,HALLMARK MOVIES
