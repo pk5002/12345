@@ -36,27 +36,19 @@ https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1,LAND TV
 http://143.244.60.30/TV_LAND/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,star gold
 http://103.182.170.32:8888/play/a02j
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,star gold 2 
 http://103.182.170.32:8888/play/a01z
-#EXTINF:-1,Sports Ten 3 
-http://103.182.170.32:8888/play/a03a
 #EXTINF:-1,SONY Sports Ten 2
 http://103.182.170.32:8888/play/a026
 #EXTINF:-1,Disney International HD
@@ -98,9 +90,9 @@ http://151.80.18.177:86/Histoire/index.m3u8
 
 
 
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title="",Asianet HD
+#EXTINF:-1,Asianet HD
 http://217.20.112.199/asianet/index.m3u8
-#EXTINF:-1,tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
+#EXTINF:-1,Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title="",Asianet HD
 http://217.20.112.199/asianet/index.m3u8
@@ -122,7 +114,7 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1,zee biscope
 http://103.180.118.5:9981/stream/channelid/789671189
 
-#EXTINF:-1,ZEE BANGLA1
+#EXTINF:-1,ZEE BANGLA
 http://103.182.170.32:8888/play/a048
 #EXTINF:-1,TARA MUSIC
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
