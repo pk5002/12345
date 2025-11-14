@@ -28,8 +28,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
-#EXTINF:-1,FX
-http://so.zuiai.tv/link/?ch=https%3A%2F%2Ffl3.moveonjoy.com%2FFX%2Findex.m3u8
+#EXTINF:-1,HBO
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 #EXTINF:-1,HALLMARK MOVIES
 https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1,LIFE TIME MOVIE
