@@ -36,8 +36,8 @@ https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1,LAND TV
 http://143.244.60.30/TV_LAND/index.m3u8
-
-
+#EXTINF:-1,&TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 
 
