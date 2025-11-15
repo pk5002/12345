@@ -25,18 +25,37 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy  📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
+
+
+
+
+
+
+
+
+
+⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽
 #EXTINF:-1,ESPN
 http://wroxfibra.com/live/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598914.ts
 #EXTINF:-1,QUANJI
 https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
-#EXTINF:-1,HBO2
+
+#EXTINF:-1,HBO SIGNATURE
+http://wroxfibra.com/live/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94387.ts
+#EXTINF:-1,HBO FAMILY 
 http://143.244.60.30/HBO_FAMILY/index.m3u8 
 #EXTINF:-1,HALLMARK MOVIES
 https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1,LIFE TIME MOVIE
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1,LAND TV
-http://143.244.60.30/TV_LAND/index.m3u8
+http://143.244.60.30/TV_LAND/index.m3u
+
+
+
+
+🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾
+👠👠👠👠👠👠👠👠👠👠👠👠
 #EXTINF:-1,&TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
