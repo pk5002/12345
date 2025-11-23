@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1,A SPORTS
-http://97.74.103.44:8888/load/asports/chunks.m3u8?nimblesessionid=320992419
+#EXTINF:-1,MN+
+http://redforce.live:8082/MN.PLUS.HD/tracks-v1a1/mono.m3u8?token=3597440c89d8267390a57f3f0182b41aef824508-d199929dfe56fe45797ee88011122d86-1748555084-1748544284
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision 📺 (AKASH GO)
