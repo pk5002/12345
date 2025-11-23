@@ -233,7 +233,6 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1,,PUBLIC MUSIC
 https://cdn-3.pishow.tv/live/441/master.m3u8
-
 #EXTINF:-1,MONORANJAN TV
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1,GOLDMINES
@@ -242,15 +241,12 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1,ZOOM
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
-
-
 #EXTINF:-1,9XM
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 #EXTINF:-1,B4U MUSIC
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1,SONY SAB
 http://103.182.170.32:8888/play/a03r
-
 #EXTINF:-1,BHOJPURI
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1, STUDIO ONE
@@ -284,8 +280,7 @@ http://45.148.145.57/IN_DiscoveryKids/index.m3u8
 #EXTINF:-1,B4U KADAK https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
 👜👜👜👜👜👜👜👜👠👠👠👠👠👠👠👠👠👠
-#EXTINF:-1,RECEITAS FAST BR
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+
 
 🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲🩲
 
@@ -304,8 +299,7 @@ https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg014
 
 #EXTINF:-1,group-title="MBC",FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
-#EXTINF:-1,cineplex
-https://cdn-2.pishow.tv/live/1241/master.m3u8
+
 
 
 
@@ -968,173 +962,6 @@ http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Fashion",Fashion TV Paris
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:40,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2402/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20018/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/204/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/127/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/714/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6021/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15117/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6037/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6050/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2409/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/205/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/504/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6011/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6022/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6038/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6051/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/213/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/16062/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/14035/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/501/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/713/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6024/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6039/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6053/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/520/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/716/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6027/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6041/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6056/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/112/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/746/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6025/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6040/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6054/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/15119/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2417/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/237/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/502/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/717/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6035/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6049/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/506/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6015/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6029/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6043/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2024/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/128/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/747/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6028/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6042/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/113/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6019/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6034/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6048/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/705/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6014/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6026/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19230/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/544/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/739/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6033/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6047/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/103/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/513/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5033/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/508/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6017/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6031/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6045/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5031/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/503/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6018/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6032/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6046/index.m3u8
-#EXTINF:0,RTVi
-#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2086/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/826/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/514/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6016/index.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6030/index.m3u8
 
 
 
