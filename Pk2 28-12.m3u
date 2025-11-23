@@ -2,6 +2,15 @@
 
 
 
+
+#EXTINF:-1,MOVIES NOW
+http://redforce.live:8082/MOVIES.NOW.HD/tracks-v1a1/2025/05/29/18/57/44-06000.ts?token=cff87fa5d52925a628818d0b4a75a575b35683d9-c96d51075f988634a681f8fe97927c9e-1748555558-1748544758
+#EXTINF:-1,ZEE CAFE
+http://redforce.live:8082/ZEE.CAFE.HD/tracks-v1a1/2025/05/29/18/57/20-06000.ts?token=c6c9994d0256220c405a7e79d9180800fc917e19-6b2ed9cf6dc7a1fa9daa5fdc4d4d7653-1748555517-1748544717
+#EXTINF:-1, LOTUS TV
+http://redforce.live:8082/Lotus.TV.HD/tracks-v1a1/mono.m3u8?token=fcc2c454a22e937649350c1108e29cf15ea27e5a-ed453e276d22b85183afd145c977d7ba-1748555483-1748544683
+#EXTINF:-1,MNX HD
+http://redforce.live:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=dba3158aef0e22c49e43d5e188523c37ebf8e936-e9d34fb84ac26ce1df9aa2654ae8d45f-1748555266-1748544466
 #EXTINF:-1,MN+
 http://redforce.live:8082/MN.PLUS.HD/tracks-v1a1/mono.m3u8?token=3597440c89d8267390a57f3f0182b41aef824508-d199929dfe56fe45797ee88011122d86-1748555084-1748544284
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
