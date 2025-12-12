@@ -40,12 +40,12 @@ http://103.182.170.32:8888/play/a01v
 
 #EXTINF:-1,SONIC KID  
 http://103.182.170.32:8888/play/a02s
+#EXTINF:-1,DISNEY JUNIOR
+http://103.182.170.32:8888/play/a03q
 #EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a03n/index.m3u8
+http://103.182.170.32:8888/play/a03p
 #EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a07f/index.m3u8
-#EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a07m/index.m3u8
+http://103.182.170.32:8888/play/a039
 #EXTINF:-1,ARY DIGITA
 http://181.78.4.250:8098/play/a08p/index.m3u8
 #EXTINF:-1,ARY DIGITA
@@ -55,7 +55,7 @@ http://181.78.4.250:8098/play/a03g/index.m3u8
 #EXTINF:-1,ARY DIGITA
 http://181.78.4.250:8098/play/a06l/index.m3u8
 #EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a08m/index.m3u8
+http://103.182.170.32:8888/play/a04m
 ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽
 
 #EXTINF:-1,ZEE BANGLA
