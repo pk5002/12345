@@ -40,8 +40,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1,ARY DIGITAL 
 http://97.74.103.44:8089/amrbd/SONY-PIX/l_11126358_7248742_791.ts?nimblesessionid=367966134
-
-
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a07f/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a07m/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a08p/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a07o/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a03g/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a06l/index.m3u8
+#EXTINF:-1,ARY DIGITA
+http://181.78.4.250:8098/play/a08m/index.m3u8
 ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽
 
 #EXTINF:-1,ZEE BANGLA
