@@ -45,17 +45,10 @@ http://103.182.170.32:8888/play/a03q
 
 🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾
 👠👠👠👠👠👠👠👠👠👠👠👠
-#EXTINF:-1,&TV
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,star gold
-http://103.182.170.32:8888/play/a02j
+#EXTINF:-1,STAR MOVIES
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://103.182.170.32:8888/play/a028
 #EXTINF:-1,star gold 2 
 http://103.182.170.32:8888/play/a01z
 #EXTINF:-1,SONY Sports Ten 2
