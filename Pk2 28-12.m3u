@@ -41,24 +41,7 @@ https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 http://103.182.170.32:8888/play/a02s
 #EXTINF:-1,DISNEY JUNIOR
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1,ARY DIGITA
-http://103.182.170.32:8888/play/a03p
-#EXTINF:-1,ARY DIGITA
-http://103.182.170.32:8888/play/a039
-#EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a08p/index.m3u8
-#EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a07o/index.m3u8
-#EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a03g/index.m3u8
-#EXTINF:-1,ARY DIGITA
-http://181.78.4.250:8098/play/a06l/index.m3u8
-#EXTINF:-1,ARY DIGITA
-http://103.182.170.32:8888/play/a04m
-⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽
 
-#EXTINF:-1,ZEE BANGLA
-http://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾
 👠👠👠👠👠👠👠👠👠👠👠👠
@@ -134,11 +117,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1,Star jalsha
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
-
-#EXTINF:-1, জি বাংলা সিনেমা
-http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
-#EXTINF:-1,zee biscope
-http://103.180.118.5:9981/stream/channelid/789671189
 
 #EXTINF:-1,ZEE BANGLA
 http://103.182.170.32:8888/play/a048
@@ -440,23 +418,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-aapkiadalat-m
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png",NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="News",TV9 Telegu
-https://amg01106-tv9-amg01106c5-xiaomi-in-1184.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9telugu-xiaomiin/playlist.m3u8
-#EXTINF:-1 group-title="News",ABP Ganga
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpganga-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="News",ABP Asmita
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpasmita-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="News",ABP Sanjha
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpsanjha-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="News",ABP Majha
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpmajha-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Others Countries Channel" tvg-logo="https://i.imgur.com/1PbtW0y.png",Dunya News
-https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 group-title="Others Countries Channel" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg",Lahore News
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 ,#https://starshare.live/live/bana/bana/219.m3u8
+
+#EXTINF:-1 ,live
+https://starshare.live/live/bana/bana/219.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColorHd.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Utshab
 http://116.90.120.149:8000/play/a02t/index.m3u8
@@ -572,12 +536,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Horse & Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/zhpfnXry/Ananda-TV.jpg",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/F41Zgxyr/ATN-Bangla.jpg",ATN Bangla
@@ -656,16 +615,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/de456a2b-b6f5-4afe-a222-5d2d6e885526/0.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rEhhYpe.png",Baraza Music TV
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rEhhYpe.png",Baraza Music TV
-https://eco.streams.ovh:8081/barazatv/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",Music TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",30A Music
-https://30a-tv.com/music.m3u8
+#
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
