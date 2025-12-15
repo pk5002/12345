@@ -27,8 +27,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1,"ZEE.1 BHARAT  📺 (AKASH GO)
 http://87.255.35.150:18878/
-
-
+#EXTINF:-1, GENEMI TV
+http://87.255.35.150:18814/
 
 
 
