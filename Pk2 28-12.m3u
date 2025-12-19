@@ -58,6 +58,25 @@ https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Иран 🇮🇷",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
 
+#EXTINF:-1 group-title="-",49-FMH FAMILY
+http://190.60.42.86:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",50-FMH ATLAS
+http://190.60.42.86:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH ANIMOTIONS SRT TVC
+http://181.118.156.46:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH ATLAS SRT TVC
+http://181.118.156.46:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH FAMILY SRT TVC
+http://181.118.156.46:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH KIDS SRT TVC
+http://181.118.156.46:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH KIZZY SRT TVC
+http://181.118.156.46:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH MOVIES SRT TVC
+http://181.118.156.46:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-",0. FMH REWIND SRT TVC
+http://181.118.156.46:8000/play/a00v/index.m3u8
+
 
 
 
