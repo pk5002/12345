@@ -25,14 +25,38 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1,MN+  📺 (AKASH GO)
-http://161.123.116.21:8080/live/Clarence/Clarence1/1708031.ts
-#EXTINF:-1,INFINITY  
-http://161.123.116.21:8080/live/Clarence/Clarence1/1526952.ts
-#EXTINF:-1,STAR MOVIES SELECT
-http://161.123.116.21:8080/live/Clarence/Clarence1/1708033.ts
-#EXTINF:-1,STAR UTSHOB
-http://161.123.116.21:8080/live/Clarence/Clarence1/95732.ts
+#EXTINF:-1 group-title="Иран 🇮🇷",Parnian TV
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Comedy
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana 4Kurd HD
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
 
 
 
