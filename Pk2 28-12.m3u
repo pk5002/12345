@@ -61,19 +61,19 @@ https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1,ETV HD
 http://45.148.145.57/IN_GE10/index.m3u8
 #EXTINF:-1,PINK EROTIC 2
-http://66.102.120.18:8000/play/a00c/index.m3u8
+http://66.102.120.18:8000/play/a00h/index.m3u8
 #EXTINF:-1,PINK EROTIC 3
 http://66.102.120.18:8000/play/a00g/index.m3u8
 #EXTINF:-1,PINK EROTIC 4
 http://66.102.120.18:8000/play/a00c/index.m3u8
 #EXTINF:-1,PINK EROTIC 5
-https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8
-#EXTINF:-1,PINK EROTIC 6
-https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
-#EXTINF:-1,PINK EROTIC 7
-https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
-#EXTINF:-1,PINK EROTIC 8
-https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
+http://66.102.120.18:8000/play/a00r/index.m3u8
+#EXTINF:-1,ID HD
+http://66.102.120.18:8000/play/a01h/index.m3u8
+#EXTINF:-1,Turbo
+http://66.102.120.18:8000/play/a016/index.m3u8
+#EXTINF:-1,Cinema anmol
+http://66.102.120.18:8000/play/a01v/index.m3u8
 
 
 
