@@ -1,5 +1,6 @@
 
-
+#EXTINF:-1,tv
+http://66.102.120.18:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
