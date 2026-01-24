@@ -6,6 +6,12 @@ http://88b9da48.kazmazpaz.ru/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/244/manifest.m3u8
 
 #EXTINF:-1,PORN TV2 http://88b9da48.kazmazpaz.ru/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9346/manifest.m3u8
 
+#EXTINF:-1,PORN TV1 http://88b9da48.kazmazpaz.ru/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/245/manifest.m3u8
+
+#EXTINF:-1,tvg
+http://88b9da48.kazmazpaz.ru/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/244/manifest.m3u8
+
+#EXTINF:-1,PORN TV2 http://88b9da48.kazmazpaz.ru/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9346/manifest.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg" group-title="ZEE5 Live",Zee TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1767703635~acl=%2f*~id=71708bef-9010-4401-bf07-6374530f1848~data=hdntl~hmac=55e4ea12e4cb596abd5e1fa5823c760eeb651edc3ed28d33a62e72fe94ddc56e
