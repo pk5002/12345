@@ -34,8 +34,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1,PTC MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=cr_1zfCL21S
-#EXTINF:-1 group-title="Иран 🇮🇷",Persiana One
-https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,ETV PLUS HD
+https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 group-title="Иран 🇮🇷",Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Иран 🇮🇷",Persiana Comedy
