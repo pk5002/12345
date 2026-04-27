@@ -23,3 +23,29 @@ https://mumt03.tangotv.in/GOLDMINESACTION/index.m3u8
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-logo="",Goldmines Movies
 https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="703" tvg-id="49" tvg-name="SONY BBC EARTH HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_194_1729084654_thumb.png" group-title="Infotainment",SONY BBC EARTH HD
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
+#EXTINF:-1 tvg-chno="704" tvg-id="303066" tvg-name="ENGLISH CLUB" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_195_1729069385_thumb.png" group-title="Infotainment",ENGLISH CLUB
+http://maxotts.maxdigitaltv.com/x-media/C278/master.m3u8
+#EXTINF:-1 tvg-chno="705" tvg-id="56" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_196_1729084084_thumb.png" group-title="Infotainment",ANIMAL PLANET HD
+http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
+#EXTINF:-1 tvg-chno="707" tvg-id="20047" tvg-name="HISTORY TV" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_197_1729084112_thumb.png" group-title="Infotainment",HISTORY TV
+http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-id="77" tvg-name="TLC WORLD HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_198_1729084136_thumb.png" group-title="Infotainment",TLC WORLD HD
+http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-id="20302" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_199_1729084156_thumb.png" group-title="Infotainment",DISCOVERY WORLD HD
+http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-id="15006" tvg-name="RT DOCUMENTARY" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C92-1758617377.png" group-title="Infotainment",RT DOCUMENTARY
+http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-id="20304" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_200_1729084188_thumb.png" group-title="Infotainment",DISCOVERY SCIENCE
+http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
+#EXTINF:-1 tvg-chno="712" tvg-id="69" tvg-name="DISCOVERY TURBO" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_201_1729084410_thumb.png" group-title="Infotainment",DISCOVERY TURBO
+http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
+#EXTINF:-1 tvg-chno="713" tvg-id="20293" tvg-name="FOOD FOOD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_201_1738683090_thumb.png" group-title="Infotainment",FOOD FOOD
+http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-id="6" tvg-name="FTV HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_203_1729084456_thumb.png" group-title="Infotainment",FTV HD
+http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
+#EXTINF:-1 tvg-chno="715" tvg-id="303067" tvg-name="TRAVEL XP" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C279-1773135232.png" group-title="Infotainment",TRAVEL XP
+http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
