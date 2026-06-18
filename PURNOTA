@@ -24,9 +24,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 group-title="EKTV",Channel 175
-http://103.175.73.12:8080/live/175/175_0.ts
+http://103.175.73.12:8080/live/175/175_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 174
-http://103.175.73.12:8080/live/174/174_0.ts
+http://103.175.73.12:8080/live/174/174_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 176
 http://103.175.73.12:8080/live/176/176_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 177
