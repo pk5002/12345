@@ -22,50 +22,46 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1,HISTORY HD
-https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/History_HD_NW18_MOB-video=2297600.m3u8
-
-
-#EXTINF:-1 tvg-logo="",Food Food
-https://mumt03.tangotv.in/FOODFOOD/index.m3u8
-#EXTINF:-1 tvg-logo="",PTC Music
-https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="",PTC News
-https://mumt02.tangotv.in/PTCNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="",PTC Punjabi
-https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
-#EXTINF:-1 tvg-logo="",PTC Punjabi Gold
-https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
-#EXTINF:-1 tvg-logo="",Goldmines
-https://mumt04.tangotv.in/GOLDMINES/index.m3u8
-#EXTINF:-1 tvg-logo="",Goldmines 2
-https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
-#EXTINF:-1 tvg-logo="",Goldmines Action
-https://mumt03.tangotv.in/GOLDMINESACTION/index.m3u8
-#EXTINF:-1 tvg-logo="",Goldmines Bollywood
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-logo="",Goldmines Movies
-https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="703" tvg-id="49" tvg-name="SONY BBC EARTH HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_194_1729084654_thumb.png" group-title="Infotainment",SONY BBC EARTH HD
-http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
-#EXTINF:-1 tvg-chno="704" tvg-id="303066" tvg-name="ENGLISH CLUB" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_195_1729069385_thumb.png" group-title="Infotainment",ENGLISH CLUB
-http://maxotts.maxdigitaltv.com/x-media/C278/master.m3u8
-#EXTINF:-1 tvg-chno="705" tvg-id="56" tvg-name="ANIMAL PLANET HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_196_1729084084_thumb.png" group-title="Infotainment",ANIMAL PLANET HD
-http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
-#EXTINF:-1 tvg-chno="707" tvg-id="20047" tvg-name="HISTORY TV" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_197_1729084112_thumb.png" group-title="Infotainment",HISTORY TV
-http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
-#EXTINF:-1 tvg-chno="708" tvg-id="77" tvg-name="TLC WORLD HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_198_1729084136_thumb.png" group-title="Infotainment",TLC WORLD HD
-http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
-#EXTINF:-1 tvg-chno="709" tvg-id="20302" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_199_1729084156_thumb.png" group-title="Infotainment",DISCOVERY WORLD HD
-http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
-#EXTINF:-1 tvg-chno="710" tvg-id="15006" tvg-name="RT DOCUMENTARY" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C92-1758617377.png" group-title="Infotainment",RT DOCUMENTARY
-http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
-#EXTINF:-1 tvg-chno="711" tvg-id="20304" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_200_1729084188_thumb.png" group-title="Infotainment",DISCOVERY SCIENCE
-http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
-#EXTINF:-1 tvg-chno="712" tvg-id="69" tvg-name="DISCOVERY TURBO" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_201_1729084410_thumb.png" group-title="Infotainment",DISCOVERY TURBO
-http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
+EXTINF:-1 group-title="EKTV",Channel 15
+http://103.175.73.12:8080/live/15/15_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 13
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 17
+http://103.175.73.12:8080/live/17/17_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 18
+http://103.175.73.12:8080/live/18/18_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 19
+http://103.175.73.12:8080/live/19/19_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 20
+http://103.175.73.12:8080/live/20/20_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 21
+http://103.175.73.12:8080/live/21/21_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 23
+http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 22
+http://103.175.73.12:8080/live/22/22_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 25
+http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 29
+http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 44
+http://103.175.73.12:8080/live/44/44_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 43
+http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 48
+http://103.175.73.12:8080/live/48/48_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 46
+http://103.175.73.12:8080/live/46/46_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 47
+http://103.175.73.12:8080/live/47/47_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 51
+http://103.175.73.12:8080/live/51/51_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 52
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 53
+http://103.175.73.12:8080/live/53/53_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 54
+http://103.175.73.12:8080/live/54/54_0.m3u8
 #EXTINF:-1 tvg-chno="713" tvg-id="20293" tvg-name="FOOD FOOD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_201_1738683090_thumb.png" group-title="Infotainment",FOOD FOOD
 http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
 #EXTINF:-1 tvg-chno="714" tvg-id="6" tvg-name="FTV HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_203_1729084456_thumb.png" group-title="Infotainment",FTV HD
