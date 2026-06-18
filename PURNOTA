@@ -24,7 +24,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 EXTINF:-1 group-title="EKTV",Channel 15
 http://103.175.73.12:8080/live/15/15_0.m3u8
-#EXTINF:-1 group-title="EKTV",Channel 13
+#EXTINF:-1group-title="EKTV",Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 17
 http://103.175.73.12:8080/live/17/17_0.m3u8
