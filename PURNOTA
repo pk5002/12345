@@ -22,7 +22,40 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-EXTINF:-1 group-title="EKTV",Channel 15
+
+#EXTINF:-1 group-title="EKTV",Channel 175
+http://103.175.73.12:8080/live/175/175_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 174
+http://103.175.73.12:8080/live/174/174_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 176
+http://103.175.73.12:8080/live/176/176_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 177
+http://103.175.73.12:8080/live/177/177_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 178
+http://103.175.73.12:8080/live/178/178_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 179
+http://103.175.73.12:8080/live/179/179_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 180
+http://103.175.73.12:8080/live/180/180_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 158
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 155
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 160
+http://103.175.73.12:8080/live/160/160_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 157
+http://103.175.73.12:8080/live/157/157_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 159
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 161
+http://103.175.73.12:8080/live/161/161_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 151
+http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 116
+http://103.175.73.12:8080/live/116/116_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 143
+http://103.175.73.12:8080/live/143/143_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 15
 http://103.175.73.12:8080/live/15/15_0.m3u8
 #EXTINF:-1group-title="EKTV",Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
@@ -62,6 +95,18 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 54
 http://103.175.73.12:8080/live/54/54_0.m3u8
+
+
+#EXTINF:-1 group-title="EKTV",Channel 181
+http://103.175.73.12:8080/live/181/181_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 189
+http://103.175.73.12:8080/live/189/189_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 190
+http://103.175.73.12:8080/live/190/190_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 188
+http://103.175.73.12:8080/live/188/188_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 187
+http://103.175.73.12:8080/live/187/187_0.m3u8
 #EXTINF:-1 tvg-chno="713" tvg-id="20293" tvg-name="FOOD FOOD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_201_1738683090_thumb.png" group-title="Infotainment",FOOD FOOD
 http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
 #EXTINF:-1 tvg-chno="714" tvg-id="6" tvg-name="FTV HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_203_1729084456_thumb.png" group-title="Infotainment",FTV HD
