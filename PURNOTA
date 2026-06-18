@@ -23,10 +23,49 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 group-title="EKTV",Channel 175
+#EXTINF:-1 group-title="EKTV",Channel 379
+http://103.175.73.12:8080/live/379/379_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 378
+http://103.175.73.12:8080/live/378/378_0.m3u8#EXTINF:-1 group-title="EKTV",Channel 175
 http://103.175.73.12:8080/live/175/175_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 174
 http://103.175.73.12:8080/live/174/174_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 417
+http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 469
+http://103.175.73.12:8080/live/469/469_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 471
+http://103.175.73.12:8080/live/471/471_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 610
+http://103.175.73.12:8080/live/610/610_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 639
+http://103.175.73.12:8080/live/639/639_0.m3u8
+EXTINF:-1 group-title="EKTV",Channel 664
+http://103.175.73.12:8080/live/664/664_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 709
+http://103.175.73.12:8080/live/709/709_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 712
+http://103.175.73.12:8080/live/712/712_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 711
+http://103.175.73.12:8080/live/711/711_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 713
+http://103.175.73.12:8080/live/713/713_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 665
+http://103.175.73.12:8080/live/665/665_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 663
+http://103.175.73.12:8080/live/663/663_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 658
+http://103.175.73.12:8080/live/658/658_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 662
+http://103.175.73.12:8080/live/662/662_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 646
+http://103.175.73.12:8080/live/646/646_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 640
+http://103.175.73.12:8080/live/640/640_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 467
+http://103.175.73.12:8080/live/467/467_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 416
+http://103.175.73.12:8080/live/416/416_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 176
 http://103.175.73.12:8080/live/176/176_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 177
