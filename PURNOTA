@@ -97,6 +97,22 @@ http://103.175.73.12:8080/live/53/53_0.m3u8
 http://103.175.73.12:8080/live/54/54_0.m3u8
 
 
+#EXTINF:-1 group-title="EKTV",Channel 345
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 347
+http://103.175.73.12:8080/live/347/347_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 349
+http://103.175.73.12:8080/live/349/349_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 353
+http://103.175.73.12:8080/live/353/353_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 351
+http://103.175.73.12:8080/live/351/351_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 352
+http://103.175.73.12:8080/live/352/352_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 354
+http://103.175.73.12:8080/live/354/354_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 365
+http://103.175.73.12:8080/live/365/365_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 181
 http://103.175.73.12:8080/live/181/181_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 189
@@ -107,15 +123,38 @@ http://103.175.73.12:8080/live/190/190_0.m3u8
 http://103.175.73.12:8080/live/188/188_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 187
 http://103.175.73.12:8080/live/187/187_0.m3u8
-#EXTINF:-1 tvg-chno="713" tvg-id="20293" tvg-name="FOOD FOOD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_201_1738683090_thumb.png" group-title="Infotainment",FOOD FOOD
-http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
-#EXTINF:-1 tvg-chno="714" tvg-id="6" tvg-name="FTV HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_203_1729084456_thumb.png" group-title="Infotainment",FTV HD
-http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
-#EXTINF:-1 tvg-chno="715" tvg-id="303067" tvg-name="TRAVEL XP" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C279-1773135232.png" group-title="Infotainment",TRAVEL XP
-http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 213
+http://103.175.73.12:8080/live/213/213_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 223
+http://103.175.73.12:8080/live/223/223_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 228
+http://103.175.73.12:8080/live/228/228_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 239
+http://103.175.73.12:8080/live/239/239_0.m3u8
 
+#EXTINF:-1 group-title="EKTV",Channel 240
+http://103.175.73.12:8080/live/240/240_0.m3u8
 
-
+#EXTINF:-1 group-title="EKTV",Channel 270
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 271
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 274
+http://103.175.73.12:8080/live/274/274_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 280
+http://103.175.73.12:8080/live/280/280_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 245
+http://103.175.73.12:8080/live/245/245_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 247
+http://103.175.73.12:8080/live/247/247_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 248
+http://103.175.73.12:8080/live/248/248_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 256
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 258
+http://103.175.73.12:8080/live/258/258_0.m3u8
+#EXTINF:-1 group-title="EKTV",Channel 257
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1,Penthouse Passion
 https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
 #EXTINF:-1,Extasy TV
