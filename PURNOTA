@@ -275,13 +275,16 @@ http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1,PENTHOUSE REALITY
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1,PLAYBOY TV
-http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+http://31.148.48.15:80/Playboy_TV/mlive.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1,HOYTV
+https://cdn.qd.je/163189.php?id=hoy
+#EXTINF:-1,HOY TV,https://cdn.qd.je/163189.php?id=hoy2
+#EXTINF:-1,HOYTV
+https://cdn.qd.je/163189.php?id=hoy78
+#EXTINF:-1,HOYTVHOY国际财经台
+https://cdn.qd.je/163189.php?id=hoy76
+#EXTINF:-1,Sony Sports 3u
 
-#EXTINF:-1,Sony Sports 1
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1,Sony Sports 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
-#EXTINF:-1,Sony Sports 3
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_3_hd&e=.m3u8
 #EXTINF:-1,Sony Sports 4
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_4_hd&e=.m3u8
