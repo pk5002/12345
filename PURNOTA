@@ -23,6 +23,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
+
+
+#EXTINF:-1,NOW Sports 616 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
+#EXTINF:-1,NOW Sports 617 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
+#EXTINF:-1,NOW Sports 618,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
+#EXTINF:-1,NOW Sports 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
+
+
+
+
 #EXTINF:-1 group-title="EKTV",Channel 379
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 378
