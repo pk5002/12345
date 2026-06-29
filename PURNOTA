@@ -25,10 +25,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 
 
-#EXTINF:-1,NOW Sports 616 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
-#EXTINF:-1,NOW Sports 617 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
-#EXTINF:-1,NOW Sports 618,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
-#EXTINF:-1,NOW Sports 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
+#EXTINF:-1,NOW Sports 616 4K
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
+#EXTINF:-1,NOW Sports 617 4K,
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
+#EXTINF:-1,NOW Sports 618,
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
+#EXTINF:-1,NOW Sports 619,
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 
 
 
