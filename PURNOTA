@@ -23,20 +23,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV 📺 (AKASH GO)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-
-
-#EXTINF:-1,NOW Sports 616 4K
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
-#EXTINF:-1,NOW Sports 617 4K,
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
-#EXTINF:-1,NOW Sports 618,
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
-#EXTINF:-1,NOW Sports 619,
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
-
-
-
-
 #EXTINF:-1 group-title="EKTV",Channel 379
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 378
@@ -208,60 +194,6 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 http://103.175.73.12:8080/live/258/258_0.m3u8
 #EXTINF:-1 group-title="EKTV",Channel 257
 http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:-1,Penthouse Passion
-https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
-#EXTINF:-1,Extasy TV
-https://streams.alwaysdata.net/x?ch=extasy.m3u8
-#EXTINF:-1,XXL
-https://streams.alwaysdata.net/x?ch=xxl.m3u8
-#EXTINF:-1,Dorcel
-https://streams.alwaysdata.net/x?ch=dorcel.m3u8
-#EXTINF:-1,Eroxxx
-https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
-#EXTINF:-1,Nuart
-https://streams.alwaysdata.net/x?ch=nuart.m3u8
-#EXTINF:-1,Playboy TV
-https://streams.alwaysdata.net/x?ch=playboy.m3u8
-#EXTINF:-1,Babes TV
-https://streams.alwaysdata.net/x?ch=babes.m3u8
-#EXTINF:-1,Hustler TV
-https://streams.alwaysdata.net/x?ch=hustlertv.m3u8
-*#EXTINF:-1,Private TV
-https://streams.alwaysdata.net/x?ch=private.m3u8
-Redlight HD
-https://streams.alwaysdata.net/x?ch=redlight.m3u8
-#EXTINF:-1,Super One HD
-https://streams.alwaysdata.net/x?ch=superone.m3u8
-#EXTINF:-1,HOT
-https://streams.alwaysdata.net/x?ch=oxax.m3u8
-#EXTINF:-1,Vivid Red
-https://streams.alwaysdata.net/x?ch=vivid.m3u8
-#EXTINF:-1,Brazzers TV Europe
-https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
-#EXTINF:-1,Hustler TV
-https://streams.alwaysdata.net/x?ch=hustlertv.m3u8
-#EXTINF:-1,Hustler HD
-https://streams.alwaysdata.net/x?ch=hustlerhd.m3u8
-#EXTINF:-1,CentoxCento
-https://streams.alwaysdata.net/x?ch=centoxcento.m3u8
-#EXTINF:-1,Pinko tv
-https://streams.alwaysdata.net/x?ch=pinko.m3u8
-#EXTINF:-1,Pink Erotic 1
-https://streams.alwaysdata.net/x?ch=pinkerotic1.m3u8
-#EXTINF:-1,Pink Erotic 2
-https://streams.alwaysdata.net/x?ch=pinkerotic2.m3u8
-#EXTINF:-1,Pink Erotic 3
-https://streams.alwaysdata.net/x?ch=pinkerotic3.m3u8
-#EXTINF:-1,Pink Erotic 4
-https://streams.alwaysdata.net/x?ch=pinkerotic4.m3u8
-#EXTINF:-1,Pink Erotic 5
-https://streams.alwaysdata.net/x?ch=pinkerotic5.m3u8
-#EXTINF:-1,Pink Erotic 6
-https://streams.alwaysdata.net/x?ch=pinkerotic6.m3u8
-#EXTINF:-1,Pink Erotic 7
-https://streams.alwaysdata.net/x?ch=pinkerotic7.m3u8
-#EXTINF:-1,Pink Erotic 8
-https://streams.alwaysdata.net/x?ch=pinkerotic8.m3u8
 
 
 #EXTINF:-1,PINK ROMANCE
@@ -282,30 +214,7 @@ http://143.244.63.87:80/pinkmusic/playlist.m3u8
 http://143.244.63.87/pinkfilm/playlist.m3u8
 #EXTINF:-1,PINK EXTRA
 http://143.244.63.87/pinkextra/playlist.m3u8
-#EXTINF:-1,EROXXX
-http://143.244.63.87/eroxxx/playlist.m3u8
-#EXTINF:-1,PENTHOUSE GOLD
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1,PENTHOUSE REALITY
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-#EXTINF:-1,PLAYBOY TV
-http://31.148.48.15:80/Playboy_TV/mlive.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1,HOYTV
-https://cdn.qd.je/163189.php?id=hoy
-#EXTINF:-1,HOY TV,https://cdn.qd.je/163189.php?id=hoy2
-#EXTINF:-1,HOYTV
-https://cdn.qd.je/163189.php?id=hoy78
-#EXTINF:-1,HOYTVHOY国际财经台
-https://cdn.qd.je/163189.php?id=hoy76
-#EXTINF:-1,Sony Sports 3u
 
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_3_hd&e=.m3u8
-#EXTINF:-1,Sony Sports 4
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_4_hd&e=.m3u8
-#EXTINF:-1,Sony Sports 5
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
-#EXTINF:-1,Ten Cricket
-https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 #EXTINF:-1,Arabica tv
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
